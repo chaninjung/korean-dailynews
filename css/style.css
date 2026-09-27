@@ -53,6 +53,20 @@ body {
   flex-wrap: nowrap;
 }
 
+.brand-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.brand-banner {
+  height: 38px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
 .brand-wrapper {
   display: flex;
   align-items: center;
@@ -740,6 +754,10 @@ footer {
   .top-brand-bar {
     padding: 8px 14px;
     gap: 8px;
+  }
+
+  .brand-banner {
+    height: 30px;
   }
 
   .brand-title {
