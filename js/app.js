@@ -192,28 +192,8 @@ function filterCategory(categoryName) {
 }
 
 function openLessonModal(lessonId) {
-  const lesson = globalLessonsData.find(l => l.id === lessonId);
-  if (!lesson) return;
-
-  const lang = window.currentLang || 'kor';
-  const modal = document.getElementById('lessonModal');
-  const modalTitle = document.getElementById('modal-lesson-title');
-  const modalArticle = document.getElementById('modal-lesson-article');
-  const modalVocabList = document.getElementById('modal-vocab-list');
-
-  if (modalTitle) modalTitle.textContent = lesson.title[lang] || lesson.title['eng'];
-  if (modalArticle) modalArticle.textContent = lesson.article[lang] || lesson.article['eng'];
-
-  if (modalVocabList) {
-    modalVocabList.innerHTML = '';
-    lesson.vocab.forEach(v => {
-      const li = document.createElement('li');
-      li.textContent = v;
-      modalVocabList.appendChild(li);
-    });
-  }
-
-  modal.style.display = 'flex';
+  // Navigate to dedicated article page with unique URL
+  window.location.href = `article.html?id=${lessonId}`;
 }
 
 // Override setLanguage to re-render texts dynamically

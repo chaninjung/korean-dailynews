@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Daily Korean News</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico?v=20260928">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png?v=20260928">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png?v=20260928">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png?v=20260928">
+  <link rel="stylesheet" href="css/style.css?v=20260928">
+</head>
+<body>
+
+  <!-- Honeypot -->
+  <form class="bot-honeypot" aria-hidden="true" tabindex="-1">
+    <input type="text" id="hp_trap_field" name="hp_trap" autocomplete="off" tabindex="-1">
+  </form>
+
+  <!-- HEADER -->
+  <header class="header-container">
+    <div class="top-brand-bar">
+      <div class="brand-wrapper">
+        <img src="favicon-32x32.png?v=20260928" alt="Daily Korean News" class="brand-favicon">
+        <span class="brand-title" data-i18n="brandName">Daily Korean News</span>
+      </div>
+
+      <nav>
+        <ul class="nav-menu-bar">
+          <li class="nav-menu-item">
+            <a href="index.html" class="nav-menu-link" data-i18n="navTop">Top</a>
+          </li>
+          <li class="nav-menu-item">
+            <a href="index.html" class="nav-menu-link" data-i18n="navMaterials">Materials</a>
+          </li>
+        </ul>
+      </nav>
+
+      <!-- Language Switcher -->
+      <div class="lang-switcher">
+        <button class="lang-btn active" data-lang="kor" onclick="setLanguage('kor')">KOR</button>
+        <button class="lang-btn" data-lang="eng" onclick="setLanguage('eng')">ENG</button>
+        <button class="lang-btn" data-lang="hu" onclick="setLanguage('hu')">HU</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ARTICLE CONTENT -->
+  <main class="article-detail-wrapper">
+    <button class="back-btn" onclick="history.back()">← <span data-i18n="backBtn">Back</span></button>
+
+    <!-- Hero Image -->
+    <div class="article-detail-hero" id="article-hero">
+      <img id="article-hero-img" src="" alt="">
+      <div class="article-detail-hero-overlay">
+        <div class="article-detail-meta" id="article-meta">
+          <!-- badges injected by JS -->
+        </div>
+        <h1 class="article-detail-title" id="article-title">Loading...</h1>
+      </div>
+    </div>
+
+    <!-- Article Body -->
+    <div class="article-detail-body" id="article-body">
+      <p id="article-text"></p>
+    </div>
+
+    <!-- Vocabulary Box -->
+    <div class="vocab-box" id="vocab-section">
+      <h4>📖 Key Vocabulary</h4>
+      <ul id="vocab-list"></ul>
+    </div>
+  </main>
+
+  <footer>
+    <span data-i18n="footerText">© 2026 Daily Korean News. All rights reserved.</span>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/protection.js?v=20260928"></script>
+  <script src="js/i18n.js?v=20260928"></script>
+  <script>
+    // Add "backBtn" translation
+    if (window.translations) {
+      ['kor', 'eng', 'hu'].forEach(l => {
+        if (!window.translations[l]) return;
+      });
+    }
+
+    // Read article ID from URL query param: article.html?id=news-1
+    const params = new URLSearchParams(window.location.search);
+    const articleId = params.get('id');
+
+    async function loadArticle() {
+      if (!articleId) {
+        document.getElementById('article-title').textContent = 'Article not found.';
+        return;
+      }
+
+      try {
+        const allArticles = await window.DailyKoreanShield.loadLessonData();
+        const article = allArticles.find(a => a.id === articleId);
+
+        if (!article) {
+          document.getElementById('article-title').textContent = 'Article not found.';
+          return;
+        }
+
+        const lang = window.currentLang || 'kor';
+
+        // Update page title
+        document.title = (article.title[lang] || article.title['eng']) + ' — Daily Korean News';
+
+        // Hero image
+        const heroImg = document.getElementById('article-hero-img');
+        heroImg.src = article.image;
+        heroImg.alt = article.title[lang] || article.title['eng'];
+
+        // Meta badges
+        const metaEl = document.getElementById('article-meta');
+        metaEl.innerHTML = `
+          ${article.isNew ? '<span class="badge-new">NEW</span>' : ''}
+          <span class="level-badge"><span class="level-badge-num">${article.levelNum}</span> ${article.level}</span>
+          <span class="category-tag">${article.category}</span>
+        `;
+
+        // Title
+        document.getElementById('article-title').textContent =
+          article.title[lang] || article.title['eng'];
+
+        // Body text
+        document.getElementById('article-text').textContent =
+          article.article[lang] || article.article['eng'];
+
+        // Vocabulary
+        const vocabList = document.getElementById('vocab-list');
+        vocabList.innerHTML = '';
+        article.vocab.forEach(v => {
+          const li = document.createElement('li');
+          li.textContent = v;
+          vocabList.appendChild(li);
+        });
+
+        // Re-render if language changes
+        window._currentArticle = article;
+
+      } catch (err) {
+        console.error('Failed to load article:', err);
+        document.getElementById('article-title').textContent = 'Failed to load article.';
+      }
+    }
+
+    // Hook into setLanguage to re-render article text
+    const _origSetLang = window.setLanguage;
+    window.setLanguage = function(lang) {
+      if (_origSetLang) _origSetLang(lang);
+      if (window._currentArticle) {
+        const a = window._currentArticle;
+        document.getElementById('article-title').textContent =
+          a.title[lang] || a.title['eng'];
+        document.getElementById('article-text').textContent =
+          a.article[lang] || a.article['eng'];
+        document.title = (a.title[lang] || a.title['eng']) + ' — Daily Korean News';
+      }
+    };
+
+    document.addEventListener('DOMContentLoaded', loadArticle);
+  </script>
+
+</body>
+</html>

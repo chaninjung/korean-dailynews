@@ -20,6 +20,7 @@ const translations = {
     levelProficient: "Proficient (최고급)",
     readLessonBtn: "교재 열람하기",
     closeBtn: "닫기",
+    backBtn: "뒤로 가기",
     pastArticlesTitle: "Past Articles (지난 기사)",
     footerText: "© 2026 Daily Korean News. All rights reserved."
   },
@@ -44,6 +45,7 @@ const translations = {
     levelProficient: "Proficient",
     readLessonBtn: "Read Material",
     closeBtn: "Close",
+    backBtn: "Back",
     pastArticlesTitle: "Past Articles",
     footerText: "© 2026 Daily Korean News. All rights reserved."
   },
@@ -68,6 +70,7 @@ const translations = {
     levelProficient: "Mester (Proficient)",
     readLessonBtn: "Lecke megnyitása",
     closeBtn: "Bezárás",
+    backBtn: "Vissza",
     pastArticlesTitle: "Korábbi cikkek (Past Articles)",
     footerText: "© 2026 Daily Korean News. Minden jog fenntartva."
   }
