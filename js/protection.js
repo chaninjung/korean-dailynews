@@ -1,5 +1,5 @@
 /**
- * Anti-Crawling & Content Protection System (Huko Shield)
+ * Anti-Crawling & Content Protection System (Daily Korean Shield)
  * Multi-layer client-side security against scrapers and data theft.
  */
 
@@ -69,7 +69,7 @@
     }
   });
 
-  // 4. DevTools Detector (Window size / Console check heuristic)
+  // 4. DevTools Detector
   let devtoolsOpen = false;
   const element = new Image();
   Object.defineProperty(element, 'id', {
@@ -86,10 +86,10 @@
   }, 2000);
 
   function showProtectionAlert(msg) {
-    let toast = document.getElementById('huko-toast');
+    let toast = document.getElementById('daily-korean-toast');
     if (!toast) {
       toast = document.createElement('div');
-      toast.id = 'huko-toast';
+      toast.id = 'daily-korean-toast';
       toast.style.cssText = `
         position: fixed;
         bottom: 24px;
@@ -117,6 +117,6 @@
   }
 
   function showDevToolsWarning() {
-    console.warn("⚠️ Huko Protection: Developer tools detected!");
+    console.warn("⚠️ Daily Korean Protection: Developer tools detected!");
   }
 })();

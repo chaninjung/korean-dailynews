@@ -1,13 +1,13 @@
 const translations = {
   kor: {
-    brandName: "Huko Daily Korean",
+    brandName: "Daily Korean News",
     navHome: "홈",
     navLessons: "일간 데일리 뉴스",
     navLevels: "레벨 테스트",
     navMaterials: "교재 라이브러리",
-    heroBadge: "헝가리 & 글로벌 학습자를 위한 맞춤 한국어",
-    heroTitle: "매일 updates 되는 1:1 맞춤 한국어 데일리 레슨",
-    heroDesc: "Engoo 스타일의 생생한 한국어 시사 뉴스, 회화 교재, 헝가리어/영어 해석을 한눈에 학습해보세요.",
+    heroBadge: "글로벌 학습자를 위한 맞춤 한국어",
+    heroTitle: "매일 업데이트되는 1:1 맞춤 한국어 데일리 레슨",
+    heroDesc: "Engoo 스타일의 생생한 한국어 시사 뉴스, 회화 교재, 다국어 해석을 한눈에 학습해보세요.",
     btnStart: "무료 레슨 체험하기",
     btnBrowse: "교재 둘러보기",
     protectionNoticeTitle: "🔒 무단 크롤링 및 불법 복제 방지 기술 적용 중",
@@ -31,17 +31,17 @@ const translations = {
     vocab2: "환승 (Transfer) - Átszállás",
     vocab3: "할인 혜택 (Discount benefit) - Kedvezmény",
     closeBtn: "닫기",
-    footerText: "© 2026 Huko Daily Korean. All rights reserved."
+    footerText: "© 2026 Daily Korean News. All rights reserved."
   },
   eng: {
-    brandName: "Huko Daily Korean",
+    brandName: "Daily Korean News",
     navHome: "Home",
     navLessons: "Daily News",
     navLevels: "Level Test",
     navMaterials: "Materials",
-    heroBadge: "Tailored Korean for Hungarian & Global Learners",
+    heroBadge: "Tailored Korean for Global Learners",
     heroTitle: "Daily 1:1 Korean Lessons Updated Every Day",
-    heroDesc: "Learn Korean with Engoo-style daily news articles, conversation guides, and trilingual translations (KOR / ENG / HU).",
+    heroDesc: "Learn Korean with Engoo-style daily news articles, conversation guides, and multilingual translations.",
     btnStart: "Try Free Lesson",
     btnBrowse: "Browse Materials",
     protectionNoticeTitle: "🔒 Anti-Crawling & Scraper Protection Active",
@@ -65,17 +65,17 @@ const translations = {
     vocab2: "환승 (Transfer) - Átszállás",
     vocab3: "할인 혜택 (Discount benefit) - Kedvezmény",
     closeBtn: "Close",
-    footerText: "© 2026 Huko Daily Korean. All rights reserved."
+    footerText: "© 2026 Daily Korean News. All rights reserved."
   },
   hu: {
-    brandName: "Huko Daily Korean",
+    brandName: "Daily Korean News",
     navHome: "Főoldal",
     navLessons: "Napi Hírek",
     navLevels: "Szintfelmérő",
     navMaterials: "Tananyagok",
-    heroBadge: "Személyre szabott koreai nyelvtanulás magyaroknak",
+    heroBadge: "Személyre szabott koreai nyelvtanulás nemzetközi diákoknak",
     heroTitle: "Naponta frissülő 1:1 koreai leckék és tananyagok",
-    heroDesc: "Tanulj koreaiul az Engoo stílusú napi hírekkel, párbeszédekkel és háromnyelvű (KOR / ENG / HU) fordítással.",
+    heroDesc: "Tanulj koreaiul az Engoo stílusú napi hírekkel, párbeszédekkel és többnyelvű fordítással.",
     btnStart: "Ingyenes lecke kipróbálása",
     btnBrowse: "Tananyagok böngészése",
     protectionNoticeTitle: "🔒 Adatvédelmi és tartalomvédelmi rendszer aktív",
@@ -99,16 +99,16 @@ const translations = {
     vocab2: "환승 (Transfer) - Átszállás",
     vocab3: "할인 혜택 (Discount benefit) - Kedvezmény",
     closeBtn: "Bezárás",
-    footerText: "© 2026 Huko Daily Korean. Minden jog fenntartva."
+    footerText: "© 2026 Daily Korean News. Minden jog fenntartva."
   }
 };
 
-let currentLang = localStorage.getItem('huko_lang') || 'kor';
+let currentLang = localStorage.getItem('daily_korean_lang') || 'kor';
 
 function setLanguage(lang) {
   if (!translations[lang]) return;
   currentLang = lang;
-  localStorage.setItem('huko_lang', lang);
+  localStorage.setItem('daily_korean_lang', lang);
 
   // Update active button state
   document.querySelectorAll('.lang-btn').forEach(btn => {
