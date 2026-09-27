@@ -1,0 +1,76 @@
+{
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "level": "beginner",
+      "title": {
+        "kor": "K-Food: 한국인들이 사랑하는 길거리 음식 TOP 5",
+        "eng": "K-Food: TOP 5 Korean Street Foods Loved by Locals",
+        "hu": "K-Food: A 5 legnépszerűbb koreai utcai étel"
+      },
+      "desc": {
+        "kor": "떡볶이, 붕어빵 등 한국의 대표 야식 문화와 핵심 어휘를 학습합니다.",
+        "eng": "Learn key vocabulary and food culture including Tteokbokki and Bungeoppang.",
+        "hu": "Ismerd meg a Tteokbokki és Bungeoppang kultúráját és a legfontosabb szavakat."
+      },
+      "article": {
+        "kor": "한국은 길거리 음식 문화가 매우 발달했습니다. 대표적인 음식으로는 매콤한 떡볶이, 바삭한 튀김, 추운 겨울에 생각나는 따뜻한 어묵 국물과 붕어빵이 있습니다.",
+        "eng": "Korea has a rich street food culture. Representative foods include spicy Tteokbokki, crispy fried snacks, and warm Fishcake soup and Bungeoppang enjoyed during cold winter months.",
+        "hu": "Koreában nagyon fejlett az utcai ételkultúra. A legjellemzőbb ételek közé tartozik a csípős Tteokbokki, a ropogós sült ételek, valamint a hideg téli napokon fogyasztott meleg halétel-leves és a Bungeoppang."
+      },
+      "vocab": [
+        "떡볶이 (Spicy Rice Cake) - Csípős rizslepény",
+        "붕어빵 (Fish-shaped Pastry) - Hal alakú sütemény",
+        "어묵 국물 (Fishcake Soup) - Halétel leves"
+      ]
+    },
+    {
+      "id": "lesson-2",
+      "level": "intermediate",
+      "title": {
+        "kor": "한국 직장 생활 필수 비즈니스 한국어 표현",
+        "eng": "Essential Business Korean Expressions for Work",
+        "hu": "Alapvető üzleti koreai kifejezések a munkahelyen"
+      },
+      "desc": {
+        "kor": "이메일 작성 및 미팅 시 유용한 격식 있는 존댓말 표현 10가지.",
+        "eng": "10 formal honorific phrases useful for emails and workplace meetings.",
+        "hu": "10 hivatalos és tisztelettudó kifejezés e-mailezéshez és megbeszélésekhez."
+      },
+      "article": {
+        "kor": "한국의 비즈니스 환경에서는 높임말과 상호 존중 어휘 사용이 중요합니다. 미팅을 시작할 때 '바쁘신 와중에 참석해 주셔서 감사합니다'와 같은 표현을 자주 사용합니다.",
+        "eng": "In Korean business environments, honorifics and respectful vocabulary are crucial. When starting a meeting, expressions like 'Thank you for attending despite your busy schedule' are frequently used.",
+        "hu": "A koreai üzleti életben kiemelten fontos a tiszteleti nyelv és kifejezések használata. Megbeszélések kezdetén gyakran hangzik el a 'Köszönjük, hogy elfoglaltsága ellenére eljött' kifejezés."
+      },
+      "vocab": [
+        "존댓말 (Honorific language) - Tiszteleti nyelv",
+        "안건 (Agenda / Topic) - Napirendi pont",
+        "검토 부탁드립니다 (Please review) - Kérjük, vizsgálja felül"
+      ]
+    },
+    {
+      "id": "lesson-3",
+      "level": "advanced",
+      "title": {
+        "kor": "한국 드라마 속 자주 등장하는 일상 관용구",
+        "eng": "Popular Daily Idioms in K-Dramas",
+        "hu": "Gyakori mindennapi kifejezések a K-Drámákban"
+      },
+      "desc": {
+        "kor": "실제 한국인들이 입에 달고 사는 자연스러운 구어체 대화법.",
+        "eng": "Natural conversational expressions frequently used by native Korean speakers.",
+        "hu": "Természetes köznyelvi kifejezések, amelyeket a helyiek naponta használnak."
+      },
+      "article": {
+        "kor": "드라마를 보면 '식은 죽 먹기', '눈코 뜰 새 없다' 등 관용적 수식어가 많이 나옵니다. 단어 직역보다는 문맥과 상황 속 미묘한 느낌을 파악하는 것이 중요합니다.",
+        "eng": "In K-Dramas, idioms like 'Piece of cake' or 'Extremely busy' appear frequently. Rather than literal word-by-word translation, understanding contextual nuances is essential.",
+        "hu": "A K-drámákban gyakran hallhatók olyan kifejezések, mint a 'Gyerekjáték' vagy 'Elvagyok havazva'. A szó szerinti fordítás helyett a kontextus és a helyzet megértése a kulcs."
+      },
+      "vocab": [
+        "식은 죽 먹기 (Piece of cake) - Gyerekjáték",
+        "눈코 뜰 새 없다 (Extremely busy) - El van havazva",
+        "어안이 벙벙하다 (Speechless / Dumbfounded) - Szóhoz sem jut"
+      ]
+    }
+  ]
+}

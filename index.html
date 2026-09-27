@@ -5,9 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
   <title>Daily Korean News - 한국어 학습 플랫폼</title>
-  <link rel="stylesheet" href="css/style.css?v=20260927_2">
+  <link rel="stylesheet" href="css/style.css?v=20260927_v3">
 </head>
 <body>
+
+  <!-- Honeypot Bot Trap (Invisible to humans, visible to crawlers/bots) -->
+  <form id="sec_hp_form" class="bot-honeypot" style="display:none;" tabindex="-1" aria-hidden="true">
+    <input type="text" id="hp_trap_field" name="user_verification_email" autocomplete="off">
+  </form>
 
   <!-- Top Navigation Bar -->
   <header class="navbar">
@@ -41,62 +46,33 @@
     </div>
   </section>
 
-  <!-- Lessons Section -->
+  <!-- Lessons Section (Dynamic Async Container) -->
   <section id="lessons" class="lessons-section">
     <div class="section-header">
       <h2 data-i18n="sectionLessonsTitle">추천 데일리 레슨 교재</h2>
       <p data-i18n="sectionLessonsDesc">난이도별 맞춤 학습 자료 (KOR / ENG / HU 삼중 언어 지원)</p>
     </div>
 
-    <div class="lessons-grid">
-      <!-- Lesson Card 1 -->
-      <div class="lesson-card">
-        <div>
-          <span class="level-tag level-beginner" data-i18n="levelBeginner">초급 (Beginner)</span>
-          <h3 data-i18n="lesson1Title">K-Food: 한국인들이 사랑하는 길거리 음식 TOP 5</h3>
-          <p data-i18n="lesson1Desc">떡볶이, 붕어빵 등 한국의 대표 야식 문화와 핵심 어휘를 학습합니다.</p>
-        </div>
-        <button class="btn-outline btn-read-lesson" data-i18n="readLessonBtn">교재 열람하기</button>
-      </div>
-
-      <!-- Lesson Card 2 -->
-      <div class="lesson-card">
-        <div>
-          <span class="level-tag level-intermediate" data-i18n="levelIntermediate">중급 (Intermediate)</span>
-          <h3 data-i18n="lesson2Title">한국 직장 생활 필수 비즈니스 한국어 표현</h3>
-          <p data-i18n="lesson2Desc">이메일 작성 및 미팅 시 유용한 격식 있는 존댓말 표현 10가지.</p>
-        </div>
-        <button class="btn-outline btn-read-lesson" data-i18n="readLessonBtn">교재 열람하기</button>
-      </div>
-
-      <!-- Lesson Card 3 -->
-      <div class="lesson-card">
-        <div>
-          <span class="level-tag level-advanced" data-i18n="levelAdvanced">고급 (Advanced)</span>
-          <h3 data-i18n="lesson3Title">한국 드라마 속 자주 등장하는 일상 관용구</h3>
-          <p data-i18n="lesson3Desc">실제 한국인들이 입에 달고 사는 자연스러운 구어체 대화법.</p>
-        </div>
-        <button class="btn-outline btn-read-lesson" data-i18n="readLessonBtn">교재 열람하기</button>
-      </div>
+    <!-- Async Data Injected Container -->
+    <div id="lessons-container" class="lessons-grid">
+      <!-- Dynamically loaded via Async Fetch & Custom Token Header -->
     </div>
   </section>
 
-  <!-- Sample Lesson Viewer Modal -->
+  <!-- Sample Lesson Viewer Modal (Dynamic Async Content) -->
   <div id="lessonModal" class="modal-overlay">
     <div class="modal-content">
       <div class="modal-header">
-        <h3 data-i18n="sampleLessonTitle">샘플 레슨: 한국의 대중교통 문화</h3>
+        <h3 id="modal-lesson-title">교재 열람</h3>
         <button id="modalClose" class="lang-btn" style="background:#374151; color:#fff;" data-i18n="closeBtn">닫기</button>
       </div>
       <div class="modal-body">
-        <p data-i18n="sampleLessonArticle">한국은 지하철과 버스 환승 시스템이 매우 잘 갖추어져 있습니다. 교통카드를 사용하면 할인 혜택을 받을 수 있습니다.</p>
+        <p id="modal-lesson-article">레슨 본문을 불러오는 중입니다...</p>
         
         <div class="vocab-box">
           <h4 data-i18n="sampleLessonVocabTitle">핵심 어휘 (Vocabulary)</h4>
-          <ul>
-            <li data-i18n="vocab1">대중교통 (Public Transportation) - Tömegközlekedés</li>
-            <li data-i18n="vocab2">환승 (Transfer) - Átszállás</li>
-            <li data-i18n="vocab3">할인 혜택 (Discount benefit) - Kedvezmény</li>
+          <ul id="modal-vocab-list">
+            <!-- Dynamically populated -->
           </ul>
         </div>
       </div>
@@ -108,9 +84,9 @@
     <p data-i18n="footerText">© 2026 Daily Korean News. All rights reserved.</p>
   </footer>
 
-  <!-- Scripts with cache busting -->
-  <script src="js/i18n.js?v=20260927_2"></script>
-  <script src="js/protection.js?v=20260927_2"></script>
-  <script src="js/app.js?v=20260927_2"></script>
+  <!-- Security & Application Scripts -->
+  <script src="js/i18n.js?v=20260927_v3"></script>
+  <script src="js/protection.js?v=20260927_v3"></script>
+  <script src="js/app.js?v=20260927_v3"></script>
 </body>
 </html>
