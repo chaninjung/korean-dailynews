@@ -54,7 +54,7 @@ window.DailyKoreanShield = (function () {
     }
 
     const data = await response.json();
-    return data.lessons;
+    return data.featured;
   }
 
   return {

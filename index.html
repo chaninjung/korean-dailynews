@@ -3,94 +3,193 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
-  <title>Daily Korean News - 한국어 학습 플랫폼</title>
-  
-  <!-- Favicon / Browser Tab Icon Settings -->
-  <link rel="icon" type="image/x-icon" href="favicon.ico?v=20260927_cleanwhite">
-  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png?v=20260927_cleanwhite">
-  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png?v=20260927_cleanwhite">
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png?v=20260927_cleanwhite">
-
-  <link rel="stylesheet" href="css/style.css?v=20260927_cleanwhite">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Daily Korean News</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico?v=20260928">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png?v=20260928">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png?v=20260928">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png?v=20260928">
+  <link rel="stylesheet" href="css/style.css?v=20260928">
 </head>
 <body>
 
-  <!-- Honeypot Bot Trap -->
-  <form id="sec_hp_form" class="bot-honeypot" style="display:none;" tabindex="-1" aria-hidden="true">
-    <input type="text" id="hp_trap_field" name="user_verification_email" autocomplete="off">
+  <!-- Honeypot Trap (invisible to humans, bots will fill it) -->
+  <form class="bot-honeypot" aria-hidden="true" tabindex="-1">
+    <input type="text" id="hp_trap_field" name="hp_trap" autocomplete="off" tabindex="-1">
   </form>
 
-  <!-- Clean Top Navigation Bar -->
-  <div class="navbar-container">
-    <header class="navbar">
-      <div class="nav-brand">
-        <a href="#" class="brand-logo" data-i18n="brandName">Daily Korean News</a>
+  <!-- ============================================================
+       HEADER: Brand Bar + Sub Navigation
+  ============================================================ -->
+  <header class="header-container">
+    <div class="top-brand-bar">
+      <!-- Logo + Brand Name -->
+      <div class="brand-wrapper">
+        <img src="favicon-32x32.png?v=20260928" alt="Daily Korean News" class="brand-favicon">
+        <span class="brand-title" data-i18n="brandName">Daily Korean News</span>
       </div>
-      
-      <ul class="nav-links">
-        <li><a href="#" data-i18n="navHome">홈</a></li>
-        <li><a href="#lessons" data-i18n="navLessons">일간 데일리 뉴스</a></li>
-        <li><a href="#" data-i18n="navMaterials">교재 라이브러리</a></li>
-      </ul>
 
-      <!-- Top-Right Trilingual Switcher (KOR / ENG / HU) -->
+      <!-- Sub Navigation Menu -->
+      <nav>
+        <ul class="nav-menu-bar">
+          <li class="nav-menu-item">
+            <a href="#" id="nav-top" class="nav-menu-link active" data-i18n="navTop">Top</a>
+          </li>
+          <li class="nav-menu-item">
+            <a href="#" id="nav-category-toggle" class="nav-menu-link" data-i18n="navCategory">Category ▾</a>
+            <!-- Category Dropdown -->
+            <div id="category-dropdown" class="dropdown-menu">
+              <a href="#" class="dropdown-item" onclick="filterCategory('All'); return false;" data-i18n="catAll">All</a>
+              <a href="#" class="dropdown-item" onclick="filterCategory('Business & Politics'); return false;" data-i18n="catBusiness">Business &amp; Politics</a>
+              <a href="#" class="dropdown-item" onclick="filterCategory('Science & Technology'); return false;" data-i18n="catScience">Science &amp; Technology</a>
+              <a href="#" class="dropdown-item" onclick="filterCategory('Health & Lifestyle'); return false;" data-i18n="catHealth">Health &amp; Lifestyle</a>
+              <a href="#" class="dropdown-item" onclick="filterCategory('Culture & Society'); return false;" data-i18n="catCulture">Culture &amp; Society</a>
+              <a href="#" class="dropdown-item" onclick="filterCategory('Travel & Experiences'); return false;" data-i18n="catTravel">Travel &amp; Experiences</a>
+            </div>
+          </li>
+          <li class="nav-menu-item">
+            <a href="#" id="nav-materials" class="nav-menu-link" data-i18n="navMaterials">Materials</a>
+          </li>
+        </ul>
+      </nav>
+
+      <!-- KOR / ENG / HU Language Switcher -->
       <div class="lang-switcher">
         <button class="lang-btn active" data-lang="kor" onclick="setLanguage('kor')">KOR</button>
         <button class="lang-btn" data-lang="eng" onclick="setLanguage('eng')">ENG</button>
         <button class="lang-btn" data-lang="hu" onclick="setLanguage('hu')">HU</button>
       </div>
-    </header>
-  </div>
-
-  <!-- Hero Section -->
-  <section class="hero">
-    <div class="hero-badge" data-i18n="heroBadge">글로벌 학습자를 위한 맞춤 한국어</div>
-    <h1 data-i18n="heroTitle">매일 업데이트되는 1:1 맞춤 한국어 데일리 레슨</h1>
-    <p data-i18n="heroDesc">생생한 한국어 시사 뉴스, 회화 교재, 다국어 해석을 한눈에 학습해보세요.</p>
-    <div class="hero-actions">
-      <button class="btn-primary" data-i18n="btnStart">무료 레슨 체험하기</button>
-      <button class="btn-outline" data-i18n="btnBrowse">교재 둘러보기</button>
     </div>
-  </section>
+  </header>
 
-  <!-- Lessons Section -->
-  <section id="lessons" class="lessons-section">
-    <div class="section-header">
-      <h2 data-i18n="sectionLessonsTitle">추천 데일리 레슨 교재</h2>
-      <p data-i18n="sectionLessonsDesc">난이도별 맞춤 학습 자료 (KOR / ENG / HU 삼중 언어 지원)</p>
-    </div>
+  <!-- ============================================================
+       MAIN CONTENT AREA
+  ============================================================ -->
+  <main class="main-wrapper">
 
-    <!-- Async Data Injected Container -->
-    <div id="lessons-container" class="lessons-grid"></div>
-  </section>
+    <!-- ====================================================
+         VIEW 1: Daily News (Top / Category filtered)
+    ==================================================== -->
+    <section id="view-daily-news" class="page-view">
 
-  <!-- Clean Modal Reader -->
+      <!-- Featured Grid: Large Left Card + 2×2 Right Grid -->
+      <div class="featured-grid-container">
+        <div id="featured-left-card-container">
+          <!-- JS will inject the large left card here -->
+        </div>
+        <div id="featured-right-grid-container" class="featured-right-grid">
+          <!-- JS will inject the 4 small right cards here -->
+        </div>
+      </div>
+
+      <!-- Category Sections below the featured grid -->
+      <div id="category-sections-container">
+        <!-- JS will inject category rows here -->
+      </div>
+
+    </section>
+
+    <!-- ====================================================
+         VIEW 2: Lesson Materials
+    ==================================================== -->
+    <section id="view-materials" class="page-view hidden">
+
+      <!-- Hero Header -->
+      <div class="materials-hero">
+        <h1 data-i18n="materialTitle">LESSON MATERIALS</h1>
+        <p data-i18n="materialSubtitle">Search by level or interests.</p>
+      </div>
+
+      <!-- Level Slider Graphic (visual only) -->
+      <div class="level-slider-container">
+        <div class="level-bar-graphic">
+          <div class="level-bar-line"></div>
+          <div class="level-node" title="Beginner"></div>
+          <div class="level-node" style="border-color:#84cc16;" title="Intermediate"></div>
+          <div class="level-node" style="border-color:#f97316;" title="Advanced"></div>
+          <div class="level-node" style="border-color:#ef4444;" title="Proficient"></div>
+        </div>
+        <div class="level-labels-row">
+          <span class="level-lbl-beginner" data-i18n="levelBeginner">Beginner</span>
+          <span class="level-lbl-intermediate" data-i18n="levelIntermediate">Intermediate</span>
+          <span class="level-lbl-advanced" data-i18n="levelAdvanced">Advanced</span>
+          <span class="level-lbl-proficient" data-i18n="levelProficient">Proficient</span>
+        </div>
+      </div>
+
+      <!-- Search + Category Filter Bar -->
+      <div class="materials-filter-bar">
+        <input type="text" class="search-input-box" id="materials-search"
+               placeholder="e.g. Business, Conversation, TOPIK..."
+               data-i18n-placeholder="searchPlaceholder">
+        <select class="category-select-box" id="materials-category-filter">
+          <option value="All" data-i18n="catAll">All</option>
+          <option value="Business & Politics" data-i18n="catBusiness">Business &amp; Politics</option>
+          <option value="Science & Technology" data-i18n="catScience">Science &amp; Technology</option>
+          <option value="Health & Lifestyle" data-i18n="catHealth">Health &amp; Lifestyle</option>
+          <option value="Culture & Society" data-i18n="catCulture">Culture &amp; Society</option>
+          <option value="Travel & Experiences" data-i18n="catTravel">Travel &amp; Experiences</option>
+        </select>
+      </div>
+
+      <!-- Category Cards -->
+      <div class="materials-grid">
+        <div class="material-cat-card" onclick="filterCategory('Business & Politics'); document.getElementById('nav-top').click();">
+          <div class="material-icon">📰</div>
+          <h3>Daily News</h3>
+          <p>Business &amp; Politics</p>
+        </div>
+        <div class="material-cat-card" onclick="filterCategory('Culture & Society'); document.getElementById('nav-top').click();">
+          <div class="material-icon">💬</div>
+          <h3>Conversation</h3>
+          <p>Culture &amp; Society</p>
+        </div>
+        <div class="material-cat-card" onclick="filterCategory('Science & Technology'); document.getElementById('nav-top').click();">
+          <div class="material-icon">💼</div>
+          <h3>Business</h3>
+          <p>Science &amp; Technology</p>
+        </div>
+        <div class="material-cat-card" onclick="filterCategory('Travel & Experiences'); document.getElementById('nav-top').click();">
+          <div class="material-icon">✈️</div>
+          <h3>Travel &amp; Culture</h3>
+          <p>Travel &amp; Experiences</p>
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- ============================================================
+       MODAL: Article Reader
+  ============================================================ -->
   <div id="lessonModal" class="modal-overlay">
     <div class="modal-content">
       <div class="modal-header">
-        <h3 id="modal-lesson-title">교재 열람</h3>
-        <button id="modalClose" class="lang-btn" style="background:#f1f5f9; color:#334155;" data-i18n="closeBtn">닫기</button>
+        <h3 id="modal-lesson-title"></h3>
+        <button id="modalClose" class="lang-btn" style="font-size:20px; padding:4px 12px;">✕</button>
       </div>
       <div class="modal-body">
-        <p id="modal-lesson-article">레슨 본문을 불러오는 중입니다...</p>
-        
+        <p id="modal-lesson-article"></p>
         <div class="vocab-box">
-          <h4 data-i18n="sampleLessonVocabTitle">핵심 어휘 (Vocabulary)</h4>
+          <h4>📖 Key Vocabulary</h4>
           <ul id="modal-vocab-list"></ul>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- Footer -->
+  <!-- ============================================================
+       FOOTER
+  ============================================================ -->
   <footer>
-    <p data-i18n="footerText">© 2026 Daily Korean News. All rights reserved.</p>
+    <span data-i18n="footerText">© 2026 Daily Korean News. All rights reserved.</span>
   </footer>
 
-  <!-- Scripts -->
-  <script src="js/i18n.js?v=20260927_cleanwhite"></script>
-  <script src="js/protection.js?v=20260927_cleanwhite"></script>
-  <script src="js/app.js?v=20260927_cleanwhite"></script>
+  <!-- Scripts (with cache-busting) -->
+  <script src="js/protection.js?v=20260928"></script>
+  <script src="js/i18n.js?v=20260928"></script>
+  <script src="js/app.js?v=20260928"></script>
+
 </body>
 </html>
