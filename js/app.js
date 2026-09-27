@@ -35,7 +35,7 @@ function renderLessonCards() {
 
   globalLessonsData.forEach(lesson => {
     const card = document.createElement('div');
-    card.className = 'lesson-card';
+    card.className = 'border-beam-card lesson-card';
 
     const levelTagClass = `level-${lesson.level}`;
     const levelTextKey = `level${lesson.level.charAt(0).toUpperCase() + lesson.level.slice(1)}`;
