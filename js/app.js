@@ -46,8 +46,30 @@ function renderLessonCards() {
         <h3>${lesson.title[lang] || lesson.title['eng']}</h3>
         <p>${lesson.desc[lang] || lesson.desc['eng']}</p>
       </div>
-      <button class="btn-outline btn-read-lesson" onclick="openLessonModal('${lesson.id}')" data-i18n="readLessonBtn">교재 열람하기</button>
+      <button class="card-btn" onclick="openLessonModal('${lesson.id}')" data-i18n="readLessonBtn">교재 열람하기</button>
     `;
+
+    // Aceternity 3D Tilt & Mouse Spotlight glow effect
+    card.addEventListener('mousemove', (e) => {
+      const rect = card.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+
+      card.style.setProperty('--mouse-x', `${x}px`);
+      card.style.setProperty('--mouse-y', `${y}px`);
+
+      // 3D Tilt calculation
+      const centerX = rect.width / 2;
+      const centerY = rect.height / 2;
+      const rotateX = ((y - centerY) / centerY) * -6;
+      const rotateY = ((x - centerX) / centerX) * 6;
+
+      card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateZ(10px)`;
+    });
+
+    card.addEventListener('mouseleave', () => {
+      card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg) translateZ(0px)`;
+    });
 
     container.appendChild(card);
   });
@@ -90,7 +112,6 @@ window.setLanguage = function (lang) {
     originalSetLanguage(lang);
   }
   if (globalLessonsData && globalLessonsData.length) {
-    // Refresh card content text
     renderLessonCards();
   }
 };

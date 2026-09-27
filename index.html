@@ -4,76 +4,80 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
-  <title>Daily Korean News - 한국어 학습 플랫폼</title>
-  <link rel="stylesheet" href="css/style.css?v=20260927_v3">
+  <title>Daily Korean News - Aceternity Edition</title>
+  <link rel="stylesheet" href="css/style.css?v=20260927_aceternity">
 </head>
 <body>
 
-  <!-- Honeypot Bot Trap (Invisible to humans, visible to crawlers/bots) -->
+  <!-- Aceternity Ambient Grid & Spotlight Overlay -->
+  <div class="bg-grid-overlay"></div>
+
+  <!-- Honeypot Bot Trap -->
   <form id="sec_hp_form" class="bot-honeypot" style="display:none;" tabindex="-1" aria-hidden="true">
     <input type="text" id="hp_trap_field" name="user_verification_email" autocomplete="off">
   </form>
 
-  <!-- Top Navigation Bar -->
-  <header class="navbar">
-    <div class="nav-brand">
-      <a href="#" class="brand-logo" data-i18n="brandName">Daily Korean News</a>
-      <span class="brand-tag">Daily Korean</span>
-    </div>
-    
-    <ul class="nav-links">
-      <li><a href="#" data-i18n="navHome">홈</a></li>
-      <li><a href="#lessons" data-i18n="navLessons">일간 데일리 뉴스</a></li>
-      <li><a href="#" data-i18n="navMaterials">교재 라이브러리</a></li>
-    </ul>
+  <!-- Aceternity Floating Glass Navbar -->
+  <div class="navbar-container">
+    <header class="navbar">
+      <div class="nav-brand">
+        <a href="#" class="brand-logo" data-i18n="brandName">Daily Korean News</a>
+        <span class="brand-tag">PRO</span>
+      </div>
+      
+      <ul class="nav-links">
+        <li><a href="#" data-i18n="navHome">홈</a></li>
+        <li><a href="#lessons" data-i18n="navLessons">일간 데일리 뉴스</a></li>
+        <li><a href="#" data-i18n="navMaterials">교재 라이브러리</a></li>
+      </ul>
 
-    <!-- Top-Right Trilingual Switcher (KOR / ENG / HU) -->
-    <div class="lang-switcher">
-      <button class="lang-btn active" data-lang="kor" onclick="setLanguage('kor')">KOR</button>
-      <button class="lang-btn" data-lang="eng" onclick="setLanguage('eng')">ENG</button>
-      <button class="lang-btn" data-lang="hu" onclick="setLanguage('hu')">HU</button>
-    </div>
-  </header>
+      <!-- Top-Right Trilingual Switcher (KOR / ENG / HU) -->
+      <div class="lang-switcher">
+        <button class="lang-btn active" data-lang="kor" onclick="setLanguage('kor')">KOR</button>
+        <button class="lang-btn" data-lang="eng" onclick="setLanguage('eng')">ENG</button>
+        <button class="lang-btn" data-lang="hu" onclick="setLanguage('hu')">HU</button>
+      </div>
+    </header>
+  </div>
 
-  <!-- Hero Section -->
+  <!-- Aceternity Hero Section -->
   <section class="hero">
-    <span class="hero-badge" data-i18n="heroBadge">글로벌 학습자를 위한 맞춤 한국어</span>
+    <div class="hero-badge">
+      <span>✨</span>
+      <span data-i18n="heroBadge">글로벌 학습자를 위한 맞춤 한국어</span>
+    </div>
     <h1 data-i18n="heroTitle">매일 업데이트되는 1:1 맞춤 한국어 데일리 레슨</h1>
     <p data-i18n="heroDesc">생생한 한국어 시사 뉴스, 회화 교재, 다국어 해석을 한눈에 학습해보세요.</p>
     <div class="hero-actions">
-      <button class="btn-primary" data-i18n="btnStart">무료 레슨 체험하기</button>
-      <button class="btn-outline" data-i18n="btnBrowse">교재 둘러보기</button>
+      <button class="btn-shimmer" data-i18n="btnStart">무료 레슨 체험하기</button>
+      <button class="btn-outline-glass" data-i18n="btnBrowse">교재 둘러보기</button>
     </div>
   </section>
 
-  <!-- Lessons Section (Dynamic Async Container) -->
+  <!-- Lessons Section (Aceternity Spotlight Cards) -->
   <section id="lessons" class="lessons-section">
     <div class="section-header">
       <h2 data-i18n="sectionLessonsTitle">추천 데일리 레슨 교재</h2>
       <p data-i18n="sectionLessonsDesc">난이도별 맞춤 학습 자료 (KOR / ENG / HU 삼중 언어 지원)</p>
     </div>
 
-    <!-- Async Data Injected Container -->
-    <div id="lessons-container" class="lessons-grid">
-      <!-- Dynamically loaded via Async Fetch & Custom Token Header -->
-    </div>
+    <!-- Async Data Injected Spotlight Cards -->
+    <div id="lessons-container" class="lessons-grid"></div>
   </section>
 
-  <!-- Sample Lesson Viewer Modal (Dynamic Async Content) -->
+  <!-- Glass Modal Reader -->
   <div id="lessonModal" class="modal-overlay">
     <div class="modal-content">
       <div class="modal-header">
         <h3 id="modal-lesson-title">교재 열람</h3>
-        <button id="modalClose" class="lang-btn" style="background:#374151; color:#fff;" data-i18n="closeBtn">닫기</button>
+        <button id="modalClose" class="lang-btn" style="background:rgba(255,255,255,0.1); color:#fff;" data-i18n="closeBtn">닫기</button>
       </div>
       <div class="modal-body">
         <p id="modal-lesson-article">레슨 본문을 불러오는 중입니다...</p>
         
         <div class="vocab-box">
           <h4 data-i18n="sampleLessonVocabTitle">핵심 어휘 (Vocabulary)</h4>
-          <ul id="modal-vocab-list">
-            <!-- Dynamically populated -->
-          </ul>
+          <ul id="modal-vocab-list"></ul>
         </div>
       </div>
     </div>
@@ -84,9 +88,9 @@
     <p data-i18n="footerText">© 2026 Daily Korean News. All rights reserved.</p>
   </footer>
 
-  <!-- Security & Application Scripts -->
-  <script src="js/i18n.js?v=20260927_v3"></script>
-  <script src="js/protection.js?v=20260927_v3"></script>
-  <script src="js/app.js?v=20260927_v3"></script>
+  <!-- Scripts -->
+  <script src="js/i18n.js?v=20260927_aceternity"></script>
+  <script src="js/protection.js?v=20260927_aceternity"></script>
+  <script src="js/app.js?v=20260927_aceternity"></script>
 </body>
 </html>
