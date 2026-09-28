@@ -227,6 +227,7 @@ body {
   overflow: hidden;
   box-shadow: var(--shadow-md);
   cursor: pointer;
+  background: #1e293b;
 }
 
 .featured-right-grid {
@@ -243,9 +244,12 @@ body {
   overflow: hidden;
   box-shadow: var(--shadow-md);
   cursor: pointer;
+  background: #1e293b;
 }
 
 .card-bg-img {
+  position: absolute;
+  inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -412,6 +416,7 @@ body {
   height: 150px;
   object-fit: cover;
   display: block;
+  background: #1e293b;
 }
 
 .article-card-body {

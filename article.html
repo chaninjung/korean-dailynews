@@ -114,6 +114,10 @@
 
         // Hero image
         const heroImg = document.getElementById('article-hero-img');
+        heroImg.onerror = function () {
+          this.onerror = null;
+          this.src = 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80';
+        };
         heroImg.src = article.image;
         heroImg.alt = article.title[lang] || article.title['eng'];
 

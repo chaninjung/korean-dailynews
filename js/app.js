@@ -85,7 +85,7 @@ function renderFeaturedGrid(newsList) {
   if (leftCardContainer) {
     leftCardContainer.innerHTML = `
       <div class="featured-left-card" onclick="openLessonModal('${mainItem.id}')">
-        <img class="card-bg-img" src="${mainItem.image}" alt="${mainItem.title[lang]}">
+        <img class="card-bg-img" src="${mainItem.image}" alt="${mainItem.title[lang]}" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80'">
         <div class="card-overlay">
           ${mainItem.isNew ? '<span class="badge-new">NEW</span>' : ''}
           <div class="card-bottom-info">
@@ -112,7 +112,7 @@ function renderFeaturedGrid(newsList) {
       card.onclick = () => openLessonModal(item.id);
 
       card.innerHTML = `
-        <img class="card-bg-img" src="${item.image}" alt="${item.title[lang]}">
+        <img class="card-bg-img" src="${item.image}" alt="${item.title[lang]}" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80'">
         <div class="card-overlay">
           ${item.isNew ? '<span class="badge-new">NEW</span>' : ''}
           <div class="card-bottom-info">
@@ -156,7 +156,7 @@ function renderCategorySections(newsList) {
       <div class="articles-row">
         ${catItems.map(item => `
           <div class="article-card-standard" onclick="openLessonModal('${item.id}')">
-            <img class="article-card-thumb" src="${item.image}" alt="${item.title[lang]}">
+            <img class="article-card-thumb" src="${item.image}" alt="${item.title[lang]}" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80'">
             <div class="article-card-body">
               <div class="article-card-title">${item.title[lang] || item.title['eng']}</div>
               <div class="card-meta-bar" style="margin-top: 8px;">
