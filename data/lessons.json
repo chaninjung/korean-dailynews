@@ -3,6 +3,7 @@
     {
       "id": "news-20260928-1",
       "category": "Travel & Experiences",
+      "date": "2026.09.28",
       "level": "Intermediate",
       "levelNum": 5,
       "isNew": true,
@@ -18,19 +19,21 @@
         "hu": "A Koreai Turisztikai Szervezet jelentése szerint csak augusztusban több mint 2,25 millió külföldi turista látogatott Koreába."
       },
       "article": {
-        "kor": "한국관광공사의 최근 통계에 따르면 올해 8월 한국을 방문한 외국인 여행객이 전년 동기 대비 약 23% 크게 늘어난 225만 명을 기록했습니다. K-팝과 전통문화, 지역 관광 명소에 대한 세계적인 관심이 높아지면서 수도권뿐만 아니라 지방 도시를 찾는 여행객들의 발길도 꾸준히 이어지고 있습니다.",
-        "eng": "According to recent statistics from the Korea Tourism Organization, foreign visitors to Korea in August jumped roughly 23% year-on-year to 2.25 million. Driven by worldwide enthusiasm for K-pop, traditional culture, and regional attractions, international travelers are exploring both Seoul and picturesque provincial destinations.",
-        "hu": "A Koreai Turisztikai Szervezet friss adatai alapján augusztusban mintegy 23%-kal, 2,25 millió főre bővült a Dél-Koreába látogató külföldi turisták száma az előző év azonos időszakához képest. A koreai kultúra, a kulináris élmények és a történelmi emlékhelyek iránti globális érdeklődés a fővároson túl a vidéki településekre is sok utazót vonz."
+        "kor": "한국관광공사의 최근 통계에 따르면 올해 8월 한국을 방문한 외국인 여행객이 전년 동기 대비 약 23% 크게 늘어난 225만 명을 기록했습니다. 이는 코로나19 이후 월간 기준 최대 규모로, 방한 관광 시장이 완전히 회복세를 넘어 본격적인 성장 궤도에 올랐음을 보여줍니다.\n\n특히 이번 방한객 증가는 아시아권에 국한되지 않고 미주와 유럽 등 서구권 관광객의 비중이 괄목할 만큼 늘어났다는 점에서 주목받고 있습니다. K-팝과 K-드라마 등 글로벌 한류 콘텐츠의 인기가 한국의 음식, 패션, 뷰티 등 전반적인 라이프스타일 체험 수요로 이어지고 있는 분석입니다.\n\n이와 함께 관광객들의 이동 패턴에도 뚜렷한 변화가 나타나고 있습니다. 과거 서울과 제주 등 일부 대도시에 집중되었던 여행 일정과 달리, 최근에는 경주, 전주, 안동 등 지방의 고유한 전통문화와 자연 명소를 찾는 개별 자유 여행객들이 크게 늘고 있습니다.\n\n한국관광공사 관계자는 지역 고유의 매력을 살린 로컬 관광 콘텐츠를 확충하고 외국인 여행객의 교통 및 언어 편의성을 더욱 강화하여 한국 재방문율을 지속해서 높여나갈 계획이라고 밝혔습니다.",
+        "eng": "According to recent statistics from the Korea Tourism Organization, foreign visitors to Korea in August reached approximately 2.25 million, jumping 23% year-on-year. This marks the highest monthly figure in the post-pandemic era, demonstrating that inbound tourism has not only recovered but entered a robust growth phase.\n\nSignificantly, the growth was driven not only by Asian travelers but also by a considerable increase in visitors from the Americas and Europe. Analysts note that worldwide enthusiasm for K-pop and Korean dramas is actively translating into experiential tourism across gastronomy, fashion, and lifestyle.\n\nTravel itineraries have also become increasingly diversified. Moving away from standard tours centered exclusively around Seoul and Jeju Island, more international independent travelers are heading to provincial destinations like Gyeongju, Jeonju, and Andong to experience authentic heritage and scenery.\n\nTourism authorities emphasized their commitment to developing diverse regional cultural programs and improving transit and multilingual support to foster repeat visits from global travelers.",
+        "hu": "A Koreai Turisztikai Szervezet legfrissebb adatai szerint augusztusban megközelítőleg 2,25 millió külföldi látogatott Dél-Koreába, ami 23%-os növekedést jelent az előző év azonos időszakához képest. Ez a világjárvány óta regisztrált legmagasabb havi adat, jelezve az idegenforgalom teljes felfutását.\n\nKülönösen figyelemreméltó, hogy a növekedés már nemcsak az ázsiai országokból, hanem Észak-Amerikából és Európából érkező utazóknak is köszönhető. A koreai popkultúra és drámák iránti globális érdeklődés egyre inkább ösztönzi az autentikus gasztronómiai és kulturális élmények keresését.\n\nAz utazási szokások terén is változás tapasztalható: Szöul mellett egyre többen keresik fel a történelmi vidéki városokat, például Gyeongjut és Jeonjut. A hatóságok célja a vidéki infrastruktúra és a többnyelvű tájékoztatás további fejlesztése a visszatérő utazók arányának növelése érdekében."
       },
       "vocab": [
         "방한객 (Visitors to Korea) - Koreába látogató",
-        "관광객 (Tourists) - Turisták",
-        "통계 (Statistics) - Statisztika"
+        "회복세 (Recovery trend) - Helyreállási tendencia",
+        "자유 여행객 (Independent traveler) - Egyéni utazó",
+        "재방문율 (Revisit rate) - Visszatérési arány"
       ]
     },
     {
       "id": "news-20260928-2",
       "category": "Culture & Society",
+      "date": "2026.09.28",
       "level": "Intermediate",
       "levelNum": 6,
       "isNew": true,
@@ -46,19 +49,21 @@
         "hu": "Németországban, Münchenben nagy sikerrel rendezték meg a tradicionális koreai teakultúrát, zenét és viseletet bemutató fesztivált."
       },
       "article": {
-        "kor": "독일 뮌헨에서 제2회 사랑방 한국문화축제가 성황리에 개최되었습니다. 현지 시민들과 유럽 각국의 참가자들은 한복 입기, 다도 체험, 전통 국악 공연을 감상하며 한국 전통의 깊은 멋을 직접 경험했습니다. 주최 측은 한류 열풍을 넘어 한국의 고유한 전통문화를 널리 알리는 소중한 계기가 되었다고 밝혔습니다.",
-        "eng": "The 2nd Sarangbang Korean Culture Festival was successfully held in Munich, Germany. European participants and local residents experienced traditional crafts, tea ceremonies, and live Korean musical performances firsthand. Organizers noted the event served as a meaningful opportunity to introduce Korea's authentic cultural heritage beyond modern pop culture.",
-        "hu": "A németországi Münchenben nagy érdeklődés mellett tartották meg a 2. Sarangbang Koreai Kulturális Fesztivált. A résztvevők hagyományos koreai népviseletet próbálhattak fel, teaceremónián vehettek részt és autentikus zenei előadásokat hallgathattak meg, ami még közelebb hozta Korea gazdag kulturális örökségét az európai közönséghez."
+        "kor": "독일 바이에른주 뮌헨 중심가에서 제2회 '사랑방 한국문화축제'가 현지 시민들과 각국 문화 애호가들의 뜨거운 관심 속에 성황리에 개최되었습니다. 이번 축제는 현대적인 K-팝 트렌드뿐만 아니라 한국의 유구한 역사와 고유한 미학을 직접 체감할 수 있도록 다채로운 체험 부스로 꾸며졌습니다.\n\n행사장에서는 한국 전통 의상인 한복 입어보기 체험과 전통 다도 시연, 단청 채색 체험 등 온 가족이 함께 참여할 수 있는 실습형 프로그램이 진행되어 큰 호응을 얻었습니다. 현지 참가자들은 한복의 우아한 색채와 선, 그리고 다도를 통해 배울 수 있는 한국식 예절과 정서에 깊은 인상을 받았습니다.\n\n무대에서는 가야금과 해금 등 대표적인 국악기 연주와 판소리 공연이 이어져 동서양 문화의 아름다운 조화를 이끌어냈습니다. 특히 전통 민요 '아리랑'이 울려 퍼질 때는 관객들의 기립 박수와 환호가 이어지며 현장을 감동으로 물들였습니다.\n\n행사를 기획한 문화교류협회 관계자는 단순한 문화 소개를 넘어 현지 시민들과 깊이 있게 소통하는 뜻깊은 축제가 되었다며, 앞으로도 유럽 전역에 한국 전통문화의 진정한 가치를 전파해 나가겠다고 전했습니다.",
+        "eng": "The 2nd Sarangbang Korean Culture Festival was successfully hosted in the heart of Munich, Germany, drawing enthusiastic interest from local residents and cultural connoisseurs. The festival provided visitors with hands-on opportunities to appreciate Korea's rich historical traditions and unique aesthetic philosophy alongside modern Hallyu trends.\n\nInteractive booths offering hanbok fittings, traditional Korean tea ceremony demonstrations, and dancheong painting workshops were immensely popular among families and attendees of all ages. Participants expressed admiration for the elegant silhouettes and colors of traditional attire as well as the mindful etiquette inherent in Korean tea rituals.\n\nThe stage featured captivating live performances on classical instruments such as the gayageum and haegeum, alongside emotive pansori storytelling. A stirring rendition of the iconic folk song 'Arirang' received a standing ovation, uniting diverse cultures in heartfelt harmony.\n\nOrganizers emphasized that the event served as a meaningful bridge for genuine cross-cultural dialogue, promising to continue introducing the profound essence of Korean heritage across Europe.",
+        "hu": "Németországban, München szívében nagy érdeklődés mellett tartották meg a 2. Sarangbang Koreai Kulturális Fesztivált. A rendezvény célja az volt, hogy a modern K-popon túl bemutassa Korea évezredes történelmi hagyományait és finom esztétikáját.\n\nA látogatók hagyományos hanbok öltözetet próbálhattak fel, koreai teaceremóniát tekinthettek meg, és kipróbálhatták a tradicionális építészeti festészetet (dancheong). A helyi közönséget lenyűgözte a tradicionális ruházat harmóniája és a koreai vendéglátás tiszteletteljes rituáléja.\n\nA színpadon olyan hangszerek csendültek fel, mint a gayageum és a haegeum, a műsort pedig pansori ének zárta. A híres 'Arirang' népdal felhangzásakor a közönség állva tapsolt. A szervezők szerint a fesztivál mély kulturális hidat teremtett a két nemzet között."
       },
       "vocab": [
-        "전통문화 (Traditional culture) - Hagyományos kultúra",
-        "교류 (Exchange / Interaction) - Kulturális csere",
-        "체험하다 (To experience firsthand) - Megtapasztalni"
+        "유구한 (Time-honored / Ancient) - Évezredes, nagy múltú",
+        "체험 프로그램 (Hands-on program) - Interaktív program",
+        "기립 박수 (Standing ovation) - Álló taps",
+        "소통하다 (To communicate / interact) - Kapcsolatot teremteni"
       ]
     },
     {
       "id": "news-20260928-3",
       "category": "Science & Technology",
+      "date": "2026.09.28",
       "level": "Advanced",
       "levelNum": 7,
       "isNew": true,
@@ -74,14 +79,46 @@
         "hu": "Sikeresen zárult a koreai egyetemek mesterséges intelligenciára épülő oktatási módszereit bemutató országos konferencia."
       },
       "article": {
-        "kor": "국내 여러 대학들이 첨단 디지털 기술과 인공지능(AI)을 결합한 교수학습 모델을 선도적으로 구축하고 있습니다. 최근 열린 교육 혁신 경진대회에서는 학생 맞춤형 AI 튜터 시스템과 비대면 실시간 피드백 플랫폼 등 다양한 실전 도입 사례가 소개되어 교육계의 큰 주목을 받았습니다.",
-        "eng": "Universities across South Korea are rapidly integrating advanced artificial intelligence and high-tech platforms into higher education curricula. At the latest innovation symposium, real-world implementations such as personalized AI tutoring tools and real-time interactive feedback systems received widespread attention.",
-        "hu": "Dél-Korea felsőoktatási intézményei élen járnak a mesterséges intelligencia és a digitális technológiák integrálásában. A legutóbbi konferencián bemutatott személyre szabott AI-korrepetitor rendszerek és valós idejű visszajelzést biztosító platformok jelentős figyelmet kaptak a szakemberek körében."
+        "kor": "국내 주요 대학들이 첨단 정보통신기술과 인공지능(AI)을 융합한 차세대 대학교육 모델 구축에 박차를 가하고 있습니다. 고등교육 혁신을 선도하는 '제5회 HTHT(High Touch High Tech) 마스터클래스 경진대회'가 성료되며, 국내 대학 교수진과 연구진이 실전에 적용한 인공지능 교육 우수 사례들이 집중 조명되었습니다.\n\n이번 경진대회에서는 학생 개인의 학습 성향과 성취도를 실시간으로 추적하는 생성형 AI 기반 튜터링 시스템과 가상현실(VR) 기반 시뮬레이션 실습 등 혁신적인 교수학습 솔루션들이 대거 공개되었습니다. 특히 인공지능이 지식 전달을 보조하고, 교수는 학생들과의 정서적 교감 및 심층 토론에 집중하는 이른바 '하이 터치'의 실제 효과가 입증되었습니다.\n\n우수사례로 선정된 한 공과대학 연구팀은 전공 강의에 특화된 AI 조교 플랫폼을 도입한 결과, 학습 부진 학생들의 과제 완성률이 40% 이상 개선되었으며 학생들의 수업 몰입도 역시 현저히 향상되었다고 실증 데이터를 발표했습니다.\n\n전문가들은 단순한 기술 도입을 넘어 교육의 본질인 비판적 사고력과 문제 해결 역량을 길러줄 수 있는 교수법 체계화가 병행되어야 한다고 지적했습니다. 이번 대회는 한국 고등교육이 인공지능 전환(AX) 시대를 선도하기 위한 중요한 분기점이 될 것으로 평가받고 있습니다.",
+        "eng": "Major South Korean universities are accelerating efforts to establish next-generation higher education frameworks by integrating cutting-edge artificial intelligence. At the 5th HTHT (High Touch High Tech) Masterclass Competition, researchers and faculty members showcased groundbreaking pedagogical models that harness AI to enhance classroom learning.\n\nThe competition highlighted dynamic solutions such as generative AI-powered tutoring platforms capable of tracking individual learning trajectories in real time, alongside VR-driven laboratory simulations. Crucially, empirical findings validated the 'High Touch' paradigm: while AI automates fundamental knowledge delivery, educators can dedicate greater energy to mentorship, emotional rapport, and critical debates.\n\nAn engineering team awarded top honors demonstrated that implementing a custom AI teaching assistant reduced homework incompletion rates by over 40% among struggling students, while markedly boosting overall engagement across diverse academic backgrounds.\n\nEducation experts emphasized that technological integration must be matched by structured instructional methodologies focused on cultivating critical reasoning and problem-solving. The event is regarded as a pivotal milestone signaling South Korea\\'s leadership in the educational AI transformation (AX) era.",
+        "hu": "A vezető dél-koreai egyetemek felgyorsították a mesterséges intelligencián alapuló oktatási keretrendszerek bevezetését. Az 5. HTHT (High Touch High Tech) versenyen olyan valós esettanulmányokat mutattak be, amelyek bizonyítják a generatív AI hatékonyságát a felsőoktatásban.\n\nA konferencián személyre szabott virtuális asszisztenseket és VR-szimulációs gyakorlatokat mutattak be. A koncepció lényege: az AI átveszi az ismétlődő tananyag-átadást, így a professzorok a mélyreható vitákra és a személyes mentorálásra koncentrálhatnak.\n\nEgy díjazott mérnöki kar adatai szerint a specializált AI-asszisztens bevezetése több mint 40%-kal csökkentette a lemaradó hallgatók arányát és növelte a tanórai aktivitást. A szakértők szerint Dél-Korea élen jár az oktatási mesterséges intelligencia gyakorlati alkalmazásában."
       },
       "vocab": [
-        "혁신 (Innovation) - Innováció",
-        "맞춤형 (Customized / Tailored) - Személyre szabott",
-        "도입하다 (To adopt / introduce) - Bevezetni"
+        "고등교육 (Higher education) - Felsőoktatás",
+        "성취도 (Academic achievement) - Tanulmányi teljesítmény",
+        "교수법 (Pedagogy / Teaching method) - Oktatási módszertan",
+        "비판적 사고 (Critical thinking) - Kritikai gondolkodás"
+      ]
+    },
+    {
+      "id": "news-20260928-4",
+      "category": "Business & Politics",
+      "date": "2026.09.28",
+      "level": "Proficient",
+      "levelNum": 9,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=800&q=80",
+      "title": {
+        "kor": "정부 거시경제 정책 대전환… 민생 경제 안정 및 금융 규제 혁신 발표",
+        "eng": "Major Shift in Macroeconomic Policy: Government Announces Household Stability and Financial Reforms",
+        "hu": "Jelentős makrogazdasági fordulat: Kormányzati intézkedések a lakossági stabilitásért"
+      },
+      "desc": {
+        "kor": "정부가 가계부채 관리와 청년 주거 안정을 위한 종합 거시경제 쇄신 패키지를 공식 예고했습니다.",
+        "eng": "The government unveiled a comprehensive macroeconomic policy package aimed at household debt mitigation and housing stability.",
+        "hu": "A kormány átfogó makrogazdasági csomagot jelentett be a háztartási adósságok kezelésére és a lakhatási stabilitás támogatására."
+      },
+      "article": {
+        "kor": "정부와 금융당국이 고금리 장기화에 따른 내수 침체를 극복하고 서민 가계의 실질적 부담을 완화하기 위한 특단의 거시경제 정책 패키지를 공식 발표했습니다. 이번 대책은 주거 안정, 청년 일자리 창출, 한계 채무자 채무 조정을 세 축으로 하여 민생 경제의 하방 압력을 방어하는 데 주안점을 두고 있습니다.\n\n발표에 따르면 우선 실수요 청년층과 신혼부부를 대상으로 한 장기 저리 모기지 공급이 대폭 확대되며, 지방 미분양 주택 해소를 위한 취득세 감면 등 세제 지원이 단계적으로 시행됩니다. 금융위원회는 자산 건전성을 훼손하지 않는 범위 내에서 상환 능력 중심의 선별적 금융 완화 방안을 가동할 방침입니다.\n\n또한 산업 구조 개편과 맞물려 신성장 첨단 기술 분야에 대한 정책 금융 지원이 강화됩니다. 정부는 벤처 생태계 활성화를 위해 모태펀드 출자 규모를 대폭 확대하고, 지방 주력 제조업의 스마트화 전환을 지원하여 양질의 민간 일자리를 창출하겠다는 청사진을 제시했습니다.\n\n경제학계는 이번 정책이 단기적인 경기 부양책에 그치지 않고 잠재성장률을 방어하기 위한 구조 개혁의 출발점이 되어야 한다고 제언했습니다. 특히 대외 경제 불확실성이 지속되는 상황에서 재정 건전성을 유지하면서도 취약계층에 대한 정밀한 핀셋 지원이 이뤄져야 한다고 강조했습니다.\n\n정부 관계자는 정책의 실질적인 체감 효과가 내년 상반기부터 본격화될 것이라며, 관계 부처 합동 점검반을 가동해 시장 반응을 면밀히 모니터링하고 후속 입법 조치를 신속히 추진하겠다고 밝혔습니다.",
+        "eng": "South Korean fiscal and monetary authorities officially announced a comprehensive macroeconomic policy package designed to alleviate domestic stagnation and reduce household financial burdens amidst prolonged high interest rates. The blueprint centers on housing stability, youth employment generation, and targeted debt restructuring.\n\nUnder the framework, low-interest long-term mortgages for first-time homebuyers and newlyweds will expand substantially, accompanied by phased tax incentives to absorb housing inventories in regional metropolitan areas. Financial regulators emphasized that credit flexibility will be applied selectively based on repayment capacity without compromising institutional soundness.\n\nSimultaneously, state policy financing will be directed toward strategic high-tech sectors to stimulate industrial restructuring. The government plans to expand capital injections into sovereign venture funds while accelerating the digital transformation of regional manufacturing hubs to foster durable private-sector employment.\n\nMacroeconomists noted that while immediate interventions are necessary, fiscal policy must anchor structural reforms to safeguard Korea\\'s potential growth rate. Experts cautioned that precision-targeted assistance for vulnerable demographics must be balanced with medium-term fiscal discipline amidst persistent global headwinds.\n\nGovernment spokespersons confirmed that measurable economic impacts are projected to materialize beginning in early 2027, with inter-ministerial monitoring mechanisms established to ensure swift legislative implementation.",
+        "hu": "A dél-koreai gazdasági és pénzügyi hatóságok átfogó makrogazdasági stabilizációs csomagot terjesztettek elő a tartósan magas kamatkörnyezet okozta fogyasztási visszaesés enyhítésére. A stratégia három pillérre épül: a megfizethető lakhatásra, a fiatalok foglalkoztatásának ösztönzésére és az adósságkezelésre.\n\nA kormány tervei szerint kibővítik a pályakezdők és fiatal házasok számára elérhető kedvezményes jelzáloghiteleket, valamint adókedvezményekkel ösztönzik az új lakások értékesítését. A Pénzügyi Szolgáltatások Bizottsága hangsúlyozta, hogy a pénzügyi stabilitást szigorúan szem előtt tartva segítik a fizetőképes háztartásokat.\n\nEzzel párhuzamosan jelentős állami forrásokat allokálnak a csúcstechnológiai szektorba és a regionális ipari modernizációba a tartós munkahelyteremtés érdekében. Közgazdászok szerint a lépések elengedhetetlenek a potenciális növekedési ütem fenntartásához a globális bizonytalanságok közepette.\n\nA hatóságok szerint az intézkedések kézzelfogható hatása a következő év elejére várható, addig is folyamatosan elemzik a piacok reakcióit és készítik elő a szükséges jogszabály-módosításokat."
+      },
+      "vocab": [
+        "거시경제 (Macroeconomics) - Makrogazdaság",
+        "잠재성장률 (Potential growth rate) - Potenciális növekedési ráta",
+        "재정 건전성 (Fiscal soundness) - Pénzügyi / fiskális fegyelem",
+        "상환 능력 (Repayment capacity) - Törlesztési képesség",
+        "체감 효과 (Tangible / Felt effect) - Érezhető, kézzelfogható hatás"
       ]
     },
     {
@@ -110,7 +147,8 @@
         "생성형 AI (Generative AI) - Generatív AI",
         "생산성 (Productivity) - Termelékenység",
         "도입하다 (To adopt / introduce) - Bevezetni"
-      ]
+      ],
+      "date": "2026.09.25"
     },
     {
       "id": "news-2",
@@ -138,7 +176,8 @@
         "가짜 뉴스 (Fake news) - Álhírek",
         "출처 (Source) - Forrás",
         "신뢰성 (Reliability) - Megbízhatóság"
-      ]
+      ],
+      "date": "2026.09.25"
     },
     {
       "id": "news-3",
@@ -166,7 +205,8 @@
         "세계유산 (World Heritage) - Világörökség",
         "관광객 (Tourist) - Turista",
         "전통 (Tradition) - Hagyomány"
-      ]
+      ],
+      "date": "2026.09.25"
     },
     {
       "id": "news-4",
@@ -194,7 +234,8 @@
         "대중교통 (Public transit) - Tömegközlekedés",
         "정기권 (Pass / Ticket) - Bérlet",
         "무제한 (Unlimited) - Korlátlan"
-      ]
+      ],
+      "date": "2026.09.25"
     },
     {
       "id": "news-5",
@@ -222,7 +263,8 @@
         "중독 (Addiction) - Függőség",
         "습관 (Habit) - Szokás",
         "디지털 디톡스 (Digital detox) - Digitális detox"
-      ]
+      ],
+      "date": "2026.09.25"
     }
   ],
   "categories": [

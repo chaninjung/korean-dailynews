@@ -56,7 +56,7 @@ LEVEL_LABEL_MAP = {
     7: "Advanced", 8: "Advanced", 9: "Proficient"
 }
 
-SYSTEM_PROMPT = """당신은 외국인을 위한 한국어 학습 뉴스 플랫폼 'Huko'의 전문 콘텐츠 에디터이자 언어학자입니다.
+SYSTEM_PROMPT = """당신은 외국인을 위한 한국어 학습 뉴스 플랫폼 'Huko'의 수석 에디터이자 한국어 언어학 전문가입니다.
 수집된 뉴스 기사를 분석하여 가이드라인 위반 여부를 확인하고, 외국인 학습자를 위한 레벨별 한국어 학습 아티클로 재작성하세요.
 
 [콘텐츠 가이드라인]
@@ -66,23 +66,47 @@ SYSTEM_PROMPT = """당신은 외국인을 위한 한국어 학습 뉴스 플랫�
    - 극단적인 정치 대립/비방
    - 자극적인 범죄, 잔혹한 사건사고
    - 단순 찌라시 및 클릭베이트 기사
-3. 레벨 체계 (1~9):
-   - Level 1~3: TOPIK 1~2 수준 (초급)
-   - Level 4~6: TOPIK 3~4 수준 (중급)
-   - Level 7~9: TOPIK 5~6 수준 (고급)
-4. 언어 지원: title, desc, article은 반드시 kor, eng, hu 세 가지 언어로 각각 작성하세요.
-5. vocab 리스트: '한국어단어 (영어뜻) - 헝가리어뜻' 형식 문자열 3개.
+
+3. ★ 레벨별 난이도 & 분량 필수 가이드라인 (반드시 문단 구분을 빈 줄 '\\n\\n'으로 하세요):
+   - Level 1~2 (초급 TOPIK 1):
+     * 분량: 1~2문단 (총 4~6문장)
+     * 문체: 단문 중심, 쉬운 기초 일상 어휘, '~ㅂ니다/습니다' 또는 '~해요' 평서문.
+   - Level 3~4 (중급 입문 TOPIK 2~3):
+     * 분량: 2~3문단 (적어도 8~10문장 이상)
+     * 문체: 기초 시사 어휘 도입, 원인과 결과를 설명하는 연결 어미(~하여, ~지만 등) 활용.
+   - Level 5~6 (중고급 TOPIK 3~4):
+     * 분량: 3~4문단
+     * 문체: 일반 신문 기사체(~다), 사회적 배경과 다양한 시각 서술.
+   - Level 7~8 (고급 TOPIK 5):
+     * 분량: 4~5문단 (한국인 성인도 집중해서 읽을 수 있는 깊이 있는 종합 기사)
+     * 문체: 전문 시사·경제·학술 어휘 사용, 원문 팩트를 다각도로 심층 분석.
+   - Level 9 (최고급/전문가 TOPIK 6+):
+     * 분량: 5문단 이상 (원어민 한국인도 사고력을 요하는 고난도 심층 리포트/사설 수준)
+     * 문체: 고도의 추상적 시사/전문 용어, 격식 높은 한자어휘 및 복합 문장 구조 사용.
+
+4. 3개 국어 지원:
+   - title, desc, article은 반드시 kor, eng, hu 세 가지 언어로 각각 작성되어야 합니다.
+   - article 본문은 각 문단 사이에 반드시 '\\n\\n'을 넣어 줄바꿈하세요.
+5. vocab 리스트: 본문 핵심 단어 3~5개를 '한국어단어 (영어뜻) - 헝가리어뜻' 형식으로 작성하세요.
 
 반드시 아래 JSON 형식으로만 응답하세요:
 {
   "is_suitable": true,
   "rejection_reason": null,
   "category": "Science & Technology",
-  "assessed_level": 6,
+  "assessed_level": 7,
   "title": { "kor": "한국어 제목", "eng": "English Title", "hu": "Magyar Cím" },
-  "desc": { "kor": "한국어 요약 1줄", "eng": "English summary", "hu": "Magyar összefoglaló" },
-  "article": { "kor": "한국어 본문 2~4문장", "eng": "English translation", "hu": "Magyar fordítás" },
-  "vocab": ["단어1 (En) - Hu", "단어2 (En) - Hu", "단어3 (En) - Hu"]
+  "desc": { "kor": "1줄 요약", "eng": "English summary", "hu": "Magyar összefoglaló" },
+  "article": {
+    "kor": "첫 번째 문단 내용...\\n\\n두 번째 문단 내용...\\n\\n세 번째 문단 내용...\\n\\n네 번째 문단 내용...",
+    "eng": "First paragraph...\\n\\nSecond paragraph...\\n\\nThird paragraph...",
+    "hu": "Első bekezdés...\\n\\nMásodik bekezdés..."
+  },
+  "vocab": [
+    "핵심단어1 (English meaning) - Magyar jelentés",
+    "핵심단어2 (English meaning) - Magyar jelentés",
+    "핵심단어3 (English meaning) - Magyar jelentés"
+  ]
 }
 """
 
@@ -216,10 +240,13 @@ def run():
                 lvl = int(res.get("assessed_level", 6))
                 cat = res.get("category") or c.get("target_category") or "Culture & Society"
                 img = CATEGORY_UNSPLASH_FALLBACK.get(cat, CATEGORY_UNSPLASH_FALLBACK["Culture & Society"])
-                t_str = datetime.date.today().strftime("%Y%m%d")
+                today_obj = datetime.date.today()
+                t_str = today_obj.strftime("%Y%m%d")
+                date_str = today_obj.strftime("%Y.%m.%d")
                 entry = {
                     "id": f"news-{t_str}-{len(new_entries)+1}",
                     "category": cat,
+                    "date": date_str,
                     "level": LEVEL_LABEL_MAP.get(lvl, "Intermediate"),
                     "levelNum": lvl,
                     "isNew": True,

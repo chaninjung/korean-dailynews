@@ -123,15 +123,15 @@
           ${article.isNew ? '<span class="badge-new">NEW</span>' : ''}
           <span class="level-badge"><span class="level-badge-num">${article.levelNum}</span> ${article.level}</span>
           <span class="category-tag">${article.category}</span>
+          ${article.date ? `<span class="date-tag">📅 ${article.date}</span>` : ''}
         `;
 
         // Title
         document.getElementById('article-title').textContent =
           article.title[lang] || article.title['eng'];
 
-        // Body text
-        document.getElementById('article-text').textContent =
-          article.article[lang] || article.article['eng'];
+        // Body text (Render paragraphs with linebreaks)
+        renderArticleBody(article.article[lang] || article.article['eng']);
 
         // Vocabulary
         const vocabList = document.getElementById('vocab-list');
@@ -151,6 +151,27 @@
       }
     }
 
+    function renderArticleBody(text) {
+      const bodyEl = document.getElementById('article-body');
+      if (!bodyEl) return;
+      if (!text) {
+        bodyEl.innerHTML = '<p class="article-paragraph">내용이 없습니다.</p>';
+        return;
+      }
+      // 문단 구분 (\n\n 또는 \n)
+      const paragraphs = text.split(/\n\s*\n/).filter(p => p.trim().length > 0);
+      if (paragraphs.length <= 1) {
+        const subParas = text.split(/\n/).filter(p => p.trim().length > 0);
+        if (subParas.length > 1) {
+          bodyEl.innerHTML = subParas.map(p => `<p class="article-paragraph">${p.trim()}</p>`).join('');
+          return;
+        }
+      }
+      bodyEl.innerHTML = (paragraphs.length ? paragraphs : [text])
+        .map(p => `<p class="article-paragraph">${p.trim()}</p>`)
+        .join('');
+    }
+
     // Hook into setLanguage to re-render article text
     const _origSetLang = window.setLanguage;
     window.setLanguage = function(lang) {
@@ -159,8 +180,7 @@
         const a = window._currentArticle;
         document.getElementById('article-title').textContent =
           a.title[lang] || a.title['eng'];
-        document.getElementById('article-text').textContent =
-          a.article[lang] || a.article['eng'];
+        renderArticleBody(a.article[lang] || a.article['eng']);
         document.title = (a.title[lang] || a.title['eng']) + ' — Daily Korean News';
       }
     };

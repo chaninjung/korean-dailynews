@@ -93,6 +93,7 @@ function renderFeaturedGrid(newsList) {
             <div class="card-meta-bar">
               <span class="level-badge"><span class="level-badge-num">${mainItem.levelNum}</span> ${mainItem.level}</span>
               <span class="category-tag">${mainItem.category}</span>
+              ${mainItem.date ? `<span class="date-tag">📅 ${mainItem.date}</span>` : ''}
             </div>
           </div>
         </div>
@@ -119,6 +120,7 @@ function renderFeaturedGrid(newsList) {
             <div class="card-meta-bar">
               <span class="level-badge"><span class="level-badge-num">${item.levelNum}</span> ${item.level}</span>
               <span class="category-tag">${item.category}</span>
+              ${item.date ? `<span class="date-tag">📅 ${item.date}</span>` : ''}
             </div>
           </div>
         </div>
@@ -159,6 +161,7 @@ function renderCategorySections(newsList) {
               <div class="article-card-title">${item.title[lang] || item.title['eng']}</div>
               <div class="card-meta-bar" style="margin-top: 8px;">
                 <span class="level-badge"><span class="level-badge-num">${item.levelNum}</span> ${item.level}</span>
+                ${item.date ? `<span class="date-tag">📅 ${item.date}</span>` : ''}
                 ${item.isNew ? '<span class="badge-new">NEW</span>' : ''}
               </div>
             </div>
