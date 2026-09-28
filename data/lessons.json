@@ -1,11 +1,95 @@
 {
   "featured": [
     {
+      "id": "news-20260928-1",
+      "category": "Travel & Experiences",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=800&q=80",
+      "title": {
+        "kor": "한국 찾는 외국인 관광객 급증… 8월 방한객 23% 증가",
+        "eng": "Foreign Tourists Visiting Korea Surge: Inbound Visitors Jump 23% in August",
+        "hu": "Ugrásszerűen megnőtt a Koreába látogató külföldi turisták száma augusztusban"
+      },
+      "desc": {
+        "kor": "한국관광공사에 따르면 지난 8월 한 달간 225만 명 이상의 외국인 관광객이 한국을 방문했습니다.",
+        "eng": "According to the Korea Tourism Organization, over 2.25 million foreign tourists visited Korea in August alone.",
+        "hu": "A Koreai Turisztikai Szervezet jelentése szerint csak augusztusban több mint 2,25 millió külföldi turista látogatott Koreába."
+      },
+      "article": {
+        "kor": "한국관광공사의 최근 통계에 따르면 올해 8월 한국을 방문한 외국인 여행객이 전년 동기 대비 약 23% 크게 늘어난 225만 명을 기록했습니다. K-팝과 전통문화, 지역 관광 명소에 대한 세계적인 관심이 높아지면서 수도권뿐만 아니라 지방 도시를 찾는 여행객들의 발길도 꾸준히 이어지고 있습니다.",
+        "eng": "According to recent statistics from the Korea Tourism Organization, foreign visitors to Korea in August jumped roughly 23% year-on-year to 2.25 million. Driven by worldwide enthusiasm for K-pop, traditional culture, and regional attractions, international travelers are exploring both Seoul and picturesque provincial destinations.",
+        "hu": "A Koreai Turisztikai Szervezet friss adatai alapján augusztusban mintegy 23%-kal, 2,25 millió főre bővült a Dél-Koreába látogató külföldi turisták száma az előző év azonos időszakához képest. A koreai kultúra, a kulináris élmények és a történelmi emlékhelyek iránti globális érdeklődés a fővároson túl a vidéki településekre is sok utazót vonz."
+      },
+      "vocab": [
+        "방한객 (Visitors to Korea) - Koreába látogató",
+        "관광객 (Tourists) - Turisták",
+        "통계 (Statistics) - Statisztika"
+      ]
+    },
+    {
+      "id": "news-20260928-2",
+      "category": "Culture & Society",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=800&q=80",
+      "title": {
+        "kor": "독일 뮌헨서 열린 사랑방 한국문화축제… 전통문화의 매력 전파",
+        "eng": "Sarangbang Korean Culture Festival in Munich Showcases Traditional Heritage",
+        "hu": "Münchenben rendezték meg a Sarangbang Koreai Kulturális Fesztivált"
+      },
+      "desc": {
+        "kor": "독일 뮌헨 현지에서 한국의 다도와 국악, 한복을 직접 체험할 수 있는 문화 교류 축제가 성공적으로 열렸습니다.",
+        "eng": "A cultural festival introducing Korean tea ceremonies, gugak, and hanbok was successfully hosted in Munich, Germany.",
+        "hu": "Németországban, Münchenben nagy sikerrel rendezték meg a tradicionális koreai teakultúrát, zenét és viseletet bemutató fesztivált."
+      },
+      "article": {
+        "kor": "독일 뮌헨에서 제2회 사랑방 한국문화축제가 성황리에 개최되었습니다. 현지 시민들과 유럽 각국의 참가자들은 한복 입기, 다도 체험, 전통 국악 공연을 감상하며 한국 전통의 깊은 멋을 직접 경험했습니다. 주최 측은 한류 열풍을 넘어 한국의 고유한 전통문화를 널리 알리는 소중한 계기가 되었다고 밝혔습니다.",
+        "eng": "The 2nd Sarangbang Korean Culture Festival was successfully held in Munich, Germany. European participants and local residents experienced traditional crafts, tea ceremonies, and live Korean musical performances firsthand. Organizers noted the event served as a meaningful opportunity to introduce Korea's authentic cultural heritage beyond modern pop culture.",
+        "hu": "A németországi Münchenben nagy érdeklődés mellett tartották meg a 2. Sarangbang Koreai Kulturális Fesztivált. A résztvevők hagyományos koreai népviseletet próbálhattak fel, teaceremónián vehettek részt és autentikus zenei előadásokat hallgathattak meg, ami még közelebb hozta Korea gazdag kulturális örökségét az európai közönséghez."
+      },
+      "vocab": [
+        "전통문화 (Traditional culture) - Hagyományos kultúra",
+        "교류 (Exchange / Interaction) - Kulturális csere",
+        "체험하다 (To experience firsthand) - Megtapasztalni"
+      ]
+    },
+    {
+      "id": "news-20260928-3",
+      "category": "Science & Technology",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "title": {
+        "kor": "대학가 AI 교육 혁신 확산… HTHT 마스터클래스 성료",
+        "eng": "AI Educational Transformation Expands Across Universities at HTHT Masterclass",
+        "hu": "Mesterséges intelligencia alapú oktatási innováció terjed a dél-koreai egyetemeken"
+      },
+      "desc": {
+        "kor": "국내 대학들의 인공지능 기반 교수학습 모델과 교육 혁신 우수사례를 공유하는 행사가 성황리에 마무리되었습니다.",
+        "eng": "An annual conference highlighting AI-driven teaching innovations and adaptive learning models across Korean universities concluded successfully.",
+        "hu": "Sikeresen zárult a koreai egyetemek mesterséges intelligenciára épülő oktatási módszereit bemutató országos konferencia."
+      },
+      "article": {
+        "kor": "국내 여러 대학들이 첨단 디지털 기술과 인공지능(AI)을 결합한 교수학습 모델을 선도적으로 구축하고 있습니다. 최근 열린 교육 혁신 경진대회에서는 학생 맞춤형 AI 튜터 시스템과 비대면 실시간 피드백 플랫폼 등 다양한 실전 도입 사례가 소개되어 교육계의 큰 주목을 받았습니다.",
+        "eng": "Universities across South Korea are rapidly integrating advanced artificial intelligence and high-tech platforms into higher education curricula. At the latest innovation symposium, real-world implementations such as personalized AI tutoring tools and real-time interactive feedback systems received widespread attention.",
+        "hu": "Dél-Korea felsőoktatási intézményei élen járnak a mesterséges intelligencia és a digitális technológiák integrálásában. A legutóbbi konferencián bemutatott személyre szabott AI-korrepetitor rendszerek és valós idejű visszajelzést biztosító platformok jelentős figyelmet kaptak a szakemberek körében."
+      },
+      "vocab": [
+        "혁신 (Innovation) - Innováció",
+        "맞춤형 (Customized / Tailored) - Személyre szabott",
+        "도입하다 (To adopt / introduce) - Bevezetni"
+      ]
+    },
+    {
       "id": "news-1",
       "category": "Business & Politics",
       "level": "Intermediate",
       "levelNum": 6,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1200&q=80",
       "title": {
         "kor": "한국의 AI 혁신 — 더 많은 직장인들이 AI를 사용하는 이유",
@@ -33,7 +117,7 @@
       "category": "Science & Technology",
       "level": "Intermediate",
       "levelNum": 6,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=600&q=80",
       "title": {
         "kor": "가짜 뉴스를 구별하는 5가지 실용한 방법",
@@ -61,7 +145,7 @@
       "category": "Travel & Experiences",
       "level": "Proficient",
       "levelNum": 9,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=600&q=80",
       "title": {
         "kor": "한국 유네스코 세계유산 명소 탐방 가이드",
@@ -89,7 +173,7 @@
       "category": "Culture & Society",
       "level": "Advanced",
       "levelNum": 7,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1517649763962-0c623266010b?auto=format&fit=crop&w=600&q=80",
       "title": {
         "kor": "서울 스마트 대중교통 신기술 도입 소식",

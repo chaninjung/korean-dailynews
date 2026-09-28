@@ -12,6 +12,12 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from typing import List, Dict, Any, Optional
 import requests
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LESSONS_PATH = os.path.join(BASE_DIR, "data", "lessons.json")
