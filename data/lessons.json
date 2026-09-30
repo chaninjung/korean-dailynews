@@ -1,12 +1,183 @@
 {
   "featured": [
     {
+      "id": "news-20260930-1",
+      "category": "Business & Politics",
+      "date": "2026.09.30",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://img8.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930077051530_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260930077051530"
+      },
+      "title": {
+        "kor": "식당 폐업에서 반도체 엔지니어로… 중장년 재취업 및 고용 우수사례 발표",
+        "eng": "From Restaurant Closure to Semiconductor Engineer: Middle-Aged Re-employment Success Stories",
+        "hu": "A étterembezárástól a félvezető-mérnökségig: Középkorúak újraelhelyezkedési sikertörténetei"
+      },
+      "desc": {
+        "kor": "고용노동부와 노사발전재단이 중장년 재취업 우수자와 채용 우수 기업을 시상하고 지원 정책 강화를 약속했습니다.",
+        "eng": "The Ministry of Employment and Labor and the Korea Labor-Management Foundation awarded middle-aged re-employment achievers and companies, promising stronger support policies.",
+        "hu": "A Foglalkoztatási és Munkaügyi Minisztériumvalamint a Koreai Munkáltatói és Munkavállalói Alapítvány díjazta a középkorúak sikeres újraelhelyezkedését és a vállalati jó gyakorlatokat."
+      },
+      "article": {
+        "kor": "고용노동부와 노사발전재단은 서울 여의도 CCMM빌딩에서 ‘제21회 중장년고용 강조주간 기념식’을 개최하고, 중장년 재취업 우수자 5명과 채용 우수 기업 12곳에 대한 시상식을 진행했습니다. 이번 행사는 고령화 사회 속에서 중장년층의 지속적인 경제 활동과 경력 재설계의 중요성을 알리고 모범 사례를 공유하기 위해 마련되었습니다.\n\n재취업 우수자 부문에서는 코로나19 여파로 식당을 닫은 뒤 반도체 전문 교육 과정을 거쳐 엔지니어로 재기한 최명철 씨와, 외환위기로 경력이 단절되었으나 일경험 프로그램을 통해 사무회계 직무에 복귀한 신정숙 씨 등이 선정되었습니다. 이들은 정부와 관련 기관의 중장년 맞춤형 교육 및 인턴십 제도가 막막했던 재취업의 핵심 발판이 되었다고 소회를 밝혔습니다.\n\n기업 부문에서는 중장년 인재를 적극 채용한 해양공사, 서울특별시마을버스운송사업조합, 신안교통재단 등이 노동부 장관상을 받았습니다. 또한 굿모닝병원과 한국콜마 등은 교육 시간을 유급 근로시간으로 인정하거나 사내 취업규칙을 개정하여 재취업 지원 서비스를 지속 가능한 제도로 안착시킨 점을 크게 평가받았습니다.\n\n김영훈 고용노동부 장관은 중장년 고용이 국가 경제와 기업 생존을 위한 필수 과제임을 강조하며, 중장년 채용 기업에 대한 장려금 지원과 인력난 해소 직종에 취업하는 중장년을 위한 인센티브를 확대하겠다고 밝혔습니다. 노사발전재단 역시 중소·중견기업 대상 컨설팅을 확대해 중장년의 주기적인 경력 점검과 재취업 지원을 강화할 방침입니다.",
+        "eng": "The Ministry of Employment and Labor and the Korea Labor-Management Foundation held the '21st Middle-Aged Employment Emphasis Week Commemoration Ceremony' at the CCMM Building in Yeouido, Seoul, honoring 5 individuals with outstanding re-employment stories and 12 top-hiring companies. The event was designed to highlight the importance of continuous economic activity and career redesign for middle-aged workers in an aging society.\n\nAmong the individual awardees were Choi Myung-chul, who restarted his career as a semiconductor engineer after closing his restaurant due to COVID-19, and Shin Jung-sook, who returned to office accounting through a work-experience program after a career break triggered by the IMF financial crisis. They shared that tailored training and internship programs provided by the government and related institutions served as vital stepping stones for their career transitions.\n\nIn the corporate sector, Marine Corporation, the Seoul Village Bus Transport Industry Association, and the Shinan Transportation Foundation received Minister's Awards for actively hiring middle-aged talent. Companies like Good Morning Hospital and Kolmar Korea were also recognized for integrating re-employment support services into sustainable workplace systems by counting training hours as paid work hours or updating employment rules.\n\nLabor Minister Kim Young-hoon emphasized that middle-aged employment is essential for both the national economy and corporate survival, promising expanded financial subsidies for companies hiring older workers and incentives for job seekers entering labor-shortage industries. The Korea Labor-Management Foundation also pledged to expand consulting for small and medium-sized enterprises to reinforce regular career checks and re-employment support.",
+        "hu": "A Foglalkoztatási és Munkaügyi Minisztérium és a Koreai Munkáltatói és Munkavállalói Alapítvány megtartotta a '21. Középkorúak Foglalkoztatási Hete' megemlékezést a szöuli Yeouido CCMM épületben, ahol 5 kiemelkedően újraelhelyezkedett középkorút és 12 példamutató vállalatot díjaztak. Az esemény célja az volt, hogy felhívja a figyelmet a középkorúak folyamatos gazdasági aktivitásának és karrier-újratervezésének fontosságára az elöregedő társadalomban.\n\nAz egyéni díjazottak között volt Choi Myung-chul, aki a COVID-19 miatti étterembezárás után félvezető-mérnökként kezdett új életet, valamint Shin Jung-sook, aki az IMF-válság miatti karriermegszakadás után egy munkatapasztalati program segítségével tért vissza az irodai könyvelésbe. Elmondásuk szerint a kormányzati és intézményi testreszabott képzések, valamint a szakmai gyakorlati programok jelentették a legfőbb támaszt a sikeres karváltásban.\n\nA vállalati kategóriában a Marine Corporation, a Szöuli Helyi Buszközlekedési Szövetség és a Shinan Közlekedési Alapítvány kapott miniszteri elismerést a középkorú munkaerő aktív felvételéért. A Good Morning Kórház és a Kolmar Korea szintén elismerésben részesült, amiért a képzési időt fizetett munkaidőként ismerték el, vagy módosították a munkarendet, fenntarthatóvá téve az újraelhelyezkedést támogató rendszereket.\n\nKim Young-hoon munkaügyi miniszter hangsúlyozta, hogy a középkorúak foglalkoztatása elengedhetetlen a nemzetgazdaság és a vállalatok fennmaradása szempontjából. Ígéretet tett a középkorúakat alkalmazó cégek támogatásának bővítésére és a munkaerőhiánnyal küzdő szektorokban elhelyezkedők ösztönzésére. Az alapítvány emellett a kis- és középvállalkozásoknak nyújtott tanácsadás kiterjesztését tervezi a rendszeres karrierellenőrzés és támogatás megerősítése érdekében."
+      },
+      "vocab": [
+        "재취업 (re-employment) - újraelhelyezkedés",
+        "경력 단절 (career disruption) - karriermegszakadás",
+        "고용노동부 (Ministry of Employment and Labor) - Foglalkoztatási és Munkaügyi Minisztérium",
+        "인센티브 (incentive) - ösztönző"
+      ]
+    },
+    {
+      "id": "news-20260930-2",
+      "category": "Science & Technology",
+      "date": "2026.09.30",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://img0.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930146800017_04_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260930146800017"
+      },
+      "title": {
+        "kor": "AI 성과 내는 기업 급증…주주수익률 2.3배의 비결",
+        "eng": "Surge in Companies Achieving AI Results: The Secret Behind 2.3x Shareholder Returns",
+        "hu": "Ugrásszerűen nő az MI-vel eredményeket elérő vállalatok száma: A 2,3-szoros részvényesi hozam titka"
+      },
+      "desc": {
+        "kor": "보스턴컨설팅그룹(BCG) 조사 결과, 전 세계 기업의 절반 가까이가 AI를 통해 실질적인 성과를 창출하고 있는 것으로 나타났습니다.",
+        "eng": "According to a Boston Consulting Group (BCG) survey, nearly half of companies worldwide are generating tangible results through AI.",
+        "hu": "A Boston Consulting Group (BCG) felmérése szerint a világ vállalatainak csaknem fele ér el kézzelfogható eredményeket az MI révén."
+      },
+      "article": {
+        "kor": "글로벌 컨설팅 기업 보스턴컨설팅그룹(BCG)이 발표한 'AI 활용 지수 2026' 리포트에 따르면, 전 세계 기업의 절반 가까이가 인공지능(AI)을 도입해 실질적인 경영 성과를 거두고 있는 것으로 나타났습니다. 과거 일부 선도 기업에만 국한되었던 AI 기반의 가치 창출이 점차 다양한 산업군과 기업들로 확산하는 추세입니다.\n\nBCG는 조사 대상 기업을 AI 성숙도에 따라 정체, 초기, 확산, 미래 준비형 등 4개 등급으로 분류했습니다. 이 중 최상위 단계인 '미래 준비형' 기업은 전체의 7.5%를 차지했으며, 이들의 3년 총주주수익률(TSR)은 후발 기업보다 2.3배 높은 것으로 집계되었습니다. 또한 매출 증가율은 2.4배, 비용 절감 효과는 무려 4.3배에 달해 압도적인 격차를 보여주었습니다.\n\n주목할 만한 점은 전체 기업의 41%를 차지하는 '확산' 단계 기업에서도 성과가 가시화되고 있다는 사실입니다. 이들 기업의 총주주수익률 역시 후발 기업의 1.8배에 달해, AI 활용을 본격적으로 확대하는 기업군에서도 실질적인 가치가 창출되기 시작했음을 증명했습니다. 결과적으로 미래 준비형과 확산 단계를 합친 약 48.5%의 기업이 AI를 통해 유의미한 성과를 내고 있습니다.\n\n이에 따라 기업들의 관심은 단순히 'AI가 성과를 낼 수 있는가'라는 의문에서 '성과를 어떻게 효과적으로 관리하고 조직 전반으로 확산할 것인가'로 이동하고 있습니다. 또한, 기업들의 평균 AI 지출은 매출 대비 1.7%에서 3.3%로 두 배 가까이 증가했습니다. 특히 전체 AI 지출의 80% 이상이 기존의 IT 예산 범위를 벗어나 집행되고 있어, AI가 단순한 IT 비용 항목을 넘어 핵심 경영 전략으로 자리 잡았음을 시사합니다.",
+        "eng": "According to the 'Applied AI Index 2026' report released by the global consulting firm Boston Consulting Group (BCG), nearly half of companies worldwide are achieving tangible business results by adopting artificial intelligence (AI). The value creation driven by AI, which was previously limited to a few leading companies, is gradually spreading across various industries and enterprises.\n\nBCG classified the surveyed companies into four stages based on their AI maturity: stagnating, emerging, scaling, and future-built. Among these, 'future-built' companies, representing the highest level, accounted for 7.5% of the total, and their three-year Total Shareholder Return (TSR) was 2.3 times higher than that of laggards. Furthermore, their revenue growth rate was 2.4 times higher, and their cost reduction effect reached a staggering 4.3 times, demonstrating an overwhelming gap.\n\nNotably, performance is also becoming visible in 'scaling' stage companies, which make up 41% of all enterprises. The TSR of these companies was also 1.8 times higher than that of laggards, proving that tangible value is beginning to be created even among companies actively expanding their AI utilization. Consequently, combining the future-built and scaling stages, nearly 48.5% of companies are generating meaningful results through AI.\n\nAccordingly, the focus of companies is shifting from the simple question of 'Can AI deliver results?' to 'How can we effectively manage and scale these results across the entire organization?' Additionally, average AI spending by companies nearly doubled from 1.7% to 3.3% of revenue. Notably, over 80% of total AI spending is being executed outside the traditional IT budget, suggesting that AI has moved beyond a simple IT cost item to become a core business strategy.",
+        "hu": "A Boston Consulting Group (BCG) globális tanácsadó cég által közzétett „Applied AI Index 2026” jelentés szerint a világ vállalatainak csaknem fele ér el kézzelfogható üzleti eredményeket a mesterséges intelligencia (MI) bevezetésével. Az MI által vezérelt értékteremtés, amely korábban néhány vezető vállalatra korlátozódott, fokozatosan terjed a különböző iparágakban és vállalatoknál.\n\nA BCG az MI-érettség alapján négy szakaszba sorolta a vizsgált vállalatokat: stagnáló, feltörekvő, skálázódó és jövőálló. Ezek közül a legmagasabb szintet képviselő „jövőálló” vállalatok az összesített minta 7,5%-át tették ki, és hároméves teljes részvényesi hozamuk (TSR) 2,3-szor magasabb volt, mint a lemaradóké. Emellett árbevétel-növekedési ütemük 2,4-szerese, költségcsökkentési hatásuk pedig elképesztő, 4,3-szorosa volt a lemaradókénak, ami elsöprő különbséget mutat.\n\nFigyelemre méltó, hogy a teljesítmény a „skálázódó” szakaszban lévő vállalatoknál is láthatóvá válik, amelyek az összes vállalat 41%-át teszik ki. Ezen vállalatok TSR-je szintén 1,8-szor magasabb volt, mint a lemaradóké, ami bizonyítja, hogy az MI-használatukat aktívan bővítő vállalatok körében is elkezdett kézzelfogható érték teremtődni. Ennek eredményeként a jövőálló és a skálázódó szakaszokat kombinálva a vállalatok közel 48,5%-a ér el jelentős eredményeket az MI révén.\n\nEnnek megfelelően a vállalatok fókusza az „Képes-e az MI eredményeket felmutatni?” egyszerű kérdésről arra helyeződik át, hogy „Hogyan tudjuk ezeket az eredményeket hatékonyan kezelni és kiterjeszteni a teljes szervezetre?”. Emellett a vállalatok átlagos MI-kiadásai csaknem megduplázódtak, az árbevétel 1,7%-áról 3,3%-ára nőttek. Különösen figyelemre méltó, hogy a teljes MI-kiadás több mint 80%-át a hagyományos IT-költségvetésen kívül hajtják végre, ami arra utal, hogy az MI túllépett az egyszerű IT-költségtényezőn, és alapvető üzleti stratégiává vált."
+      },
+      "vocab": [
+        "가치 창출 (value creation) - értékteremtés",
+        "성숙도 (maturity) - érettség",
+        "총주주수익률 (Total Shareholder Return) - teljes részvényesi hozam",
+        "비용 절감 (cost reduction) - költségcsökkentés",
+        "예산 (budget) - költségvetés"
+      ]
+    },
+    {
+      "id": "news-20260930-3",
+      "category": "Health & Lifestyle",
+      "date": "2026.09.30",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://img1.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930160000017_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260930160000017"
+      },
+      "title": {
+        "kor": "신라젠, 항암 바이러스 반복 정맥 투여 기술 국내 특허 취득",
+        "eng": "Sillajen Secures Domestic Patent for Repeated Intravenous Oncolytic Virus Administration",
+        "hu": "A Sillajen hazai szabadalmat szerzett az onkolitikus vírusok ismételt vénás adagolási technológiájára"
+      },
+      "desc": {
+        "kor": "신라젠이 중화항체를 회피하여 항암 바이러스를 정맥에 반복 투여할 수 있는 핵심 기술의 국내 특허를 등록했습니다.",
+        "eng": "Sillajen has registered a domestic patent for a core technology that enables repeated intravenous administration of oncolytic viruses by evading neutralizing antibodies.",
+        "hu": "A Sillajen hazai szabadalmat bejegyzett egy olyan kulcstechnológiára, amely a semlegesítő antitestek elkerülésével lehetővé teszi az onkolitikus vírusok ismételt vénás adagolását."
+      },
+      "article": {
+        "kor": "신라젠이 항암 바이러스의 반복 정맥 투여를 가능하게 하는 기술에 대해 국내 특허 등록을 완료했다고 밝혔다. 기존 항암 바이러스 치료제는 체내에 투여되었을 때 중화항체가 형성되어 반복 투여 시 치료 효과가 저하되는 한계가 존재했다.\n\n이번에 특허를 등록한 기술은 신라젠이 개발 중인 차세대 항암 바이러스 플랫폼 'SJ-607'의 중화항체 회피 기능이다. 중화항체는 병원체에 결합해 독성이나 감염력을 저해하는 생체 방어 물질이지만, 항암 바이러스 치료에서는 오히려 바이러스의 효능을 떨어뜨리는 원인으로 작용해 왔다.\n\n신라젠의 SJ-600 시리즈는 이러한 한계를 극복하여 항암 바이러스의 정맥 투여 효율을 크게 높일 것으로 기대되는 파이프라인이다. 회사 관계자는 해당 기술이 전이암 치료에서도 의미 있는 효과를 보이고 있다고 전하며, 향후 관련 기술의 상업화를 적극적으로 추진할 계획이라고 덧붙였다.",
+        "eng": "Sillajen announced that it has successfully registered a domestic patent for a technology that enables repeated intravenous administration of oncolytic viruses. Existing oncolytic virus treatments faced limitations because neutralizing antibodies were formed in the body, which reduced therapeutic efficacy upon repeated administration.\n\nThe patented technology features a neutralizing antibody evasion mechanism incorporated into 'SJ-607', a next-generation oncolytic virus platform under development by Sillajen. While neutralizing antibodies protect cells by binding to pathogens to inhibit their toxicity or infectivity, they have historically acted as a factor diminishing the effectiveness of oncolytic virus therapies.\n\nThe SJ-600 series is a pipeline expected to overcome these constraints and significantly enhance the efficiency of intravenous administration of oncolytic viruses. A Sillajen official stated that the technology demonstrates meaningful anticancer efficacy even in metastatic cancer, adding that the company plans to actively pursue commercialization in the future.",
+        "hu": "A Sillajen bejelentette, hogy sikeresen bejegyezte a hazai szabadalmat egy olyan technológiára, amely lehetővé teszi az onkolitikus vírusok ismételt vénás adagolását. A meglévő onkolitikus vírusterápiák korlátokba ütköztek, mivel a szervezetben semlegesítő antitestek képződtek, ami az ismételt alkalmazás során csökkentette a terápiás hatékonyságot.\n\nA szabadalmaztatott technológia a Sillajen által fejlesztett 'SJ-607' új generációs onkolitikus vírusplatform semlegesítő antitesteket elkerülő funkcióján alapul. Bár a semlegesítő antitestek védik a sejteket azáltal, hogy meggátolják a kórokozók toxicitását és fertőzőképességét, az onkolitikus vírusterápiák esetében eddig éppen a kezelés hatásosságát rontó tényezőként hatottak.\n\nA cég SJ-600-as sorozata olyan fejlesztési irányvonal, amely várhatóan leküzdi ezeket a korlátokat, és jelentősen növeli az onkolitikus vírusok vénás adagolásának hatékonyságát. A Sillajen képviselője elmondta, hogy a technológia még az áttétes rákos megbetegedések esetén is jelentős daganatellenes hatékonyságot mutat, és a vállalat a jövőben aktívan törekszik a technológia kereskedelmi értékesítésére."
+      },
+      "vocab": [
+        "정맥 투여 (intravenous administration) - vénás adagolás",
+        "중화항체 (neutralizing antibody) - semlegesítő antitest",
+        "파이프라인 (pipeline) - fejlesztési projekt / pipeline",
+        "전이암 (metastatic cancer) - áttétes rák"
+      ]
+    },
+    {
+      "id": "news-20260930-4",
+      "category": "Culture & Society",
+      "date": "2026.09.30",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://img4.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930166600005_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260930166600005"
+      },
+      "title": {
+        "kor": "속도에 대한 집착과 대도시 탈출…현대 사회를 돌아보는 두 권의 신간",
+        "eng": "Obsession with Speed and Escaping Big Cities: Two New Books Reflecting on Modern Society",
+        "hu": "A sebesség megszállottsága és a menekülés a nagyvárosokból: Két új könyv, amely a modern társadalomról elmélkedik"
+      },
+      "desc": {
+        "kor": "인류의 속도에 대한 집착을 다룬 과학적 통찰과 중국 청년들의 고립된 삶을 기록한 신간 도서들을 소개합니다.",
+        "eng": "Introducing new books that explore scientific insights into humanity's obsession with speed and document the isolated lives of Chinese youth.",
+        "hu": "Új könyvek bemutatása, amelyek tudományos betekintést nyújtanak az emberiség sebességmániájába, és dokumentálják a kínai fiatalok elszigetelt életét."
+      },
+      "article": {
+        "kor": "세계적인 환경과학자이자 경제사학자인 바츨라프 스밀의 신간 '질주하는 세계'가 출간되었다. 이 책은 진화, 생명, 문명, 기술 발전을 아우르며 인류가 추구해 온 '속도'에 대해 분석한다. 저자는 방대한 데이터를 바탕으로 자연의 물리적 한계와 인간 사회가 만들어낸 변화를 과학적으로 설명하며, 더 빠른 것이 반드시 더 나은 것은 아닐 수 있다는 통찰을 제시한다.\n\n또 다른 신간은 대도시의 치열한 경쟁에서 벗어나 중국의 저렴한 지역에서 고립된 삶을 선택한 청년들의 이야기를 다룬 르포르타주다. 저자는 러시아 접경 도시인 허강 등에서 저렴한 집을 사고 직장 없이 온라인으로 생계를 유지하는 청년들의 생활상을 기록했다. 이들은 기성세대의 기준을 거부하고 타인으로부터 오는 스트레스가 없는 평온한 환경을 추구한다.\n\n두 책은 현대 사회의 중요한 단면을 보여준다. 하나는 인류의 오랜 집착인 '속도'의 이면을 돌아보게 하며, 다른 하나는 피로한 대도시 삶을 뒤로하고 자신만의 대안적 삶을 찾아 떠난 청년들의 현실을 생생하게 포착한다.",
+        "eng": "A new book, \"The Running World\" (질주하는 세계) by world-renowned environmental scientist and economic historian Vaclav Smil, has been published. This book analyzes the concept of \"speed\" that humanity has pursued, covering evolution, life, civilization, and technological development. Based on vast data, the author scientifically explains the physical limits of nature and the changes created by human society, offering the insight that faster is not necessarily better.\n\nAnother new book is a reportage about young Chinese people who have escaped the fierce competition of big cities to choose an isolated life in low-cost regions of China. The author documents the lives of young people who bought cheap houses in cities like Hegang, near the Russian border, and make a living online without traditional jobs. They reject the standards of the older generation and seek a peaceful environment free from the stress of others.\n\nBoth books reflect important aspects of modern society. One prompts us to look back at the hidden side of \"speed,\" which has been a long-standing obsession of humanity, while the other vividly captures the reality of young people who have left behind the fatigue of big city life to find their own alternative ways of living.",
+        "hu": "Megjelent a világhírű környezetkutató és gazdaságtörténész, Vaclav Smil új könyve, a \"Rohanó világ\" (질주하는 세계). A könyv az emberiség által áhított \"sebesség\" fogalmát elemzi az evolúció, az élet, a civilizáció és a technológiai fejlődés tükrében. A szerző hatalmas adatbázisra támaszkodva tudományosan magyarázza meg a természet fizikai határait és az emberi társadalom által előidézett változásokat, azt a felismerést nyújtva, hogy a gyorsabb nem feltétlenül jelent jobbat.\n\nEgy másik új könyv egy riportkötet olyan fiatal kínaiakról, akik a nagyvárosok éles versenye elől menekülve az elszigetelt életet választották Kína olcsóbb régióiban. A szerző olyan fiatalok életét dokumentálja, akik az orosz határ melletti Heganghoz hasonló városokban olcsó házakat vásároltak, és hagyományos munkahely nélkül, online keresik meg a kenyerüket. Elutasítják az idősebb generáció elvárásait, és másoktól származó stressztől mentes, békés környezetre vágynak.\n\nMindkét könyv a modern társadalom fontos aspektusait tükrözi. Az egyik arra késztet bennünket, hogy visszatekintsünk a \"sebesség\" árnyoldalaira, amely az emberiség régóta tartó megszállottsága, míg a másik élénken mutatja be azon fiatalok valóságát, akik maguk mögött hagyták a nagyvárosi élet fáradalmait, hogy saját alternatív életmódot találjanak."
+      },
+      "vocab": [
+        "통찰 (insight) - betekintés",
+        "집착 (obsession) - megszállottság",
+        "고립 (isolation) - elszigeteltség",
+        "대안 (alternative) - alternatíva"
+      ]
+    },
+    {
+      "id": "news-20260930-5",
+      "category": "Business & Politics",
+      "date": "2026.09.30",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://img7.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930166400057_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260930166400057"
+      },
+      "title": {
+        "kor": "'사람을 부르는 도시'… 울산 남구, 민선 9기 공약 및 비전 발표",
+        "eng": "'A City That Attracts People': Ulsan Nam-gu Announces 9th Term Commitments and Vision",
+        "hu": "'Egy város, amely vonzza az embereket': Ulsan Nam-gu bejelentette a 9. ciklus kötelezettségvállalásait és vízióját"
+      },
+      "desc": {
+        "kor": "울산 남구가 '사람을 부르는 도시'를 비전으로 삼고, 3대 분야 46개 공약 사업을 확정해 추진합니다.",
+        "eng": "Ulsan Nam-gu set its vision as 'A City That Attracts People' and confirmed 46 pledge projects across three major areas.",
+        "hu": "Ulsan Nam-gu 'Egy város, amely vonzza az embereket' vízióval 46 kötelezettségvállalási projektet véglegesített három fő területen."
+      },
+      "article": {
+        "kor": "울산 남구가 '사람을 부르는 도시'라는 비전을 선포하고, 이를 실현하기 위한 민선 9기 46개 공약 사업을 확정 발표했습니다. 남구는 교통, 상권, 문화, 교육, 돌봄 등 주민의 삶과 직결된 생활 기반을 단계적으로 확충하여 도시에 연령별·지역별 생기를 불어넣을 방침입니다.\n\n이번 공약은 크게 세 가지 분야로 나뉩니다. 첫째는 '3대 권역별 개발 프로젝트'로, 태화강역 역세권 개발, 달동·삼산동권 문화·상권 개발, 무거·옥동권 명품 교육 특구 조성을 포함합니다. 둘째는 레저·관광, 첨단산업, 도시재생을 잇는 '3대 성장 벨트 구축'입니다. 셋째는 아이부터 어르신까지 모든 연령대를 아우르는 '전 세대 맞춤형 4대 행복케어'입니다.\n\n주요 세부 추진 사업으로는 전 세대가 함께 활용할 수 있는 평생학습관 조성과 왕생이길 일원 문화예술거리 조성이 거론됩니다. 아울러 공영주차장 확대와 스마트 주차 시스템 도입, 권역별 돌봄 시설 구축 등을 통해 구민 편의를 대폭 높일 계획입니다. 또한 남구는 향후 트램 개통 일정에 발맞춰 역세권 중심의 상권과 문화를 한층 활성화할 계획도 마련했습니다.\n\n남구는 공약 실행의 투명성을 높이기 위해 주민 27명으로 구성된 공약이행평가단을 위촉하여 공약 이행 과정을 제삼자 시각에서 점검하도록 했습니다. 임현철 남구청장은 구민의 목소리를 반영해 수립한 이번 실행 체계를 바탕으로, 사람과 활력이 모이는 남구의 미래를 차근차근 만들어 나가겠다는 의지를 밝혔습니다.",
+        "eng": "Ulsan Nam-gu has announced its vision of becoming \"A City That Attracts People\" alongside 46 finalized pledge projects for its 9th elective term. The district aims to step-by-step expand infrastructure closely tied to residents' daily lives—such as transportation, commercial districts, culture, education, and childcare—to bring vitality across all regions and age groups.\n\nThe pledges are divided into three major categories. The first is the \"Three Regional Development Projects,\" which includes developing the Taehwagang Station area, cultural and commercial growth in the Daldong and Samsan-dong areas, and creating a premium education zone in the Mugeo and Okdong areas. The second category focuses on establishing \"Three Growth Belts\" spanning leisure/tourism, high-tech industry, and urban regeneration. The third comprises \"Four Happiness Care Services tailored for All Generations,\" supporting everyone from children to senior citizens.\n\nKey initiatives include building a lifelong learning center accessible to all generations and establishing a cultural and artistic street around Wangsaeng-i-gil. Furthermore, the district plans to expand public parking lots, introduce smart parking systems, and construct regional care facilities. Nam-gu also outlined plans to revitalize commercial and cultural hubs around station areas in line with the future opening of tram lines.\n\nTo ensure transparency, Nam-gu appointed a 27-member citizen evaluation committee to monitor the pledge implementation process. District Mayor Im Hyeon-cheol expressed his determination to build a future for Nam-gu filled with people and energy, based on an execution system formulated directly from residents' voices.",
+        "hu": "Ulsan Nam-gu kikiáltotta az \"Egy város, amely vonzza az embereket\" elnevezésű vízióját, és közzétette a 9. választási ciklus 46 véglegesített kötelezettségvállalási projektjét. A kerület célja, hogy fokozatosan bővítse a lakosok mindennapi életéhez szorosan kapcsolódó infrastruktúrát — mint például a közlekedést, a kereskedelmi negyedeket, a kultúrát, az oktatást és a gondoskodást —, élettel töltve meg a különböző régiókat és korosztályokat.\n\nA kötelezettségvállalások három fő kategóriára oszlanak. Az első a \"3 Regionális Fejlesztési Projekt\", amely magában foglalja a Taehwagang állomás környékének fejlesztését, a Daldong és Samsan-dong negyedek kulturális és kereskedelmi fejlesztését, valamint egy prémium oktatási övezet létrehozását Mugeo és Okdong területén. A második kategória a szabadidőt, turizmust, csúcstechnológiát és városregenerációt összekötő \"3 Növekedési Övezet\" kiépítésére összpontosít. A harmadik pedig a \"4 Generációkra Szabott Boldogság-gondoskodás\", amely a gyermekektől az idősekig minden korosztályt támogat.\n\nA főbb kezdeményezések közé tartozik egy minden generáció által használható élethosszig tartó tanulási központ és a Wangsaeng-i-gil környéki kulturális és művészeti utca létrehozása. Ezenkívül a kerület tervezi a nyilvános parkolók bővítését, az okos parkolási rendszerek bevezetését és regionális gondozási létesítmények építését. Nam-gu emellett a jövőbeli villamosvonalak megnyitásához igazodva a vasútállomások környéki kereskedelmi és kulturális központok élénkítését is tervezi.\n\nA átláthatóság biztosítása érdekében Nam-gu egy 27 tagú állampolgári értékelő bizottságot nevezett ki a kötelezettségvállalások megvalósítási folyamatának ellenőrzésére. Im Hyeon-cheol kerületi polgármester kifejezte szándékát, hogy a lakosok hangja alapján kidolgozott végrehajtási rendszerre építve lépésről lépésre építi fel Nam-gu jövőjét, ahol az emberek és a vitalitás találkoznak."
+      },
+      "vocab": [
+        "공약 (Pledge / Commitment) - Ígéret / Kötelezettségvállalás",
+        "역세권 (Station influence area) - Vasútállomás környéke",
+        "평생학습 (Lifelong learning) - Élethosszig tartó tanulás",
+        "활성화 (Revitalization) - Élénkítés / Revitalizáció"
+      ]
+    },
+    {
       "id": "news-20260928-1",
       "category": "Travel & Experiences",
       "date": "2026.09.28",
       "level": "Intermediate",
       "levelNum": 5,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=800&q=80",
       "title": {
         "kor": "한국 찾는 외국인 관광객 급증… 8월 방한객 23% 증가",
@@ -36,7 +207,7 @@
       "date": "2026.09.28",
       "level": "Intermediate",
       "levelNum": 6,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=800&q=80",
       "title": {
         "kor": "독일 뮌헨서 열린 사랑방 한국문화축제… 전통문화의 매력 전파",
@@ -66,7 +237,7 @@
       "date": "2026.09.28",
       "level": "Advanced",
       "levelNum": 7,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
       "title": {
         "kor": "대학가 AI 교육 혁신 확산… HTHT 마스터클래스 성료",
@@ -96,7 +267,7 @@
       "date": "2026.09.28",
       "level": "Proficient",
       "levelNum": 9,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=800&q=80",
       "title": {
         "kor": "정부 거시경제 정책 대전환… 민생 경제 안정 및 금융 규제 혁신 발표",
@@ -278,7 +449,6 @@
     }
   ],
   "categories": [
-    "All",
     "Business & Politics",
     "Science & Technology",
     "Health & Lifestyle",
