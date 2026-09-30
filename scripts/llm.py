@@ -74,6 +74,7 @@ def _call_gemini(prompt: str, api_key: str) -> str:
                         system_instruction=SYSTEM_PROMPT,
                         response_mime_type="application/json",
                         temperature=0.3,
+                        max_output_tokens=4000,
                     ),
                 )
                 text = (resp.text or "").strip()
@@ -122,6 +123,7 @@ def call_llm(prompt: str) -> str:
             ],
             response_format={"type": "json_object"},
             temperature=0.3,
+            max_tokens=4000,
         )
         return resp.choices[0].message.content
 
@@ -130,7 +132,7 @@ def call_llm(prompt: str) -> str:
         client = anthropic.Anthropic(api_key=anthropic_key)
         resp = client.messages.create(
             model=os.environ.get("ANTHROPIC_MODEL", "claude-3-5-sonnet-20241022"),
-            max_tokens=2500,
+            max_tokens=4000,
             system=SYSTEM_PROMPT,
             messages=[{"role": "user", "content": prompt}],
         )
