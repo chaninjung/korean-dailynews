@@ -28,6 +28,30 @@ def _meta(soup: BeautifulSoup, **attrs) -> str:
     return ""
 
 
+CONSENT_MARKERS = (
+    "consent.google.com",
+    "accounts.google.com",
+    "before you continue",
+)
+
+CONSENT_TITLES = ("consent", "privacy", "sign in", "로그인")
+
+
+def _is_consent_page(final_url: str, soup: BeautifulSoup) -> bool:
+    """쿠키 동의/차단 페이지를 기사로 착각하지 않도록 걸러낸다."""
+    host = (final_url or "").lower()
+    if any(marker in host for marker in CONSENT_MARKERS[:2]):
+        return True
+    title = soup.title.get_text(strip=True).lower() if soup.title else ""
+    return any(marker in title for marker in CONSENT_TITLES)
+
+
+def _host_name(url: str) -> str:
+    match = re.match(r"https?://([^/]+)", url or "")
+    host = match.group(1) if match else ""
+    return host[4:] if host.startswith("www.") else host
+
+
 def extract_article(url: str) -> Dict[str, str]:
     empty = {"body": "", "image": "", "source_name": ""}
     if not url or not url.startswith("http"):
@@ -46,16 +70,23 @@ def extract_article(url: str) -> Dict[str, str]:
         print(f"    · 원문 요청 실패: {e}")
         return empty
 
+    if _is_consent_page(resp.url, soup):
+        print("    · 쿠키 동의/차단 페이지여서 본문을 읽을 수 없습니다.")
+        return empty
+
     image = _meta(soup, property="og:image") or _meta(soup, attrs={"name": "twitter:image"})
     if image.startswith("//"):
         image = "https:" + image
-    source_name = _meta(soup, property="og:site_name")
+    source_name = _meta(soup, property="og:site_name") or _host_name(resp.url)
 
     for tag in soup(["script", "style", "noscript", "iframe", "svg"]):
         tag.decompose()
     node = (
         soup.find("article")
-        or soup.select_one("#articleBody, #articeBody, #newsEndContents, .article_body, .news_body")
+        or soup.select_one(
+            "#articleBody, #articeBody, #newsEndContents, .story-news-article,"
+            " .article_body, .news_body, .article-body"
+        )
         or soup.find("main")
     )
     paragraphs = []

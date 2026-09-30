@@ -16,13 +16,37 @@ CATEGORY_SEARCH_QUERIES = {
     "Travel & Experiences": ["한국 여행 관광", "한국 지역 축제"],
 }
 
-CATEGORY_RSS_FALLBACK = {
-    "Business & Politics": "https://news.google.com/rss/search?q=%EA%B2%BD%EC%A0%9C%20%EC%A0%95%EC%B1%85&hl=ko&gl=KR&ceid=KR:ko",
-    "Science & Technology": "https://news.google.com/rss/search?q=IT%20%EA%B3%BC%ED%95%99&hl=ko&gl=KR&ceid=KR:ko",
-    "Health & Lifestyle": "https://news.google.com/rss/search?q=%EA%B1%B4%EA%B0%95%20%EC%8B%9D%EC%83%9D%ED%99%9C&hl=ko&gl=KR&ceid=KR:ko",
-    "Culture & Society": "https://news.google.com/rss/search?q=%EB%AC%B8%ED%99%94%20%EC%82%AC%ED%98%8C&hl=ko&gl=KR&ceid=KR:ko",
-    "Travel & Experiences": "https://news.google.com/rss/search?q=%ED%95%9C%EA%B5%AD%20%EC%97%AC%ED%96%89&hl=ko&gl=KR&ceid=KR:ko",
+# Google News RSS(https://news.google.com/rss/search?...)는 2024년 개편 이후
+# <link> 가 news.google.com/rss/articles/... 리다이렉트 주소가 되어 원문을 읽을 수 없고,
+# 해외 IP 에서는 쿠키 동의 페이지로 넘어가 본문 대신 동의 문구만 수집됩니다.
+# 그래서 <link> 가 기사 원문 주소인 언론사 자체 RSS 를 사용합니다. (연합뉴스 카테고리 피드)
+CATEGORY_RSS_FEEDS = {
+    "Business & Politics": [
+        "https://www.yna.co.kr/rss/economy.xml",
+        "https://www.yna.co.kr/rss/politics.xml",
+    ],
+    "Science & Technology": [
+        "https://www.yna.co.kr/rss/industry.xml",
+    ],
+    "Health & Lifestyle": [
+        "https://www.yna.co.kr/rss/health.xml",
+    ],
+    "Culture & Society": [
+        "https://www.yna.co.kr/rss/culture.xml",
+        "https://www.yna.co.kr/rss/society.xml",
+    ],
+    "Travel & Experiences": [
+        "https://www.yna.co.kr/rss/local.xml",
+        "https://www.yna.co.kr/rss/culture.xml",
+    ],
 }
+
+# 본문을 읽을 수 없는 도메인 (Google 쿠키 동의/리다이렉트 페이지 등)
+BLOCKED_DOMAINS = (
+    "consent.google.com",
+    "accounts.google.com",
+    "news.google.com",
+)
 
 CATEGORY_IMAGE_FALLBACK = {
     "Business & Politics": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",

@@ -1,6 +1,7 @@
 """카테고리마다 후보를 모으고, 본문을 읽은 1건만 고른다."""
 
 import os
+import re
 import urllib.parse
 import xml.etree.ElementTree as ET
 from typing import List, Dict, Any
@@ -8,7 +9,24 @@ from typing import List, Dict, Any
 import requests
 
 from extract import UA, clean_html_text, extract_article
-from sources import CATEGORIES, CATEGORY_SEARCH_QUERIES, CATEGORY_RSS_FALLBACK
+from sources import (
+    BLOCKED_DOMAINS,
+    CATEGORIES,
+    CATEGORY_RSS_FEEDS,
+    CATEGORY_SEARCH_QUERIES,
+)
+
+RSS_ITEMS_PER_FEED = 8      # 피드당 후보 개수
+MAX_EXTRACT_ATTEMPTS = 6    # 카테고리당 원문 읽기 시도 횟수
+# 연합뉴스 피드들은 상단에 같은 인기 기사를 함께 올리므로,
+# 같은 기사가 여러 카테고리에 중복 저장되지 않도록 걸러냅니다.
+
+
+def title_key(title: str) -> str:
+    """대괄호/기호를 떼고 제목 비교용 키를 만든다."""
+    text = re.sub(r"\[[^\]]*\]", " ", title or "")
+    text = re.sub(r"[^0-9A-Za-z가-힣]+", "", text)
+    return text.lower()[:40]
 
 
 def fetch_naver_news(query: str, client_id: str, client_secret: str, count: int = 3) -> List[Dict[str, Any]]:
@@ -52,6 +70,8 @@ def collect_candidates() -> List[Dict[str, Any]]:
     client_id = os.environ.get("NAVER_CLIENT_ID")
     client_secret = os.environ.get("NAVER_CLIENT_SECRET")
     candidates = []
+    used_links: set = set()
+    used_titles: set = set()
     print("[1] 뉴스 수집 및 원문 전문 읽기...")
     for category in CATEGORIES:
         gathered: List[Dict[str, Any]] = []
@@ -64,23 +84,43 @@ def collect_candidates() -> List[Dict[str, Any]]:
                 if len(gathered) >= 3:
                     break
         if not gathered:
-            rss = CATEGORY_RSS_FALLBACK.get(category)
-            if rss:
+            for rss in CATEGORY_RSS_FEEDS.get(category, []):
                 try:
-                    gathered = fetch_rss_news(rss, count=3)
+                    gathered.extend(fetch_rss_news(rss, count=RSS_ITEMS_PER_FEED))
                 except Exception as e:
                     print(f"  - RSS 수집 실패 ({category}): {e}")
-        chosen = _first_with_body(category, gathered)
+        chosen = _first_with_body(category, gathered, used_links, used_titles)
         if chosen:
+            used_links.add(chosen["source_url"])
+            key = title_key(chosen.get("title") or "")
+            if key:
+                used_titles.add(key)
             candidates.append(chosen)
         else:
             print(f"  - [{category}] 원문을 읽은 후보가 없습니다.")
     return candidates
 
 
-def _first_with_body(category: str, gathered: List[Dict[str, Any]]):
+def _first_with_body(
+    category: str,
+    gathered: List[Dict[str, Any]],
+    used_links: set,
+    used_titles: set,
+):
+    attempts = 0
     for item in gathered:
         link = item.get("link") or ""
+        if not link or link in used_links:
+            continue
+        if any(domain in link for domain in BLOCKED_DOMAINS):
+            continue
+        key = title_key(item.get("title") or "")
+        if key and key in used_titles:
+            continue
+        if attempts >= MAX_EXTRACT_ATTEMPTS:
+            print(f"  - [{category}] 후보 {MAX_EXTRACT_ATTEMPTS}건 모두 본문 부족")
+            break
+        attempts += 1
         print(f"  - [{category}] 원문 확인: {(item.get('title') or '')[:32]}")
         extracted = extract_article(link)
         body = extracted.get("body") or ""
