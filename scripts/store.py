@@ -9,7 +9,8 @@ from typing import List, Dict, Any
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LESSONS_PATH = os.path.join(BASE_DIR, "data", "lessons.json")
 ARCHIVE_DIR = os.path.join(BASE_DIR, "data", "archive")
-FEATURED_CAP = 20
+# 하루 30건이 만들어지므로, 하루치가 사이트에 다 보이도록 여유를 둡니다.
+FEATURED_CAP = 36
 
 
 def load_lessons(categories: List[str]) -> Dict[str, Any]:

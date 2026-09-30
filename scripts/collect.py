@@ -1,4 +1,4 @@
-"""카테고리마다 후보를 모으고, 본문을 읽은 1건만 고른다."""
+"""카테고리마다 원문을 읽어 후보 풀을 만든다."""
 
 import os
 import re
@@ -16,8 +16,9 @@ from sources import (
     CATEGORY_SEARCH_QUERIES,
 )
 
-RSS_ITEMS_PER_FEED = 8      # 피드당 후보 개수
-MAX_EXTRACT_ATTEMPTS = 6    # 카테고리당 원문 읽기 시도 횟수
+RSS_ITEMS_PER_FEED = 25     # 피드당 후보 개수 (하루 30건을 뽑으려면 넉넉해야 함)
+MAX_EXTRACT_ATTEMPTS = 24   # 카테고리당 원문 읽기 시도 횟수
+POOL_BUFFER = 3             # 목표 건수보다 여유 있게 모아 거절/실패에 대비
 # 연합뉴스 피드들은 상단에 같은 인기 기사를 함께 올리므로,
 # 같은 기사가 여러 카테고리에 중복 저장되지 않도록 걸러냅니다.
 
@@ -66,49 +67,60 @@ def fetch_rss_news(rss_url: str, count: int = 3) -> List[Dict[str, Any]]:
     return items
 
 
-def collect_candidates() -> List[Dict[str, Any]]:
+def collect_pools(plan: Dict[str, List[int]], known_urls: set) -> Dict[str, List[Dict[str, Any]]]:
+    """카테고리마다 (목표 건수 + 여유)만큼 원문을 읽어 후보 풀을 만든다."""
     client_id = os.environ.get("NAVER_CLIENT_ID")
     client_secret = os.environ.get("NAVER_CLIENT_SECRET")
-    candidates = []
-    used_links: set = set()
+    pools: Dict[str, List[Dict[str, Any]]] = {}
+    used_links: set = set(known_urls)
     used_titles: set = set()
     print("[1] 뉴스 수집 및 원문 전문 읽기...")
     for category in CATEGORIES:
-        gathered: List[Dict[str, Any]] = []
-        if client_id and client_secret:
-            for q in CATEGORY_SEARCH_QUERIES.get(category, [category]):
-                try:
-                    gathered.extend(fetch_naver_news(q, client_id, client_secret, count=3))
-                except Exception as e:
-                    print(f"  - 네이버 API 실패 ({q}): {e}")
-                if len(gathered) >= 3:
-                    break
-        if not gathered:
-            for rss in CATEGORY_RSS_FEEDS.get(category, []):
-                try:
-                    gathered.extend(fetch_rss_news(rss, count=RSS_ITEMS_PER_FEED))
-                except Exception as e:
-                    print(f"  - RSS 수집 실패 ({category}): {e}")
-        chosen = _first_with_body(category, gathered, used_links, used_titles)
-        if chosen:
-            used_links.add(chosen["source_url"])
-            key = title_key(chosen.get("title") or "")
-            if key:
-                used_titles.add(key)
-            candidates.append(chosen)
-        else:
-            print(f"  - [{category}] 원문을 읽은 후보가 없습니다.")
-    return candidates
+        target_count = len(plan.get(category, []))
+        if target_count == 0:
+            continue
+        gathered = _fetch_category(category, client_id, client_secret)
+        pool = _pool_with_body(category, gathered, target_count + POOL_BUFFER,
+                               used_links, used_titles)
+        pools[category] = pool
+        print(f"  · [{category}] 원문 확보 {len(pool)}건 (목표 {target_count}건)")
+    return pools
 
 
-def _first_with_body(
+def _fetch_category(category: str, client_id, client_secret) -> List[Dict[str, Any]]:
+    """네이버 검색 API 가 있으면 그것을, 없으면 언론사 RSS 를 모은다."""
+    gathered: List[Dict[str, Any]] = []
+    if client_id and client_secret:
+        for q in CATEGORY_SEARCH_QUERIES.get(category, [category]):
+            try:
+                gathered.extend(fetch_naver_news(q, client_id, client_secret,
+                                                 count=RSS_ITEMS_PER_FEED))
+            except Exception as e:
+                print(f"  - 네이버 API 실패 ({q}): {e}")
+            if len(gathered) >= RSS_ITEMS_PER_FEED:
+                break
+    if not gathered:
+        for rss in CATEGORY_RSS_FEEDS.get(category, []):
+            try:
+                gathered.extend(fetch_rss_news(rss, count=RSS_ITEMS_PER_FEED))
+            except Exception as e:
+                print(f"  - RSS 수집 실패 ({category}): {e}")
+    return gathered
+
+
+def _pool_with_body(
     category: str,
     gathered: List[Dict[str, Any]],
+    want: int,
     used_links: set,
     used_titles: set,
-):
-    attempts = 0
+) -> List[Dict[str, Any]]:
+    """본문을 읽은 후보를 want 개까지 모은다. 원문 요청은 필요한 만큼만 한다."""
+    pool: List[Dict[str, Any]] = []
+    skipped = 0
     for item in gathered:
+        if len(pool) >= want:
+            break
         link = item.get("link") or ""
         if not link or link in used_links:
             continue
@@ -117,22 +129,21 @@ def _first_with_body(
         key = title_key(item.get("title") or "")
         if key and key in used_titles:
             continue
-        if attempts >= MAX_EXTRACT_ATTEMPTS:
-            print(f"  - [{category}] 후보 {MAX_EXTRACT_ATTEMPTS}건 모두 본문 부족")
+        if skipped >= MAX_EXTRACT_ATTEMPTS:
+            print(f"  - [{category}] 원문 {MAX_EXTRACT_ATTEMPTS}건 시도 후 중단")
             break
-        attempts += 1
-        print(f"  - [{category}] 원문 확인: {(item.get('title') or '')[:32]}")
+        skipped += 1
         extracted = extract_article(link)
         body = extracted.get("body") or ""
         if len(body) < 280:
-            print(f"    · 본문 부족 ({len(body)}자), 다음 후보")
             continue
         item["target_category"] = category
         item["body"] = body
         item["image"] = extracted.get("image") or ""
         item["source_name"] = item.get("source_name") or extracted.get("source_name") or ""
         item["source_url"] = link
-        photo = "있음" if item["image"] else "없음"
-        print(f"    · 본문 {len(body)}자 | 사진 {photo} | {item['source_name'] or '매체 미상'}")
-        return item
-    return None
+        pool.append(item)
+        used_links.add(link)
+        if key:
+            used_titles.add(key)
+    return pool

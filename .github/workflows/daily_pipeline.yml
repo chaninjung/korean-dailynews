@@ -36,6 +36,8 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          # 카테고리당 기사 수 (기본 6 -> 하루 30건). 미설정/빈 값이면 코드가 6을 씁니다.
+          ARTICLES_PER_CATEGORY: ${{ secrets.ARTICLES_PER_CATEGORY }}
         run: |
           python scripts/pipeline.py
 
