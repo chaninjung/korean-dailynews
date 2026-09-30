@@ -1,283 +1,96 @@
 """
 Huko News Data Pipeline
-수집(네이버 검색 API / RSS) -> LLM 가공 -> data/lessons.json 업데이트
+원문 수집 -> LLM 가공 -> data/lessons.json
+20개를 넘는 지난 글은 data/archive/YYYY-MM.json 으로 보관
 """
 
 import os
-import re
-import json
 import datetime
-import html
-import urllib.parse
-import xml.etree.ElementTree as ET
-from typing import List, Dict, Any, Optional
-import requests
+
 try:
     from dotenv import load_dotenv
     load_dotenv()
 except ImportError:
     pass
 
+from collect import collect_candidates
+from llm import process_candidate
+from sources import CATEGORIES, CATEGORY_IMAGE_FALLBACK, LEVEL_LABEL_MAP
+from store import known_source_urls, load_lessons, save_featured
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-LESSONS_PATH = os.path.join(BASE_DIR, "data", "lessons.json")
 
-CATEGORIES = [
-    "Business & Politics",
-    "Science & Technology",
-    "Culture & Society",
-    "Travel & Experiences"
-]
+def _fallback_image(category: str) -> str:
+    return CATEGORY_IMAGE_FALLBACK.get(
+        category, CATEGORY_IMAGE_FALLBACK["Culture & Society"]
+    )
 
-CATEGORY_SEARCH_QUERIES = {
-    "Business & Politics": ["한국 경제 정책", "글로벌 무역", "거시 경제 산업"],
-    "Science & Technology": ["인공지능 IT 신기술", "우주 과학 기술", "친환경 신재생에너지"],
-    "Culture & Society": ["한국 전통 문화 K컬처", "한국어 교육 한글", "현대 사회 라이프스타일"],
-    "Travel & Experiences": ["한국 유네스코 여행 명소", "한국 지역 축제 관광", "한국 자연 국립공원"]
-}
 
-CATEGORY_RSS_FALLBACK = {
-    "Business & Politics": "https://news.google.com/rss/search?q=%EA%B2%BD%EC%A0%9C%20%EC%A0%95%EC%B1%85&hl=ko&gl=KR&ceid=KR:ko",
-    "Science & Technology": "https://news.google.com/rss/search?q=IT%20%EA%B3%BC%ED%95%99%20%EA%B8%B0%EC%88%A0&hl=ko&gl=KR&ceid=KR:ko",
-    "Culture & Society": "https://news.google.com/rss/search?q=%EB%AC%B8%ED%99%94%20%EC%82%AC%ED%98%8C&hl=ko&gl=KR&ceid=KR:ko",
-    "Travel & Experiences": "https://news.google.com/rss/search?q=%ED%95%9C%EA%B5%AD%20%EC%97%AC%ED%96%89%20%EA%B4%80%EA%B4%91&hl=ko&gl=KR&ceid=KR:ko"
-}
+def build_entry(candidate: dict, rewritten: dict, index: int) -> dict:
+    lvl = int(rewritten.get("assessed_level", 6))
+    lvl = min(9, max(1, lvl))
+    cat = rewritten.get("category") or candidate.get("target_category")
+    if cat not in CATEGORIES:
+        cat = candidate.get("target_category") or "Culture & Society"
+    source_url = candidate.get("source_url") or candidate.get("link") or ""
+    source_name = (rewritten.get("source_name") or candidate.get("source_name") or "").strip()
+    today = datetime.date.today()
+    return {
+        "id": f"news-{today.strftime('%Y%m%d')}-{index}",
+        "category": cat,
+        "date": today.strftime("%Y.%m.%d"),
+        "level": LEVEL_LABEL_MAP.get(lvl, "Intermediate"),
+        "levelNum": lvl,
+        "isNew": True,
+        "image": candidate.get("image") or _fallback_image(cat),
+        "source": {"name": source_name, "url": source_url},
+        "title": rewritten.get("title", {}),
+        "desc": rewritten.get("desc", {}),
+        "article": rewritten.get("article", {}),
+        "vocab": rewritten.get("vocab", []),
+    }
 
-CATEGORY_UNSPLASH_FALLBACK = {
-    "Business & Politics": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=800&q=80",
-    "Science & Technology": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-    "Culture & Society": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=800&q=80",
-    "Travel & Experiences": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=800&q=80"
-}
 
-LEVEL_LABEL_MAP = {
-    1: "Beginner", 2: "Beginner", 3: "Elementary",
-    4: "Intermediate", 5: "Intermediate", 6: "Intermediate",
-    7: "Advanced", 8: "Advanced", 9: "Proficient"
-}
+def run() -> None:
+    has_key = any([
+        os.environ.get("OPENAI_API_KEY"),
+        os.environ.get("ANTHROPIC_API_KEY"),
+        os.environ.get("GEMINI_API_KEY"),
+        os.environ.get("GOOGLE_API_KEY"),
+    ])
+    if not has_key:
+        raise SystemExit("LLM API 키가 없습니다. .env 또는 Actions secrets 를 확인하세요.")
 
-SYSTEM_PROMPT = """당신은 외국인을 위한 한국어 학습 뉴스 플랫폼 'Huko'의 수석 에디터이자 한국어 언어학 전문가입니다.
-수집된 뉴스 기사를 분석하여 가이드라인 위반 여부를 확인하고, 외국인 학습자를 위한 레벨별 한국어 학습 아티클로 재작성하세요.
-
-[콘텐츠 가이드라인]
-1. 허용 카테고리: "Travel & Experiences", "Culture & Society", "Science & Technology", "Business & Politics"
-2. 엄격한 배제 기준 (위반 시 is_suitable=false):
-   - 연예인 사생활, 자극적 루머, 가십성 기사
-   - 극단적인 정치 대립/비방
-   - 자극적인 범죄, 잔혹한 사건사고
-   - 단순 찌라시 및 클릭베이트 기사
-
-3. ★ 레벨별 난이도 & 분량 필수 가이드라인 (반드시 문단 구분을 빈 줄 '\\n\\n'으로 하세요):
-   - Level 1~2 (초급 TOPIK 1):
-     * 분량: 1~2문단 (총 4~6문장)
-     * 문체: 단문 중심, 쉬운 기초 일상 어휘, '~ㅂ니다/습니다' 또는 '~해요' 평서문.
-   - Level 3~4 (중급 입문 TOPIK 2~3):
-     * 분량: 2~3문단 (적어도 8~10문장 이상)
-     * 문체: 기초 시사 어휘 도입, 원인과 결과를 설명하는 연결 어미(~하여, ~지만 등) 활용.
-   - Level 5~6 (중고급 TOPIK 3~4):
-     * 분량: 3~4문단
-     * 문체: 일반 신문 기사체(~다), 사회적 배경과 다양한 시각 서술.
-   - Level 7~8 (고급 TOPIK 5):
-     * 분량: 4~5문단 (한국인 성인도 집중해서 읽을 수 있는 깊이 있는 종합 기사)
-     * 문체: 전문 시사·경제·학술 어휘 사용, 원문 팩트를 다각도로 심층 분석.
-   - Level 9 (최고급/전문가 TOPIK 6+):
-     * 분량: 5문단 이상 (원어민 한국인도 사고력을 요하는 고난도 심층 리포트/사설 수준)
-     * 문체: 고도의 추상적 시사/전문 용어, 격식 높은 한자어휘 및 복합 문장 구조 사용.
-
-4. 3개 국어 지원:
-   - title, desc, article은 반드시 kor, eng, hu 세 가지 언어로 각각 작성되어야 합니다.
-   - article 본문은 각 문단 사이에 반드시 '\\n\\n'을 넣어 줄바꿈하세요.
-5. vocab 리스트: 본문 핵심 단어 3~5개를 '한국어단어 (영어뜻) - 헝가리어뜻' 형식으로 작성하세요.
-
-반드시 아래 JSON 형식으로만 응답하세요:
-{
-  "is_suitable": true,
-  "rejection_reason": null,
-  "category": "Science & Technology",
-  "assessed_level": 7,
-  "title": { "kor": "한국어 제목", "eng": "English Title", "hu": "Magyar Cím" },
-  "desc": { "kor": "1줄 요약", "eng": "English summary", "hu": "Magyar összefoglaló" },
-  "article": {
-    "kor": "첫 번째 문단 내용...\\n\\n두 번째 문단 내용...\\n\\n세 번째 문단 내용...\\n\\n네 번째 문단 내용...",
-    "eng": "First paragraph...\\n\\nSecond paragraph...\\n\\nThird paragraph...",
-    "hu": "Első bekezdés...\\n\\nMásodik bekezdés..."
-  },
-  "vocab": [
-    "핵심단어1 (English meaning) - Magyar jelentés",
-    "핵심단어2 (English meaning) - Magyar jelentés",
-    "핵심단어3 (English meaning) - Magyar jelentés"
-  ]
-}
-"""
-
-def clean_html_text(text: str) -> str:
-    if not text:
-        return ""
-    text = re.sub(r'<[^>]+>', '', text)
-    return html.unescape(text).strip()
-
-def fetch_naver_news(query: str, client_id: str, client_secret: str, count: int = 2) -> List[Dict[str, Any]]:
-    url = f"https://openapi.naver.com/v1/search/news.json?query={urllib.parse.quote(query)}&display={count}&sort=sim"
-    headers = {"X-Naver-Client-Id": client_id, "X-Naver-Client-Secret": client_secret}
-    resp = requests.get(url, headers=headers, timeout=10)
-    resp.raise_for_status()
-    items = []
-    for item in resp.json().get("items", []):
-        items.append({
-            "title": clean_html_text(item.get("title", "")),
-            "description": clean_html_text(item.get("description", "")),
-            "link": item.get("originallink") or item.get("link", ""),
-            "pubDate": item.get("pubDate", "")
-        })
-    return items
-
-def fetch_rss_news(rss_url: str, count: int = 2) -> List[Dict[str, Any]]:
-    resp = requests.get(rss_url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
-    resp.raise_for_status()
-    root = ET.fromstring(resp.content)
-    items = []
-    for item in root.findall(".//item")[:count]:
-        items.append({
-            "title": clean_html_text(item.findtext("title", "")),
-            "description": clean_html_text(item.findtext("description", "")),
-            "link": item.findtext("link", ""),
-            "pubDate": item.findtext("pubDate", "")
-        })
-    return items
-
-def collect_candidates() -> List[Dict[str, Any]]:
-    client_id = os.environ.get("NAVER_CLIENT_ID")
-    client_secret = os.environ.get("NAVER_CLIENT_SECRET")
-    candidates = []
-
-    print("[1] 뉴스 수집 진행 중...")
-    for category in CATEGORIES:
-        gathered = []
-        if client_id and client_secret:
-            for q in CATEGORY_SEARCH_QUERIES.get(category, [category]):
-                try:
-                    res = fetch_naver_news(q, client_id, client_secret, count=1)
-                    gathered.extend(res)
-                    if len(gathered) >= 2: break
-                except Exception as e:
-                    print(f"  - 네이버 API 실패 ({q}): {e}")
-        if not gathered:
-            rss = CATEGORY_RSS_FALLBACK.get(category)
-            if rss:
-                try:
-                    gathered = fetch_rss_news(rss, count=1)
-                except Exception as e:
-                    print(f"  - RSS 수집 실패 ({rss}): {e}")
-        for item in gathered[:1]:
-            if item:
-                item["target_category"] = category
-                candidates.append(item)
-    return candidates
-
-def call_llm(prompt: str) -> str:
-    openai_key = os.environ.get("OPENAI_API_KEY")
-    anthropic_key = os.environ.get("ANTHROPIC_API_KEY")
-    gemini_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
-
-    if openai_key:
-        from openai import OpenAI
-        client = OpenAI(api_key=openai_key)
-        resp = client.chat.completions.create(
-            model=os.environ.get("OPENAI_MODEL", "gpt-4o-mini"),
-            messages=[{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": prompt}],
-            response_format={"type": "json_object"},
-            temperature=0.3
-        )
-        return resp.choices[0].message.content
-
-    if anthropic_key:
-        import anthropic
-        client = anthropic.Anthropic(api_key=anthropic_key)
-        resp = client.messages.create(
-            model=os.environ.get("ANTHROPIC_MODEL", "claude-3-5-sonnet-20241022"),
-            max_tokens=1500,
-            system=SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": prompt}]
-        )
-        return resp.content[0].text
-
-    if gemini_key:
-        import google.generativeai as genai
-        genai.configure(api_key=gemini_key)
-        model = genai.GenerativeModel(
-            model_name="gemini-1.5-flash",
-            system_instruction=SYSTEM_PROMPT,
-            generation_config={"response_mime_type": "application/json"}
-        )
-        resp = model.generate_content(prompt)
-        return resp.text
-
-    raise ValueError("LLM API 키가 필요합니다 (OPENAI_API_KEY, ANTHROPIC_API_KEY, GEMINI_API_KEY).")
-
-def process_candidate(candidate: Dict[str, Any]) -> Optional[Dict[str, Any]]:
-    prompt = f"""다음 뉴스를 Huko 학습 콘텐츠로 재작성해 주세요:
-카테고리: {candidate.get('target_category')}
-제목: {candidate.get('title')}
-요약: {candidate.get('description')}
-링크: {candidate.get('link')}
-"""
-    raw = call_llm(prompt).strip()
-    if raw.startswith("```"):
-        raw = re.sub(r"^```(?:json)?\n", "", raw)
-        raw = re.sub(r"\n```$", "", raw)
-    data = json.loads(raw)
-    if not data.get("is_suitable", False):
-        print(f"  [제외] {candidate.get('title')} ({data.get('rejection_reason')})")
-def run():
-    candidates = collect_candidates()
+    data = load_lessons(CATEGORIES)
+    known = known_source_urls(data.get("featured", []))
+    candidates = [
+        c for c in collect_candidates()
+        if (c.get("source_url") or "") not in known
+    ]
+    print(f"[2] LLM 가공 시작 (원문 확보 후보 {len(candidates)}개)...")
     new_entries = []
-    print(f"[2] LLM 가공 시작 (후보 {len(candidates)}개)...")
-    for i, c in enumerate(candidates):
+    for i, candidate in enumerate(candidates):
+        title = (candidate.get("title") or "")[:28]
+        print(f"  - 처리 ({i + 1}/{len(candidates)}): {title}...")
         try:
-            print(f"  - 처리 ({i+1}/{len(candidates)}): {c['title'][:25]}...")
-            res = process_candidate(c)
-            if res:
-                lvl = int(res.get("assessed_level", 6))
-                cat = res.get("category") or c.get("target_category") or "Culture & Society"
-                img = CATEGORY_UNSPLASH_FALLBACK.get(cat, CATEGORY_UNSPLASH_FALLBACK["Culture & Society"])
-                today_obj = datetime.date.today()
-                t_str = today_obj.strftime("%Y%m%d")
-                date_str = today_obj.strftime("%Y.%m.%d")
-                entry = {
-                    "id": f"news-{t_str}-{len(new_entries)+1}",
-                    "category": cat,
-                    "date": date_str,
-                    "level": LEVEL_LABEL_MAP.get(lvl, "Intermediate"),
-                    "levelNum": lvl,
-                    "isNew": True,
-                    "image": img,
-                    "title": res.get("title", {}),
-                    "desc": res.get("desc", {}),
-                    "article": res.get("article", {}),
-                    "vocab": res.get("vocab", [])
-                }
-                new_entries.append(entry)
-                print(f"    ✓ 완료: Level {lvl} | {cat}")
+            rewritten = process_candidate(candidate)
         except Exception as e:
-            print(f"    ✗ 에러: {e}")
+            print(f"    x 에러: {e}")
+            continue
+        if not rewritten:
+            continue
+        entry = build_entry(candidate, rewritten, len(new_entries) + 1)
+        new_entries.append(entry)
+        src = entry["source"]["name"] or "출처 미상"
+        print(f"    ok Level {entry['levelNum']} | {entry['category']} | {src}")
 
     if not new_entries:
         print("추가할 기사가 없습니다.")
         return
 
     print(f"[3] lessons.json 업데이트 ({len(new_entries)}개 추가)...")
-    data = {"featured": [], "categories": CATEGORIES}
-    if os.path.exists(LESSONS_PATH):
-        with open(LESSONS_PATH, "r", encoding="utf-8") as f:
-            data = json.load(f)
+    save_featured(data, new_entries, CATEGORIES)
+    print("완료")
 
-    for item in data.get("featured", []):
-        item["isNew"] = False
-
-    data["featured"] = (new_entries + data.get("featured", []))[:20]
-    with open(LESSONS_PATH, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    print("✓ 완료!")
 
 if __name__ == "__main__":
     run()

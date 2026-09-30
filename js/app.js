@@ -139,7 +139,7 @@ function renderCategorySections(newsList) {
   container.innerHTML = '';
 
   // Group by category
-  const categories = ["Business & Politics", "Science & Technology", "Culture & Society", "Travel & Experiences"];
+  const categories = ["Business & Politics", "Science & Technology", "Health & Lifestyle", "Culture & Society", "Travel & Experiences"];
 
   categories.forEach(cat => {
     const catItems = newsList.filter(item => item.category === cat);

@@ -676,6 +676,22 @@ body {
   border: 1px solid var(--border-color);
 }
 
+.article-source {
+  margin-top: 18px;
+  font-size: 13px;
+  color: #64748b;
+}
+
+.article-source a {
+  color: var(--primary-color);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.article-source a:hover {
+  text-decoration: underline;
+}
+
 .back-btn {
   display: inline-flex;
   align-items: center;

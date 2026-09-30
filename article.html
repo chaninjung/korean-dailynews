@@ -71,6 +71,8 @@
       <h4>📖 Key Vocabulary</h4>
       <ul id="vocab-list"></ul>
     </div>
+
+    <p class="article-source" id="article-source" hidden></p>
   </main>
 
   <footer>
@@ -145,6 +147,23 @@
           li.textContent = v;
           vocabList.appendChild(li);
         });
+
+        const sourceEl = document.getElementById('article-source');
+        const source = article.source || {};
+        if (source.url) {
+          const safeName = source.name || source.url;
+          sourceEl.hidden = false;
+          sourceEl.textContent = '출처: ';
+          const sourceLink = document.createElement('a');
+          sourceLink.href = source.url;
+          sourceLink.target = '_blank';
+          sourceLink.rel = 'noopener noreferrer';
+          sourceLink.textContent = safeName;
+          sourceEl.appendChild(sourceLink);
+        } else {
+          sourceEl.hidden = true;
+          sourceEl.textContent = '';
+        }
 
         // Re-render if language changes
         window._currentArticle = article;
