@@ -19,8 +19,8 @@ GEMINI_DEFAULT_MODELS: List[str] = [
     "gemini-flash-latest",
 ]
 
-HTTP_TIMEOUT_MS = 90_000      # 응답이 멈춰도 파이프라인 전체가 멈추지 않도록
-RETRY_SLEEP_SECONDS = 3
+HTTP_TIMEOUT_MS = 120_000     # 응답이 멈춰도 파이프라인 전체가 멈추지 않도록
+RETRY_SLEEP_SECONDS = 8
 
 
 def _env_float(name: str, default: float) -> float:
@@ -32,7 +32,8 @@ def _env_float(name: str, default: float) -> float:
 
 
 # 하루 30건을 연속 호출하므로, API 속도 제한에 걸리지 않게 호출 사이에 쉬는 시간(초)
-LLM_CALL_SLEEP = _env_float("LLM_CALL_SLEEP", 1.0)
+# 짧게 쉬면 429(할당량 초과)로 실패-재시도가 반복돼 오히려 전체가 느려집니다.
+LLM_CALL_SLEEP = _env_float("LLM_CALL_SLEEP", 4.0)
 
 RETRYABLE_TOKENS = ("503", "429", "UNAVAILABLE", "RESOURCE_EXHAUSTED", "overloaded", "high demand")
 
@@ -74,7 +75,7 @@ def _call_gemini(prompt: str, api_key: str) -> str:
                         system_instruction=SYSTEM_PROMPT,
                         response_mime_type="application/json",
                         temperature=0.3,
-                        max_output_tokens=4000,
+                        max_output_tokens=8000,
                     ),
                 )
                 text = (resp.text or "").strip()
@@ -123,7 +124,7 @@ def call_llm(prompt: str) -> str:
             ],
             response_format={"type": "json_object"},
             temperature=0.3,
-            max_tokens=4000,
+            max_tokens=8000,
         )
         return resp.choices[0].message.content
 
@@ -132,7 +133,7 @@ def call_llm(prompt: str) -> str:
         client = anthropic.Anthropic(api_key=anthropic_key)
         resp = client.messages.create(
             model=os.environ.get("ANTHROPIC_MODEL", "claude-3-5-sonnet-20241022"),
-            max_tokens=4000,
+            max_tokens=8000,
             system=SYSTEM_PROMPT,
             messages=[{"role": "user", "content": prompt}],
         )
