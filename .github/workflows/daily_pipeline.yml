@@ -43,7 +43,8 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/lessons.json data/archive
+          # data/archive 는 보관할 글이 생기기 전까지 없을 수 있으므로 -A 로 안전하게 추가
+          git add -A data
           if git diff --staged --quiet; then
             echo "새로 변경된 기사가 없어 커밋을 생략합니다."
           else

@@ -86,7 +86,8 @@ def _call_gemini_legacy(prompt: str, api_key: str) -> str:
 
     genai.configure(api_key=api_key)
     model = genai.GenerativeModel(
-        model_name=os.environ.get("GEMINI_MODEL", GEMINI_DEFAULT_MODELS[0]),
+        # GEMINI_MODEL 이 빈 문자열로 넘어올 수 있어(미설정 시크릿) 목록에서 고릅니다.
+        model_name=_gemini_model_candidates()[0],
         system_instruction=SYSTEM_PROMPT,
         generation_config={"response_mime_type": "application/json"},
     )
