@@ -77,7 +77,11 @@ function renderFeaturedGrid(newsList) {
   const leftCardContainer = document.getElementById('featured-left-card-container');
   const rightGridContainer = document.getElementById('featured-right-grid-container');
 
-  if (!newsList || !newsList.length) return;
+  if (!newsList || !newsList.length) {
+    if (leftCardContainer) leftCardContainer.innerHTML = '<div class="empty-state">📰 새로운 학습 기사를 준비하고 있습니다. 곧 만나요!</div>';
+    if (rightGridContainer) rightGridContainer.innerHTML = '';
+    return;
+  }
   const lang = window.currentLang || 'kor';
 
   // 1st Item (Large Left)
@@ -133,7 +137,11 @@ function renderFeaturedGrid(newsList) {
 
 function renderCategorySections(newsList) {
   const container = document.getElementById('category-sections-container');
-  if (!container || !newsList.length) return;
+  if (!container) return;
+  if (!newsList || !newsList.length) {
+    container.innerHTML = '';
+    return;
+  }
 
   const lang = window.currentLang || 'kor';
   container.innerHTML = '';

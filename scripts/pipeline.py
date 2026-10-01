@@ -48,6 +48,7 @@ def build_entry(candidate: dict, rewritten: dict, index: int) -> dict:
         "desc": rewritten.get("desc", {}),
         "article": rewritten.get("article", {}),
         "vocab": rewritten.get("vocab", []),
+        "questions": rewritten.get("questions", []),
     }
 
 

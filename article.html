@@ -139,14 +139,48 @@
         // Body text (Render paragraphs with linebreaks)
         renderArticleBody(article.article[lang] || article.article['eng']);
 
-        // Vocabulary
+        // Vocabulary (객체 배열 + 예전 문자열 형식 모두 지원)
         const vocabList = document.getElementById('vocab-list');
         vocabList.innerHTML = '';
-        article.vocab.forEach(v => {
+        (article.vocab || []).forEach(v => {
           const li = document.createElement('li');
-          li.textContent = v;
+          if (typeof v === 'string') {
+            li.textContent = v;
+          } else if (v && v.word) {
+            const parts = [v.word];
+            if (v.meaning_en) parts.push(`(${v.meaning_en})`);
+            if (v.meaning_hu) parts.push(`- ${v.meaning_hu}`);
+            li.textContent = parts.join(' ');
+          } else {
+            return;
+          }
           vocabList.appendChild(li);
         });
+
+        // Discussion questions (있을 때만 표시)
+        let questionsSection = document.getElementById('questions-section');
+        const questions = article.questions || [];
+        if (questions.length) {
+          if (!questionsSection) {
+            questionsSection = document.createElement('div');
+            questionsSection.className = 'vocab-box';
+            questionsSection.id = 'questions-section';
+            const sourceEl0 = document.getElementById('article-source');
+            sourceEl0.parentNode.insertBefore(questionsSection, sourceEl0);
+          }
+          const lang2 = (window.currentLang && ['kor','eng','hu'].includes(window.currentLang)) ? window.currentLang : 'kor';
+          questionsSection.innerHTML = '<h4>💬 Discussion Questions</h4>';
+          const ul = document.createElement('ul');
+          questions.forEach(q => {
+            const li = document.createElement('li');
+            if (typeof q === 'string') li.textContent = q;
+            else li.textContent = q[lang2] || q.kor || q.eng || '';
+            ul.appendChild(li);
+          });
+          questionsSection.appendChild(ul);
+        } else if (questionsSection) {
+          questionsSection.remove();
+        }
 
         const sourceEl = document.getElementById('article-source');
         const source = article.source || {};

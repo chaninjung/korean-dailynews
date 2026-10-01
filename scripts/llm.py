@@ -164,4 +164,54 @@ def process_candidate(candidate: Dict[str, Any], target_level: int) -> Optional[
     if not data.get("is_suitable", False):
         print(f"  [제외] {candidate.get('title')} ({data.get('rejection_reason')})")
         return None
+    data["vocab"] = _normalize_vocab(data.get("vocab"))
+    data["questions"] = _normalize_questions(data.get("questions"))
     return data
+
+
+def _normalize_vocab(vocab: Any) -> List[Dict[str, str]]:
+    """예전 단일 문자열 형식을 새 객체 형식으로 변환한다 (하위 호환)."""
+    if not isinstance(vocab, list):
+        return []
+    normalized: List[Dict[str, str]] = []
+    for item in vocab:
+        if isinstance(item, dict) and item.get("word"):
+            normalized.append({
+                "word": str(item.get("word", "")).strip(),
+                "meaning_en": str(item.get("meaning_en", "")).strip(),
+                "meaning_hu": str(item.get("meaning_hu", "")).strip(),
+            })
+        elif isinstance(item, str) and item.strip():
+            normalized.append(_parse_legacy_vocab(item.strip()))
+    return [v for v in normalized if v.get("word")][:5]
+
+
+def _parse_legacy_vocab(text: str) -> Dict[str, str]:
+    """'단어 (English) - Magyar' 같은 예전 문자열을 객체로 변환."""
+    word, meaning_en, meaning_hu = text, "", ""
+    if " - " in text:
+        left, meaning_hu = text.split(" - ", 1)
+    else:
+        left, meaning_hu = text, ""
+    match = re.match(r"^(.*?)\s*\((.*?)\)\s*$", left.strip())
+    if match:
+        word, meaning_en = match.group(1).strip(), match.group(2).strip()
+    else:
+        word = left.strip()
+    return {"word": word, "meaning_en": meaning_en.strip(), "meaning_hu": meaning_hu.strip()}
+
+
+def _normalize_questions(questions: Any) -> List[Dict[str, str]]:
+    if not isinstance(questions, list):
+        return []
+    normalized: List[Dict[str, str]] = []
+    for item in questions:
+        if isinstance(item, dict):
+            normalized.append({
+                "kor": str(item.get("kor", "")).strip(),
+                "eng": str(item.get("eng", "")).strip(),
+                "hu": str(item.get("hu", "")).strip(),
+            })
+        elif isinstance(item, str) and item.strip():
+            normalized.append({"kor": item.strip(), "eng": "", "hu": ""})
+    return [q for q in normalized if q.get("kor")][:3]
