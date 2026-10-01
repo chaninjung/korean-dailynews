@@ -42,7 +42,8 @@ def build_entry(candidate: dict, rewritten: dict, index: int) -> dict:
         "level": LEVEL_LABEL_MAP.get(lvl, "Intermediate"),
         "levelNum": lvl,
         "isNew": True,
-        "image": candidate.get("image") or _fallback_image(cat),
+        # 원문 이미지 절대 금지, Fallback 이미지만 무조건 사용
+        "image": _fallback_image(cat),
         "source": {"name": source_name, "url": source_url},
         "title": rewritten.get("title", {}),
         "desc": rewritten.get("desc", {}),

@@ -1,4 +1,4 @@
-"""카테고리별 검색어, RSS, 사진 대체 주소, 하루 목표 레벨 계획."""
+"""sources.py: 고품질 글로벌 스탠다드 RSS 및 설정 (BBC 코리아 전용)."""
 
 import os
 
@@ -10,43 +10,15 @@ CATEGORIES = [
     "Travel & Experiences",
 ]
 
-CATEGORY_SEARCH_QUERIES = {
-    "Business & Politics": ["한국 경제 정책", "글로벌 무역"],
-    "Science & Technology": ["인공지능 IT 신기술", "우주 과학 기술"],
-    "Health & Lifestyle": ["건강 생활습관", "공중보건 의료"],
-    "Culture & Society": ["한국 전통 문화", "한국어 교육 한글"],
-    "Travel & Experiences": ["한국 여행 관광", "한국 지역 축제"],
-}
-
-# ── 수집 소스 (Engoo 방식: 안전한 섹션만) ──────────────────────────────────
-# 연합뉴스 전체 피드가 아니라 학습에 안전한 섹션 RSS만 사용합니다.
-#  - 허용: culture(문화), health(건강/보건), industry(산업/기술), international(세계),
-#          entertainment(연예가 아닌 문화공연/전시 위주로 LLM이 선별), sports(경기 결과 위주)
-#  - 제외: politics(정치), economy(부동산/주식/시세 기사 다수), society(사건사고 다수),
-#          local(지역 단신/조례 다수)
-# Travel & Experiences 는 world.kbs.co.kr / korea.net 이 RSS 를 제공하지 않아
-# culture 피드에서 여행·관광 소재를 LLM 이 선별하는 방식으로 충당합니다.
+# ── 1. 글로벌 스탠다드 데스크 (BBC 코리아 전용) ─────────────────────────
+# 한국 국내 언론사(연합뉴스 등)를 완전히 배제하고, 외국인 학습자에게 가장 중립적이고
+# 정제된 한국어를 제공하는 BBC News 코리아 RSS 단일 소스로 통일합니다.
 CATEGORY_RSS_FEEDS = {
-    "Business & Politics": [
-        "https://www.yna.co.kr/rss/international.xml",
-        "https://www.yna.co.kr/rss/industry.xml",
-    ],
-    "Science & Technology": [
-        "https://www.yna.co.kr/rss/industry.xml",
-        "https://www.yna.co.kr/rss/international.xml",
-    ],
-    "Health & Lifestyle": [
-        "https://www.yna.co.kr/rss/health.xml",
-        "https://www.yna.co.kr/rss/culture.xml",
-    ],
-    "Culture & Society": [
-        "https://www.yna.co.kr/rss/culture.xml",
-        "https://www.yna.co.kr/rss/entertainment.xml",
-    ],
-    "Travel & Experiences": [
-        "https://www.yna.co.kr/rss/culture.xml",
-        "https://www.yna.co.kr/rss/international.xml",
-    ],
+    "Business & Politics": ["https://feeds.bbci.co.uk/korean/rss.xml"],
+    "Science & Technology": ["https://feeds.bbci.co.uk/korean/rss.xml"],
+    "Health & Lifestyle": ["https://feeds.bbci.co.uk/korean/rss.xml"],
+    "Culture & Society": ["https://feeds.bbci.co.uk/korean/rss.xml"],
+    "Travel & Experiences": ["https://feeds.bbci.co.uk/korean/rss.xml"],
 }
 
 # 본문을 읽을 수 없는 도메인 (Google 쿠키 동의/리다이렉트 페이지 등)

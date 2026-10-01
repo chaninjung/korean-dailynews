@@ -1,8 +1,6 @@
-"""카테고리마다 원문을 읽어 후보 풀을 만든다."""
+"""collect.py: RSS 피드를 읽어 원문 후보 풀을 만든다. (Naver API 제거)"""
 
-import os
 import re
-import urllib.parse
 import xml.etree.ElementTree as ET
 from typing import List, Dict, Any
 
@@ -13,7 +11,6 @@ from sources import (
     BLOCKED_DOMAINS,
     CATEGORIES,
     CATEGORY_RSS_FEEDS,
-    CATEGORY_SEARCH_QUERIES,
 )
 
 RSS_ITEMS_PER_FEED = 25     # 피드당 후보 개수 (하루 30건을 뽑으려면 넉넉해야 함)
@@ -28,25 +25,6 @@ def title_key(title: str) -> str:
     text = re.sub(r"\[[^\]]*\]", " ", title or "")
     text = re.sub(r"[^0-9A-Za-z가-힣]+", "", text)
     return text.lower()[:40]
-
-
-def fetch_naver_news(query: str, client_id: str, client_secret: str, count: int = 3) -> List[Dict[str, Any]]:
-    url = (
-        "https://openapi.naver.com/v1/search/news.json"
-        f"?query={urllib.parse.quote(query)}&display={count}&sort=date"
-    )
-    headers = {"X-Naver-Client-Id": client_id, "X-Naver-Client-Secret": client_secret}
-    resp = requests.get(url, headers=headers, timeout=12)
-    resp.raise_for_status()
-    items = []
-    for item in resp.json().get("items", []):
-        items.append({
-            "title": clean_html_text(item.get("title", "")),
-            "description": clean_html_text(item.get("description", "")),
-            "link": item.get("originallink") or item.get("link", ""),
-            "pubDate": item.get("pubDate", ""),
-        })
-    return items
 
 
 def fetch_rss_news(rss_url: str, count: int = 3) -> List[Dict[str, Any]]:
@@ -68,43 +46,32 @@ def fetch_rss_news(rss_url: str, count: int = 3) -> List[Dict[str, Any]]:
 
 
 def collect_pools(plan: Dict[str, List[int]], known_urls: set) -> Dict[str, List[Dict[str, Any]]]:
-    """카테고리마다 (목표 건수 + 여유)만큼 원문을 읽어 후보 풀을 만든다."""
-    client_id = os.environ.get("NAVER_CLIENT_ID")
-    client_secret = os.environ.get("NAVER_CLIENT_SECRET")
     pools: Dict[str, List[Dict[str, Any]]] = {}
     used_links: set = set(known_urls)
     used_titles: set = set()
-    print("[1] 뉴스 수집 및 원문 전문 읽기...")
+
+    print("[1] 뉴스 수집 및 원문 전문 읽기 (고품질 RSS 전용)...")
     for category in CATEGORIES:
         target_count = len(plan.get(category, []))
         if target_count == 0:
             continue
-        gathered = _fetch_category(category, client_id, client_secret)
+
+        gathered = _fetch_category(category)
         pool = _pool_with_body(category, gathered, target_count + POOL_BUFFER,
                                used_links, used_titles)
         pools[category] = pool
         print(f"  · [{category}] 원문 확보 {len(pool)}건 (목표 {target_count}건)")
+
     return pools
 
 
-def _fetch_category(category: str, client_id, client_secret) -> List[Dict[str, Any]]:
-    """네이버 검색 API 가 있으면 그것을, 없으면 언론사 RSS 를 모은다."""
+def _fetch_category(category: str) -> List[Dict[str, Any]]:
     gathered: List[Dict[str, Any]] = []
-    if client_id and client_secret:
-        for q in CATEGORY_SEARCH_QUERIES.get(category, [category]):
-            try:
-                gathered.extend(fetch_naver_news(q, client_id, client_secret,
-                                                 count=RSS_ITEMS_PER_FEED))
-            except Exception as e:
-                print(f"  - 네이버 API 실패 ({q}): {e}")
-            if len(gathered) >= RSS_ITEMS_PER_FEED:
-                break
-    if not gathered:
-        for rss in CATEGORY_RSS_FEEDS.get(category, []):
-            try:
-                gathered.extend(fetch_rss_news(rss, count=RSS_ITEMS_PER_FEED))
-            except Exception as e:
-                print(f"  - RSS 수집 실패 ({category}): {e}")
+    for rss in CATEGORY_RSS_FEEDS.get(category, []):
+        try:
+            gathered.extend(fetch_rss_news(rss, count=RSS_ITEMS_PER_FEED))
+        except Exception as e:
+            print(f"  - RSS 수집 실패 ({category} - {rss}): {e}")
     return gathered
 
 
