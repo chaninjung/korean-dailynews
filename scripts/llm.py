@@ -1,26 +1,31 @@
 """LLM 호출. 키 우선순위: OpenAI -> Anthropic -> Gemini."""
 
 import os
+import random
 import re
 import json
 import time
+import warnings
 from typing import Any, Dict, List, Optional
 
 from prompts import SYSTEM_PROMPT, build_user_prompt
 
-# Gemini 기본 후보 모델. GEMINI_MODEL 환경변수가 있으면 그 모델을 가장 먼저 시도합니다.
-# (gemini-2.0-flash / gemini-2.5-flash 는 2026년 기준 서비스 종료되어 404 가 돌아옵니다)
+# AFC 경고는 단순 텍스트/JSON 생성과 무관한 SDK 내부 안내이므로 숨긴다.
+# (실제 호출은 권장 경로인 Chat.send_message 로 옮겼다.)
+warnings.filterwarnings("ignore", message=".*automatic function calling.*")
+
+# ── 모델 폴백: 메인 1개 + 경량 폴백 1개, 총 2단계만 사용합니다. ─────────────
+# GEMINI_MODEL 환경변수가 있으면 그 모델이 메인 자리를 대신합니다.
 GEMINI_DEFAULT_MODELS: List[str] = [
-    "gemini-3.6-flash",
-    "gemini-3.5-flash",
-    "gemini-3.7-flash",
-    "gemini-3.1-flash-lite",
+    "gemini-2.5-flash",
     "gemini-flash-lite-latest",
-    "gemini-flash-latest",
 ]
 
 HTTP_TIMEOUT_MS = 120_000     # 응답이 멈춰도 파이프라인 전체가 멈추지 않도록
-RETRY_SLEEP_SECONDS = 8
+MAX_ATTEMPTS_PER_MODEL = 3    # 모델당 최대 재시도 횟수
+BACKOFF_BASE_SECONDS = 4.0    # 지수 백오프 시작값: 4s -> 8s -> 16s (+지터)
+BACKOFF_MAX_SECONDS = 30.0
+TIER_SLEEP_SECONDS = 3.0      # 메인 모델 소진 후 폴백 모델로 넘어가기 전 휴식
 
 
 def _env_float(name: str, default: float) -> float:
@@ -35,11 +40,60 @@ def _env_float(name: str, default: float) -> float:
 # 짧게 쉬면 429(할당량 초과)로 실패-재시도가 반복돼 오히려 전체가 느려집니다.
 LLM_CALL_SLEEP = _env_float("LLM_CALL_SLEEP", 4.0)
 
-RETRYABLE_TOKENS = ("503", "429", "UNAVAILABLE", "RESOURCE_EXHAUSTED", "overloaded", "high demand")
+RETRYABLE_TOKENS = (
+    "429", "500", "502", "503", "504",
+    "RESOURCE_EXHAUSTED", "UNAVAILABLE", "DEADLINE_EXCEEDED",
+    "overloaded", "high demand", "rate limit", "quota",
+)
 
 
 def _is_retryable(message: str) -> bool:
-    return any(token in message for token in RETRYABLE_TOKENS)
+    lowered = (message or "").lower()
+    return any(token.lower() in lowered for token in RETRYABLE_TOKENS)
+
+
+def _backoff_sleep(fail_count: int) -> None:
+    """지수 백오프: 4s -> 8s -> 16s (+최대 1s 지터, 상한 30s)."""
+    delay = min(BACKOFF_MAX_SECONDS, BACKOFF_BASE_SECONDS * (2 ** max(0, fail_count - 1)))
+    time.sleep(delay + random.uniform(0.0, 1.0))
+
+
+def extract_json(raw: str) -> Optional[Dict[str, Any]]:
+    """LLM 응답에서 순수 JSON 객체를 뽑아 파싱한다.
+
+    - 마크다운 펜스(```json ... ```) 제거
+    - 앞뒤 설명 문구 제거: 첫 '{' 부터 마지막 '}' 까지만 잘라냄
+    - 잘린 JSON(Unterminated string) 은 수리하지 않고 None 반환
+    """
+    text = (raw or "").strip()
+    if not text:
+        return None
+    # 1) 마크다운 펜스 벗기기
+    if "```" in text:
+        fence = re.search(r"```(?:json)?\s*(.*?)```", text, re.DOTALL | re.IGNORECASE)
+        if fence:
+            text = fence.group(1).strip()
+        else:
+            text = re.sub(r"^```(?:json)?\s*", "", text, flags=re.IGNORECASE)
+            text = re.sub(r"\s*```$", "", text)
+    # 2) 순수 JSON 이 아니면 첫 '{' ~ 마지막 '}' 만 잘라냄
+    if not text.startswith("{"):
+        start = text.find("{")
+        end = text.rfind("}")
+        if start == -1 or end == -1 or end <= start:
+            return None
+        text = text[start:end + 1]
+    # 3) 꼬리표(Extra data) 방지: 마지막 '}' 뒤는 버린다
+    if not text.endswith("}"):
+        end = text.rfind("}")
+        if end == -1:
+            return None
+        text = text[:end + 1]
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
+        return None
+    return data if isinstance(data, dict) else None
 
 
 def _gemini_model_candidates() -> List[str]:
@@ -50,7 +104,12 @@ def _gemini_model_candidates() -> List[str]:
 
 
 def _call_gemini(prompt: str, api_key: str) -> str:
-    """새 google-genai SDK 를 우선 사용하고, 없으면 구 SDK 로 넘어갑니다."""
+    """새 google-genai SDK 를 우선 사용하고, 없으면 구 SDK 로 넘어갑니다.
+
+    - 권장 경로인 Chat.send_message 로 호출해 AFC 경고를 원천 제거
+    - response_mime_type=application/json 으로 JSON 모드 강제
+    - 429/503/504 는 지수 백오프로 재시도, 모델당 소진 후에만 다음 모델로 폴백
+    """
     try:
         from google import genai
         from google.genai import types
@@ -59,18 +118,15 @@ def _call_gemini(prompt: str, api_key: str) -> str:
 
     client = genai.Client(
         api_key=api_key,
-        http_options=types.HttpOptions(
-            timeout=HTTP_TIMEOUT_MS,
-            retry_options=types.HttpRetryOptions(attempts=1),
-        ),
+        http_options=types.HttpOptions(timeout=HTTP_TIMEOUT_MS),
     )
     last_error: Optional[Exception] = None
     for model_name in _gemini_model_candidates():
-        for attempt in (1, 2):
+        fail_count = 0
+        for attempt in range(1, MAX_ATTEMPTS_PER_MODEL + 1):
             try:
-                resp = client.models.generate_content(
+                chat = client.chats.create(
                     model=model_name,
-                    contents=prompt,
                     config=types.GenerateContentConfig(
                         system_instruction=SYSTEM_PROMPT,
                         response_mime_type="application/json",
@@ -78,20 +134,30 @@ def _call_gemini(prompt: str, api_key: str) -> str:
                         max_output_tokens=8000,
                     ),
                 )
-                text = (resp.text or "").strip()
+                # 순수 텍스트만 보낸다. tools / function-calling 설정은 일절 넘기지 않는다.
+                resp = chat.send_message(prompt)
+                text = (getattr(resp, "text", "") or "").strip()
                 if text:
-                    print(f"    · Gemini 모델: {model_name}")
+                    if model_name != _gemini_model_candidates()[0]:
+                        print(f"    · 폴백 모델 사용: {model_name}")
+                    if attempt > 1:
+                        print(f"    · Gemini 모델: {model_name} ({attempt}번째 시도에 성공)")
                     return text
                 last_error = RuntimeError("빈 응답")
                 break
             except Exception as e:
                 last_error = e
                 message = str(e).replace("\n", " ")
-                print(f"    · Gemini {model_name} 실패: {message[:90]}")
-                if attempt == 1 and _is_retryable(message):
-                    time.sleep(RETRY_SLEEP_SECONDS)
+                if _is_retryable(message) and attempt < MAX_ATTEMPTS_PER_MODEL:
+                    fail_count += 1
+                    print(f"    · Gemini {model_name} 재시도 {attempt}/{MAX_ATTEMPTS_PER_MODEL}: {message[:90]}")
+                    _backoff_sleep(fail_count)
                     continue
+                print(f"    · Gemini {model_name} 실패: {message[:90]}")
                 break
+        print(f"    · {model_name} 재시도 소진, 다음 모델로 폴백")
+        if TIER_SLEEP_SECONDS:
+            time.sleep(TIER_SLEEP_SECONDS)
     raise RuntimeError(f"Gemini 호출 실패: {last_error}")
 
 
@@ -153,13 +219,9 @@ def process_candidate(candidate: Dict[str, Any], target_level: int) -> Optional[
         return None
     prompt = build_user_prompt(candidate, target_level)
     raw = call_llm(prompt).strip()
-    if raw.startswith("```"):
-        raw = re.sub(r"^```(?:json)?\s*", "", raw)
-        raw = re.sub(r"\s*```$", "", raw)
-    try:
-        data = json.loads(raw)
-    except json.JSONDecodeError as e:
-        print(f"  [제외] JSON 파싱 실패: {e}")
+    data = extract_json(raw)
+    if data is None:
+        print(f"  [제외] JSON 파싱 실패: {raw[:80]!r}")
         return None
     if not data.get("is_suitable", False):
         print(f"  [제외] {candidate.get('title')} ({data.get('rejection_reason')})")
