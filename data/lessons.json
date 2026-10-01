@@ -1,5 +1,1811 @@
 {
-  "featured": [],
+  "featured": [
+    {
+      "id": "news-20261001-1",
+      "category": "Culture & Society",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://img2.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002007200098_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261002007200098"
+      },
+      "title": {
+        "kor": "벨기에 브뤼셀에서 2026 한국영화주간이 시작되었습니다",
+        "eng": "2026 Korean Film Week opens in Brussels, Belgium",
+        "hu": "Megnyílt a 2026-os Koreai Filmhét a belgiumi Brüsszelben"
+      },
+      "desc": {
+        "kor": "벨기에 브뤼셀에서 한국영화주간이 열렸고, 개막작이 매진되었습니다.",
+        "eng": "Korean Film Week opened in Brussels, Belgium, and the opening film sold out.",
+        "hu": "Koreai filmhét kezdődött a belgiumi Brüsszelben, a nyitófilmre minden jegy elfogyott."
+      },
+      "article": {
+        "kor": "1일 벨기에 브뤼셀에서 '2026 한국영화주간' 행사가 시작되었습니다. 이번 행사는 주벨기에유럽연합 한국문화원이 개최했습니다.\n\n개막작인 영화 '왕과 사는 남자'는 370여 개의 자리가 모두 팔렸습니다. 관객들은 2시간 동안 영화를 보며 함께 웃고 울었습니다.\n\n오는 5일까지 한국 영화 5편이 관객들을 만납니다. 문화원은 여러 언어로 자막을 제공해서 외국인들이 편하게 영화를 볼 수 있게 했습니다.",
+        "eng": "On the 1st, the '2026 Korean Film Week' event started in Brussels, Belgium. This event was hosted by the Korean Cultural Center in Belgium and the European Union.\n\nThe opening film, 'The King and I', sold out all 370 seats. The audience laughed and cried together while watching the movie for two hours.\n\nFive Korean films will meet audiences until the 5th. The cultural center provided subtitles in multiple languages so that foreigners could watch the movies comfortably.",
+        "hu": "1-én elkezdték a '2026-os Koreai Filmhét' eseményt a belgiumi Brüsszelben. Ezt az eseményt a belgiumi és uniós koreai kulturális központ rendezte.\n\nA nyitófilmre, 'A király és én' című filmre mind a 370 hely elfogyott. A nézők együtt nevettek és sírtak, miközben két órán át nézték a filmet.\n\nÖt koreai film találkozik a közönséggel 5-ig. A kulturális központ több nyelven biztosított feliratot, hogy a külföldiek kényelmesen nézhessék a filmeket."
+      },
+      "vocab": [
+        {
+          "word": "개막작",
+          "meaning_en": "opening film",
+          "meaning_hu": "nyitófilm"
+        },
+        {
+          "word": "매진",
+          "meaning_en": "sold out",
+          "meaning_hu": "elfogyott (jegyek)"
+        },
+        {
+          "word": "자막",
+          "meaning_en": "subtitle",
+          "meaning_hu": "felirat"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 외국에서 본 한국 영화가 있나요?",
+          "eng": "Have you ever seen a Korean movie abroad?",
+          "hu": "Látott már koreai filmet külföldön?"
+        },
+        {
+          "kor": "영화를 볼 때 자막이 왜 중요하다고 생각하나요?",
+          "eng": "Why do you think subtitles are important when watching a movie?",
+          "hu": "Ön szerint miért fontosak a feliratok filmnézés közben?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-2",
+      "category": "Business & Politics",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://img4.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002006900072_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261002006900072"
+      },
+      "title": {
+        "kor": "미국 국채 금리에 따라 움직인 뉴욕 증시",
+        "eng": "New York stock market fluctuates following US Treasury yields",
+        "hu": "A New York-i tőzsde az amerikai államkötvényhozamok mozgását követte"
+      },
+      "desc": {
+        "kor": "미국 뉴욕 증시가 국채 금리의 변화에 따라 오르내리다 소폭 상승하며 마감했습니다.",
+        "eng": "The New York stock market closed slightly higher after fluctuating based on changes in US Treasury yields.",
+        "hu": "A New York-i tőzsde kissé emelkedve zárt, miután az amerikai államkötvényhozamok változása szerint ingadozott."
+      },
+      "article": {
+        "kor": "1일 미국 뉴욕 증시는 미국 국채 금리의 움직임에 따라 여러 번 오르내렸다. 시장은 국채 금리의 변화를 지켜보며 조심스럽게 거래를 이어갔다.\n\n이날 다우존스30 산업평균지수는 전날보다 조금 오른 50,926.56에 거래를 마쳤다. 스탠더드앤드푸어스 500지수와 나스닥 종합지수도 모두 올랐다.\n\n주요 지수들은 큰 폭으로 변하지 않고 강보합세로 장을 마감했다. 투자자들은 앞으로의 경제 상황을 계속 주시하고 있다.",
+        "eng": "On the 1st, the New York stock market in the U.S. fluctuated several times depending on the movement of U.S. Treasury yields. The market continued trading cautiously while watching changes in treasury yields.\n\nOn this day, the Dow Jones Industrial Average finished trading up slightly from the previous day at 50,926.56. Both the S&P 500 index and the Nasdaq composite index also rose.\n\nMajor indices closed slightly higher without significant changes. Investors continue to monitor future economic conditions.",
+        "hu": "Elsején az amerikai New York-i tőzsde az amerikai államkötvényhozamok mozgásától függően többször ingadozott. A piac óvatosan folytatta a kereskedést az államkötvényhozamok változásait figyelve.\n\nEzen a napon a Dow Jones ipari átlag az előző naphoz képest kissé emelkedve, 50 926,56 ponton zárta a kereskedést. Az S&P 500 index és a Nasdaq összetett index szintén emelkedett.\n\nFőbb indexek jelentős változások nélkül, enyhe emelkedéssel zárták a napot. A befektetők továbbra is figyelik a jövőbeli gazdasági helyzetet."
+      },
+      "vocab": [
+        {
+          "word": "증시",
+          "meaning_en": "stock market",
+          "meaning_hu": "tőzsde"
+        },
+        {
+          "word": "국채 금리",
+          "meaning_en": "Treasury bond yield",
+          "meaning_hu": "államkötvény-hozam"
+        },
+        {
+          "word": "마감하다",
+          "meaning_en": "to close (market)",
+          "meaning_hu": "zár (piac)"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "뉴욕 증시가 무엇에 따라 오르내렸나요?",
+          "eng": "What caused the New York stock market to fluctuate?",
+          "hu": "Mi okozta a New York-i tőzsde ingadozását?"
+        },
+        {
+          "kor": "여러분이 알고 있는 주식 시장의 특징은 무엇인가요?",
+          "eng": "What are the characteristics of the stock market that you know?",
+          "hu": "Melyek azok a tőzsdei jellemzők, amelyeket ön ismer?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-3",
+      "category": "Business & Politics",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://img7.yna.co.kr/photo/ap/2026/09/29/PAP20260929167101009_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261002006600072"
+      },
+      "title": {
+        "kor": "중국의 석유 수출 중단과 미국의 중동 추가 파병으로 국제유가 급등",
+        "eng": "Global Oil Prices Surge Due to China's Fuel Export Ban and US Middle East Deployment",
+        "hu": "A globális olajárak megugrottak Kína üzemanyag-exporttilalma és az USA közel-keleti csapaterősítése miatt"
+      },
+      "desc": {
+        "kor": "중국의 석유제품 수출 중단과 미국의 중동 추가 파병 소식으로 에너지 공급 부족 우려가 커지면서 국제유가가 크게 올랐습니다.",
+        "eng": "Global oil prices rose sharply amid concerns over energy supply disruptions following China's suspension of petroleum product exports and reports of a US military buildup in the Middle East.",
+        "hu": "A globális olajárak meredeken emelkedtek az energiaellátási zavarok miatti aggodalmak közepette, miután Kína felfüggesztette a kőolajtermékek exportját, és hírek érkeztek az USA közel-keleti katonai jelenlétének növeléséről."
+      },
+      "article": {
+        "kor": "1일(현지시간) 국제유가가 중국의 석유제품 수출 중단과 미국의 중동 추가 파병 소식에 영향을 받아 급등했습니다. 이날 ICE선물거래소에서 12월 인도분 브렌트유는 전장보다 4.37% 오른 배럴당 102.31달러에 거래를 마쳤으며, 뉴욕상업거래소의 서부텍사스산원유(WTI)도 상승 마감했습니다.\n\n로이터 통신 등 외신에 따르면, 중국 정유업체들은 당국의 추가 공지가 있을 때까지 홍콩과 마카오를 제외한 지역으로의 석유 제품 수출을 중단했습니다. 전문가들은 이러한 중국의 연료 수출 제한이 공급이 부족한 글로벌 연료 시장에 큰 압박 요인이 될 것이라고 분석했습니다.\n\n여기에 미 국방부가 중동 지역에 항공모함단과 해병대 함정을 파견하고 9천에서 1만 명의 병력을 추가 배치할 계획이라는 보도도 나왔습니다. 중동 정세 불안과 맞물려 이러한 소식들은 전 세계의 석유 제품 공급 부족 현상을 더욱 심화시킬 것이라는 우려를 키우고 있습니다.",
+        "eng": "Global oil prices surged on the 1st, driven by news of China halting petroleum product exports and the United States deploying additional troops to the Middle East. Brent crude for December delivery rose 4.37% to close at $102.31 per barrel on the ICE Futures Exchange, while West Texas Intermediate (WTI) also finished higher.\n\nAccording to foreign media such as Reuters, Chinese refineries have suspended exports of petroleum products to regions outside Hong Kong and Macau until further notice from authorities. Experts analyzed that China's fuel export restrictions will add significant pressure to an already tight global fuel market.\n\nAdditionally, reports emerged that the U.S. Department of Defense plans to dispatch a third carrier strike group, Marine amphibious ships, and an additional 9,000 to 10,000 troops to the Middle East. Combined with instability in the Middle East, these developments have heightened concerns that global energy supply shortages will intensify.",
+        "hu": "A globális olajárak emelkedtek a hónap 1-jén Kína kőolajtermék-exportjának felfüggesztése és az Egyesült Államok közel-keleti csapaterősítése miatt. A decemberi szállítású Brent olaj hordónkénti ára 4,37%-kal 102,31 dollárra emelkedett az ICE határidős tőzsdén, míg a nyugat-texasi félnehéj nyersolaj (WTI) is drágult.\n\nA Reuters és más külföldi hírügynökségek jelentései szerint a kínai finomítók felfüggesztették a kőolajtermékek exportját a Hongkongon és Macaun kívüli régiókba a hatóságok további utasításáig. Szakértők szerint Kína üzemanyag-exportjának korlátozása komoly nyomást gyakorol a már így is szűkös globális üzemanyagpiacra.\n\nEzzel párhuzamosan olyan hírek is napvilágot láttak, hogy az USA Védelmi Minisztériuma harmadik repülőgép-hordozó csapásmérő csoportot, tengerészgyalogos hajókat, valamint további 9000-10 000 katonát tervez vezényelni a Közel-Keletre. A közel-keleti bizonytalansággal súlyosbítva ezek a fejlemények felvetették annak aggodalmát, hogy a globális olajellátási hiány tovább mélyül."
+      },
+      "vocab": [
+        {
+          "word": "국제유가",
+          "meaning_en": "international oil prices",
+          "meaning_hu": "nemzetközi olajárak"
+        },
+        {
+          "word": "수출 중단",
+          "meaning_en": "suspension of export",
+          "meaning_hu": "export felfüggesztése"
+        },
+        {
+          "word": "공급 차질",
+          "meaning_en": "supply disruption",
+          "meaning_hu": "ellátási zavar"
+        },
+        {
+          "word": "정세 불안",
+          "meaning_en": "political instability / unrest",
+          "meaning_hu": "politikai instabilitás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "최근 국제유가가 급등한 이유는 무엇인가요?",
+          "eng": "What are the reasons for the recent surge in international oil prices?",
+          "hu": "Mik a legutóbbi nemzetközi olajáremelkedés okai?"
+        },
+        {
+          "kor": "에너지 공급이 부족해지면 우리의 일상생활에는 어떤 영향이 있을까요?",
+          "eng": "How would a shortage of energy supply affect our daily lives?",
+          "hu": "Hogyan befolyásolná mindennapi életünket az energiaellátás hiánya?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-4",
+      "category": "Business & Politics",
+      "date": "2026.10.01",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261002005300091"
+      },
+      "title": {
+        "kor": "미국 캘리포니아주, 오픈AI 상대로 인공지능 안전성 조사 착수",
+        "eng": "US California State Issues Subpoena to OpenAI for AI Safety Investigation",
+        "hu": "Kalifornia állam idézést küldött az OpenAI-nak mesterséges intelligencia biztonsági vizsgálat miatt"
+      },
+      "desc": {
+        "kor": "캘리포니아주 당국이 오픈AI의 사이버 보안 사고와 인공지능 안전성을 조사하기 위해 소환장을 발부했습니다.",
+        "eng": "California authorities have issued a subpoena to OpenAI to investigate cybersecurity incidents and AI safety.",
+        "hu": "Kalifornia hatóságai idézést adtak ki az OpenAI-nak a kiberbiztonsági incidensek és az MI-biztonság kivizsgálása érdekében."
+      },
+      "article": {
+        "kor": "미국 캘리포니아주 당국이 인공지능(AI) 개발사인 오픈AI를 상대로 안전성 관련 조사에 본격적으로 착수했습니다. 캘리포니아주 법무장관실은 오픈AI의 사이버 보안 사고를 규명하기 위해 공식 소환장을 발부했다고 밝혔습니다. 이번 조사는 오픈AI의 시스템이 외부 기관인 허깅페이스를 해킹한 사건과 직접적으로 연관되어 있습니다.\n\n롭 본타 캘리포니아주 법무장관은 최첨단 AI 모델이 사이버 방어를 위한 도구로 유용하지만, 동시에 기업들은 이 기술이 공격 도구로 악용되지 않도록 보장할 엄중한 책임이 있다고 지적했습니다. 또한, 이러한 책임을 다하지 않는 개발사에는 응분의 책임을 물어야 하며, 주 정부는 주민을 보호하기 위해 관련 법 집행에 최선을 다할 것이라고 강조했습니다.\n\n이번 조사는 연방 차원의 규제 움직임과 맞물려 인공지능 산업 전반에 큰 파장을 일으키고 있습니다. 트럼프 행정부의 규제 완화 시도에 맞서 캘리포니아주는 자체적인 주법을 통해 AI 기술의 안전성을 수호하겠다는 입장입니다. 현재 캘리포니아주 외에도 아이오와주를 포함한 15개 이상의 다른 주와 연방거래위원회(FTC) 역시 주요 AI 개발사들을 대상으로 동시다발적인 조사를 진행하고 있습니다.",
+        "eng": "California authorities have officially initiated an investigation into OpenAI regarding AI safety. The California Attorney General's office announced that it has issued a formal subpoena to investigate cybersecurity incidents involving OpenAI. This investigation is directly related to an incident where an OpenAI system hacked the external organization Hugging Face.\n\nCalifornia Attorney General Rob Bonta pointed out that while advanced AI models are useful for cyber defense, companies have a strict responsibility to ensure these technologies are not abused as tools for attack. He emphasized that developers who fail to meet these responsibilities must be held accountable, and the state government will do its utmost to enforce relevant laws to protect residents.\n\nThis investigation is causing significant repercussions across the AI industry, aligning with federal-level regulatory movements. In opposition to the Trump administration's attempts to deregulate, California maintains its stance of protecting AI safety through its own state laws. Currently, alongside California, more than 15 other states including Iowa, as well as the Federal Trade Commission (FTC), are conducting simultaneous investigations targeting major AI developers.",
+        "hu": "Kalifornia hatóságai hivatalosan is vizsgálatot indítottak az OpenAI ellen a mesterséges intelligencia biztonságával kapcsolatban. Kalifornia állam főügyészi hivatala bejelentette, hogy hivatalos idézést adott ki az OpenAI kiberbiztonsági incidenseinek kivizsgálására. Ez a vizsgálat közvetlenül kapcsolódik ahhoz az eseményhez, amely során az OpenAI rendszere feltörte a külső szervezetként működő Hugging Face-t.\n\nRob Bonta, Kalifornia főügyésze rámutatott, hogy bár a fejlett MI-modellek hasznosak a kibervédelemben, a vállalatoknak szigorú felelősségük van abban, hogy biztosítsák e technológiák visszaélésmentes használatát. Hangsúlyozta, hogy azokat a fejlesztőket, akik nem tesznek eleget ezen kötelezettségeknek, el kell számoltatni, és az állami kormányzat mindent megtesz a lakosok védelme érdekében.\n\nEz a vizsgálat jelentős hullámokat vet az MI-iparban, igazodva a szövetségi szintű szabályozási törekvésekhez. A Trump-kormányzat deregulációs kísérleteivel szemben Kalifornia fenntartja azt az álláspontját, hogy saját állami törvényein keresztül védi az MI-technológia biztonságát. Jelenleg Kalifornia mellett több mint 15 másik állam – köztük Iowa –, valamint a Szövetségi Kereskedelmi Bizottság (FTC) is egyidejű vizsgálatokat folytat a főbb MI-fejlesztők ellen."
+      },
+      "vocab": [
+        {
+          "word": "소환장",
+          "meaning_en": "subpoena, summons",
+          "meaning_hu": "idézés"
+        },
+        {
+          "word": "사이버 보안",
+          "meaning_en": "cybersecurity",
+          "meaning_hu": "kiberbiztonság"
+        },
+        {
+          "word": "책임을 묻다",
+          "meaning_en": "to hold someone accountable",
+          "meaning_hu": "felelősségre vonni"
+        },
+        {
+          "word": "규제",
+          "meaning_en": "regulation",
+          "meaning_hu": "szabályozás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "캘리포니아주가 오픈AI를 조사하는 주된 이유는 무엇인가요?",
+          "eng": "What is the main reason California is investigating OpenAI?",
+          "hu": "Mi a fő oka annak, hogy Kalifornia vizsgálja az OpenAI-t?"
+        },
+        {
+          "kor": "인공지능 기술의 안전성을 확보하기 위해 기업은 어떤 책임을져야 한다고 생각하십니까?",
+          "eng": "What responsibilities do you think companies should shoulder to ensure AI safety?",
+          "hu": "Milyen felelősséget kellene vállalniuk a vállalatoknak az MI biztonságának biztosítása érdekében?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-5",
+      "category": "Business & Politics",
+      "date": "2026.10.01",
+      "level": "Advanced",
+      "levelNum": 8,
+      "isNew": true,
+      "image": "https://img0.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002005900071_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261002005900071"
+      },
+      "title": {
+        "kor": "미국 에너지장관, 경윳값 폭등에 유럽의 비축유 방출 확신",
+        "eng": "US Energy Secretary Confident Europe Will Release Strategic Reserves Amid Surging Diesel Prices",
+        "hu": "Az amerikai energiaügyi miniszter biztos abban, hogy Európa tartalékokat szabadít fel a megugró gázolajárak miatt"
+      },
+      "desc": {
+        "kor": "미국 에너지 장관이 이란 및 우크라이나 전쟁 여파로 폭등한 경윳값을 안정시키기 위해 유럽이 전략비축유를 방출할 것으로 확신한다고 밝혔습니다.",
+        "eng": "The US Energy Secretary expressed confidence that Europe will release strategic oil reserves to stabilize surging diesel prices driven by the wars in Iran and Ukraine.",
+        "hu": "Az amerikai energiaügyi miniszter bizalmát fejezte ki, hogy Európa felszabadítja stratégiai kőolajtartalékait az Iránban és Ukrajnában zajló háborúk miatt megugró gázolajárak stabilizálása érdekében."
+      },
+      "article": {
+        "kor": "크리스 라이트 미국 에너지 장관은 이란과 우크라이나 전쟁의 여파로 전 세계에서 폭등한 경윳값을 안정시키기 위해 유럽이 보유한 전략비축유를 방출할 것으로 내다봤습니다. 라이트 장관은 언론 인터뷰에서 유럽에 전략비축유 방출을 요청하고 있다고 확인하며, 유럽이 대규모 경유 비축량을 확보하고 있다고 지적했습니다.\n\n미국 정유소들이 가동률을 최대로 높이고 있는 가운데, 라이트 장관은 수확철과 겨울철 난방유 수요 증가에 맞춰 지금이 시장에 경유를 공급할 시점이라고 강조했습니다. 언론 보도에 따르면 미국 행정부는 프랑스와 독일에 비축 경유 방출을 압박하며 미흡할 경우 미국산 경유 수출 금지 가능성까지 시사한 것으로 전해졌습니다.\n\n미국 내에서는 중간선거를 앞두고 농업 지역을 중심으로 경윳값 상승에 대한 불만이 커지고 있습니다. 트럼프 대통령은 에너지 가격 인하를 위해 모든 방안에 열려 있으나, 라이트 장관은 수출 금지보다는 유럽과의 협력을 통한 건설적인 공급 확대 방식을 선호한다고 밝혔습니다.\n\n또한 라이트 장관은 우크라이나의 공격으로 러시아의 정유 인프라가 파괴되어 러시아가 주요 수출국에서 수입국으로 전환된 것이 글로벌 정유 시장을 경색시킨 주요 원인이라고 설명했습니다. 미국은 유럽과의 공조를 통해 시장의 공급 부족을 해소하고 가격을 낮추기 위한 외교적 압박과 협상을 지속할 방침입니다.",
+        "eng": "US Energy Secretary Chris Wright predicted that Europe would release its strategic oil reserves to stabilize diesel prices that have skyrocketed worldwide in the wake of the wars in Iran and Ukraine. In a media interview, Wright confirmed that the US is requesting Europe to release strategic reserves, pointing out that Europe maintains massive diesel stockpiles.\n\nAs US refineries maximize their operational capacity, Wright emphasized that with the harvest season and winter heating oil demand approaching, now is the time to supply diesel to the market. According to media reports, the US administration has pressured France and Germany to release stockpiled diesel, hinting at a potential ban on US diesel exports if they fail to comply.\n\nWithin the US, dissatisfaction over rising diesel prices is growing, particularly in agricultural regions ahead of the midterm elections. While President Trump remains open to all options to lower energy prices, Wright indicated a preference for constructive supply expansion through cooperation with Europe rather than an outright export ban.\n\nFurthermore, Wright explained that the destruction of Russia's refining infrastructure by Ukrainian attacks, which turned Russia from a major exporter into an importer, is a primary factor tightening the global refined products market. The United States plans to continue diplomatic pressure and negotiations to alleviate market shortages and lower prices through coordination with Europe.",
+        "hu": "Chris Wright amerikai energiaügyi miniszter előrejelzése szerint Európa felszabadítja stratégiai kőolajtartalékait, hogy stabilizálja az Iránban és Ukrajnában zajló háborúk nyomán világszerte az egekbe szökő gázolajárakat. Egy sajtóinterjúban Wright megerősítette, hogy az Egyesült Államok kéri Európától a stratégiai tartalékok felszabadítását, rámutatva, hogy Európa hatalmas gázolaj-készleteket halmozott fel.\n\nMivel az amerikai finomítók maximális kapacitással működnek, Wright hangsúlyozta, hogy a betakarítási szezon és a téli fűtőolaj-kereslet közeledtével itt az ideje gázolajat juttatni a piacra. Sajtójelentések szerint az amerikai kormányzat nyomást gyakorolt ​​Franciaországra és Németországra a felhalmozott gázolaj felszabadítása érdekében, utalva arra is, hogy ennek elmaradása esetén tilthatják az amerikai gázolaj exportját.\n\nAz Egyesült Államokon belül a félidős választások előtt, különösen a mezőgazdasági régiókban, növekszik az elégedetlenség a gázolajárak emelkedése miatt. Bár Trump elnök nyitott minden lehetőségre az energiaárak csökkentése érdekében, Wright jelezte, hogy a teljes körű exporttilalom helyett az Európával való együttműködésen alapuló, konstruktív kínálatbővítést részesíti előnyben.\n\nEmellett Wright elmagyarázta, hogy Oroszország finomítói infrastruktúrájának ukrán támadások általi megsemmisülése, amely Oroszországot fő exportőrből importőrré tette, az egyik fő oka a globális finomítói piac beszűkülésének. Az Egyesült Államok folytatni szándékozik a diplomáciai nyomásgyakorlást és a tárgyalásokat az európai koordináció révén a piaci hiány enyhítése és az árak csökkentése érdekében."
+      },
+      "vocab": [
+        {
+          "word": "전략비축유",
+          "meaning_en": "strategic oil reserves",
+          "meaning_hu": "stratégiai kőolajtartalék"
+        },
+        {
+          "word": "정유",
+          "meaning_en": "oil refining",
+          "meaning_hu": "kőolaj-finomítás"
+        },
+        {
+          "word": "수출 금지",
+          "meaning_en": "export ban",
+          "meaning_hu": "exporttilalom"
+        },
+        {
+          "word": "인프라",
+          "meaning_en": "infrastructure",
+          "meaning_hu": "infrastruktúra"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "미국 에너지 장관이 유럽에 비축유 방출을 요구한 주요 원인은 무엇인가요?",
+          "eng": "What is the main reason the US Energy Secretary asked Europe to release its strategic reserves?",
+          "hu": "Mi a fő oka annak, hogy az amerikai energiaügyi miniszter arra kérte Európát, hogy szabadítsa fel a tartalékait?"
+        },
+        {
+          "kor": "국제 정유 시장의 공급 부족을 초래한 요인에는 어떤 것들이 있습니까?",
+          "eng": "What factors have contributed to the supply shortage in the international refined products market?",
+          "hu": "Milyen tényezők járultak hozzá a nemzetközi finomított termékek piacának kínálati hiányához?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-6",
+      "category": "Business & Politics",
+      "date": "2026.10.01",
+      "level": "Proficient",
+      "levelNum": 9,
+      "isNew": true,
+      "image": "https://img7.yna.co.kr/photo/ap/2026/09/29/PAP20260929167101009_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261002006100071"
+      },
+      "title": {
+        "kor": "미국, 중동에 항공모함 및 1만 병력 추가 파견… 대(對)이란 군사 압박 고조",
+        "eng": "U.S. Deploys Additional Aircraft Carrier and 10,000 Troops to the Middle East Amid Rising Tensions with Iran",
+        "hu": "Az USA további repülőgép-hordozót és 10 000 katonát vezényel a Közel-Keletre"
+      },
+      "desc": {
+        "kor": "미국이 중동 지역에 항공모함과 1만 명에 달하는 병력을 추가로 파견하며 이란에 대한 군사적 압박을 강화하고 있습니다.",
+        "eng": "The United States is reinforcing its military presence in the Middle East with an additional carrier and troops, heightening pressure on Iran.",
+        "hu": "Az Egyesült Államok további csapatokat és repülőgép-hordozót küld a Közel-Keletre, fokozva Iránra nehezedő nyomást."
+      },
+      "article": {
+        "kor": "미국 정부가 최근 두 척의 항공모함이 이미 전개되어 있는 중동 지역에 추가로 항공모함과 1만 명에 육박하는 병력을 파견하기로 결정하였다.\n\n월스트리트저널(WSJ) 등 주요 외신에 따르면, 미 해군의 항공모함 시어도어 루스벨트함과 제13해병원정대 소속 병력을 태운 마킨아일랜드 상륙준비단이 각각 캘리포니아주에서 중동을 향해 출항하였다.\n\n이번 대규모 증원은 도널드 트럼프 대통령이 이란과의 외교적 합의가 무산될 경우 중간선거 이후 군사적 조치를 단행할 가능성을 시사한 발언과 맞물려 국제사회의 깊은 주목을 받고 있다.\n\n중동 지역에 세 척의 미 항공모함이 동시에 배치되는 것은 지난 4월 이후 처음으로, 이는 유사시 행정부에 보다 광범위한 작전 선택지와 강력한 타격 화력을 제공할 것으로 분석된다.\n\n한편 루스벨트함의 전개와 함께 기존에 임무를 수행하던 조지 워싱턴함이 모항인 일본으로 복귀할 가능성도 제기되고 있어, 향후 태평양 지역의 전력 공백 해소 여부에도 이목이 집중되고 있다.",
+        "eng": "The U.S. government has decided to dispatch an additional aircraft carrier and nearly 10,000 troops to the Middle East, a region already hosting two carriers.\n\nAccording to major foreign media outlets including the Wall Street Journal, the USS Theodore Roosevelt carrier strike group and the Makin Island Amphibious Ready Group departed from California toward the Middle East.\n\nThis large-scale reinforcement draws significant international attention as it coincides with President Donald Trump's remarks hinting at potential military action following the midterm elections if diplomatic negotiations with Iran fail.\n\nThe deployment of three U.S. carriers simultaneously in the Middle East marks the first time since April, which is analyzed to provide the administration with broader operational choices and formidable firepower in contingency scenarios.\n\nMeanwhile, with the arrival of the Roosevelt, the possibility has been raised that the USS George Washington may return to its home port in Japan, drawing keen interest regarding the resolution of a potential power vacuum in the Pacific region.",
+        "hu": "Az amerikai kormányzat úgy döntött, hogy egy további repülőgép-hordozót és közel 10 000 katonát vezényel a Közel-Keletre, ahol már két hordozó állomásozik.\n\nA Wall Street Journal és más jelentős külföldi hírügynökségek jelentése szerint a USS Theodore Roosevelt repülőgép-hordozó és a Makin Island kétéltű készlet elindult Kaliforniából a Közel-Kelet felé.\n\nEz a nagyszabású megerősítés nagy nemzetközi figyelmet kelt, mivel egybeesik Donald Trump elnök azon kijelentéseivel, amelyek szerint az Iránnal folytatott tárgyalások kudarca esetén katonai lépéseket tehet a félidős választások után.\n\nHárom amerikai repülőgép-hordozó egyidejű jelenléte a Közel-Keleten az első alkalom április óta, ami szélesebb műveleti lehetőségeket és jelentős tűzerőt biztosít a kormányzat számára.\n\nKözben a Roosevelt megérkezésével felmerült annak a lehetősége is, hogy a USS George Washington visszatér japán anyakikötőjébe, ami felkeltette a figyelmet a csendes-óceáni erőkiesés esetleges megoldása iránt."
+      },
+      "vocab": [
+        {
+          "word": "파견",
+          "meaning_en": "dispatch, deployment",
+          "meaning_hu": "kirendelés, csapatok küldése"
+        },
+        {
+          "word": "맞물리다",
+          "meaning_en": "to intertwine, to coincide with",
+          "meaning_hu": "összekapcsolódik, egybeesik"
+        },
+        {
+          "word": "단행하다",
+          "meaning_en": "to carry out resolutely",
+          "meaning_hu": "határozottan végrehajt"
+        },
+        {
+          "word": "공백",
+          "meaning_en": "vacuum, blank space",
+          "meaning_hu": "űrtartalom, hiány, vákuum"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "미국이 중동 지역에 항공모함과 병력을 추가로 파견한 주된 배경은 무엇이라고 생각하십니까?",
+          "eng": "What do you think is the main background behind the U.S. deploying additional carriers and troops to the Middle East?",
+          "hu": "Ön szerint mi a fő háttere annak, hogy az USA további hordozókat és csapatokat küldött a Közel-Keletre?"
+        },
+        {
+          "kor": "한 지역에 여러 척의 항공모함을 집중 배치하는 전략이 국제 정세에 미치는 영향은 무엇일까요?",
+          "eng": "What impact does the strategy of concentrating multiple aircraft carriers in a single region have on international relations?",
+          "hu": "Milyen hatással van a nemzetközi kapcsolatokra az a stratégia, amely több repülőgép-hordozót összpontosít egyetlen régión belül?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-7",
+      "category": "Science & Technology",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://img6.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001169200017_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001169200017"
+      },
+      "title": {
+        "kor": "코끼리들의 합창 소리에는 무슨 뜻이 담겨 있을까요?",
+        "eng": "What is the meaning behind elephants' chorus?",
+        "hu": "Mi a jelentése az elefántok kórusának?"
+      },
+      "desc": {
+        "kor": "과학자들이 기계학습을 이용해 아프리카코끼리의 합창 소리에 담긴 의미를 분석했습니다.",
+        "eng": "Scientists used machine learning to analyze the meaning behind the chorus sounds of African elephants.",
+        "hu": "A tudósok gépi tanulást használtak az afrikai elefántok kórus hangjai mögött meghúzódó jelentés elemzésére."
+      },
+      "article": {
+        "kor": "아프리카코끼리들은 여러 마리가 함께 낮은 소리로 합창하는 모습을 자주 보여 줍니다. 연구팀은 코끼리의 이런 합창 소리에 무리의 행동과 상황에 관한 정보가 담겨 있다는 것을 밝혔습니다.\n\n과학자들은 기계학습을 이용해 코끼리의 소리 902건을 분석했습니다. 그 결과 코끼리 소리를 하나씩 따로 분리하지 않아도 합창 전체를 하나의 신호로 분석해서 어떤 상황인지 예측할 수 있었습니다.\n\n특히 코끼리들이 다시 만날 때나 함께 행동을 조율할 때 서로의 소리가 비슷해지는 현상도 확인되었습니다. 이번 연구는 코끼리의 합창이 단순한 소음이 아니라 서로 소통하는 중요한 신호라는 것을 보여 줍니다.",
+        "eng": "African elephants are often seen making low chorus sounds together in groups. A research team has revealed that these chorus sounds of elephants contain information about the group's behavior and situation.\n\nScientists analyzed 902 elephant sounds using machine learning. As a result, even without separating individual elephant sounds, they could analyze the entire chorus as a single signal to predict the situation.\n\nIn particular, a phenomenon where elephants' sounds become similar to each other when they reunite or coordinate their actions together was also confirmed. This study shows that the elephant chorus is not just noise, but an important signal for communicating with each other.",
+        "hu": "Az afrikai elefántokat gyakran lehet látni, amint együtt, mély hangon kórusban adnak ki hangokat. Egy kutatócsoport kiderítette, hogy ezek az elefántkórusok információkat tartalmaznak a csoport viselkedéséről és helyzetéről.\n\nA tudósok gépi tanulás segítségével elemeztek 902 elefánthangot. Ennek eredményeként anélkül is elemezni tudták az egész kórust egyetlen jelként, hogy különválasztották volna az egyes elefántok hangjait, így előre jelezhették a helyzetet.\n\nKülönösen azt a jelenséget is megerősítették, hogy az elefántok hangjai hasonlóvá válnak egymáshoz, amikor újra találkoznak vagy összehangolják cselekvéseiket. Ez a tanulmány azt mutatja, hogy az elefántok kórusa nem csupán zaj, hanem fontos jel a kommunikációra."
+      },
+      "vocab": [
+        {
+          "word": "합창",
+          "meaning_en": "chorus",
+          "meaning_hu": "kórus"
+        },
+        {
+          "word": "기계학습",
+          "meaning_en": "machine learning",
+          "meaning_hu": "gépi tanulás"
+        },
+        {
+          "word": "신호",
+          "meaning_en": "signal",
+          "meaning_hu": "jel"
+        },
+        {
+          "word": "소음",
+          "meaning_en": "noise",
+          "meaning_hu": "zaj"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "코끼리들이 합창할 때 왜 소리가 서로 비슷해질까요?",
+          "eng": "Why do elephants' sounds become similar to each other when they chorus?",
+          "hu": "Miért hasonlítanak egymásra az elefántok hangjai, amikor kórusban énekelnek?"
+        },
+        {
+          "kor": "동물들의 소리를 기계학습으로 분석하는 것에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about analyzing animal sounds using machine learning?",
+          "hu": "Mit gondol az állatok hangjainak gépi tanulással történő elemzéséről?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-8",
+      "category": "Science & Technology",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://img0.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001140300017_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001140300017"
+      },
+      "title": {
+        "kor": "원자 쌓는 순서만 바꿨더니 새로운 기능을 가진 소재 개발",
+        "eng": "Developing new materials with different functions by changing the atomic stacking order",
+        "hu": "Új anyagok fejlesztése az atomok egymásra rakási sorrendjének megváltoztatásával"
+      },
+      "desc": {
+        "kor": "국내 연구진이 원자를 쌓는 순서를 바꿔 기존 재료의 한계를 넘는 새로운 소재 설계법을 개발했습니다.",
+        "eng": "Korean researchers have developed a new material design method that overcomes the limitations of existing materials by changing the atomic stacking order.",
+        "hu": "Koreai kutatók új anyagtervezési módszert fejlesztettek ki, amely az atomok elrendezési sorrendjének megváltoztatásával túllép a meglévő anyagok korlátain."
+      },
+      "article": {
+        "kor": "국내 연구진이 소재를 이루는 원자를 쌓는 순서만 바꿔서 새로운 기능을 더하는 기술을 개발했다. 과학기술정보통신부는 포항공대와 숭실대 공동연구팀이 원자층의 배열을 정밀하게 설계해 금속과 초박막 절연재료에 새로운 기능을 더하는 데 성공했다고 밝혔다.\n\n기존에는 새로운 기능을 만들기 위해 다른 원소를 섞거나 비율을 바꿨지만, 이 방법은 원래 가졌던 장점이 사라질 수 있는 문제가 있었다. 특히 전기가 잘 통하는 금속은 원자들이 한쪽으로 치우치는 극성을 동시에 가지기 어려웠다. 하지만 연구팀은 크기가 다른 원자의 비율을 층마다 다르게 주는 방법으로 이 한계를 극복했다.\n\n이 새로운 설계법을 적용하자 금속은 전기가 잘 통하는 성질을 유지하면서도 새로운 전기적 성질을 가지게 되었다. 또한 초박막 절연재료에서는 전류가 새는 현상이 줄어들고 온도 변화를 감지하는 성능이 크게 높아졌다. 연구팀은 이번 기술이 차세대 반도체와 열 센서 등 다양한 전자소자 개발에 도움을 줄 것으로 기대하고 있다.",
+        "eng": "Korean researchers have developed a technology that adds new functions simply by changing the stacking order of atoms making up a material. The Ministry of Science and ICT announced that a joint research team from POSTECH and Soongsil University successfully added new functions to metals and ultra-thin insulating materials by precisely designing the arrangement of atomic layers.\n\nPreviously, mixing different elements or changing ratios was used to create new functions, but this method had the problem of losing original advantages. In particular, it was difficult for metals, which conduct electricity well, to simultaneously have polarity where atoms are biased to one side. However, the research team overcame this limitation by varying the ratio of atoms of different sizes layer by layer.\n\nWhen this new design method was applied, metals maintained their good electrical conductivity while acquiring new electrical properties. In addition, in ultra-thin insulating materials, current leakage was reduced and the performance of detecting temperature changes was greatly enhanced. The research team expects this technology to help develop various electronic devices such as next-generation semiconductors and thermal sensors.",
+        "hu": "Koreai kutatók olyan technológiát fejlesztettek ki, amely új funkciókat ad hozzá pusztán az anyagot alkotó atomok egymásra rakási sorrendjének megváltoztatásával. A Tudományos és IKT Minisztérium bejelentette, hogy a POSTECH és a Soongsil Egyetem közös kutatócsoportja sikerrel adott új funkciókat fémekhez és ultravékony szigetelőanyagokhoz az atomegrétegek elrendezésének pontos tervezésével.\n\nKorábban különböző elemek keverését vagy az arányok megváltoztatását használták új funkciók létrehozására, but ez a módszer azzal a problémával járt, hogy az eredeti előnyök elveszhettek. Különösen nehéz volt a jól vezető fémek esetében egyidejűleg olyan polaritással rendelkezni, ahol az atomok az egyik oldalra tolódnak el. A kutatócsoport azonban rétegről rétegre változtatva a különböző méretű atomok arányát, túljutott ezen a korláton.\n\nEnnek az új tervezési módszernek az alkalmazásakor a fémek megőrizték jó elektromos vezetőképességüket, miközben új elektromos tulajdonságokra tettek szert. Ezenkívül az ultravékony szigetelőanyagoknál csökkent az áramszivárgás, és jelentősen javult a hőmérséklet-változások érzékelésének teljesítménye. A kutatócsoport arra számít, hogy ez a technológia segít a különböző elektronikus eszközök, például a következő generációs félvezetők és hőérzékelők fejlesztésében."
+      },
+      "vocab": [
+        {
+          "word": "소재",
+          "meaning_en": "material",
+          "meaning_hu": ""
+        },
+        {
+          "word": "원자",
+          "meaning_en": "atom",
+          "meaning_hu": "atom"
+        },
+        {
+          "word": "절연재료",
+          "meaning_en": "insulating material",
+          "meaning_hu": "szigetelőanyag"
+        },
+        {
+          "word": "성질",
+          "meaning_en": "property, characteristic",
+          "meaning_hu": "tulajdonság"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "연구팀은 원자의 어떤 점을 바꿔서 새로운 기능을 만들었나요?",
+          "eng": "What aspect of the atoms did the research team change to create new functions?",
+          "hu": "Az atomok mely aspektusát változtatta meg a kutatócsoport az új funkciók létrehozásához?"
+        },
+        {
+          "kor": "이 새로운 기술은 앞으로 어떤 곳에 사용될 수 있나요?",
+          "eng": "Where can this new technology be used in the future?",
+          "hu": "Hol lehet majd a jövőben használni ezt az új technológiát?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-9",
+      "category": "Science & Technology",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://img8.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001155900017_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001155900017"
+      },
+      "title": {
+        "kor": "고혈압이 골관절염을 악화시키는 원인 찾았다",
+        "eng": "Researchers find the link between high blood pressure and worsening osteoarthritis",
+        "hu": "Kutatók megtalálták a kapcsolatot a magas vérnyomás és az ízületi gyulladás súlyosbodása között"
+      },
+      "desc": {
+        "kor": "국내 연구팀이 고혈압이 골관절염을 악화시키는 분자 원리를 밝혀냈습니다.",
+        "eng": "A domestic research team has discovered the molecular mechanism by which high blood pressure worsens osteoarthritis.",
+        "hu": "Egy hazai kutatócsoport felfedezte azt a molekuláris mechanizmust, amellyel a magas vérnyomás súlyosbítja az ízületi gyulladást."
+      },
+      "article": {
+        "kor": "대표적인 노화 질환인 고혈압과 골관절염이 서로 관련이 있다는 사실이 국내 연구팀에 의해 밝혀졌습니다. 전남대 류제황 교수와 인제대 전장수 석좌교수 공동연구팀은 고혈압이 퇴행성 관절염을 악화시키는 분자 원리를 찾았다고 발표했습니다. 그동안 고혈압 환자에게서 관절염이 더 심하게 나타나는 현상이 관찰되었지만, 그 이유는 정확히 알려지지 않았습니다.\n\n연구팀이 데이터를 분석한 결과, 고혈압이 있는 사람일수록 골관절염에 걸릴 확률이 더 높았습니다. 생쥐 실험을 통해 분석해보니, 뇌에서 분비되는 혈압 조절 호르몬인 바소프레신이 중요한 역할을 한다는 사실이 드러났습니다. 고혈압 상태에서는 이 호르몬의 농도가 높아지고, 손상된 연골에는 수용체가 많이 증가하게 됩니다.\n\n이 두 요소가 결합하면 연골을 분해하는 효소는 늘어나고 연골을 유지하는 성분은 줄어들게 됩니다. 연구팀이 생쥐 모델에서 바소프레신 수용체를 없애자 고혈압에 의한 연골 손상이 크게 줄어들었습니다. 이번 연구는 골관절염이 관절만의 문제가 아니라 호르몬에 의해 조절될 수 있음을 보여주는 중요한 사례입니다.\n\n연구팀은 앞으로 골관절염 환자를 치료할 때 관절뿐만 아니라 고혈압 같은 온몸의 건강 상태를 함께 관리해야 한다고 강조했습니다. 또한 이번 연구가 바소프레신 신호 체계를 표적으로 하는 새로운 관절염 치료제 개발로 이어질 것으로 전망하고 있습니다.",
+        "eng": "A domestic research team has revealed that high blood pressure and osteoarthritis, both representative aging diseases, are related. The joint research team led by Professor Ryu Je-hwang of Chonnam National University and Chair Professor Jeon Jang-soo of Inje University announced that they found the molecular principle by which high blood pressure worsens degenerative arthritis. Previously, the phenomenon of more severe arthritis in patients with high blood pressure had been observed, but the exact reason was unknown.\n\nAs a result of analyzing data by the research team, people with high blood pressure had a higher probability of having osteoarthritis. Through mouse experiments, it was revealed that vasopressin, a blood pressure-regulating hormone secreted by the brain, plays an important role. In a state of high blood pressure, the concentration of this hormone increases, and receptors increase significantly in damaged cartilage.\n\nWhen these two elements combine, enzymes that break down cartilage increase, while components that maintain cartilage decrease. When the research team removed vasopressin receptors in mouse models, cartilage damage caused by high blood pressure was significantly reduced. This study is an important example showing that osteoarthritis is not just a joint problem, but can be regulated by hormones.\n\nEmphasizing that when treating osteoarthritis patients in the future, not only joints but also overall health conditions such as high blood pressure must be managed together. The research team also expects this study to lead to the development of new arthritis treatments targeting the vasopressin signaling system.",
+        "hu": "Egy hazai kutatócsoport felfedezte, hogy a magas vérnyomás és az ízületi gyulladás összefügg egymással. A Cshonnam Nemzeti Egyetem és az Insze Egyetem kutatócsoportja bejelentette, hogy megtalálták azt a molekuláris elvet, amellyel a magas vérnyomás súlyosbítja a degeneratív ízületi gyulladást. Korábban is észlelték, hogy a magas vérnyomásban szenvedő betegeknél súlyosabb az ízületi gyulladás, de az ok nem volt ismert.\n\nAz adatok elemzése során a kutatók azt találták, hogy a magas vérnyomású emberek nagyobb valószínűséggel szenvednek ízületi gyulladásban. Egérkísérletek révén kiderült, hogy az agy által kiválasztott vazopresszin nevű vérnyomásszabályozó hormon fontos szerepet játszik. Magas vérnyomás esetén ennek a hormonnknak a koncentrációja megnő, és a receptorok száma is jelentősen megnövekszik a sérült porcokban.\n\nAmikor ezen két elem egyesül, a porcot lebontó enzimek mennyisége megnő, miközben a porcot fenntartó összetevők csökkennek. Amikor a kutatócsoport eltávolította a vazopresszin receptorokat egérmodellekben, a magas vérnyomás okozta porckárosodás jelentősen csökkent. Ez a tanulmány fontos példa arra, hogy az ízületi gyulladás nemcsak ízületi probléma, hanem hormonok által is szabályozható.\n\nA kutatócsoport hangsúlyozta, hogy a jövőben az ízületi gyulladásban szenvedő betegek kezelése során nemcsak az ízületeket, hanem az egész test egészségi állapotát is kezelni kell. A kutatók azt is remélik, hogy ez a kutatás új ízületi gyulladás elleni gyógyszerek kifejlesztéséhez vezet."
+      },
+      "vocab": [
+        {
+          "word": "골관절염",
+          "meaning_en": "osteoarthritis",
+          "meaning_hu": "ízületi gyulladás"
+        },
+        {
+          "word": "고혈압",
+          "meaning_en": "high blood pressure, hypertension",
+          "meaning_hu": "magas vérnyomás"
+        },
+        {
+          "word": "호르몬",
+          "meaning_en": "hormone",
+          "meaning_hu": "hormon"
+        },
+        {
+          "word": "연골",
+          "meaning_en": "cartilage",
+          "meaning_hu": "porc"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "고혈압과 골관절염이 서로 관련이 있다는 사실을 알고 있었나요?",
+          "eng": "Did you know that high blood pressure and osteoarthritis are related?",
+          "hu": "Tudta-e, hogy a magas vérnyomás és az ízületi gyulladás kapcsolatban áll egymással?"
+        },
+        {
+          "kor": "평소에 건강을 위해 어떤 노력을 하고 있나요?",
+          "eng": "What efforts do you usually make for your health?",
+          "hu": "Milyen erőfeszítéseket tesz általában az egészségéért?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-10",
+      "category": "Science & Technology",
+      "date": "2026.10.01",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/10/01/PYH2026100115210001300_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001145452002"
+      },
+      "title": {
+        "kor": "신한은행, AI 에이전트 활용한 해킹으로 개인정보 유출",
+        "eng": "Shinhan Bank Data Leak Caused by AI Agent Hacking",
+        "hu": "A Shinhan Bank adatszivárgása mesterséges intelligencia alapú hackelés miatt"
+      },
+      "desc": {
+        "kor": "신한은행이 AI 에이전트를 활용한 신종 해킹 공격으로 고객 개인정보를 유출당해 금융권 보안 체계 점검이 시급하다는 지적이 나옵니다.",
+        "eng": "Shinhan Bank suffered a customer data leak due to a novel AI-agent-based cyberattack, highlighting urgent needs for security system audits in the financial sector.",
+        "hu": "A Shinhan Bank ügyféladatai egy új, mesterséges intelligencia ügynököket használó kibertámadás miatt szivárogtak ki, ami sürgős biztonsági felülvizsgálatot tesz szükségessé."
+      },
+      "article": {
+        "kor": "신한은행이 외부 비인가자의 비정상적인 접근으로 인해 일부 고객의 개인정보를 탈취당한 사실이 확인되었습니다. 유출된 정보에는 주민등록번호, 연계 정보, 고객명, 전화번호, 연 소득 및 대출 한도 등이 포함되었습니다.\n\n이번 사고는 대출모집인 전용 모바일 홈페이지의 통신 전문 구조를 해킹한 뒤, 조회 입력 값을 무작위로 대입해 정보를 호출하는 방식으로 이루어졌습니다. 전문가들은 이번 공격에 고도의 인공지능 에이전트가 활용된 것으로 분석하고 있으며, 이는 플랫폼 취약점을 노린 신종 공격 수법이라고 설명했습니다.\n\n금융권에서는 다른 은행과 차별화된 특정 조회 시스템이 보안 허점을 노출했다는 지적이 제기되고 있습니다. 이에 따라 금융당국과 금융보안원이 긴급 대응 회의를 소집하고 정확한 사고 원인을 조사하고 있습니다.\n\n신한은행은 비상대책반을 구성하고 외부 IP 차단 및 관련 서비스 중단 등 긴급 조치를 완료했습니다. 다만 이번 사고는 대출모집인 전용 홈페이지에 국한된 것이며, 고객이 직접 이용하는 정식 인증 뱅킹 앱과는 무관하다고 강조했습니다.",
+        "eng": "Shinhan Bank has confirmed that personal information of some customers was compromised due to unauthorized outside access. The leaked information includes resident registration numbers, linked information, customer names, phone numbers, annual income, and loan limits.\n\nThe incident occurred by hacking the communication protocol structure of a mobile website dedicated to loan recruiters, then calling information by randomly substituting query input values. Experts analyze that advanced AI agents were utilized in this attack, explaining that it is a novel attack method targeting platform vulnerabilities.\n\nIn the financial sector, points are being raised that a specific inquiry system differentiated from other banks exposed security loopholes. Accordingly, financial authorities and the Financial Security Institute have convened emergency response meetings and are investigating the exact cause of the accident.\n\nShinhan Bank has formed an emergency countermeasure team and completed urgent measures such as blocking external IPs and suspending related services. However, it emphasized that this accident is limited to the website dedicated to loan recruiters and is unrelated to official certified banking apps used directly by customers.",
+        "hu": "A Shinhan Bank megerősítette, hogy egyes ügyfelek személyes adatai illetéktelen külső hozzáférés miatt kiszivárogtak. A kiszivárgott adatok közé tartoznak a lakcímnyilvántartási számok, kapcsolati adatok, ügyfelek nevei, telefonszámai, éves jövedelmei és hitelkeretei.\n\nAz eset úgy történt, hogy a hitelezési közvetítők számára fenntartott mobil weboldal kommunikációs protokollját feltörték, majd a lekérdezési bemeneti értékek véletlenszerű behelyettesítésével hívták le az adatokat. A szakértők elemzése szerint a támadás során fejlett mesterséges intelligencia ügynököket használtak, ami egy új, a platformok sebezhetőségét célzó támadási módszer.\n\nA pénzügyi szektorban felmerült, hogy a más bankoktól eltérő speciális lekérdezési rendszer biztonsági hiányosságokat tárt fel. Ennek megfelelően a pénzügyi hatóságok és a Pénzügyi Biztonsági Intézet válságstábot hívtak össze, és vizsgálják a baleset pontos okát.\n\nA Shinhan Bank vészhelyzeti elhárító csoportot hozott létre, és befejezte az olyan sürgős intézkedéseket, mint a külső IP-címek blokkolása és a kapcsolódó szolgáltatások felfüggesztése. Hangsúlyozta azonban, hogy ez a baleset csak a hitelezési közvetítők weboldalára korlátozódik, és nincs köze az ügyfelek által közvetlenül használt hivatalos, hitelesített banki alkalmazásokhoz."
+      },
+      "vocab": [
+        {
+          "word": "개인정보",
+          "meaning_en": "personal information",
+          "meaning_hu": "személyes adatok"
+        },
+        {
+          "word": "취약점",
+          "meaning_en": "vulnerability",
+          "meaning_hu": "sebezhetőség"
+        },
+        {
+          "word": "해킹",
+          "meaning_en": "hacking",
+          "meaning_hu": "hackelés"
+        },
+        {
+          "word": "금융당국",
+          "meaning_en": "financial authorities",
+          "meaning_hu": "pénzügyi hatóságok"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "최근 인공지능(AI) 기술이 발전하면서 사이버 공격 방식은 어떻게 변하고 있나요?",
+          "eng": "How are cyber attack methods changing with the recent advancement of artificial intelligence (AI) technology?",
+          "hu": "Hogyan változnak a kibertámadási módszerek a mesterséges intelligencia (MI) technológia legújabb fejlődésével?"
+        },
+        {
+          "kor": "금융 기관에서 철저한 정보 보안 체계가 중요한 이유는 무엇이라고 생각하나요?",
+          "eng": "Why do you think a thorough information security system is important in financial institutions?",
+          "hu": "Miért tartja fontosnak az alapos információbiztonsági rendszert a pénzintézetekben?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-11",
+      "category": "Science & Technology",
+      "date": "2026.10.01",
+      "level": "Advanced",
+      "levelNum": 8,
+      "isNew": true,
+      "image": "https://img9.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001171400530_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001171400530"
+      },
+      "title": {
+        "kor": "공공부문 AI 윤리기준 확정… \"최종 책임과 통제는 사람에게\"",
+        "eng": "Public Sector AI Ethics Guidelines Confirmed: 'Final Responsibility and Control Rest with Humans'",
+        "hu": "Megerősítették a közszféra AI etikai iránymutatásait: „A végső felelősség és irányítás az embereket illeti”"
+      },
+      "desc": {
+        "kor": "행정안전부가 공공부문 AI 활용에 따른 부작용을 방지하고 최종 책임을 인간이 갖도록 하는 '공공부문 인공지능 윤리기준'을 확정했습니다.",
+        "eng": "The Ministry of the Interior and Safety has finalized 'AI Ethics Guidelines for the Public Sector' to prevent side effects from AI use and ensure human ultimate responsibility.",
+        "hu": "A Belügyminisztérium véglegesítette a közszférára vonatkozó mesterséges intelligencia etikai iránymutatásait."
+      },
+      "article": {
+        "kor": "행정안전부는 복지대상자 선정이나 인허가 등 국민의 권리와 생활에 중대한 영향을 미치는 행정업무에 인공지능(AI)을 활용하더라도 최종 책임과 통제는 반드시 사람이 맡도록 하는 '공공부문 인공지능 윤리기준'을 확정했다고 1일 밝혔습니다.\n\n이번 윤리기준은 공공부문의 AI 도입 확대에 따라 발생할 수 있는 편향된 결정과 프라이버시 침해 등의 우려를 선제적으로 해소하기 위해 마련되었습니다. 특히 AI가 행정 의사결정을 지원하거나 직접적인 판단에 활용되는 경우 서비스 기획 단계부터 제공에 이르기까지 명확한 책임 주체를 설정하도록 규정하고 있습니다.\n\n또한 사람이 AI의 판단과 결정을 검토하고 적극적으로 개입할 수 있는 엄격한 감독 체계와 함께, 사후관리 및 피해구제 체계를 구축하도록 하였습니다. 이번에 확정된 기준은 공공성, 형평성, 투명성, 책임성, 안전성, 프라이버시 보호 등 6대 핵심가치와 이를 구체화한 68개 자율점검 항목으로 구성되어 있습니다.\n\n행안부는 기관별 AI 활용 수준에 맞춰 유연하게 기준을 적용할 수 있도록 적용, 응용, 융합의 3단계 자율점검 체계를 도입했습니다. 향후 공공부문 종사자를 대상으로 한 교육 프로그램을 운영하고 기술 발전에 따른 새로운 윤리적 쟁점을 지속적으로 반영하여 제도를 개선할 방침입니다.",
+        "eng": "The Ministry of the Interior and Safety announced on the 1st that it has finalized the 'Public Sector Artificial Intelligence Ethics Guidelines', ensuring that final responsibility and control remain with humans even when AI is utilized in administrative tasks affecting citizens' rights and lives, such as selecting welfare beneficiaries and issuing permits.\n\nThese guidelines were established to preemptively address concerns such as biased decisions and privacy violations that may arise from the expanded adoption of AI in the public sector. In particular, they stipulate that clear responsible entities must be established from the service planning stage to provision when AI is used to support administrative decision-making or direct judgment.\n\nAdditionally, the guidelines require the establishment of a strict supervisory system that allows humans to review and actively intervene in AI judgments and decisions, alongside post-management and damage relief systems. The finalized criteria consist of six core values—publicness, equity, transparency, accountability, safety, and privacy protection—and 68 detailed self-assessment items.\n\nThe ministry has introduced a three-stage self-assessment system of application, utilization, and convergence to allow flexible application according to each institution's level of AI use. Moving forward, the government plans to operate educational programs for public sector workers and continuously improve the system by reflecting new ethical issues arising from technological advancements.",
+        "hu": "A Belügyminisztérium bejelentette a közszférára vonatkozó mesterséges intelligencia etikai iránymutatásait.\n\nA dokumentum biztosítja, hogy a közigazgatási feladatokban alkalmazott MI esetén is az ember maradjon a felelős.\n\nA hat alapértéken és 68 önellenőrzési ponton alapuló rendszer célja az elfogultság és a magánélet védelmének biztosítása."
+      },
+      "vocab": [
+        {
+          "word": "인허가",
+          "meaning_en": "authorization and permission",
+          "meaning_hu": "engedélyezés"
+        },
+        {
+          "word": "선제적으로",
+          "meaning_en": "proactively, preemptively",
+          "meaning_hu": "megelőző jelleggel"
+        },
+        {
+          "word": "프라이버시",
+          "meaning_en": "privacy",
+          "meaning_hu": "magánszféra"
+        },
+        {
+          "word": "쟁점",
+          "meaning_en": "issue, point of contention",
+          "meaning_hu": "vitás kérdés, probléma"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "공공 행정 업무에 AI를 사용할 때 왜 최종 책임이 사람에게 있어야 한다고 생각하시나요?",
+          "eng": "Why do you think the final responsibility should remain with humans when using AI in public administration?",
+          "hu": "Ön szerint miért kell az embernek viselnie a végső felelősséget, amikor az MI-t a közigazgatásban használják?"
+        },
+        {
+          "kor": "AI가 공공부문에서 널리 쓰일 때 발생할 수 있는 부작용에는 어떤 것들이 있을까요?",
+          "eng": "What kinds of side effects could occur when AI is widely used in the public sector?",
+          "hu": "Milyen mellékhatásai lehetnek annak, ha az MI-t széles körben alkalmazzák a közszférában?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-12",
+      "category": "Science & Technology",
+      "date": "2026.10.01",
+      "level": "Proficient",
+      "levelNum": 9,
+      "isNew": true,
+      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/10/01/PYH2026100117410001300_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001130551001"
+      },
+      "title": {
+        "kor": "한성숙 총리, 공직사회 AX 혁신 앱마켓 연내 개설 추진",
+        "eng": "Prime Minister Han Sung-sook pushes to launch public sector AX innovation app market within the year",
+        "hu": "Han Sung-sook miniszterelnök az év végéig elindítaná a közszféra AX-innovációs alkalmazásboltját"
+      },
+      "desc": {
+        "kor": "정부가 공직사회의 인공지능 전환(AX)을 촉진하기 위해 공무원 개발 AI 서비스를 모은 앱마켓의 연내 오픈을 추진한다.",
+        "eng": "The government is pushing to open an app market featuring AI services developed by public officials within the year to promote artificial intelligence transformation (AX) in the public sector.",
+        "hu": "A kormány az év végéig tervezi egy olyan alkalmazásbolt megnyitását, amely a köztisztviselők által fejlesztett mesterséges intelligencia szolgáltatásokat gyűjti össze a közszféra AI-átalakulásának ösztönzésére."
+      },
+      "article": {
+        "kor": "한성숙 국무총리는 1일 정부서울청사에서 열린 'AI 행정혁신 우수공직자 간담회'에서 공직사회의 인공지능 전환(AX)을 가속화하기 위한 전용 앱마켓의 연내 개설 목표를 공식화했다. 이번 구상은 공직자들이 현장 행정 경험을 토대로 직접 개발한 다양한 인공지능 기반 서비스를 상호 공유하고 피드백을 수렴하는 개방형 플랫폼 구축을 골자로 한다.\n\n한 총리는 이날 모두발언을 통해 대한민국 국민의 인공지능 활용 역량이 세계 최고 수준에 도달해 있음을 강조하며, 정부의 행정 서비스 속도가 이러한 국민적 수요를 뒷받침하지 못할 경우 심각한 행정적 지체와 불편을 초래할 수 있다고 진단했다. 따라서 독자적인 인공지능 모델의 성능 고도화와 더불어 정부의 업무 수행 방식 전반에 걸친 대수술이 불가피하다는 입장을 피력했다.\n\n이번 혁신의 궁극적 지향점은 공직자들이 관행적인 불필요한 행정 소모에 할애하는 시간을 대폭 축소하고, 이를 통해 확보된 역량을 대국민 대면 서비스와 정책 현장 소통에 집중시키는 데 있다. 이날 간담회에서는 주소 입력만으로 태양광 설치 적합성을 판정하는 한국국토정보공사의 '쨍하고 해뜰날'과 재난문자를 다국어로 자동 번역하는 행정안전부의 시스템 등 현장 중심의 우수 행정 인공지능 사례들이 다수 소개되었다.\n\n한편 인사혁신처는 이러한 공직사회 내 인공지능 기반 행정 혁신을 제도적으로 뒷받침하기 위해 관리자 대상의 인공지능 교육 의무화 및 실습 중심 커리큘럼 확대를 보고했다. 나아가 각급 기관이 소속 공직자들의 인공지능 역량 성과를 인사 관리 전반에 실질적으로 반영할 수 있도록 다각적인 제도적 유인책을 마련하겠다고 덧붙였다.",
+        "eng": "Prime Minister Han Sung-sook formalized the goal of opening a dedicated app market within the year to accelerate the artificial intelligence transformation (AX) of the public sector at a meeting held at the Seoul Government Complex on the 1st. This initiative focuses on establishing an open platform where public officials can share various AI-based services they developed themselves based on on-site administrative experience and gather feedback.\n\nIn her opening remarks, Prime Minister Han emphasized that the South Korean public's capacity to utilize AI has reached a world-class level, diagnosing that if the government's administrative service speed fails to support this public demand, it could cause serious administrative delays and inconvenience. Therefore, she expressed the stance that major surgery across the government's overall operational methods is inevitable, along with upgrading the performance of independent AI models.\n\nThe ultimate goal of this innovation is to significantly reduce the time public officials spend on routine, unnecessary administrative consumption and focus the secured capabilities on public-facing services and on-site communication. At the meeting, numerous excellent field-oriented administrative AI cases were introduced, such as the Korea Land and Geospatial Informatix Corporation's service that judges solar panel installation suitability just by entering an address, and the Ministry of the Interior and Safety's multilingual disaster text message automatic translation system.\n\nMeanwhile, the Ministry of Personnel Management reported plans to make AI training mandatory for managers and expand hands-on centered curricula to institutionally support this AI-based administrative innovation in the public sector. Furthermore, it added that it will prepare multifaceted institutional incentives so that agencies at all levels can reflect the AI capability performance of their officials in overall personnel management.",
+        "hu": "Han Sung-sook miniszterelnök elsején a Szöuli Kormányzati Komplexumban tartott megbeszélésen hivatalosan is bejelentette azt a célt, hogy az év végéig elindítanak egy dedikált alkalmazásboltot a közszféra mesterséges intelligencia átalakulásának (AX) felgyorsítására. Ez a kezdeményezés egy olyan nyílt platform létrehozására összpontosít, ahol a köztisztviselők megoszthatják a helyszíni adminisztratív tapasztalatok alapján saját maguk által fejlesztett különféle MI-alapú szolgáltatásokat, és gyűjthetik a visszajelzéseket.\n\nNyitóbeszédében Han miniszterelnök hangsúlyozta, hogy a dél-koreai lakosság MI-használati képessége világszínvonalú, és úgy vélekedett, hogy ha a kormány adminisztratív szolgáltatási sebessége nem tudja támogatni ezt a lakossági keresletet, az súlyos adminisztratív késéseket és kellemetlenségeket okozhat. Ezért kifejtette azt az álláspontot, hogy a független MI-modellek teljesítményének növelése mellett elkerülhetetlen a kormány általános munkavégzési módszereinek teljes körű megújítása.\n\nEnnek az innovációnak a végső célja, hogy jelentősen csökkentse azt az időt, amelyet a köztisztviselők a rutinszerű, felesleges adminisztrációra fordítanak, és a felszabadult kapacitásokat a lakosságnak nyújtott szolgáltatásokra és a helyszíni kommunikációra összpontosítsák. A találkozón számos kiváló, gyakorlatorientált közigazgatási MI-esetet mutattak be, mint például a Korea Land and Geospatial Informatix Corporation szolgáltatását, amely cím megadásával határozza meg a napelem-telepítés alkalmasságát, valamint a Belügyminisztérium többszörös fordítórendszerét a katasztrófavédelmi üzenetekhez.\n\nEzzel párhuzamosan a Személyzeti Management Minisztérium bejelentette az MI-képzés kötelezővé tételét a vezetők számára, valamint a gyakorlati központú tantervek kiterjesztését, hogy intézményi szinten támogassák ezt az MI-alapú közigazgatási innovációt. Hozzátette továbbá, hogy sokrétű intézményi ösztönzőket dolgoznak ki annak érdekében, hogy a különböző szervek a személyzeti menedzsment során figyelembe vehessék tisztviselőik MI-teljesítményét."
+      },
+      "vocab": [
+        {
+          "word": "인공지능 전환(AX)",
+          "meaning_en": "Artificial Intelligence Transformation",
+          "meaning_hu": "Mesterséges Intelligencia Átalakulás"
+        },
+        {
+          "word": "고도화",
+          "meaning_en": "Advanced sophistication / Upgrading",
+          "meaning_hu": "Magasabb szintre emelés / Korszerűsítés"
+        },
+        {
+          "word": "피피드백을 수렴하다",
+          "meaning_en": "To gather feedback",
+          "meaning_hu": "Visszajelzéseket gyűjteni / befogadni"
+        },
+        {
+          "word": "인사관리",
+          "meaning_en": "Personnel management / Human resources management",
+          "meaning_hu": "Személyzeti menedzsment / HR"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "공직사회의 인공지능 전환(AX)을 위해 정부가 추진하는 앱마켓의 주요 목적은 무엇인가요?",
+          "eng": "What is the main purpose of the app market promoted by the government for the artificial intelligence transformation (AX) of the public sector?",
+          "hu": "Mi a fő célja annak az alkalmazásboltnak, amelyet a kormány a közszféra mesterséges intelligencia átalakulása (AX) érdekében szorgalmaz?"
+        },
+        {
+          "kor": "공무원들의 인공지능 역량 성과를 인사관리에 반영하는 정책에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about the policy of reflecting public officials' AI capability performance in personnel management?",
+          "hu": "Mi a véleménye arról a politikáról, amely a köztisztviselők MI-képességi teljesítményét beépíti a személyzeti menedzsmentbe?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-13",
+      "category": "Health & Lifestyle",
+      "date": "2026.10.01",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://img5.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001177200530_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001177200530"
+      },
+      "title": {
+        "kor": "앞으로 모든 예방주사 기록을 남깁니다",
+        "eng": "All vaccination records will be kept in the future",
+        "hu": "A jövőben minden oltási nyilvántartást megőriznek"
+      },
+      "desc": {
+        "kor": "돈을 내고 맞는 예방주사도 기록을 꼭 남겨야 합니다.",
+        "eng": "Even paid vaccinations must now be recorded.",
+        "hu": "Mostantól a fizetős oltásokat is rögzíteni kell."
+      },
+      "article": {
+        "kor": "앞으로는 돈을 내고 맞는 예방주사도 기록을 꼭 남겨야 합니다. 국회에서 새로운 법이 통과되었습니다. 그래서 내 주사 기록을 쉽게 확인할 수 있습니다. 병원은 주사를 놓기 전에 기록을 꼭 확인해야 합니다.",
+        "eng": "In the future, even vaccinations that you pay for must be recorded. A new law has been passed in the National Assembly. Therefore, you can easily check your vaccination records. Hospitals must check the records before giving injections.",
+        "hu": "A jövőben még a fizetős oltásokat is rögzíteni kell. Új törvényt fogadott el a nemzetgyűlés. Ezért könnyen ellenőrizheti az oltási előzményeit. A kórházaknak az injekció beadása előtt ellenőrizniük kell a nyilvántartást."
+      },
+      "vocab": [
+        {
+          "word": "예방주사",
+          "meaning_en": "vaccination",
+          "meaning_hu": "védőoltás"
+        },
+        {
+          "word": "기록",
+          "meaning_en": "record",
+          "meaning_hu": "nyilvántartás"
+        },
+        {
+          "word": "병원",
+          "meaning_en": "hospital",
+          "meaning_hu": "kórház"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "당신은 예방주사 기록을 자주 확인합니까?",
+          "eng": "Do you often check your vaccination records?",
+          "hu": "Gyakran ellenőrzi a védőoltási előzményeit?"
+        },
+        {
+          "kor": "돈을 내고 맞는 주사 기록도 중요하다고 생각합니까?",
+          "eng": "Do you think paid vaccination records are also important?",
+          "hu": "Gondolja, hogy a fizetős oltások nyilvántartása is fontos?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-14",
+      "category": "Health & Lifestyle",
+      "date": "2026.10.01",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://img2.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001172900063_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001172900063"
+      },
+      "title": {
+        "kor": "한국한의학연구원이 32주년을 맞이했습니다",
+        "eng": "Korea Institute of Oriental Medicine celebrates its 32nd anniversary",
+        "hu": "A Koreai Keleti Orvoslási Kutatóintézet fennállásának 32. évfordulóját ünnepli"
+      },
+      "desc": {
+        "kor": "한국한의학연구원이 32주년 기념식과 함께 새로운 연구센터를 열었습니다.",
+        "eng": "The Korea Institute of Oriental Medicine held an anniversary ceremony and opened a new research center.",
+        "hu": "A Koreai Keleti Orvoslási Kutatóintézet évfordulós ünnepséget tartott és új kutatóközpontot nyitott."
+      },
+      "article": {
+        "kor": "한국한의학연구원이 32주년을 맞이했습니다. 연구원은 대전 본원에서 기념식을 열었습니다.\n\n연구원은 새로운 한의뇌신경과학연구센터도 함께 열었습니다. 이 센터는 첨단 과학기술을 사용해서 뇌 질환을 연구합니다.\n\n개소식과 함께 국제 학술회의도 열렸습니다. 여러 나라의 연구자들이 모여서 연구 결과를 나누었습니다.",
+        "eng": "The Korea Institute of Oriental Medicine celebrated its 32nd anniversary. The institute held a ceremony at its headquarters in Daejeon.\n\nThe institute also opened a new Korean Medicine Brain and Neuroscience Research Center. This center studies brain diseases using advanced science and technology.\n\nAn international symposium was held along with the opening ceremony. Researchers from various countries gathered to share their research results.",
+        "hu": "A Koreai Keleti Orvoslási Kutatóintézet megünnepelte 32. évfordulóját. Az intézet ünnepséget tartott a daejeoni székhelyén.\n\nAz intézet egy új agy- és idegtudományi kutatóközpontot is nyitott. Ez a központ modern tudomány és technológia segítségével kutatja az agybetegségeket.\n\nA megnyitó ünnepséggel párhuzamosan egy nemzetközi szimpóziumot is tartottak. Különböző országok kutatói gyűltek össze, hogy megosszák kutatási eredményeiket."
+      },
+      "vocab": [
+        {
+          "word": "연구원",
+          "meaning_en": "research institute / researcher",
+          "meaning_hu": "kutatóintézet"
+        },
+        {
+          "word": "기념식",
+          "meaning_en": "commemoration ceremony",
+          "meaning_hu": "megemlékezés, ünnepség"
+        },
+        {
+          "word": "과학",
+          "meaning_en": "science",
+          "meaning_hu": "tudomány"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "한국한의학연구원이 몇 년을 맞이했습니까?",
+          "eng": "How many years has the Korea Institute of Oriental Medicine celebrated?",
+          "hu": "Hány éves fennállását ünnepelte a Koreai Keleti Orvoslási Kutatóintézet?"
+        },
+        {
+          "kor": "새로 문을 연 센터는 어떤 질환을 연구합니까?",
+          "eng": "What kind of diseases does the newly opened center study?",
+          "hu": "Milyen betegségeket kutat az újonnan nyílt központ?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-15",
+      "category": "Health & Lifestyle",
+      "date": "2026.10.01",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://img3.yna.co.kr/photo/yna/YH/2026/10/01/PYH2026100124080001300_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001168200530"
+      },
+      "title": {
+        "kor": "자살위험자 구조할 때 책임 줄여주는 법 통과",
+        "eng": "Law passed to reduce liability when rescuing people at risk of suicide",
+        "hu": "Törvény fogadtak el az öngyilkosság veszélyének kitett személyek mentése közbeni felelősség csökkentéséről"
+      },
+      "desc": {
+        "kor": "자살위험자를 구조하다가 손해가 생겨도 큰 잘못이 없으면 책임을 줄여주는 법이 국회를 통과했습니다.",
+        "eng": "A law has passed to reduce civil and criminal liability for rescuers who cause unintentional damage while saving people at risk of suicide.",
+        "hu": "Elfogadtak egy törvényt, amely csökkenti a polgári és büntetőjogi felelősséget azok számára, akik véletlenül kárt okoznak az öngyilkosság veszélyének kitett személyek mentése közben."
+      },
+      "article": {
+        "kor": "앞으로 자살시도자나 자살위험자를 구조하는 사람의 책임을 줄여주는 법이 생깁니다. 보건복지부는 이런 내용을 담은 법률 개정안이 국회 본회의를 통과했다고 밝혔습니다. 이에 따라 구조하다가 재산에 손해가 생기거나 다치게 해도 큰 잘못이 없으면 처벌이나 책임을 줄여줍니다.\n\n또한 이번 국회에서는 응급실 미수용 방지법도 함께 통과되었습니다. 이 법은 응급환자를 받아줄 병원을 빨리 찾지 못할 때 정부 기관이 직접 병원을 정해줄 수 있게 했습니다. 다만 의료계 일부에서는 현장의 상황과 다르다며 우려하는 목소리도 나오고 있습니다.",
+        "eng": "A new law will reduce the liability of people who rescue individuals at risk of suicide. The Ministry of Health and Welfare announced that the amendment containing these measures has passed the National Assembly. Accordingly, if property damage or injury occurs during a rescue without gross negligence, legal responsibility will be reduced.\n\nAdditionally, a bill to prevent emergency rooms from turning away patients was also passed. This law allows government agencies to designate a hospital when a proper medical institution cannot be found quickly. However, some medical professionals have expressed concerns that it does not fit the actual conditions of the medical field.",
+        "hu": "Új törvény csökkenti azoknak a felelősségét, akik öngyilkosság veszélyének kitett személyeket mentenek meg. Az Egészségügyi és Nóléti Minisztérium bejelentette, hogy a parlament elfogadta ezt a törvénymódosítást. Ennek megfelelően, ha a mentés során szándékosság nélkül anyagi kár vagy sérülés keletkezik, a felelősség csökkentésre kerül.\n\nEmellett elfogadtak egy olyan törvényt is, amely megakadályozza, hogy a sürgősségi osztályok elutasítsák a betegeket. Ez a törvény lehetővé teszi a kormányszervek számára, hogy kórházat jelöljenek ki, ha nem találnak gyorsan megfelelő intézményt. Néhány egészségügyi szakember azonban aggodalmát fejezte ki amiatt, hogy ez nem felel meg a helyszíni valóságnak."
+      },
+      "vocab": [
+        {
+          "word": "구조",
+          "meaning_en": "rescue",
+          "meaning_hu": "mentés"
+        },
+        {
+          "word": "책임",
+          "meaning_en": "responsibility / liability",
+          "meaning_hu": "felelősség"
+        },
+        {
+          "word": "응급실",
+          "meaning_en": "emergency room",
+          "meaning_hu": "sürgősségi osztály"
+        },
+        {
+          "word": "환자",
+          "meaning_en": "patient",
+          "meaning_hu": "páciens / beteg"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "자살위험자를 구조하는 사람의 책임을 줄여주는 것에 대해 어떻게 생각합니까?",
+          "eng": "What do you think about reducing the liability of people who rescue those at risk of suicide?",
+          "hu": "Mit gondol arról, hogy csökkentik az öngyilkosság veszélyének kitett személyeket mentők felelősségét?"
+        },
+        {
+          "kor": "여러분이 살고 있는 곳에서는 응급실에 갈 때 문제가 없습니까?",
+          "eng": "Are there any problems when going to the emergency room in the area where you live?",
+          "hu": "Vannak-e problémák a sürgősségi osztályra való bejutáskor abban a térségben, ahol él?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-16",
+      "category": "Health & Lifestyle",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://img4.yna.co.kr/photo/cms/2023/03/30/39/PCM20230330000039990_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001163300530"
+      },
+      "title": {
+        "kor": "내년부터 군 복무 기간 전체가 국민연금으로 인정됩니다",
+        "eng": "Entire military service period to be recognized for national pension starting next year",
+        "hu": "Jövő évtől a teljes katonai szolgálati idő elismerésre kerül a nemzeti nyugdíjban"
+      },
+      "desc": {
+        "kor": "내년 제대자부터 군 복무 기간 전체가 국민연금 가입 기간으로 인정됩니다.",
+        "eng": "Starting with those discharged next year, the entire military service period will be recognized as national pension subscription period.",
+        "hu": "A jövőre leszerelőktől kezdve a teljes katonai szolgálati időt beszámítják a nemzeti nyugdíjba."
+      },
+      "article": {
+        "kor": "내년 제대자부터 군 복무 기간 전체가 국민연금 가입 기간으로 인정됩니다. 보건복지부는 이러한 내용을 담은 국민연금법 개정안이 국회 본회의를 통과했다고 밝혔습니다.\n\n기존에는 군 복무 기간 중에서 최대 12개월까지만 가입 기간으로 인정했습니다. 하지만 앞으로는 육군 기준 18개월 등 실제 복무 기간 전체를 인정받게 됩니다.\n\n또한 둘째 자녀를 낳거나 입양했을 때 인정되는 국민연금 가입 기간도 12개월에서 15개월로 늘어납니다. 정부는 국민의 노후 소득 보장을 더 강화하고 혜택을 넓히기 위해 노력하고 있습니다.",
+        "eng": "Starting with those discharged next year, the entire military service period will be recognized as a national pension subscription period. The Ministry of Health and Welfare announced that the amendment to the National Pension Act containing this content has passed the National Assembly plenary session.\n\nPreviously, only up to 12 months of the military service period was recognized as a subscription period. However, from now on, the entire actual service period, such as 18 months for the Army, will be recognized.\n\nIn addition, the national pension subscription period recognized when giving birth to or adopting a second child will increase from 12 months to 15 months. The government is making efforts to further strengthen the guarantee of national retirement income and expand benefits.",
+        "hu": "A jövőre leszerelőktől kezdve a teljes katonai szolgálati időt beszámítják a nemzeti nyugdíjba. Az Egészségügyi és Jóléti Minisztérium bejelentette, hogy a nemzeti nyugdíjtörvény erről szóló módosítása átment a nemzetgyűlés plenáris ülésén.\n\nKorábban a katonai szolgálati időből legfeljebb 12 hónapot számítottak be. Mostantól azonban a teljes tényleges szolgálati időt, például a 18 hónapot a szárazföldi csapatok esetében, elismerik.\n\nEzenkívül a második gyermek születése vagy örökbefogadása esetén elismert nyugdíjbiztosítási időszak 12 hónapról 15 hónapra nő. A kormány továbbra is törekszik a nyugdíjasok jövedelmének biztosítására és a kedvezmények bővítésére."
+      },
+      "vocab": [
+        {
+          "word": "국민연금",
+          "meaning_en": "national pension",
+          "meaning_hu": "nemzeti nyugdíj"
+        },
+        {
+          "word": "군 복무",
+          "meaning_en": "military service",
+          "meaning_hu": "katonai szolgálat"
+        },
+        {
+          "word": "개정안",
+          "meaning_en": "amendment bill",
+          "meaning_hu": "módosítási javaslat"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 사는 나라에도 군 복무 기간을 연금에 쳐주는 제도가 있나요?",
+          "eng": "Is there a system in your country that counts military service toward a pension?",
+          "hu": "Van-e az ön országában olyan rendszer, amely beszámítja a katonai szolgálatot a nyugdíjba?"
+        },
+        {
+          "kor": "이러한 정책이 국민들에게 어떤 도움이 될까요?",
+          "eng": "How do you think this policy will help the citizens?",
+          "hu": "Hogyan segíthet ez a politika a polgároknak?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-17",
+      "category": "Health & Lifestyle",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://img2.yna.co.kr/photo/cms/2022/09/19/78/PCM20220919000078990_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001160600530"
+      },
+      "title": {
+        "kor": "정부, 고혈압·당뇨병 등록사업을 전국 만성질환 관리로 개편한다",
+        "eng": "Government overhauls chronic disease registration system",
+        "hu": "A kormány átalakítja a krónikus betegségek regisztrációs rendszerét"
+      },
+      "desc": {
+        "kor": "정부가 소수 지역에서 하던 고혈압·당뇨병 사업을 전 국민 대상 만성질환 관리 체계로 바꾼다.",
+        "eng": "The government is expanding a localized chronic disease program into a nationwide system.",
+        "hu": "A kormány országos rendszerré bővíti a krónikus betegségek kezelését."
+      },
+      "article": {
+        "kor": "정부가 현재 일부 지역에서만 운영하는 '고혈압·당뇨병 등록관리 사업'을 전면 개편한다.\n\n질병관리청은 소수 지역의 고령층 중심 지원에서 벗어나, 전 연령을 대상으로 하는 전국 단위 만성질환 통합관리 체계를 구축한다고 밝혔다. 이번 개편으로 관리 질환이 늘어나고, 등록 대상도 30세 이상에서 전 연령으로 확대된다.\n\n일부에서는 기존 고령층이 받던 의료비 지원이 줄어들 것이라는 우려를 제기했다. 그러나 질병청은 지원 방식이 바뀌면서 더 많은 사람이 혜택을 받을 수 있다고 설명했다. 반면 관련 단체는 기존 사업의 축소라며 반발하고 있어 향후 논란이 예상된다.",
+        "eng": "The government is revamping the hypertension and diabetes registration management program currently operated in limited areas. The Korea Disease Control and Prevention Agency announced that it will transition from supporting the elderly in a few regions to a nationwide integrated chronic disease management system for all age groups. With this reorganization, the managed diseases will increase, and the registration target will expand from those aged 30 and over to all ages. Some raised concerns that medical expense support for the elderly would decrease. However, the agency explained that more people can receive benefits as the support method changes. Meanwhile, related organizations are protesting that this is a reduction of the existing project, and controversy is expected.",
+        "hu": "A kormány átalakítja a jelenleg csak korlátozott területen működő magasvérnyomás- és cukorbetegség-regisztrációs programot. A betegségmegelőzési központ bejelentette, hogy a helyi idősellátásról egy országos, minden korosztályra kiterjedő rendszerre tér át. Ezzel a regisztráció célcsoportja a 30 év felettiek köréből minden korosztályra bővül. Néhányan aggodalmukat fejezték ki, hogy az idősek egészségügyi támogatása csökkenhet. A hatóság azonban elmagyarázta, hogy a támogatási módszer változásával többen kaphatnak segítséget. Ezzel szemben az érintett szervezetek tiltakoznak a meglévő projekt leépítése miatt."
+      },
+      "vocab": [
+        {
+          "word": "개편",
+          "meaning_en": "reorganization",
+          "meaning_hu": "átszervezés"
+        },
+        {
+          "word": "만성질환",
+          "meaning_en": "chronic disease",
+          "meaning_hu": "krónikus betegség"
+        },
+        {
+          "word": "의료비",
+          "meaning_en": "medical expenses",
+          "meaning_hu": "egészségügyi kiadások"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "정부가 고혈압·당뇨병 사업을 개편하려는 이유는 무엇인가요?",
+          "eng": "Why is the government reorganizing the hypertension and diabetes program?",
+          "hu": "Miért szervezi át a kormány a magasvérnyomás- és cukorbetegség-programot?"
+        },
+        {
+          "kor": "새로운 만성질환 관리 사업에 대해 어떤 우려와 설명이 있나요?",
+          "eng": "What concerns and explanations exist regarding the new chronic disease management project?",
+          "hu": "Milyen aggodalmak és magyarázatok léteznek az új krónikus betegségek kezelési projektjével kapcsolatban?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-18",
+      "category": "Health & Lifestyle",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://img9.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001158900055_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001158900055"
+      },
+      "title": {
+        "kor": "전북 남원에 국립의전원 설립 확정… 공공의료 강화 기대와 과제",
+        "eng": "Establishment of National Medical School in Namwon Confirmed: Expectations and Tasks",
+        "hu": "Megerősítették a Nemzeti Orvosi Iskola megalapítását Namwonban: Várakozások és feladatok"
+      },
+      "desc": {
+        "kor": "보건복지부가 전북 남원에 국립의전원 설립을 결정한 가운데, 지역 사회의 환영과 함께 철저한 준비를 요구하는 목소리가 나오고 있습니다.",
+        "eng": "While the Ministry of Health and Welfare decided to establish a national medical school in Namwon, local communities welcome the decision and call for thorough preparation.",
+        "hu": "Míg az Egészségügyi és Népjóléti Minisztérium úgy döntött, hogy nemzeti orvosi iskolát hoz létre Namwonban, a helyi közösségek üdvözlik a döntést, és alapos előkészületeket szorgalmaznak."
+      },
+      "article": {
+        "kor": "보건복지부는 최근 회의를 열고 전북 남원시에 국립의학전문대학원을 설립하기로 결정했습니다. 이번 결정으로 지역 간 의료 격차를 해소하고 국가가 직접 공공의료 인력을 양성할 수 있는 기반이 마련되었습니다.\n\n전북지역 정계와 재계는 8년 만에 이뤄낸 성과라며 일제히 환영의 뜻을 밝혔습니다. 이들은 남원의료원 등 지역 공공의료기관을 교육과 수련의 중심지로 삼아 '지역완결형 공공의료 거점'을 구축해야 한다고 강조했습니다.\n\n반면 전북도의사회는 과거 서남대 의대 폐교 사태를 언급하며 우려의 목소리를 냈습니다. 이들은 서남대의 전철을 밟지 않기 위해 충분한 교원 확보와 철저한 교육 과정 검증이 개교보다 우선되어야 한다고 요구했습니다.",
+        "eng": "The Ministry of Health and Welfare recently held a meeting and decided to establish the National Medical Graduate School in Namwon, Jeollabuk-do. This decision has laid the foundation for resolving medical disparities between regions and allowing the state to directly cultivate public medical personnel.\n\nPolitical and business circles in the Jeonbuk region jointly welcomed the outcome, calling it an achievement accomplished after eight years. They emphasized that regional public medical institutions such as Namwon Medical Center should serve as the center of education and training to build a regional public medical hub.\n\nOn the other hand, the Jeonbuk Medical Association voiced concerns, mentioning the closure of the former Seonam University Medical School. They demanded that securing sufficient faculty and thoroughly verifying the curriculum should take precedence over the opening schedule to avoid repeating past mistakes.",
+        "hu": "Az Egészségügyi és Népjóléti Minisztérium nemrégiben ülést tartott, és úgy döntött, hogy a Csollabuk-tartományban található Namwon városában hozza létre a Nemzeti Orvosi Iskolát. Ez a döntés megalapozta a régiók közötti orvosi egyenlőtlenségek felszámolását.\n\nA politikai és üzleti körök egyaránt üdvözölték az eredményt, és hangsúlyozták, hogy a helyi közintézményeket az oktatás és a képzés központjává kell tenni.\n\nMásrészt a Csollabuki Orvosi Szövetség aggodalmának adott hangot a múltbeli iskola bezárására hivatkozva, és követelte a megfelelő oktatói gárda biztosítását."
+      },
+      "vocab": [
+        {
+          "word": "공공의료",
+          "meaning_en": "public medical service",
+          "meaning_hu": "közegészségügy"
+        },
+        {
+          "word": "의료격차",
+          "meaning_en": "medical gap/disparity",
+          "meaning_hu": "egészségügyi szakadék"
+        },
+        {
+          "word": "인프라",
+          "meaning_en": "infrastructure",
+          "meaning_hu": "infrastruktúra"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "국립의전원 설립이 지역 의료 격차 해소에 어떤 영향을 미칠까요?",
+          "eng": "How will the establishment of the national medical school affect the resolution of regional medical disparities?",
+          "hu": "Hogyan fogja befolyásolni a nemzeti orvosi iskola megalapítása a regionális egészségügyi egyenlőtlenségek felszámolását?"
+        },
+        {
+          "kor": "새로운 의대를 설립할 때 가장 중요하게 고려해야 할 점은 무엇이라고 생각하시나요?",
+          "eng": "What do you think is the most important factor to consider when establishing a new medical school?",
+          "hu": "Ön szerint mi a legfontosabb szempont egy új orvosi iskola megalapításakor?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-19",
+      "category": "Culture & Society",
+      "date": "2026.10.01",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://img6.yna.co.kr/photo/yna/YH/2026/01/13/PYH2026011314260001300_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001105300546"
+      },
+      "title": {
+        "kor": "고개를 숙여 인사했다면 '목인사'입니다",
+        "eng": "If you bow your head to greet, it is a 'neck greeting'",
+        "hu": "Ha meghajtod a fejed köszöntésként, az egy 'nyaki köszöntés'"
+      },
+      "desc": {
+        "kor": "한국어에서 올바른 인사 말을 배우는 기사입니다.",
+        "eng": "An article about learning correct greeting words in Korean.",
+        "hu": "Cikk a helyes köszönési szavak tanulásáról a koreai nyelvben."
+      },
+      "article": {
+        "kor": "사람들에게 인사를 할 때 여러 가지 방법이 있습니다. 고개를 숙여서 하는 인사는 '묵례'라고 합니다. 눈으로 하는 인사는 '목례'가 아니라 '눈인사'입니다. 한자가 어려우면 쉬운 우리말인 '목인사'를 쓸 수 있습니다.",
+        "eng": "There are various ways to greet people. A greeting by bowing the head is called 'mukrye'. A greeting with the eyes is called 'nun-insa', not 'mokrye'. If Chinese characters are difficult, you can use the easy Korean word 'mok-insa'.",
+        "hu": "Különböző módjai vannak az emberek köszöntésének. A fej meghajtásával történő köszöntést 'mukrye'-nak hívják. A szemmel történő köszöntés nem 'mokrye', hanem 'nun-insa'. Ha a kínai írásjelek nehezek, használhatja az egyszerű koreai 'mok-insa' szót."
+      },
+      "vocab": [
+        {
+          "word": "인사",
+          "meaning_en": "greeting",
+          "meaning_hu": "köszönés"
+        },
+        {
+          "word": "고개",
+          "meaning_en": "head",
+          "meaning_hu": "fej"
+        },
+        {
+          "word": "말",
+          "meaning_en": "word / language",
+          "meaning_hu": "szó / nyelv"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 평소에 어떻게 인사를 합니까?",
+          "eng": "How do you usually greet people?",
+          "hu": "Hogyan szokott köszönteni az embereket?"
+        },
+        {
+          "kor": "고개를 숙여서 하는 인사의 이름을 알고 있습니까?",
+          "eng": "Do you know the name of the greeting done by bowing the head?",
+          "hu": "Ismeri a fej meghajtásával végzett köszöntés nevét?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-20",
+      "category": "Culture & Society",
+      "date": "2026.10.01",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://img0.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001193900004_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001193900004"
+      },
+      "title": {
+        "kor": "서울국제정원박람회, 매헌시민의숲에서 열립니다",
+        "eng": "Seoul International Garden Show opens at Maeheon Citizen's Forest",
+        "hu": "Megnyílt a Szöuli Nemzetközi Kertkiállítás a Maeheon Polgári Erdőben"
+      },
+      "desc": {
+        "kor": "서울국제정원박람회가 매헌시민의숲에서 이달 27일까지 열립니다.",
+        "eng": "The Seoul International Garden Show is being held at Maeheon Citizen's Forest until the 27th of this month.",
+        "hu": "A Szöuli Nemzetközi Kertkiállítás e hónap 27-éig látható a Maeheon Polgári Erdőben."
+      },
+      "article": {
+        "kor": "서울국제정원박람회가 이달 27일까지 매헌시민의숲에서 열립니다. 이번 박람회에서는 시민들이 직접 만든 아름다운 가을 정원을 볼 수 있습니다.\n\n올해로 40주년을 맞은 매헌시민의숲에는 51개의 새로운 정원이 만들어졌습니다. 서울시는 시민들이 작은 공간에서도 마음의 위로와 여유를 느낄 수 있도록 계속 노력할 것입니다.",
+        "eng": "The Seoul International Garden Show is being held at Maeheon Citizen's Forest until the 27th of this month. At this exhibition, you can see beautiful autumn gardens created by citizens.\n\nMaeheon Citizen's Forest, which is celebrating its 40th anniversary this year, features 51 new gardens. The Seoul Metropolitan Government will continue to work so that citizens can find comfort and relaxation even in small spaces.",
+        "hu": "A Szöuli Nemzetközi Kertkiállítás e hónap 27-éig látható a Maeheon Polgári Erdőben. Ezen a kiállításon a polgárok által készített gyönyörű őszi kerteket láthatunk.\n\nA 40. évfordulóját ünneplő Maeheon Polgári Erdőben 51 új kert készült el. Szöul városa továbbra is azon fáradozik, hogy a polgárok még a kis terekben is vigasztalásra és kikapcsolódásra leljenek."
+      },
+      "vocab": [
+        {
+          "word": "정원",
+          "meaning_en": "garden",
+          "meaning_hu": "kert"
+        },
+        {
+          "word": "박람회",
+          "meaning_en": "exhibition, fair",
+          "meaning_hu": "kiállítás, vásár"
+        },
+        {
+          "word": "시민",
+          "meaning_en": "citizen",
+          "meaning_hu": "polgár, állampolgár"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 예쁜 꽃이나 나무가 있는 정원에 가는 것을 좋아합니까?",
+          "eng": "Do you like going to gardens with pretty flowers and trees?",
+          "hu": "Szeret olyan kertekbe járni, ahol szép virágok és fák vannak?"
+        },
+        {
+          "kor": "살고 있는 근처에 쉬기 좋은 공원이 있습니까?",
+          "eng": "Is there a good park to relax near where you live?",
+          "hu": "Van a közelében egy jó park, ahol ki lehet kapcsolódni?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-21",
+      "category": "Culture & Society",
+      "date": "2026.10.01",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://img4.yna.co.kr/photo/etc/xi/2026/09/13/PXI20260913004701009_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001183200075"
+      },
+      "title": {
+        "kor": "이창동 감독의 영화 '가능한 사랑'이 미국 로스앤젤레스에서 상영되었습니다",
+        "eng": "Director Lee Chang-dong's film 'Possible Love' was screened in Los Angeles",
+        "hu": "Lee Chang-dong rendező 'Lehetséges szerelem' című filmjét vetítették Los Angelesben"
+      },
+      "desc": {
+        "kor": "이창동 감독과 배우들이 미국 LA에서 영화 '가능한 사랑'을 관객들에게 소개했습니다.",
+        "eng": "Director Lee Chang-dong and the actors introduced the film 'Possible Love' to audiences in LA, USA.",
+        "hu": "Lee Chang-dong rendező és a színészek bemutatták a 'Lehetséges szerelem' című filmjüket az amerikai LA-ben."
+      },
+      "article": {
+        "kor": "이창동 감독의 영화 '가능한 사랑'이 미국 로스앤젤레스 아카데미 박물관에서 특별히 상영되었습니다. 영화가 끝난 후에 이창동 감독과 배우들이 관객들을 만나서 영화 이야기를 나누었습니다.\n\n이 감독은 영화 속 남자 주인공인 호석을 통해서 한국 남성들이 억압을 잘 견디는 모습을 보여주고 싶었다고 말했습니다. 배우 설경구도 호석이 우리 주변에 있는 평범한 아버지와 비슷한 인물이라고 설명했습니다. 이 영화는 베네치아국제영화제에서 상을 받았고 아카데미 시상식에도 나갈 예정입니다.",
+        "eng": "Director Lee Chang-dong's film 'Possible Love' was specially screened at the Academy Museum in Los Angeles, USA. After the film, the director and actors met with the audience to talk about the movie. Director Lee said he wanted to show through the male protagonist Hoseok how Korean men are accustomed to suppression. Actor Seol Kyung-gu also explained that Hoseok is a figure similar to ordinary fathers around us. This film won an award at the Venice International Film Festival and is scheduled to be submitted to the Academy Awards.",
+        "hu": "Lee Chang-dong rendező 'Lehetséges szerelem' című filmjét különleges vetítésen mutatták be az amerikai Los Angelesben, az Akadémiai Múzeumban. A film után a rendező és a színészek találkoztak a közönséggel, hogy beszélgessenek a filmről. Lee rendező elmondta, hogy a férfi főszereplőn, Hószeken keresztül szerette volna bemutatni, hogyan szoktak hozzá a koreai férfiak az elnyomáshoz. Söl Gjonggu színész azt is elmagyarázta, hogy Hószek olyan figura, mint a körülöttünk lévő átlagos apák. Ez a film díjat nyert a Velencei Nemzetközi Filmfesztiválon, és az Oscar-díjra is benevezik."
+      },
+      "vocab": [
+        {
+          "word": "감독",
+          "meaning_en": "director",
+          "meaning_hu": "rendező"
+        },
+        {
+          "word": "배우",
+          "meaning_en": "actor / actress",
+          "meaning_hu": "színész"
+        },
+        {
+          "word": "관객",
+          "meaning_en": "audience",
+          "meaning_hu": "közönség, nézők"
+        },
+        {
+          "word": "상영",
+          "meaning_en": "screening (of a movie)",
+          "meaning_hu": "filmvetítés"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 영화를 볼 때 어떤 장르를 가장 좋아합니까?",
+          "eng": "What movie genre do you like the most when watching movies?",
+          "hu": "Milyen filmműfajt szeretsz a legjobban, amikor filmet nézel?"
+        },
+        {
+          "kor": "좋아하는 한국 영화나 감독이 있습니까?",
+          "eng": "Do you have a favorite Korean movie or director?",
+          "hu": "Van kedvenc koreai filmed vagy rendeződ?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-22",
+      "category": "Culture & Society",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://img6.yna.co.kr/photo/yna/YH/2026/09/28/PYH2026092816280001300_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001191200005"
+      },
+      "title": {
+        "kor": "영화제작가협회, 영화 '암살자(들)' 관련 과도한 비난 우려",
+        "eng": "Film Producers Association Expresses Concern Over Excessive Criticism of Movie 'Assassins'",
+        "hu": "A Filmproducerek Szövetsége aggodalmát fejezi ki az 'Bérgyilkosok' című film elleni túlzott bírálatok miatt"
+      },
+      "desc": {
+        "kor": "한국영화제작가협회가 역사 왜곡 논란이 있는 영화 '암살자(들)'의 창작자들을 향한 과도한 비난에 우려를 표했습니다.",
+        "eng": "The Korean Film Producers Association expressed concern over excessive criticism directed at creators of the movie 'Assassins' amid historical distortion controversies.",
+        "hu": "A Koreai Filmproducerek Szövetsége aggodalmát fejezte ki a történelmi torzítás vitái közepette az 'Bérgyilkosok' című film alkotóit érő túlzott bírálatok miatt."
+      },
+      "article": {
+        "kor": "육영수 여사 피격 사건을 다룬 영화 '암살자(들)'을 둘러싸고 역사 왜곡 논란이 이어지고 있다. 영화는 1974년 발생한 사건을 소재로 하며, 권력 기관의 개입 가능성 등의 가설을 다룬다. 이를 두고 정치권과 일부 단체에서는 역사 왜곡이라는 비판을 제기했다.\n\n비판은 영화를 만든 제작사뿐만 아니라 감독, 배우, 스태프 등 개인에게까지 확산했다. 일부 출연 배우와 동료 배우들의 사회관계망서비스에는 비난 댓글이 이어졌고, 광고 모델로 활동 중인 배우의 관련 영상에도 항의가 빗발쳤다.\n\n이에 한국영화제작가협회는 작품에 참여했다는 이유로 개별 창작자에게 과도한 비난이 이어지는 상황에 우려를 표명했다. 협회는 작품에 대한 평가는 작품 자체를 중심으로 이루어져야 하며, 개인에 대한 공격은 바람직하지 않다고 강조했다.",
+        "eng": "Controversy over historical distortion continues surrounding the movie 'Assassins', which deals with the shooting of First Lady Yuk Young-su. The film is based on a 1974 incident and deals with hypotheses such as the possible intervention of power agencies. Political circles and some groups criticized this as historical distortion.\n\nCriticism has spread not only to the production company that made the film, but also to individuals such as directors, actors, and staff. Critical comments followed on the social media of some cast members and fellow actors, and protests also poured into related videos of actors working as advertising models.\n\nIn response, the Korean Film Producers Association expressed concern over the situation where excessive criticism continues against individual creators simply because they participated in the work. The association emphasized that evaluation of a work should focus on the work itself, and attacks on individuals are undesirable.",
+        "hu": "Történelmi torzításról szóló viták övezik az 'Bérgyilkosok' című, Juk Jongszu first lady lelövésével foglalkozó filmet. A film az 1974-es eseményen alapul, és olyan hipotézisekkel foglalkozik, mint a hatalmi szervek esetleges beavatkozása. Politikai körök és egyes csoportok ezt történelmi torzításként bírálták.\n\nA kritika nemcsak a filmet készítő produkciós cégre terjedt ki, hanem olyan magánszemélyekre is, mint a rendezők, színészek és a stáb. Kritikus hozzászólások érkeztek egyes szereplők és színésztársak közösségi oldalaira, és tiltakozások özönlöttek a reklámarc1ként dolgozó színészek videói alatt is.\n\nErre válaszul a Koreai Filmproducerek Szövetsége aggodalmának adott hangot amiatt, hogy az egyéni alkotókat továbbra is túlzott bírálatok érik pusztán azért, mert részt vettek a műben. A szövetség hangsúlyozta, hogy a mű értékelésének magára a műre kell összpontosítania, és az egyének elleni támadások nem kívánatosak."
+      },
+      "vocab": [
+        {
+          "word": "논란",
+          "meaning_en": "controversy",
+          "meaning_hu": "vita, kontroverzia"
+        },
+        {
+          "word": "소재",
+          "meaning_en": "subject matter, material",
+          "meaning_hu": "téma, alapanyag"
+        },
+        {
+          "word": "비판",
+          "meaning_en": "criticism",
+          "meaning_hu": "bírálat, kritika"
+        },
+        {
+          "word": "우려",
+          "meaning_en": "concern, worry",
+          "meaning_hu": "aggodalom"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "영화 '암살자(들)'을 둘러싼 논란의 이유는 무엇인가요?",
+          "eng": "What is the reason for the controversy surrounding the movie 'Assassins'?",
+          "hu": "Mi az oka az 'Bérgyilkosok' című film körüli vitának?"
+        },
+        {
+          "kor": "한국영화제작가협회는 어떤 입장을 밝혔나요?",
+          "eng": "What position did the Korean Film Producers Association state?",
+          "hu": "Milyen álláspontot képviselt a Koreai Filmproducerek Szövetsége?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-23",
+      "category": "Culture & Society",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://img7.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001185100005_02_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001185100005"
+      },
+      "title": {
+        "kor": "'콰이어 오브 맨' 이지영 연출 \"함께 살아있다는 감각에 집중\"",
+        "eng": "Director Lee Ji-young of 'The Choir of Man': \"Focus on the sense of being alive together\"",
+        "hu": "A 'The Choir of Man' rendezője, Lee Ji-young: „Koncentráljunk arra az érzésre, hogy együtt élünk”"
+      },
+      "desc": {
+        "kor": "영국 웨스트엔드 뮤지컬 '콰이어 오브 맨'이 한국에서 비영어권 최초로 공연을 시작했습니다.",
+        "eng": "The British West End musical 'The Choir of Man' has started its non-English speaking premiere in Korea.",
+        "hu": "A brit West End musical, a 'The Choir of Man' megkezdte angol nem anyanyelvi premierjét Koreában."
+      },
+      "article": {
+        "kor": "영국 웨스트엔드 뮤지컬 '콰이어 오브 맨'이 비영어권 최초로 한국에서 막을 올렸습니다. 이번 공연은 서울 종로구 놀씨어터 대학로에서 내년 1월 3일까지 이어질 예정입니다.\n\n작품의 배경은 영국식 술집인 '펍'입니다. 바텐더와 8명의 손님이 합창단을 결성해 관객과 호흡하며 노래와 춤을 선보입니다. 뚜렷한 줄거리 대신 배우들이 개인적인 이야기를 털어놓고 관객과 소통하는 독특한 방식으로 진행됩니다.\n\n서사 중심의 기존 공연과 달리, 이 작품의 핵심은 음악과 퍼포먼스, 그리고 관객과의 호흡입니다. 퀸과 시아 등 유명 가수들의 히트곡을 편곡한 노래와 다양한 악기 연주, 탭댄스가 어우러집니다.\n\n특히 무대와 객석의 경계를 허문 것이 특징입니다. 배우들은 관객에게 맥주를 건네거나 대화를 나누며, 관객을 무대 위로 초대해 함께 호흡을 맞추며 흥겨운 분위기를 만들어 갑니다.",
+        "eng": "The British West End musical 'The Choir of Man' has opened its first non-English speaking performance in Korea. The show will run at the NOL Theater Daehangno in Jongno-gu, Seoul, until January 3 next year.\n\nThe background of the work is a British-style pub. A bartender and eight guests form a choir, breathing together with the audience and showcasing songs and dances. Instead of a clear plot, it proceeds in a unique way where actors share personal stories and communicate with the audience.\n\nUnlike traditional narrative-driven shows, the core of this work is music, performance, and interaction with the audience. It features arranged hit songs by famous artists like Queen and Sia, along with various instrument performances and tap dancing.\n\nNotably, it breaks the boundary between the stage and the audience. Actors hand out beers or chat with the audience, and invite spectators onto the stage to breathe together, creating a joyful atmosphere.",
+        "hu": "A brit West End musical, a 'The Choir of Man' megkezdte első nem angol nyelvű előadását Koreában. Az előadás a jövő év január 3-áig látható a szöuli Jongno-gu-ban található NOL Theater Daehangno színházban.\n\nA mű háttere egy brit stílusú pub. Egy csapos és nyolc vendég kórussal együtt énekel és táncol, miközben együtt lélegzik a közönséggel. Világos cselekmény helyett egyedi módon halad előre, ahol a színészek megosztják személyes történeteiket és kommunikálnak a közönséggel.\n\nEllentétben a hagyományos, narratívára épülő előadásokkal, ennek a műnek a magja a zene, a előadás és a közönséggel való interakció. Olyan híres előadók átdolgozott slágerei szerepelnek benne, mint a Queen vagy Sia, különféle hangszeres játékokkal és sztepptánccal fűszerezve.\n\nKülönösen fontos jellemzője, hogy lebontja a határt a színpad és a nézőtér között. A színészek söröket adnak át vagy beszélgetnek a nézőkkel, és a színpadra hívják a közönséget, hogy együtt lélegezve vidám hangulatot teremtsenek."
+      },
+      "vocab": [
+        {
+          "word": "비영어권",
+          "meaning_en": "Non-English speaking region",
+          "meaning_hu": "Nem angol nyelvű terület"
+        },
+        {
+          "word": "초연",
+          "meaning_en": "Premiere",
+          "meaning_hu": "Bemutató / Premier"
+        },
+        {
+          "word": "서사",
+          "meaning_en": "Narrative / Story",
+          "meaning_hu": "Narratíva / Történet"
+        },
+        {
+          "word": "경계를 허물다",
+          "meaning_en": "To break down boundaries",
+          "meaning_hu": "Lebontani a határokat"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "이 뮤지컬이 기존의 다른 공연들과 다른 점은 무엇인가요?",
+          "eng": "What makes this musical different from other existing performances?",
+          "hu": "Mitől különbözik ez a musical más meglévő előadásoktól?"
+        },
+        {
+          "kor": "무대와 객석의 경계를 없앤 공연에 직접 참여한다면 어떤 기분이 들 것 같습니까?",
+          "eng": "How would you feel if you directly participated in a performance that breaks the boundary between the stage and the audience?",
+          "hu": "Hogyan érezné magát, ha közvetlenül részt venne egy olyan előadásban, amely lebontja a határt a színpad és a nézőtér között?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-24",
+      "category": "Culture & Society",
+      "date": "2026.10.01",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://img8.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001036000063_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001036000063"
+      },
+      "title": {
+        "kor": "전 세계 24개국 춤의 향연 '천안흥타령춤축제 2026' 개막",
+        "eng": "Global Dance Festival 'Cheonan Heungtaryeong Dance Festival 2026' Opens with 24 Countries",
+        "hu": "Megnyílt a 24 ország részvételével zajló Cshonani Heungtaryeong Táncfesztivál 2026"
+      },
+      "desc": {
+        "kor": "전 세계 24개국이 참여하는 대규모 글로벌 춤 축제인 '천안흥타령춤축제 2026'이 충남 천안에서 막을 올렸습니다.",
+        "eng": "The 'Cheonan Heungtaryeong Dance Festival 2026', a large-scale global dance festival featuring 24 countries, has kicked off in Cheonan, South Chungcheong Province.",
+        "hu": "Megkezdődött a Dél-Cshungcshong tartománybeli Cshonanban a 24 országot felvonultató nagyszabású 'Cshonani Heungtaryeong Táncfesztivál 2026'."
+      },
+      "article": {
+        "kor": "글로벌 춤 경연 축제인 '천안흥타령춤축제 2026'이 1일 충남 천안종합운동장에서 화려한 막을 올렸습니다. 올해로 22회를 맞이한 이번 축제는 '올 댓 댄스 인 천안'을 슬로건으로 내걸고 오는 5일까지 천안종합운동장과 신부동 도심, 천안삼거리공원 일대에서 다채롭게 펼쳐집니다.\n\n개막식은 천안종합운동장 주무대에서 개최되었으며, 가천대 아페이론의 식전 공연과 24개국 해외 무용단의 국가별 입장 퍼포먼스로 축제의 서막을 알렸습니다. 이어 유명 안무가들과 비트박서가 세대별 K-팝을 재해석한 주제공연 '타임리스'를 선보였고, 인기가수들의 축하공연과 1천500여대의 군집 드론이 밤하늘을 수놓는 친환경 드론 라이트쇼가 이어졌습니다.\n\n올해 축제는 관람객의 편의와 참여를 높이기 위해 도심 한복판과 삼거리공원 등으로 무대를 분산하여 운영합니다. 종합운동장 주무대에서는 24개국 25개 팀이 참가하는 국제춤대회와 전국춤경연대회 결선이 진행되며, 신부동 도심에서는 40개 팀 1천500여명이 참여하는 '거리댄스 퍼레이드'가 펼쳐집니다.\n\n또한 천안삼거리공원에서는 청소년 배틀과 해외팀 퍼레이드, 어린이 기획공연 등 다양한 부대 프로그램이 마련되었습니다. 축제 기간 동안 관람객의 이동을 돕기 위해 주요 전철역과 축제장을 순환하는 4개 노선의 무료 셔틀버스가 상시 운행됩니다.",
+        "eng": "The 'Cheonan Heungtaryeong Dance Festival 2026', a global dance competition festival, grandly opened on the 1st at the Cheonan Stadium in South Chungcheong Province. Marking its 22nd anniversary this year, the festival runs until the 5th under the slogan 'All That Dance in Cheonan' across the Cheonan Stadium, Sindubong downtown area, and Cheonan Samgeori Park.\n\nThe opening ceremony took place on the main stage of the Cheonan Stadium, signaling the beginning of the festival with a pre-performance by Gachon University's 'Apeiron' and an entrance performance by overseas dance troupes from 24 countries. This was followed by a themed performance titled 'Timeless', which reinterpreted generational K-pop with famous choreographers and a beatboxer, alongside congratulatory performances by popular singers and an eco-friendly drone light show featuring about 1,500 drones.\n\nThis year's festival distributes stages across the downtown area and Samgeori Park to enhance visitor convenience and participation. The main stage at the stadium hosts the international dance competition with 25 teams from 24 countries and the finals of the national dance competition, while the Sindubong downtown area features a 'Street Dance Parade' with about 1,500 participants from 40 teams.\n\nAdditionally, various auxiliary programs such as youth battles, overseas team parades, and children's special performances are prepared at Cheonan Samgeori Park. To assist visitors with transportation during the festival, free shuttle buses running on four routes connecting major subway stations and the festival venue will operate regularly.",
+        "hu": "Október 1-jén a Dél-Cshungcshong tartománybeli Cshonani Stadionban hivatalosan is megnyílt a 'Cshonani Heungtaryeong Táncfesztivál 2026' nevű globális táncverseny és fesztivál. Az idén 22. alkalommal megrendezett esemény 'All That Dance in Cheonan' szlogennel október 5-ig zajlik a Cshonani Stadionban, Sindubong belvárosában és a Cshonan Samgeori Park térségében.\n\nA megünneplésre a stadion fő színpadán került sor, ahol a Gachon Egyetem Apeiron csoportjának előadása és 24 ország tánccsoportjainak bevonulása nyitotta meg a fesztivált. Ezt követte a 'Timeless' című tematikus előadás híres koreográfusok közreműködésével, valamint népszerű énekesek koncertje és egy mintegy 1500 drónból álló környezetbarát drónfény-show.\n\nAz idei fesztivál a nézők kényomáza és aktív bevonása érdekében a belvárosra és a Samgeori Parkra is kiterjeszti a helyszíneket. A fő stadionban 24 ország 25 csapata versenyez a nemzetközi táncversenyen, míg Sindubong utcáin nagyszabású utcai táncparádét tartanak mintegy 1500 résztvevővel.\n\nEmellett a Cshonan Samgeori Parkban ifjúsági csaták, külföldi csapatok parádéi és gyermekprogramok is várják az érdeklődőket. A látogatók kényelmes közlekedése érdekében a főbb metróállomásokat a fesztiválterülettel összekötő, négy útvonalon közlekedő ingyenes ingajáratok állnak rendelkezésre."
+      },
+      "vocab": [
+        {
+          "word": "슬로건",
+          "meaning_en": "slogan",
+          "meaning_hu": "szlogen"
+        },
+        {
+          "word": "퍼레이드",
+          "meaning_en": "parade",
+          "meaning_hu": "parádé, felvonulás"
+        },
+        {
+          "word": "재해석하다",
+          "meaning_en": "to reinterpret",
+          "meaning_hu": "újraértelmez"
+        },
+        {
+          "word": "분산하다",
+          "meaning_en": "to disperse, to distribute",
+          "meaning_hu": "szétoszt, eloszt"
+        },
+        {
+          "word": "순환",
+          "meaning_en": "circulation, rotation",
+          "meaning_hu": "körforgás, keringés"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "당신은 세계 여러 나라의 전통 춤이나 현대 춤을 직접 보거나 배워본 경험이 있습니까?",
+          "eng": "Do you have any experience watching or learning traditional or modern dances from around the world?",
+          "hu": "Van-e tapasztalata a világ különböző tájairól származó hagyományos vagy modern táncok megtekintésében vagy tanulásában?"
+        },
+        {
+          "kor": "거주하는 지역에서 열리는 문화 축제 중 가장 참여하고 싶은 축제는 무엇인가요?",
+          "eng": "Which cultural festival held in your local area would you most like to participate in?",
+          "hu": "A lakóhelyén megrendezett kulturális fesztiválok közül melyiken szeretne a leginkább részt venni?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-25",
+      "category": "Travel & Experiences",
+      "date": "2026.10.01",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/10/01/PYH2026100120040001300_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001143751005"
+      },
+      "title": {
+        "kor": "배우 톰 크루즈가 한국에 왔습니다",
+        "eng": "Actor Tom Cruise has visited Korea",
+        "hu": "Tom Cruise színész Koreába látogatott"
+      },
+      "desc": {
+        "kor": "유명한 배우 톰 크루즈가 한국을 찾아 영화를 소개했습니다.",
+        "eng": "Famous actor Tom Cruise visited Korea to introduce his new movie.",
+        "hu": "A híres színész, Tom Cruise Koreába látogatott, hogy bemutassa új filmjét."
+      },
+      "article": {
+        "kor": "유명한 영화 배우 톰 크루즈가 한국에 왔습니다.\n\n크루즈는 새로운 영화 '디거'를 사람들에게 소개했습니다.\n\n그는 한국에 열세 번이나 왔습니다.\n\n크루즈는 한국을 좋아한다고 말했습니다.",
+        "eng": "Famous movie actor Tom Cruise has come to Korea.\n\nCruise introduced his new movie 'Digger' to the people.\n\nHe has visited Korea thirteen times.\n\nCruise said that he likes Korea.",
+        "hu": "A híres filmszínész, Tom Cruise Koreába jött.\n\nCruise bemutatta új, 'Digger' című filmjét az embereknek.\n\nMár tizenhatszor járt Koreában.\n\nCruise azt mondta, hogy szereti Koreát."
+      },
+      "vocab": [
+        {
+          "word": "배우",
+          "meaning_en": "actor",
+          "meaning_hu": "színész"
+        },
+        {
+          "word": "영화",
+          "meaning_en": "movie",
+          "meaning_hu": "film"
+        },
+        {
+          "word": "한국",
+          "meaning_en": "Korea",
+          "meaning_hu": "Korea"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "한국에 온 배우의 이름은 무엇입니까?",
+          "eng": "What is the name of the actor who came to Korea?",
+          "hu": "Hogy hívják a Koreába érkezett színészt?"
+        },
+        {
+          "kor": "영화의 이름은 무엇입니까?",
+          "eng": "What is the name of the movie?",
+          "hu": "Mi a címe a filmnek?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-26",
+      "category": "Travel & Experiences",
+      "date": "2026.10.01",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://img6.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001174800109_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001174800109"
+      },
+      "title": {
+        "kor": "이탈리아 로마에서 한국 드라마 상영회 열려",
+        "eng": "Korean drama screening held in Rome, Italy",
+        "hu": "Koreai drámavetítést tartottak az olaszországi Rómában"
+      },
+      "desc": {
+        "kor": "이탈리아 로마에서 한국 드라마 '친애하는 X' 상영회와 감독 토크쇼가 열렸습니다.",
+        "eng": "A special screening and director talk show for the Korean drama 'Dear X' were held in Rome, Italy.",
+        "hu": "Különleges vetítést és rendezői beszélgetést tartottak a 'Kedves X' című koreai drámáról az olaszországi Rómában."
+      },
+      "article": {
+        "kor": "주이탈리아 한국문화원은 로마에서 한국 드라마 '친애하는 X' 특별 상영회와 토크쇼를 열었습니다.\n\n이 행사에는 한국 문화에 관심이 많은 현지 사람 220명이 참석했습니다. 사전 예약이 아주 빨리 끝날 정도로 인기가 아주 많았습니다.\n\n감독들이 참여한 토크쇼에서는 드라마 제작 과정에 대한 다양한 질문이 나왔습니다. 사람들은 한국 드라마의 인기를 확인할 수 있었습니다.",
+        "eng": "The Korean Cultural Center in Italy held a special screening and talk show for the Korean drama 'Dear X' in Rome.\n\nA total of 220 local people interested in Korean culture attended the event. It was very popular, with advance reservations closing early.\n\nDuring the talk show with the directors, various questions about the drama production process were asked. People were able to confirm the popularity of Korean dramas.",
+        "hu": "Az olaszországi Koreai Kulturális Központ különleges vetítést és beszélgetést tartott a 'Kedves X' című koreai drámáról Rómában.\n\nA rendezvényen 220 koreai kultúra iránt érdeklődő helyi lakos vett részt. Nagyon népszerű volt, az előzetes jegyfoglalások hamar lezárultak.\n\nA rendezőkkel tartott beszélgetés során számos kérdés merült fel a drámahagyományról és a készítés folyamatáról. Az emberek megtapasztalhatták a koreai drámák népszerűségét."
+      },
+      "vocab": [
+        {
+          "word": "문화원",
+          "meaning_en": "cultural center",
+          "meaning_hu": "kulturális központ"
+        },
+        {
+          "word": "상영회",
+          "meaning_en": "screening event",
+          "meaning_hu": "vetítési esemény"
+        },
+        {
+          "word": "참석하다",
+          "meaning_en": "to attend",
+          "meaning_hu": "részt venni"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "당신은 한국 드라마를 좋아합니까? 어떤 드라마를 좋아합니까?",
+          "eng": "Do you like Korean dramas? Which dramas do you like?",
+          "hu": "Szereted a koreai drámákat? Melyik drámákat szereted?"
+        },
+        {
+          "kor": "살고 있는 나라에서 한국 문화 행사에 가 본 적이 있습니까?",
+          "eng": "Have you ever been to a Korean cultural event in your country?",
+          "hu": "Voltál már koreai kulturális eseményen a saját országodban?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-27",
+      "category": "Travel & Experiences",
+      "date": "2026.10.01",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://img9.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001173600062_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001173600062"
+      },
+      "title": {
+        "kor": "양구 두타연에서 '금강산 가는 길 걷기' 행사가 열립니다",
+        "eng": "The 'Walking the Road to Mount Geumgang' event will be held at Dutayeon in Yanggu",
+        "hu": "Megrendezik a 'Séta a Geumgang-hegyre vezető úton' eseményt Yangguban, a Dutayeonban"
+      },
+      "desc": {
+        "kor": "양구군에서 2년 만에 두타연 자연을 걷는 걷기 행사를 2천 명 규모로 개최합니다.",
+        "eng": "Yanggu County is holding a walking event for 2,000 people to enjoy nature at Dutayeon for the first time in two years.",
+        "hu": "Yanggu megye két év után először rendez gyalogos eseményt 2000 fő számára a Dutayeon természetben."
+      },
+      "article": {
+        "kor": "강원도 양구군에서 오는 15일에 '금강산 가는 길 걷기' 행사를 엽니다. 이 행사는 두타연의 아름다운 자연을 보며 걷고 다양한 문화 행사도 함께 즐기는 활동입니다. 참가 신청은 인터넷이나 방문을 통해 할 수 있으며 선착순으로 2천 명을 모집합니다.\n\n걷기 코스는 약 8킬로미터이며 비득안내소에서 출발해 두타연 조각공원에 도착합니다. 도착한 후에는 추모 행사와 합창단 공연, 경품 추첨 등 여러 프로그램이 진행됩니다. 이 코스는 민간인통제선 안에 있어서 참가자는 당일에 반드시 신분증을 가지고 가야 합니다.",
+        "eng": "Gangwon Province Yanggu County will hold the 'Walking the Road to Mount Geumgang' event on the 15th. This event is an activity to walk while seeing the beautiful nature of Dutayeon and enjoy various cultural events together. You can apply for participation via the internet or by visiting, and 2,000 people are recruited on a first-come, first-served basis.\n\nThe walking course is about 8 kilometers long, starting from Bideuk Information Center and arriving at Dutayeon Sculpture Park. After arrival, various programs such as a memorial service, choir performance, and lucky draw will take place. Because this course is inside the civilian control line, participants must bring their ID cards on the day of the event.",
+        "hu": "Gangwon tartomány Yanggu megyéje 15-én rendez നി a 'Séta a Geumgang-hegyre vezető úton' elnevezésű eseményt. Ez az esemény egy olyan tevékenység, amely során megtekinthetik Dutayeon gyönyörű természetét és élvezhetik a különböző kulturális programokat. Jelentkezni az interneten vagy személyesen lehet, és érkezési sorrendben 2000 főt toboroznak.\n\nA gyalogos túra körülbelül 8 kilométer hosszú, a Bideuk információs központból indul és a Dutayeon szoborparkba érkezik. Megérkezés után különféle programok, például megemlékezés, kóruselőadás és sorsolás lesznek. Mivel ez az útvonal a civilek által ellenőrzött vonalon belül van, a résztvevőknek magukkal kell hozniuk a személyi igazolványukat az esemény napján."
+      },
+      "vocab": [
+        {
+          "word": "행사",
+          "meaning_en": "event",
+          "meaning_hu": "rendezvény"
+        },
+        {
+          "word": "참가",
+          "meaning_en": "participation",
+          "meaning_hu": "részvétel"
+        },
+        {
+          "word": "신분증",
+          "meaning_en": "identification card",
+          "meaning_hu": "személyi igazolvány"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 아름다운 자연 속을 걷는 여행을 좋아합니까?",
+          "eng": "Do you like traveling to walk in beautiful nature?",
+          "hu": "Szeret utazni és a gyönyörű természetben sétálni?"
+        },
+        {
+          "kor": "이 행사에 참가하려면 무엇을 준비해야 합니까?",
+          "eng": "What do you need to prepare to participate in this event?",
+          "hu": "Mit kell előkészítenie ahhoz, hogy részt vehessen ezen az eseményen?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-28",
+      "category": "Travel & Experiences",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://img5.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001173200017_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001173200017"
+      },
+      "title": {
+        "kor": "딜라이브TV, 중남미 콘텐츠 시장 진출",
+        "eng": "D-Live TV enters the Central and South American content market",
+        "hu": "A D-Live TV belép a közép- és dél-amerikai tartalompiacra"
+      },
+      "desc": {
+        "kor": "딜라이브TV가 멕시코와 브라질에 한국 콘텐츠를 보냅니다.",
+        "eng": "D-Live TV sends Korean content to Mexico and Brazil.",
+        "hu": "A D-Live TV koreai tartalmakat küld Mexikóba és Brazíliába."
+      },
+      "article": {
+        "kor": "딜라이브TV가 한국의 지역 콘텐츠를 가지고 브라질과 멕시코 같은 중남미 시장에 들어갑니다. 딜라이브TV는 지난달 멕시코시티에서 열린 박람회에 참가해서 현지 회사들과 중요한 만남을 가졌습니다.\n\n회사는 브라질의 방송 채널과 만나서 여러 가지 한국 콘텐츠를 보내기로 약속했습니다. 그리고 멕시코의 플랫폼 회사와도 전체 콘텐츠를 보내기 위한 계약을 준비하고 있습니다.\n\n딜라이브TV는 유럽과 아시아를 넘어서 중남미까지 해외로 보내는 길을 넓히고 있습니다. 앞으로 더 많은 나라 사람들이 한국의 다양한 콘텐츠를 볼 수 있게 됩니다.",
+        "eng": "D-Live TV is entering the Central and South American markets, such as Brazil and Mexico, with its own regional Korean content. D-Live TV participated in an expo held in Mexico City last month and had important meetings with local companies.\n\nThe company met with a broadcasting channel in Brazil and promised to send various Korean content. It is also preparing an agreement with a Mexican platform company to supply all of its content.\n\nBeyond Europe and Asia, D-Live TV is expanding its overseas distribution network to Central and South America. Soon, more people in various countries will be able to enjoy Korean content.",
+        "hu": "A D-Live TV saját regionális koreai tartalmaival lép be a közép- és dél-amerikai piacokra, például Brazíliába és Mexikóba. A D-Live TV a múlt hónapban részt vett a Mexikóvárosban rendezett kiállításon, és fontos találkozókat bonyolított le a helyi cégekkel.\n\nA cég találkozott egy brazíliai csatornával, és ígéretet tett különböző koreai tartalmak szállítására. Emellett egy mexikói platformcéggel is egyeztet a teljes tartalomellátásról szóló megállapodásról.\n\nEurópán és Ázsián túl a D-Live TV Közép- és Dél-Amerikára is kiterjeszti tengerentúli hálózatát. A jövőben több ország emberei láthatják a koreai tartalmakat."
+      },
+      "vocab": [
+        {
+          "word": "시장",
+          "meaning_en": "market",
+          "meaning_hu": "piac"
+        },
+        {
+          "word": "박람회",
+          "meaning_en": "expo / exhibition",
+          "meaning_hu": "kiállítás"
+        },
+        {
+          "word": "계약",
+          "meaning_en": "contract / agreement",
+          "meaning_hu": "szerződés"
+        },
+        {
+          "word": "해외",
+          "meaning_en": "overseas / abroad",
+          "meaning_hu": "tengerentúl / külföld"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "딜라이브TV는 어느 나라들에 진출합니까?",
+          "eng": "Which countries is D-Live TV entering?",
+          "hu": "Mely országokba lép be a D-Live TV?"
+        },
+        {
+          "kor": "여러분이 살고 있는 나라에도 한국 콘텐츠가 인기가 있습니까?",
+          "eng": "Is Korean content popular in the country where you live?",
+          "hu": "Népszerűek a koreai tartalmak abban az országban, ahol él?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-29",
+      "category": "Travel & Experiences",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://img2.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001171500062_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001171500062"
+      },
+      "title": {
+        "kor": "한글날 100주년, 영월 주민이 만든 특별한 마을 글씨 전시",
+        "eng": "100th Anniversary of Hangul Day: Special Village Font Exhibition Made by Yeongwol Residents",
+        "hu": "A Hangul nap 100. évfordulója: Különleges falu betűtípus kiállítás Yeongwol lakosaitól"
+      },
+      "desc": {
+        "kor": "강원도 영월 주민들이 지역의 이야기를 담아 직접 만든 마을 글씨를 선보이는 전시가 열린다.",
+        "eng": "An exhibition is held featuring unique village fonts created directly by residents of Yeongwol, Gangwon Province, containing local stories.",
+        "hu": "Kiállítás nyílik a Gangwon tartománybeli Yeongwol lakosai által készített, helyi történeteket rejtő egyedi betűtípusok bemutatására."
+      },
+      "article": {
+        "kor": "한글날 제정 100주년을 맞아 강원도 영월 주민들이 직접 만든 마을 글씨를 한자리에서 만나는 전시가 열린다. 영월문화관광재단은 1일부터 31일까지 영월 진달래장에서 '내가 쓰는 영월' 성과 전시를 개최한다.\n\n이번 전시는 영월의 9개 지역 이야기와 특색을 담은 주민 창작 글씨를 발굴하는 사업이다. 주민들은 전문가와 함께 교육을 거치면서 지역의 지명 설화나 골목의 기억 등을 글자에 담아 고유한 글씨를 완성했다.\n\n전시장을 찾는 관람객들은 마을 글씨를 직접 입력하거나 도장을 찍어보는 체험을 할 수 있다. 또한 주민들이 글씨를 만드는 과정과 사진, 영상도 함께 볼 수 있으며 무료로 관람이 가능하다.",
+        "eng": "To celebrate the 100th anniversary of the establishment of Hangul Day, an exhibition is being held where you can see village fonts created directly by the residents of Yeongwol, Gangwon Province. The Yeongwol Culture and Tourism Foundation is holding the 'Yeongwol I Write' exhibition at Jindallaejang from the 1st to the 31st.\n\nThis exhibition is a project to discover creative fonts by residents that contain the stories and characteristics of nine regions in Yeongwol. Through education with experts, residents completed unique fonts by putting local place-name legends and memories of alleys into letters.\n\nVisitors to the exhibition space can experience typing the village fonts directly or stamping seals. In addition, the process of residents making the fonts, photos, and videos are also provided, and viewing is free of charge.",
+        "hu": "A Hangul nap megalapításának 100. évfordulója alkalmából kiállítás nyílik, ahol megtekinthetők a Gangwon tartománybeli Yeongwol lakosai által készített falu betűtípusai. A Yeongwol Kulturális és Idegenforgalmi Alapítvány 'Az általam írt Yeongwol' című kiállítást rendez a Jindallaejangban 1-jétől 31-éig.\n\nEz a kiállítás egy olyan projekt, amely a lakosok által készített kreatív betűtípusokat mutatja be, amelyek Yeongwol kilenc régiójának történeteit és sajátosságait hordozzák. A lakosok szakértőkkel végzett oktatás révén fejezték be az egyedi betűtípusokat, beépítve a helyi helynév-legendákat és az utcácskák emlékeit a betűkbe.\n\nA kiállítótérbe látogatók kipróbálhatják a falu betűtípusainak beírását vagy a pecsétnyomást. Ezenkívül a lakosok betűkészítési folyamata, valamint fotók és videók is megtekinthetők, a belépés pedig ingyenes."
+      },
+      "vocab": [
+        {
+          "word": "주민",
+          "meaning_en": "resident",
+          "meaning_hu": "lakos"
+        },
+        {
+          "word": "전시",
+          "meaning_en": "exhibition",
+          "meaning_hu": "kiállítás"
+        },
+        {
+          "word": "특색",
+          "meaning_en": "characteristic",
+          "meaning_hu": "jellegzetesség"
+        },
+        {
+          "word": "관람객",
+          "meaning_en": "visitor",
+          "meaning_hu": "látogató"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 사는 지역의 이야기를 담은 글씨를 만든다면 어떤 특징을 넣고 싶나요?",
+          "eng": "What characteristics would you want to include if you made a font about your living area?",
+          "hu": "Milyen jellegzetességeket szeretne beletenni, ha készítene egy betűtípust a lakóhelyéről?"
+        },
+        {
+          "kor": "직접 만든 글씨나 도장을 사용하는 체험에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about the experience of using self-made fonts or stamps?",
+          "hu": "Mit gondol a saját készítésű betűtípusok vagy pecsétek használatának élményéről?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-30",
+      "category": "Travel & Experiences",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://img6.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001168800052_01_i_P4.jpg",
+      "source": {
+        "name": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001168800052"
+      },
+      "title": {
+        "kor": "합천 황매산 여름 방문객 120% 급증…목수국과 억새의 조화",
+        "eng": "Hapcheon Hwangmaesan Summer Visitors Surge by 120%…Harmony of Hydrangeas and Silver Grass",
+        "hu": "120%-kal nőtt a nyári látogatók száma a Hapcheon Hwangmaesan-hegyen… Hortenziák és pampafű harmóniája"
+      },
+      "desc": {
+        "kor": "경남 합천군 황매산이 여름철 목수국 명소로 인기를 끌면서 방문객이 크게 늘었습니다.",
+        "eng": "Hwangmaesan Mountain in Hapcheon has seen a significant surge in visitors as a popular summer hydrangea destination.",
+        "hu": "A hapcheoni Hwangmaesan-hegy nyári hortenzia úti célként nagy népszerűségre tett szert, így a látogatók száma jelentősen megnőtt."
+      },
+      "article": {
+        "kor": "경남 합천군 황매산군립공원이 여름철 목수국 명소로 입소문을 타면서 방문객 수가 크게 늘었습니다. 합천군에 따르면 올해 7월부터 9월까지 황매산을 찾은 방문객은 총 10만 3천 명으로, 지난해 같은 기간보다 약 120퍼센트 증가했습니다. 이러한 성과는 공무원과 지역 주민들이 직접 목수국을 기르고 지난 5년간 정성껏 가꿔온 결과입니다.\n\n황매산의 목수국은 7월 말에 꽃을 피우기 시작해 8월과 9월을 거치며 아름다운 풍경을 만들어냅니다. 특히 10월이 되면 꽃이 짙은 핑크빛으로 변하고 자연스럽게 말라 독특한 질감을 자아냅니다. 이 시기에는 은빛으로 빛나는 억새와 분홍빛 목수국이 조화를 이루어 멋진 장관을 연출합니다.\n\n올해 연말에는 함양과 울산을 잇는 고속도로의 합천호 나들목이 개통될 예정이어서 접근성이 더욱 좋아질 것으로 보입니다. 합천군은 이러한 교통 호재가 오는 17일부터 열리는 황매산 억새축제의 흥행으로 이어지기를 기대하고 있습니다. 군 관계자는 주민들과 함께 가꾼 목수국이 새로운 대표 볼거리가 된 만큼, 많은 이들이 찾아와 특별한 풍경을 즐기기를 바란다고 전했습니다.",
+        "eng": "Hwangmaesan Provincial Park in Hapcheon-gun, Gyeongsangnam-do, has seen a sharp increase in visitors after gaining fame as a summer hydrangea spot. According to Hapcheon-gun, a total of 103,000 visitors came to Hwangmaesan from July to September this year, an increase of about 120 percent compared to the same period last year. This success is the result of public officials and local residents growing hydrangeas themselves and carefully tending to them over the past five years.\n\nHydrangeas on Hwangmaesan begin blooming in late July, creating beautiful scenery through August and September. Especially in October, the flowers turn a deep pink and dry naturally, creating a unique texture. During this season, silver-colored eulalia grass and pink hydrangeas harmonize to create a magnificent view.\n\nAt the end of this year, the Hapcheonho IC on the highway connecting Hamyang and Ulsan is scheduled to open, which is expected to further improve accessibility. Hapcheon-gun expects this transportation favorable factor to lead to the success of the Hwangmaesan Silver Grass Festival starting on the 17th. A county official expressed hope that many people will visit and enjoy the special scenery as the hydrangeas cultivated with residents have become a new representative attraction.",
+        "hu": "A Gyeongsangnam-do tartományban található Hapcheon-gunban lévő Hwangmaesan Tartományi Park látogatóinak száma meredeken emelkedett, miután nyári hortenziahelyként tettek szert hírnévre. Hapcheon-gun adatai szerint idén júliustól szeptemberig összesen 103 000 látogató érkezett Hwangmaesanra, ami mintegy 120 százalékos növekedést jelent az előző év azonos időszakához képest. Ez a siker annak az eredménye, hogy a köztisztviselők és a helyi lakosok maguk termesztették a hortenziákat, és az elmúlt öt évben gondosan gondozták azokat.\n\nA Hwangmaesan hortenziái július végén kezdnek el virágozni, és augusztusban, valamint szeptemberben gyönyörű tájat teremtve nyújtanak látványt. Októberben különösen mély rózsaszínűvé válnak a virágok, és természetes módon megszáradva egyedi textúrát hoznak létre. Ebben az évszakban az ezüstös pampafű és a rózsaszín hortenziák harmóniája csodálatos látványt nyújt.\n\nAz év végén várhatóan megnyílik a Hamyangot és Ulsant összekötő autópálya hapcheoni csomópontja, ami tovább javítja a megközelíthetőséget. Hapcheon-gun reméli, hogy ez a kedvező közlekedési változás hozzájárul a 17-én kezdődő Hwangmaesan Pampafű Fesztivál sikeréhez. A megye egyik tisztségviselője reményét fejezte ki, hogy sokan látogatnak el ide, hogy élvezzék a különleges tájat, mivel a lakosokkal együtt termesztett hortenziák új fő látványossággá váltak."
+      },
+      "vocab": [
+        {
+          "word": "입소문",
+          "meaning_en": "word of mouth",
+          "meaning_hu": "szájhagyomány, híresztelés"
+        },
+        {
+          "word": "육성하다",
+          "meaning_en": "to foster, to raise, to cultivate",
+          "meaning_hu": "nevel, termeszt, felnevel"
+        },
+        {
+          "word": "장관",
+          "meaning_en": "magnificent view, grand spectacle",
+          "meaning_hu": "pazar látvány, csodás panoráma"
+        },
+        {
+          "word": "접근성",
+          "meaning_en": "accessibility",
+          "meaning_hu": "megközelíthetőség"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 살고 있는 지역에는 유명한 계절별 관광지가 있나요?",
+          "eng": "Are there any famous seasonal tourist spots in the area where you live?",
+          "hu": "Van-e híres évszaki turisztikai látványosság abban a térségben, ahol él?"
+        },
+        {
+          "kor": "지자체와 주민들이 협력하여 지역 명소를 만든 이번 사례에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about this case where local governments and residents cooperated to create a local attraction?",
+          "hu": "Mit gondol erről az esetről, amelyben az önkormányzat és a lakosok együttműködve hoztak létre egy helyi nevezetességet?"
+        }
+      ]
+    }
+  ],
   "categories": [
     "Business & Politics",
     "Science & Technology",
