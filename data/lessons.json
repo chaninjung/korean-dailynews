@@ -1,5 +1,859 @@
 {
-  "featured": [],
+  "featured": [
+    {
+      "id": "news-20261001-1",
+      "category": "Business & Politics",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cr86x8eyvyqyo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "비무장지대 지뢰 사고와 한국에 남아 있는 지뢰 이야기",
+        "eng": "DMZ Landmine Accident and the Remaining Landmines in South Korea",
+        "hu": "A DMZ-beli aknaeset és a Dél-Koreában maradt aknák"
+      },
+      "desc": {
+        "kor": "최근 비무장지대에서 지뢰가 폭발하면서 한국에 남아 있는 지뢰의 위험과 종류에 관심이 커지고 있습니다.",
+        "eng": "A recent landmine explosion in the DMZ highlights the dangers and types of remaining landmines in South Korea.",
+        "hu": "A demilitarizált övezetben történt legutóbbi akna-robbanás felhívja a figyelmet a Dél-Koreában maradt aknák veszélyeire."
+      },
+      "article": {
+        "kor": "최근 비무장지대에서 지뢰가 터져서 한국군 장병들이 다치는 사고가 발생했습니다. 이 사고로 군사분계선 주변에 묻혀 있는 지뢰의 위험성이 다시 주목받고 있습니다.\n\n과거 군이 발표한 자료를 보면 한국에는 수십만 발의 지뢰가 묻혀 있는 것으로 추정됩니다. 비무장지대와 민간인통제선뿐만 아니라 후방 지역에도 지뢰가 남아 있습니다.\n\n지뢰는 모양과 크기가 매우 다양합니다. 플라스틱으로 만든 작은 지뢰나 나무 상자로 된 목함지뢰 등은 찾기가 더 어렵습니다.\n\n전문가들은 땅속에 묻힌 지뢰를 완벽하게 찾기에는 여러 가지 한계가 있다고 말합니다. 따라서 지뢰가 있는 지역에서는 계속해서 큰 주의가 필요합니다.",
+        "eng": "Recently, a landmine explosion occurred in the demilitarized zone, injuring South Korean soldiers. This accident has brought renewed attention to the danger of landmines buried around the Military Demarcation Line.\n\nAccording to data released by the military in the past, it is estimated that hundreds of thousands of landmines are buried in South Korea. Landmines remain not only in the DMZ and the Civilian Control Line, but also in rear areas.\n\nLandmines vary greatly in shape and size. Small plastic landmines or wooden box landmines are more difficult to find.\n\nExperts say that there are various limitations in completely finding landmines buried underground. Therefore, great caution is still required in areas with landmines.",
+        "hu": "Nemrég akna-robbanás történt a demilitarizált övezetben, amelyben dél-koreai katonák sebesültek meg. Ez a baleset újra felhívta a figyelmet a katonai demarkációs vonal köré elásott aknák veszélyére.\n\nA katonaság korábbi adatai szerint Dél-Koreában több százezer akna van elásva. Aknák nemcsak a demilitarizált övezetben, hanem a hátországi területeken is találhatók.\n\nAz aknák alakja és mérete nagyon különböző. A műanyagból készült kis aknákat vagy a fabóból készült aknákat nehezebb megtalálni.\n\nSzakértők szerint a föld alatt elásott aknák teljes feltárásának számos korlátja van. Ezért továbbra is nagy óvatosság szükséges az aknákkal terhelt területeken."
+      },
+      "vocab": [
+        {
+          "word": "비무장지대",
+          "meaning_en": "Demilitarized Zone (DMZ)",
+          "meaning_hu": "Demilitarizált övezet"
+        },
+        {
+          "word": "지뢰",
+          "meaning_en": "landmine",
+          "meaning_hu": "taposóakna"
+        },
+        {
+          "word": "폭발하다",
+          "meaning_en": "to explode",
+          "meaning_hu": "felrobbanni"
+        },
+        {
+          "word": "추정하다",
+          "meaning_en": "to estimate",
+          "meaning_hu": "becsülni, feltételezni"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 사는 지역에 지뢰가 있다면 어떤 기분이 들 것 같습니까?",
+          "eng": "How would you feel if there were landmines in the area where you live?",
+          "hu": "Mit éreznél, ha a lakóhelyeden taposóakna lenne?"
+        },
+        {
+          "kor": "위험한 지역의 안전을 지키기 위해서 어떤 노력이 필요할까요?",
+          "eng": "What efforts are needed to protect safety in dangerous areas?",
+          "hu": "Milyen erőfeszítésekre van szükség a veszélyes területek biztonságának megőrzéséhez?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-2",
+      "category": "Business & Politics",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c3grvrgz8p4ko?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "일본, 외국인 거주 및 영주권 수수료 대폭 인상",
+        "eng": "Japan Significantly Raises Fees for Foreign Residents and Permanent Residency",
+        "hu": "Japán jelentősen emeli a külföldi lakosok és a letelepedési engedély díjait"
+      },
+      "desc": {
+        "kor": "일본 정부가 급증하는 외국인 인구를 관리하기 위해 비자와 영주권 신청 수수료를 크게 올린다.",
+        "eng": "The Japanese government is significantly raising visa and permanent residency application fees to manage the rapidly growing foreign population.",
+        "hu": "A japán kormány jelentősen emeli a vízum- és letelepedési kérelmek díjait a gyorsan növekvő külföldi népesség kezelése érdekében."
+      },
+      "article": {
+        "kor": "일본 정부가 오는 10월 1일부터 외국인 거주자와 영주권 신청자에게 부과하는 수수료를 인상한다. 특히 영주권 신청 수수료는 기존보다 20배 올라서 20만 엔에 달할 전망이다. 이번 조치는 급격히 증가하는 외국인 인구를 관리하기 위한 이민정책의 일환이다.\n\n올해 7월에도 일본 정부는 모든 외국인의 비자 수수료를 5배 올린 바 있다. 일본에서 비자 수수료가 인상된 것은 50년 만에 처음이다. 당시 정부는 인플레이션과 환율 변동을 반영하기 위한 것이라고 설명했다.\n\n현재 일본의 외국인 거주자 수는 412만 명을 넘어섰다. 고령화로 인한 노동력 부족으로 외국인 노동자에 대한 의존도가 높아졌지만, 이민 증가에 따른 사회적 불안도 커지고 있다. 새로운 규정에 따라 영주권 신청자들은 높은 소득 기준과 일본어 능력 요건도 충족해야 한다.",
+        "eng": "The Japanese government will raise fees for foreign residents and permanent residency applicants starting October 1. In particular, the permanent residency application fee is expected to rise 20 times to 200,000 yen. This measure is part of immigration policies to manage the rapidly increasing foreign population.\n\nIn July of this year, the Japanese government also raised visa fees for all foreigners by five times. This was the first time in 50 years that Japan increased visa fees. At the time, the government explained that it was to reflect inflation and exchange rate fluctuations.\n\nCurrently, Japan's foreign resident population has exceeded 4.12 million. While dependence on foreign workers has increased due to labor shortages caused by an aging population, social anxiety surrounding the increase in immigration is also growing. Under the new regulations, permanent residency applicants must also meet high income standards and Japanese language proficiency requirements.",
+        "hu": "A japán kormány október 1-jétől emeli a külföldi lakosok és a letelepedési engedélyt kérők díjait. Különösen a letelepedési engedély kérelmi díja emelkedhet a huszadrészére, elérve a 200 000 jent. Ez az intézkedés a gyorsan növekvő külföldi népesség kezelését célzó bevándorlási politika része.\n\nEz év júliusában a japán kormány az összes külföldi vízumdíját is ötszörösére emelte. Ez volt az első alkalom 50 év alatt, hogy Japán emelte a vízumdíjakat. Akkor a kormány azzal magyarázta, hogy ez az infláció és az árfolyam-ingadozások tükrözése.\n\nJelenleg Japán külföldi lakosainak száma meghaladja a 4,12 milliót. Bár az elöregedés okozta munkaerőhiány miatt nőtt a külföldi munkavállalók függősége, a bevándorlás növekedésével kapcsolatos társadalmi aggodalmak is fokozódnak. Az új szabályok értelmében a letelepedési engedélyt kérőknek magas jövedelmi normákat és japán nyelvtudási követelményeket também teljesíteniük kell."
+      },
+      "vocab": [
+        {
+          "word": "수수료",
+          "meaning_en": "fee, commission",
+          "meaning_hu": "kezelési költség, díj"
+        },
+        {
+          "word": "영주권",
+          "meaning_en": "permanent residency",
+          "meaning_hu": "letelepedési engedély"
+        },
+        {
+          "word": "노동력",
+          "meaning_en": "labor force",
+          "meaning_hu": "munkaerő"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "일본 정부가 외국인 거주 수수료를 인상하는 이유는 무엇인가요?",
+          "eng": "Why is the Japanese government increasing the fees for foreign residents?",
+          "hu": "Miért emeli a japán kormány a külföldi lakosok díjait?"
+        },
+        {
+          "kor": "여러분이 살고 있는 국가에서는 외국인 비자나 영주권 제도가 어떻게 운영되고 있나요?",
+          "eng": "How are foreign visa or permanent residency systems operated in the country where you live?",
+          "hu": "Hogyan működnek a külföldi vízum- vagy letelepedési rendszerek abban az országban, ahol él?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-3",
+      "category": "Business & Politics",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cmy0zep471jwo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "'인플루언서 학위'를 위해 대학에 가는 사람들",
+        "eng": "Why people are going to university for an 'influencer degree'",
+        "hu": "Miért járnak az emberek egyetemre az 'influenszer diplomáért'?"
+      },
+      "desc": {
+        "kor": "최근 대학들이 SNS 콘텐츠 제작을 가르치는 전공을 신설하고 있지만, 이에 대한 의견은 엇갈리고 있습니다.",
+        "eng": "Universities are launching degrees in content creation, but opinions on their value remain divided.",
+        "hu": "Az egyetemek tartalmak készítését oktató szakokat indítanak, de a vélemények megoszlanak ezek értékéről."
+      },
+      "article": {
+        "kor": "최근 영국과 미국의 일부 대학에서는 SNS 플랫폼 활용법을 가르치는 '콘텐츠 제작 학위' 과정을 운영하고 있습니다. 학생들이 인스타그램이나 틱톡 같은 매체에서 영상을 제작하고, 시청자층을 확보하며, 수익을 내는 방법을 배우는 것입니다. 실제로 이 과정을 졸업한 데스티니 맥고완은 대학을 통해 실무 기술을 익히고 업계 인맥을 쌓는 데 큰 도움을 받았다고 전했습니다.\n\n그러나 이러한 학위 과정을 바라보는 시선이 모두 긍정적인 것은 아닙니다. 노팅엄 트렌트 대학교나 애리조나 주립대학교 등의 3년제 과정은 연간 수천만 원에 달하는 비용이 듭니다. 영국의 한 전문 크리에이터는 기업들이 실제로 크리에이터를 채용할 때 학위보다는 실제 경력이나 능력을 더 중요하게 본다고 지적했습니다.\n\n또한 인터넷상에는 이미 크리에이터가 되는 법을 알려주는 무료 정보가 많기 때문에 비싼 등록금을 내고 대학에 갈 필요가 없다는 의견도 있습니다. 결국 대학 교육을 통해 체계적인 인맥과 기술을 얻을 수 있다는 장점과, 비용 대비 효율성이 낮다는 비판 속에서 학생들의 선택이 주목받고 있습니다.",
+        "eng": "Some universities in the UK and the US now offer 'content creation degrees' to teach students how to use social media platforms, build audiences, and generate income. Graduates like Destiny McGowan report that these programs help them learn practical skills and build industry networks.\n\nHowever, not everyone views these degree programs positively. Three-year programs at institutions like Nottingham Trent University or Arizona State University cost thousands of dollars annually. A British content creator pointed out that companies generally value practical experience and skills over a university degree.\n\nCritics also argue that expensive tuition is unnecessary since plenty of free advice on becoming a creator is already available online. Ultimately, students must weigh the benefits of structured education and networking against the high costs involved.",
+        "hu": "Az Egyesült Királyságban és az USA-ban néhány egyetem már 'tartalomgyártási diplomát' kínál, hogy megtanítsa a hallgatóknak a közösségi média platformok használatát, a közönségépítést és a bevételszerzést. Az olyan végzettek, mint Destiny McGowan, arról számolnak be, hogy ezek a képzések segítenek a gyakorlati késziségek elsajátításában és az iparági kapcsolatépítésben.\n\nUgyanakkor nem mindenki tekint pozitívan ezekre a képzésekre. Az olyan intézmények, mint a Nottingham Trent Egyetem vagy az Arizona State University hároméves képzései évente több ezer dollárba kerülnek. Egy brit tartalomgyártó rámutatott, hogy a cégek a gyakorlati tapasztalatot és a készségeket többre becsülik egy egyetemi diplománál.\n\nA kritikusok arra is rámutatnak, hogy a drága tandíj felesleges, mivel az interneten máris rengeteg ingyenes tipp érhető el a készítővé váláshoz. Végül a hallgatóknak mérlegelniük kell a strukturált oktatás előnyeit a magas költségekkel szemben."
+      },
+      "vocab": [
+        {
+          "word": "전공",
+          "meaning_en": "major (field of study)",
+          "meaning_hu": "szakirány, fő tantárgy"
+        },
+        {
+          "word": "시청자층",
+          "meaning_en": "audience, viewership",
+          "meaning_hu": "nézőközönség"
+        },
+        {
+          "word": "비용",
+          "meaning_en": "cost, expense",
+          "meaning_hu": "költség"
+        },
+        {
+          "word": "효율성",
+          "meaning_en": "efficiency",
+          "meaning_hu": "hatékonyság"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "돈을 내고 대학에서 인플루언서 교육을 받는 것에 대해 어떻게 생각하십니까?",
+          "eng": "What do you think about paying for a university education to become an influencer?",
+          "hu": "Mit gondol arról, hogy fizetni kell egy egyetemi képzésért, hogy valaki influenszerré váljon?"
+        },
+        {
+          "kor": "여러분이 새로운 직업을 배울 때 대학 학위와 인터넷 무료 정보 중 어떤 것을 더 선호합니까?",
+          "eng": "When learning a new career, do you prefer a university degree or free online information?",
+          "hu": "Új szakma elsajátításakor a egyetemi diplomát vagy az ingyenes online információkat részesíti előnyben?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-4",
+      "category": "Business & Politics",
+      "date": "2026.10.01",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c620l5q7vxl5o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "중국 AI '키미', 안전장치 우회해 생물무기 제조법 답변 논란",
+        "eng": "Chinese AI 'Kimi' bypasses safety guards to answer on biological weapon creation",
+        "hu": "A kínai 'Kimi' AI kijátssza a biztonsági korlátokat a biológiai fegyverek előállításáról"
+      },
+      "desc": {
+        "kor": "중국 인공지능 개발사 문샷의 모델이 '탈옥' 테스트를 통해 생물무기 제조법 등의 민감한 답변을 생성해 논란이 되고 있습니다.",
+        "eng": "Chinese AI developer Moonshot faces scrutiny after its models generated sensitive responses about biological weapons during a jailbreak test.",
+        "hu": "A kínai Moonshot AI fejlesztő modelljei érzékeny válaszokat adtak a biológiai fegyverekről egy jailbreak teszt során."
+      },
+      "article": {
+        "kor": "중국의 인공지능 개발사인 문샷의 인기 모델 '키미'가 복잡한 지시를 통해 안전 제한을 우회하는 이른바 '탈옥' 테스트에서 생물학 무기 제조법 및 암살 실행 방법에 대한 답변을 생성한 사실이 알려졌습니다. AI 보안 전문 스타트업인 마인드가드는 지난 7월 키미의 'K2.6'과 'K3 스웜' 모델을 대상으로 한 테스트에서 이 같은 취약점을 확인했다고 밝혔습니다. 정상적으로 작동했다면 AI 모델은 민감한 주제에 대해 논하지 않도록 차단되었어야 합니다.\n\n마인드가드의 창립자 피터 개러핸은 이러한 탈옥이 가능할 경우 AI 모델이 악의적인 주제에 대해서도 거침없이 창의적이고 독창적인 답변을 내놓을 수 있다고 지적했습니다. 또한 탈옥된 모델을 통해 해커들이 자사의 컴퓨팅 자원에서 코드를 실행하거나 인터넷에 접속함으로써 사이버 공격의 발판으로 악용될 잠재적 위험이 있다고 확신했습니다. 다만 이번 테스트에서 제공된 답변이 실제로 효과가 있는지는 아직 확인되지 않았습니다.\n\n이번 사건은 최근 미국 기업들의 자율 AI 툴이 스스로 온라인 서비스를 해킹하던 기존 사고들과는 다른 종류의 위험을 초래합니다. 탈옥은 많은 시간과 노력이 필요한 과정이지만, 악의적인 행위자들이 이를 악용할 수 있다는 점에서 우려를 낳고 있습니다. 마인드가드는 문샷 측에 이러한 사실을 알렸으나 대응이 지연되었다고 전했으며, 문샷은 자체 평가 결과 자사 모델이 이러한 요청에 높은 거부율을 보였다고 반박했습니다.\n\n이러한 결과는 폐쇄형 독점 모델과 오픈소스 툴 중 어느 쪽이 더 안전한가에 대한 AI 업계의 논쟁이 이어지는 가운데 발표되었습니다. 문샷은 더 안전한 AI 구축을 위한 제3자의 의견을 환영한다고 밝혔으며, 마인드가드는 보안 강화를 위해 세부적인 공격 방식을 공개하지 않은 채 이번 결과를 발표했다고 옹호했습니다.",
+        "eng": "Chinese AI developer Moonshot's 'Kimi' model generated responses on biological weapons and assassination methods during a jailbreak test that bypassed safety limits. AI security startup Mindgard confirmed this vulnerability in July tests on 'K2.6' and 'K3 Swarm' models, which should have blocked sensitive topics. Mindgard founder Peter Garahan warned that such jailbreaks allow AI to generate creative answers for malicious topics, potentially serving as a springboard for cyber attacks. While the practical effectiveness of the generated answers remains unverified, this poses different risks from autonomous AI hacking incidents. Mindgard notified Moonshot, but response delays occurred, while Moonshot stated its models showed high rejection rates overall. This incident emerges amid ongoing industry debates over whether closed proprietary models or open-source tools are safer.",
+        "hu": "A kínai Moonshot AI fejlesztő 'Kimi' modellje biológiai fegyverekről és merényletekről adott válaszokat egy olyan jailbreak teszt során, amely kijátszotta a biztonsági korlátokat. A Mindgard biztonsági startup júliusi tesztek során azonosította a sebezhetőséget a 'K2.6' és 'K3 Swarm' modellekben, amelyeknek blokkolniuk kellett volna az érzékeny témákat. Peter Garahan, a Mindgard alapítója arra figyelmeztetett, hogy az ilyen jailbreak-ek lehetővé teszik az AI számára, hogy rosszindulatú témákra is válaszoljon, ami potenciálisan kibertámadások kiindulópontjává válhat. Bár a válaszok gyakorlati hatékonysága nem bizonyított, ez új kockázatokat jelent az autonóm AI hackelési incidensekhez képest. A Mindgard értesítette a Moonshotot, de a válaszadás késett, míg a Moonshot szerint modelljei magas elutasítási arányt mutattak. Az eset az iparági viták közepette látott napvilágot arról, hogy a zárt vagy a nyílt forráskódú modellek a biztonságosabbak."
+      },
+      "vocab": [
+        {
+          "word": "탈옥",
+          "meaning_en": "jailbreak (AI safety bypass)",
+          "meaning_hu": "jailbreak (biztonsági korlátok kijátszása)"
+        },
+        {
+          "word": "우회하다",
+          "meaning_en": "to bypass",
+          "meaning_hu": "megkerülni, kijátszani"
+        },
+        {
+          "word": "민감하다",
+          "meaning_en": "to be sensitive",
+          "meaning_hu": "érzékeny"
+        },
+        {
+          "word": "악용하다",
+          "meaning_en": "to exploit, to abuse",
+          "meaning_hu": "visszaélni, rossz célra használni"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "AI 모델의 '탈옥' 테스트가 왜 위험하다고 생각하시나요?",
+          "eng": "Why do you think 'jailbreak' tests on AI models are dangerous?",
+          "hu": "Miért gondolja veszélyesnek az AI modellek 'jailbreak' tesztjeit?"
+        },
+        {
+          "kor": "AI 기술이 발전함에 따라 안전장치는 어떤 방식으로 강화되어야 할까요?",
+          "eng": "How should safety guards be strengthened as AI technology advances?",
+          "hu": "Hogyan kellene megerősíteni a biztonsági korlátokat az AI technológia fejlődésével?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-5",
+      "category": "Business & Politics",
+      "date": "2026.10.01",
+      "level": "Advanced",
+      "levelNum": 8,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cw23xjremng8o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "일명 '주유소 헤로인'… 미국 당국이 경계하는 '크라톰'의 실체",
+        "eng": "So-called 'Gas Station Heroin'... What is 'Kratom' that US authorities are warning against?",
+        "hu": "Az úgynevezett 'benzinkutas heroin'... Mi az a 'kratom', amelyre az USA hatóságai figyelmeztetnek?"
+      },
+      "desc": {
+        "kor": "오피오이드와 유사한 효과를 내어 미국에서 인기를 끌고 있는 천연 약초 '크라톰'의 규제 공백과 안전성 논란을 다룬 기사입니다.",
+        "eng": "An article covering the regulatory vacuum and safety controversies surrounding 'Kratom', a natural herb gaining popularity in the US for its opioid-like effects.",
+        "hu": "Egy cikk a 'kratom' nevű természetes növénnyel kapcsolatos szabályozási hiányosságokról és biztonsági vitákról, amely opioid-szerű hatásai miatt vált népszerűvé az USA-ban."
+      },
+      "article": {
+        "kor": "미국 워싱턴주에 거주하는 제프리 디버(58)는 만성 고관절 및 무릎 통증을 완화하기 위해 지난 4년 동안 천연 약초 제품인 '크라톰'을 복용해 왔다. 병원 치료로도 통증이 가라앉지 않아 수술을 기다리던 중 이 제품을 접하게 된 그는, 소량으로 시작해 복용량을 늘려가며 통증 완화 효과를 경험했다고 밝혔다. 오피오이드와 유사한 효과를 내는 크라톰은 지난 10년 동안 미국에서 처방전 없이 구입 가능한 알약이나 액체 형태로 점차 인기를 얻고 있다.\n\n그러나 최근 수사당국이 대학생 사망 사건을 조사하던 중 소지품에서 크라톰을 발견하면서 우려의 목소리가 커지고 있다. 수년 동안 반대론자들은 이 약물의 금지를 주장해 왔으나, 미국 식품의약국(FDA)의 규제 대상에서 제외되어 있으며 일부 주에서는 합법적으로 유통되고 있다. 동남아시아가 원산지인 크라톰은 전통적으로 잎을 갈아 차처럼 마셨으나, 2016년경부터 건강보조식품 형태로 미국 시장에 대거 유입되었다.\n\n전문가들은 미국에서 판매되는 크라톰이 주로 고농축 알약, 분말, 액체 형태로 유통되며 편의점과 주유소 등에서 쉽게 구할 수 있다는 점을 지적한다. 건강보조식품으로 분류되어 연방 정부의 엄격한 규제를 받지 않기 때문에 소비자가 섭취하는 제품의 정확한 성분을 파악하기 어렵다는 비판이 제기된다. 일부에서는 통증 관리와 오피오이드 중독 억제 목적으로 복용하지만, 주성분인 7-하이드록시미트라지닌(7-OH) 등이 체내 호르몬 작용에 영향을 미치므로 보건 당국의 경계 대상이 되고 있다.",
+        "eng": "Jeffrey Deaver, a 58-year-old retired logger living in Washington State, has been taking the natural herbal product 'Kratom' for the past four years to alleviate chronic hip and knee pain. Having turned to the product while waiting for surgery after hospital treatments failed to subside his pain, he stated that he experienced pain relief by starting with small doses and gradually increasing them. Emitting effects similar to opioids, Kratom has steadily gained popularity in the US over the past decade in pill or liquid forms available without a prescription.\n\nHowever, concerns are growing as investigative authorities recently discovered Kratom in the belongings of college students while investigating a death case. For years, opponents have argued for the ban of this substance, but it remains exempt from regulation by the US Food and Drug Administration (FDA) and is legally distributed in some states. Originally from Southeast Asia, Kratom leaves were traditionally ground and consumed as tea, but it entered the US market en masse around 2016 as a dietary supplement.\n\nExperts point out that Kratom sold in the US is primarily distributed in high-concentration pills, powders, and liquids, easily obtainable at convenience stores and gas stations. Criticisms have been raised that because it is classified as a dietary supplement and thus not subject to strict federal regulations, it is difficult for consumers to ascertain the exact ingredients of the products they ingest. While some take it for pain management and to curb opioid addiction, it remains a target of vigilance for health authorities as its main active components, such as 7-hydroxymitragynine (7-OH), affect bodily hormone functions.",
+        "hu": "Jeffrey Deaver, egy 58 éves nyugodtan élő fatevő a washingtoni államban, az elmúlt négy évben a 'kratom' nevű természetes gyógynövényterméket szedte krónikus csípő- és térdfájdalmainak enyhítésére. Miután a kórházi kezelések nem csillapították a fájdalmát, és műtétre várt, így talált rá a termékre, és kis adagokkal kezdve, majd az adagot növelve tapasztalta meg a fájdalomcsillapító hatást. Az opioidokhoz hasonló hatást kiváltó kratom az elmúlt évtizedben egyre népszerűbbé vált az Egyesült Államokban vény nélkül kapható tabletta vagy folyékony formában.\n\nAzonban aggodalmak merültek fel, miután a nyomozó hatóságok egy egyetemista halálesetének vizsgálata során kratomot találtak a holmik között. Az ellenzők évek óta a szer betiltását követelik, de az továbbra is mentesül az Egyesült Államok Élelmiszer- és Gyógyszerengedélyeztetési Hivatala (FDA) szabályozása alól, és egyes államokban legálisan forgalmazzák. A Délkelet-Ázsiából származó kratomot hagyományosan teaként fogyasztották a levelek őrlésével, de 2016 körül étrend-kiegészítő formájában tömegesen megjelent az amerikai piacon.\n\nSzakértők rámutatnak, hogy az USA-ban értékesített kratom főként nagy koncentrációjú tabletták, porok és folyadékok formájában kerül forgalomba, és könnyen beszerezhető a vegyesboltokban és benzinkutakon. Mivel étrend-kiegészítőként van besorolva, és így nem tartozik szigorú szövetségi szabályozás alá, kritikák érjék amiatt, hogy a fogyasztók nehezen tudják megállapítani a bevitt termékek pontos összetevőit. Bár egyesek fájdalomkezelés és az opioidfüggőség megfékezése céljából szedik, a fő hatóanyagok, például a 7-hidroximitraginin (7-OH), befolyásolják a szervezet hormonális működését, ezért az egészségügyi hatóságok fokozott figyelmét élvezik."
+      },
+      "vocab": [
+        {
+          "word": "만성",
+          "meaning_en": "chronic",
+          "meaning_hu": "krónikus"
+        },
+        {
+          "word": "오피오이드",
+          "meaning_en": "opioid",
+          "meaning_hu": "opioid"
+        },
+        {
+          "word": "규제 공백",
+          "meaning_en": "regulatory vacuum",
+          "meaning_hu": "szabályozási vákuum"
+        },
+        {
+          "word": "건강보조식품",
+          "meaning_en": "dietary supplement",
+          "meaning_hu": "étrend-kiegészítő"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "미국에서 크라톰이 쉽게 유통되고 논란이 되는 이유는 무엇인가요?",
+          "eng": "Why is Kratom easily distributed and controversial in the US?",
+          "hu": "Miért terjed el olyan könnyen a kratom az USA-ban, és miért vált vitatottá?"
+        },
+        {
+          "kor": "약초나 건강보조식품이라는 이유로 정부의 규제를 받지 않는 제품에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about products that escape government regulation simply because they are labeled as herbs or dietary supplements?",
+          "hu": "Mit gondol azokról a termékekről, amelyek azért kerülik el a kormányzati szabályozást, mert gyógynövényként vagy étrend-kiegészítőként vannak címkézve?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-6",
+      "category": "Science & Technology",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c5rm9ymmkrz4o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "미국 코넬 대학교 집단 성폭행 의혹 사건 재수사",
+        "eng": "US Prosecutors Reopen Investigation into Alleged Cornell University Gang Rape",
+        "hu": "Az amerikai ügyészség újranyomozást indít a cornelli egyetemi csoportos erőszak vádja ügyében"
+      },
+      "desc": {
+        "kor": "미국 뉴욕주 검찰이 코넬 대학교에서 발생한 집단 성폭행 의혹에 대해 다시 수사하기로 했습니다.",
+        "eng": "New York prosecutors have announced they will reopen a criminal investigation into alleged gang rape at Cornell University.",
+        "hu": "A New York-i ügyészség bejelentette, hogy újranyomozást indít a cornelli egyetemen történt csoportos erőszak gyanúja miatt."
+      },
+      "article": {
+        "kor": "미국 뉴욕주 검찰이 코넬 대학교의 집단 성폭행 의혹에 대해 형사 수사를 다시 시작하겠다고 밝혔습니다. 이번 사건은 최근 한 여성이 2024년에 대학 내 남학생 사교클럽에서 약물을 투여받고 성폭행을 당했다고 민사 소송을 제기하면서 다시 주목을 받았습니다.\n\n검찰은 대배심 절차를 통해 이 사건을 공정하게 조사할 것이라고 전했습니다. 하지만 당시 피해 여성의 처음 경찰 진술과 최근 소송의 내용이 서로 달라서 검찰이 추가 자료를 요청하며 자세히 살펴보고 있습니다.\n\n대학교 측은 사건을 다시 조사하는 것은 지지하지만 당시 학생들을 처벌하지 않았다는 주장은 사실이 아니라고 강조했습니다. 피해자 변호인 측은 피해 당시 여성이 큰 충격을 받아 정확하게 이야기하기 어려운 상태였다고 설명했습니다.",
+        "eng": "New York prosecutors in the US have announced they will resume a criminal investigation into alleged gang rape at Cornell University. This case drew attention again recently when a woman filed a civil lawsuit claiming she was drugged and sexually assaulted at a male fraternity house on campus in 2024.\n\n Prosecutors stated that they will investigate the case fairly through a grand jury procedure. However, because the victim's initial police statement and her recent lawsuit differ, prosecutors have requested additional materials to examine the case closely.\n\n The university stated that it supports reviewing the case through a grand jury, but emphasized that claims of failing to punish people at the time are not true. The victim's attorney explained that the woman was in a state of severe trauma and unable to speak accurately right after the incident.",
+        "hu": "Az egyesült államokbeli New York állam ügyészsége bejelentette, hogy újrakezdi a büntetőeljárást a cornelli egyetemen történt csoportos erőszak ügyében. Az eset azután került ismét a figyelem középpontjába, hogy egy nő polgári peres eljárást indított, mert állítása szerint 2024-ben egy egyetemi fiúklubban kábítószert adtak be neki, és megerőszakolták.\n\nAz ügyészség közölte, hogy esküdtszéki eljáráson keresztül, tisztességesen fogja kivizsgálni az esetet. Mivel azonban az áldozat kezdeti rendőrségi vallomása és a legutóbbi periratok tartalma eltér egymástól, az ügyészség további dokumentumokat kért a részletes vizsgálathoz.\n\nAz egyetem támogatja az ügy esküdtszék elé terjesztését, de hangsúlyozta, hogy nem igaz az az állítás, mintha akkoriban nem büntették volna meg a felelősöket. Az áldozat jogi képviselője el magyarázta, hogy a nő a bűncselekmény utáni napokban olyan súlyos sokkban volt, hogy nem tudott tisztán beszélni a történtekről."
+      },
+      "vocab": [
+        {
+          "word": "성폭행",
+          "meaning_en": "sexual assault",
+          "meaning_hu": "szexuális erőszak"
+        },
+        {
+          "word": "소송",
+          "meaning_en": "lawsuit",
+          "meaning_hu": "per, peres eljárás"
+        },
+        {
+          "word": "진술",
+          "meaning_en": "statement",
+          "meaning_hu": "vallomás, nyilatkozat"
+        },
+        {
+          "word": "충격",
+          "meaning_en": "shock, trauma",
+          "meaning_hu": "sokk, trauma"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "검찰이 이 사건을 다시 수사하게 된 이유는 무엇인가요?",
+          "eng": "Why did prosecutors decide to reopen the investigation into this case?",
+          "hu": "Miért döntött úgy az ügyészség, hogy újranyitja a nyomozást ebben az ügyben?"
+        },
+        {
+          "kor": "피해자 변호인 측은 초기 경찰 진술과 최근 소송 내용이 다른 이유를 무엇이라고 설명했나요?",
+          "eng": "How did the victim's attorney explain the difference between the initial police statement and the recent lawsuit?",
+          "hu": "Hogyan magyarázta az áldozat ügyvédje a kezdeti rendőrségi vallomás és a legutóbbi perirat közötti eltérést?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-7",
+      "category": "Science & Technology",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/ck1l638vd288o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "'불안한' 중국 Z세대, 한 대학교수에 열광하는 이유는?",
+        "eng": "Why 'Anxious' Chinese Gen Z is Enthusiastic About a University Professor",
+        "hu": "Miért rajong a 'szorongó' kínai Z generáció egy egyetemi professzorért?"
+      },
+      "desc": {
+        "kor": "중국의 54세 인류학자 샹 바오 교수가 불안에 시달리는 중국 청년들에게 큰 인기를 얻고 있다.",
+        "eng": "54-year-old Chinese anthropologist Professor Xiang Biao has gained huge popularity among anxious Chinese youth.",
+        "hu": "Xiang Biao 54 éves kínai antropológus hatalmas népszerűségre tett szert a szorongó kínai fiatalok körében."
+      },
+      "article": {
+        "kor": "중국에 사는 청년들이 54세 인류학자인 샹 바오 교수에 열광하고 있다. 샹 교수는 가수나 영화배우가 아니지만, 청년들 사이에서는 아이돌처럼 인기가 많다.\n\n중국의 경제와 기술은 빠르게 발전했지만, Z세대는 취업과 결혼 등 여러 문제로 큰 불안감에 시달린다. 샹 교수는 이러한 청년들의 불안과 고민을 다루며 이들을 위로한다. 그는 청년들이 사회의 기준에서 벗어나 자신을 이해하는 것이 중요하다고 강조한다.\n\n중국에서는 청년들의 불만이 민감한 문제로 다뤄지지만, 샹 교수는 시대의 아픈 부분을 솔직하게 이야기한다. 그는 학자로서 사회의 모순을 분석하고 청년들에게 도움을 주려고 노력한다.",
+        "eng": "Young people living in China are enthusiastic about 54-year-old anthropologist Professor Xiang Biao. Although Professor Xiang is not a singer or movie star, he is as popular as an idol among young people.\n\nAlthough China's economy and technology have developed rapidly, Gen Z suffers from great anxiety due to various problems such as employment and marriage. Professor Xiang comforts them by dealing with these young people's anxieties and worries. He emphasizes that it is important for young people to understand themselves away from social standards.\n\nIn China, the complaints of young people are treated as a sensitive issue, but Professor Xiang speaks honestly about the painful parts of the times. As a scholar, he strives to analyze the contradictions of society and help young people.",
+        "hu": "A Kínában élő fiatalok rajonganak a 54 éves antropológusért, Xiang Biao professzorért. Bár Xiang professzor nem énekes vagy mozisztár, a fiatalok körében olyan népszerű, mint egy bálvány.\n\nBár Kína gazdasága és technológiája gyorsan fejlődött, a Z generáció nagy szorongástól szenved olyan különböző problémák miatt, mint a foglalkoztatás és a házasság. Xiang professzor azzal vigasztalja őket, hogy foglalkozik ezen fiatalok szorongásaival és aggodalmaival. Hangsúlyozza, hogy fontos a fiatalok számára, hogy megértsék önmagukat a társadalmi normáktól távol.\n\nKínában a fiatalok panaszait érzékeny ügyként kezelik, de Xiang professzor őszintén beszél a kor fájdalmas pontjairól. Tudósként arra törekszik, hogy elemezze a társadalom ellentmondásait, és segítsen a fiataloknak."
+      },
+      "vocab": [
+        {
+          "word": "인류학자",
+          "meaning_en": "anthropologist",
+          "meaning_hu": "antropológus"
+        },
+        {
+          "word": "불안감",
+          "meaning_en": "anxiety",
+          "meaning_hu": "szorongás"
+        },
+        {
+          "word": "모순",
+          "meaning_en": "contradiction",
+          "meaning_hu": "ellentmondás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "왜 중국의 청년들이 샹 바오 교수를 좋아합니까?",
+          "eng": "Why do Chinese youth like Professor Xiang Biao?",
+          "hu": "Miért szeretik a kínai fiatalok Xiang Biao professzort?"
+        },
+        {
+          "kor": "여러분이 불안할 때 누구에게 조언을 구합니까?",
+          "eng": "Who do you ask for advice when you feel anxious?",
+          "hu": "Kitől kér tanácsot, amikor szorong?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-8",
+      "category": "Science & Technology",
+      "date": "2026.10.01",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c8p30g4g70q3o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "'고양이 눈'에서 영감을 얻은 미래 로봇용 카메라 기술",
+        "eng": "Future Robot Camera Technology Inspired by 'Cat's Eyes'",
+        "hu": "A „macskaszemek” ihlette jövőbeli robotkamerák technológiája"
+      },
+      "desc": {
+        "kor": "고양이 눈의 구조를 연구하여 로봇과 자율주행차에 쓰일 첨단 카메라 기술을 개발하고 있습니다.",
+        "eng": "Researchers are developing advanced camera technology for robots and autonomous vehicles by studying the structure of cat eyes.",
+        "hu": "Kutatók fejlett kameratechnológiát fejlesztenek robotok és önvezető autók számára a macskaszemek szerkezetének tanulmányozásával."
+      },
+      "article": {
+        "kor": "1933년 퍼시 쇼는 어두운 밤에 도로에서 빛나는 고양이의 눈을 보고 목숨을 건졌습니다. 이 우연한 경험 덕분에 그는 밤에도 빛나는 도로 반사체인 '캣츠 아이'를 발명했습니다. 오늘날 전 세계 도로에서 널리 쓰이는 이 발명품은 고양이 눈의 반사 현상에서 영감을 받았습니다.\n\n실제 고양이의 눈은 망막 뒤쪽에 '휘판'이라는 특별한 반사층을 가지고 있습니다. 휘판은 거울처럼 작용하여 어두운 곳에서도 빛을 다시 모아줍니다. 덕분에 고양이는 밤에도 시야를 확보하고 사냥할 수 있으며, 개나 말 같은 다른 동물들에게도 이 구조가 있습니다.\n\n최근 공학자들은 이러한 고양이 눈의 구조를 로봇, 드론, 자율주행차에 적용하고 있습니다. 한국과학기술원(KAIST)의 연구팀을 비롯한 전문가들은 복잡한 환경과 다양한 조명 속에서도 물체를 잘 인식할 수 있는 첨단 카메라를 개발하고 있습니다.",
+        "eng": "In 1933, Percy Shaw saved his life after seeing a cat's eyes shining on a dark road. Thanks to this accidental experience, he invented the 'cat's eye', a road reflector that shines at night. Widely used on roads around the world today, this invention was inspired by the reflective phenomenon of cat eyes.\n\nIn reality, a cat's eye has a special reflective layer called the 'tapetum lucidum' behind the retina. Acting like a mirror, it gathers light again even in the dark. Thanks to this, cats can secure vision and hunt at night, and other animals like dogs and horses also have this structure.\n\nRecently, engineers have been applying this cat eye structure to robots, drones, and autonomous vehicles. Experts, including a research team at the Korea Advanced Institute of Science and Technology (KAIST), are developing advanced cameras that can well recognize objects even in complex environments and various lighting conditions.",
+        "hu": "1933-ban Percy Shaw megmentette az életét, miután meglátta egy macska szemét egy sötét úton. E véletlen élménynek köszönhetően feltalálta a „macskaszemet”, egy éjszaka csillogó út-visszaverőt. A ma a világ útjain széles körben használt találatot a macskaszemek fényvisszaverő jelensége ihlette.\n\nA valóságban a macska szemének a retina mögött egy speciális fényvisszaverő rétege van, amelyet „tapetum lucidum”-nak neveznek. Mint egy tükör, ez sötétben is újra összegyűjti a fényt. Ennek köszönhetően a macskák éjszaka is látnak és vadászhatnak, és más állatok, például kutyák és lovak is rendelkeznek ezzel a szerkezettel.\n\nA mérnökök a közelmúltban ezt a macskaszem-szerkezetet alkalmazzák robotokban, drónokban és önvezető autókban. Szakértők, beleértve a Koreai Tudományos és Technológiai Intézet (KAIST) kutatócsoportját is, olyan fejlett kamerákat fejlesztenek, amelyek összetett környezetben és különböző fényviszonyok között is jól felismerik a tárgyakat."
+      },
+      "vocab": [
+        {
+          "word": "반사체",
+          "meaning_en": "reflector",
+          "meaning_hu": "fényvisszaverő"
+        },
+        {
+          "word": "구조",
+          "meaning_en": "structure",
+          "meaning_hu": "szerkezet"
+        },
+        {
+          "word": "시야",
+          "meaning_en": "field of vision",
+          "meaning_hu": "látómező"
+        },
+        {
+          "word": "자율주행차",
+          "meaning_en": "autonomous vehicle",
+          "meaning_hu": "önvezető autó"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "고양이 눈의 '휘판'은 어떤 역할을 합니까?",
+          "eng": "What role does the 'tapetum lucidum' in a cat's eye play?",
+          "hu": "Milyen szerepet játszik a macska szemében lévő „tapetum lucidum”?"
+        },
+        {
+          "kor": "자연의 동물에게서 영감을 받은 다른 발명품을 알고 있나요?",
+          "eng": "Do you know of any other inventions inspired by animals in nature?",
+          "hu": "Ismer más olyan találmányt, amelyet a természetben élő állatok ihlettek?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-9",
+      "category": "Business & Politics",
+      "date": "2026.10.01",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cqdr78k65032o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "스위스 '중립성 강화' 국민투표 무산… 유권자 약 70% 반대",
+        "eng": "Switzerland Rejects 'Strengthened Neutrality' Referendum with About 70% Voting Against",
+        "hu": "Svájc elutasította a 'megerősített semlegesség' népszavazást, a szavazók mintegy 70%-a nemmel szavazott"
+      },
+      "desc": {
+        "kor": "스위스에서 외교적 중립을 더 엄격하게 적용하자는 국민투표가 유권자들의 압도적인 반대로 부결되었습니다.",
+        "eng": "A referendum in Switzerland proposing stricter application of diplomatic neutrality has been overwhelmingly rejected by voters.",
+        "hu": "Svájcban elsöprő többséggel elutasították azt a népszavazást, amely szigorúbb diplomáciai semlegességet javasolt."
+      },
+      "article": {
+        "kor": "스위스 유권자들이 자국의 외교적 중립 전통을 더 엄격하게 해석하자는 내용의 발의안을 압도적인 표차로 거부했습니다. 공식 결과에 따르면, 이른바 '중립성 강화' 국민투표에서 유권자의 약 70%가 유엔 승인 없는 독자적 제재 금지 등의 조항에 반대표를 던졌습니다. 이번 투표는 수 세기 동안 이어져 온 스위스의 비동맹 정책이 러시아의 우크라이나 침공 이후 직면한 현실적 외교 과제를 보여줍니다.\n\n우파 성향의 국민당이 지지한 이번 발의안은 통과될 경우 북대서양조약기구와의 긴밀한 협력을 제한하고 러시아에 대한 제재 동참을 어렵게 만들 수 있었습니다. 그러나 스위스 연방 정부와 주요 정당들은 물론 유권자들 대다수는 이를 반대했습니다. 전문가들은 이번 결과가 스위스가 중립을 포기했다는 의미가 아니라, 오히려 국제사회의 대러 제재를 지지하며 자국 중립성의 유연한 역할을 인정하고 있음을 보여준다고 분석했습니다.\n\n이냐치오 카시스 스위스 외무장관은 중립성이 어느 정도의 유연성과 함께 적용되어 왔음을 강조하며, 중립적이라는 것이 국제 규범 위반에 대한 무관심을 뜻하지는 않는다고 설명했습니다. 스위스는 1815년 빈 회의와 1907년 헤이그 협약을 통해 영구 중립국으로 인정받았으며, 전쟁 중인 국가에 대한 무기 수출 금지 등의 원칙을 유지해 왔습니다.\n\n직접 민주주의 체제를 채택하고 있는 스위스에서는 주요 정치적 사안이 국민투표를 통해 결정됩니다. 과거 제2차 세계대전 당시 중립 유지 과정에서 발생했던 역사적 과오에 대한 반성 속에서도, 오늘날 스위스 국민들은 국제 규범이 위반되는 상황에서 외면하지 않는 현실적인 중립의 가치를 선택하고 있습니다.",
+        "eng": "Swiss voters have overwhelmingly rejected a ballot measure aimed at strictly interpreting the country's traditional diplomatic neutrality. According to official results, about 70 percent of voters cast 'no' votes in the 'strengthened neutrality' referendum, which sought to ban sanctions without UN approval. This debate highlights the diplomatic challenges facing Switzerland's centuries-old non-alignment policy following Russia's invasion of Ukraine.\n\nBacked by the right-wing Swiss People's Party, the initiative could have limited cooperation with NATO and hindered sanctions against Russia if passed. However, the federal government, major parties, and the majority of voters opposed it. Experts analyze that the result does not mean Switzerland rejects neutrality itself, but rather shows support for international sanctions against Russia and a flexible role for its neutrality.\n\nSwiss Foreign Minister Ignazio Cassis emphasized that neutrality has always been applied with a degree of flexibility, stating that being neutral does not mean being indifferent to violations of international norms. Switzerland was recognized as a permanent neutral state through the 1815 Congress of Vienna and the 1907 Hague Conventions, maintaining principles such as a ban on arms exports to countries at war.\n\nIn Switzerland's direct democracy system, major political decisions are frequently decided by referendums. Amid reflections on historical controversies during World War II, Swiss citizens today are choosing a realistic value of neutrality that does not turn a blind eye when international norms are violated.",
+        "hu": "A svájci szavazók elsöprő többséggel elutasították azt a népszavazási javaslatot, amely az ország hagyományos diplomáciai semlegességének szigorúbb értelmezését célozta. A hivatalos eredmények szerint a szavazók mintegy 70 százaléka nemmel szavazott a 'megerősített semlegesség' népszavazáson, amely tilտotta volna az ENSZ jóváhagyása nélküli szankciókat. Ez a vita rávilágít azokra a diplomáciai kihívásokra, amelyekkel Svájc évszázados el nem kötelezettségi politikája szembesül Oroszország ukrajnai inváziója óta.\n\nA jobboldali Svájci Néppárt által támogatott kezdeményezés – ha elfogadják – korlátozhatta volna a NATO-val való együttműködést és megakadályozhatta volna az Oroszország elleni szankciókat. A szövetségi kormány, a főbb pártok és a szavazók többsége azonban ellenezte ezt. A szakértők szerint az eredmény nem azt jelenti, hogy Svájc elutasítja a semlegességet, hanem azt mutatja, hogy támogatják Oroszország büntetését és a semlegesség rugalmas szerepét.\n\nIgnazio Cassis svájci külügyminiszter hangsúlyozta, hogy a semlegességet mindig bizonyos rugalmassággal alkalmazták, és a semlegesség nem jelenti azt, hogy közömbösek a nemzetközi normák megsértésével szemben. Svájc az 1815-ös bécsi kongresszuson és az 1907-es hágai egyezményeken keresztül vált elismert állandó semleges országgá, fenntartva a háborúban álló országokba irányuló fegyverkivitel tilalmát.\n\nA közvetlen demokrácia rendszerében Svájcban a fontos politikai döntéseket gyakran népszavazással hozzák meg. A második világháború alatti történelmi viták fényében a svájci polgárok ma a semlegesség olyan reális értékét választják, amely nem huny szemet a nemzetközi normák megsértése felett."
+      },
+      "vocab": [
+        {
+          "word": "국민투표",
+          "meaning_en": "referendum",
+          "meaning_hu": "népszavazás"
+        },
+        {
+          "word": "중립국",
+          "meaning_en": "neutral country",
+          "meaning_hu": "semleges ország"
+        },
+        {
+          "word": "비동맹",
+          "meaning_en": "non-alignment",
+          "meaning_hu": "el nem kötelezettség"
+        },
+        {
+          "word": "제재",
+          "meaning_en": "sanction",
+          "meaning_hu": "szankció"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "스위스 유권자들이 '중립성 강화' 발의안에 반대한 이유는 무엇이라고 생각하십니까?",
+          "eng": "What do you think is the reason why Swiss voters opposed the 'strengthened neutrality' ballot measure?",
+          "hu": "Mi a véleménye arról, miért ellenezték a svájci szavazók a 'megerősített semlegesség' javaslatot?"
+        },
+        {
+          "kor": "국제 사회의 분쟁 속에서 국가의 '중립성'이 가져야 할 유연성은 어느 정도여야 할까요?",
+          "eng": "To what extent should a country's 'neutrality' have flexibility amid international conflicts?",
+          "hu": "Milyen mértékű rugalmassággal kell rendelkeznie egy ország 'semlegességének' a nemzetközi konfliktusok közepette?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-10",
+      "category": "Science & Technology",
+      "date": "2026.10.01",
+      "level": "Advanced",
+      "levelNum": 8,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c914dd30gddeo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "2026 세계 최고의 이코노미 항공사 상위 5곳의 차별화 전략",
+        "eng": "Strategies Differentiating the Top 5 Economy Airlines of 2026",
+        "hu": "A 2026-os év 5 legjobb turistaosztályú légitársaságának megkülönböztető stratégiái"
+      },
+      "desc": {
+        "kor": "스카이트랙스가 선정한 2026년 세계 최고의 이코노미 클래스 항공사들의 특징과 서비스 요소를 분석합니다.",
+        "eng": "An analysis of the features and service elements of the world's best economy class airlines for 2026 selected by Skytrax.",
+        "hu": "A Skytrax által 2026-ra a világ legjobb turistaosztályú légitársaságainak választott cégek jellemzőinek és szolgáltatási elemeinek elemzése."
+      },
+      "article": {
+        "kor": "더 넓은 좌석과 여유로운 다리 공간부터 우수한 기내식과 서비스까지, 스카이트랙스가 선정한 상위 5개 이코노미 항공사는 장거리 비행에서 확연히 다른 경험을 제공합니다. 2026년 스카이트랙스 세계 항공사 어워드에서 싱가포르 항공이 세계 최고의 이코노미 클래스 항공사로 선정되었으며, 그 뒤를 캐세이퍼시픽 항공, 카타르 항공, 에바 항공, 아나 항공이 이었습니다. 이 상은 공항 및 기내 경험 전반에 대한 승객들의 연례 만족도 조사를 기반으로 합니다.\n\n여행 전문 웹사이트 설립자 게리 레프는 이코노미석에서는 몇 인치의 차이와 작은 배려가 중요하다고 강조합니다. 공간은 항공기에서 가장 비용이 많이 드는 자원이지만, 일부 항공사는 더 넓은 좌석과 세심한 관심을 제공합니다. 싱가포르 항공의 가장 두드러진 강점 중 하나는 단순하지만 효과적인 더 넓은 좌석 배치입니다. 이 항공사의 보잉 777-300ER 기종은 많은 항공사가 10열로 배치하는 것과 달리 9열로 구성되어 승객 한 명당 더 많은 좌석 폭을 제공합니다.\n\n또한 싱가포르 항공은 기내식 부문에서도 1위를 기록했으며, 조절 가능한 머리받침대와 크리스월드 엔터테인먼트 시스템 등을 통해 완성형 패키지를 구축했습니다. 발 받침대와 전용 컵 홀더 같은 작은 디자인 요소는 식사나 전자기기 사용 시 트레이 테이블 공간을 더 확보할 수 있게 돕습니다. 2위를 차지한 캐세이퍼시픽 항공은 좌석, 기내식, 엔터테인먼트 부문에서 고르게 상위권을 기록했으며, 최고의 객실 승무원 항공사로 선정되었습니다.\n\n전문가들은 화장실 관리나 4K 화면, 블루투스 오디오, 향상된 수납공간 같은 기술 투자가 장거리 비행의 질을 크게 좌우한다고 분석합니다. 종합 순위 3위를 차지한 카타르 항공의 경우 공간적 우위보다는 연결성에 집중하여 강점을 보였습니다. 이 항공사는 스타링크 와이파이 서비스를 광동체 항공기 전반에 확대 적용하여 이코노미 승객에게 빠른 인터넷 검색과 스트리밍 환경을 제공하고 있습니다.",
+        "eng": "From wider seats and generous legroom to superior meals and service, the top five economy airlines selected by Skytrax offer a distinctly different experience on long-haul flights. In the 2026 Skytrax World Airline Awards, Singapore Airlines was named the world's best economy class airline, followed by Cathay Pacific, Qatar Airways, EVA Air, and ANA All Nippon Airways. This award is based on an annual passenger satisfaction survey evaluating overall airport and inflight experiences.\n\nGary Leff, founder of the travel website View from the Wing, emphasizes that in economy class, a difference of a few inches and small considerations matter significantly. While space is the most expensive resource on an aircraft, some airlines provide wider seats and greater attention to detail. One of Singapore Airlines' most prominent strengths is its simple yet effective wider seating arrangement. Its Boeing 777-300ER aircraft are configured with nine seats per row in a 3-3-3 layout, unlike many airlines that squeeze in ten, providing more seat width per passenger.\n\nFurthermore, Singapore Airlines ranked first in the economy catering category and has built a complete package featuring adjustable headrests and the KrisWorld entertainment system. Small design elements such as footrests and dedicated cup holders help secure more tray table space during meals or device usage. Cathay Pacific, which secured second place, ranked consistently high across seat, catering, and entertainment categories and was named the world's best cabin crew airline.\n\nExperts analyze that technological investments, such as meticulous lavatory maintenance, 4K screens, Bluetooth audio, and enhanced storage space, heavily dictate the quality of long-haul travel. Qatar Airways, which ranked third overall, showed its strength by focusing on connectivity rather than spatial superiority. The airline is expanding Starlink Wi-Fi service across its widebody fleet, providing economy passengers with fast internet browsing and streaming environments.",
+        "hu": "A szélesebb ülésektől és a bőséges lábtértől a kiváló ételekig és szolgáltatásokig a Skytrax által kiválasztott öt legjobb turistaosztályú légitársaság markánsan eltérő élményt nyújt a hosszú távú járatokon. A 2026-os Skytrax World Airline Awards díjkiosztón a Singapore Airlines-t választották a világ legjobb turistaosztályú légitársaságának, amelyet a Cathay Pacific, a Qatar Airways, az EVA Air és az ANA All Nippon Airways követett. Ez a díj az utasok általános repülőtéri és fedélzeti élményeit értékelő éves elégedettségi felmérésen alapul.\n\nGary Leff, a View from the Wing utazási weboldal alapítója hangsúlyozza, hogy a turistaosztályon néhány hüvelyknyi különbség és a apró figyelmességek jelentősek. Bár a hely a legdrágább erőforrás egy repülőgépen, bizonyos légitársaságok szélesebb üléseket és nagyobb figyelmet biztosítanak. A Singapore Airlines egyik legszembetűnőbb erőssége az egyszerű, de hatékony, szélesebb üléselrendezés. Boeing 777-300ER gépeik 3-3-3 elrendezésben kilenc ülést tartalmaznak soronként, szemben a tíz ülést alkalmazó társaságokkal, így nagyobb ülásszélességet biztosítva utasonként.\n\nEmellett a Singapore Airlines az első helyen végzett a fedélzeti étkezés kategóriájában is, és állítható fejtámlákkal valamint a KrisWorld szórakoztató rendszerrel teljes körű csomagot hozott létre. Az olyan apró dizájnelemek, mint a lábtámaszok és a dedikált pohártartók, nagyobb tálcaasztal-helyet biztosítanak étkezés vagy eszközhasználat közben. A második helyet szerző Cathay Pacific konzisztensen magas helyezéseket ért el az ülés, az étkezés és a szórakoztatás kategóriákban, és elnyerte a világ legjobb légiutas-kísérő személyzetével rendelkező légitársaság címét.\n\nSzakértők elemezve mutatnak rá, hogy a technológiai beruházások, mint a gondos mosdókarbantartás, a 4K-s kijelzők, a Bluetooth-hang és a jobb tárolóhelyek, nagyban meghatározzák a hosszú távú utazás minőségét. A összesített rangsorban a harmadik helyen álló Qatar Airways a térbeli előny helyett a kapcsolódásra fókuszálva mutatta be erősségeit. A légitársaság széles törzsű flottáján kiterjeszti a Starlink Wi-Fi szolgáltatást, gyors internetezési és streaming környezetet biztosítva a turistaosztályú utasok számára."
+      },
+      "vocab": [
+        {
+          "word": "이코노미 클래스",
+          "meaning_en": "Economy class",
+          "meaning_hu": "Turistaosztály"
+        },
+        {
+          "word": "만족도 조사",
+          "meaning_en": "Satisfaction survey",
+          "meaning_hu": "Elégedettségi felmérés"
+        },
+        {
+          "word": "연결성",
+          "meaning_en": "Connectivity",
+          "meaning_hu": "Kapcsolódási lehetőség / Konnektivitás"
+        },
+        {
+          "word": "정량화하다",
+          "meaning_en": "To quantify",
+          "meaning_hu": "Mennyiségileg meghatározni / Kvantifikálni"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "상위 이코노미 항공사들이 좌석 공간과 서비스 외에 중요하게 다루는 요소는 무엇인가요?",
+          "eng": "What elements do top economy airlines consider important besides seat space and service?",
+          "hu": "Milyen elemeket tartanak fontosnak a vezető turistaosztályú légitársaságok az ülőhelyen és a szolgáltaláson kívül?"
+        },
+        {
+          "kor": "장거리 비행 시 이코노미석에서 작은 디자인 요소와 기술적 투자가 승객에게 미치는 영향은 무엇이라고 생각하나요?",
+          "eng": "What impact do you think small design elements and technological investments in economy class have on passengers during long-haul flights?",
+          "hu": "Milyen hatással vannak ön szerint a turistaosztályú kis dizájnelemek és a technológiai beruházások az utasokra a hosszú távú repülések során?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-11",
+      "category": "Science & Technology",
+      "date": "2026.10.01",
+      "level": "Proficient",
+      "levelNum": 9,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cqwyzzzvj9dpo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "초가공식품 섭취와 건강에 관한 영양학적 분석",
+        "eng": "A Nutritional Analysis of Ultra-Processed Food Consumption and Health",
+        "hu": "Az ultra-feldolgozott élelmiszerek fogyasztásának és egészségügyi hatásainak táplálkozástudományi elemzése"
+      },
+      "desc": {
+        "kor": "초가공식품을 향한 과도한 불안감을 진단하고, 영양학적 관점에서 균형 잡힌 식단의 중요성을 고찰한다.",
+        "eng": "Diagnosing excessive anxiety regarding ultra-processed foods and examining the importance of a balanced diet from a nutritional perspective.",
+        "hu": "Az ultra-feldolgozott élelmiszerek miatti túlzott aggodalom diagnosztizálása és a kiegyensúlyozott étrend fontosságának vizsgálata táplálkozási szempontból."
+      },
+      "article": {
+        "kor": "현대 사회에서 소비되는 상당량의 식품이 건강에 미치는 악영향에 대한 우려가 증폭되는 가운데, 초가공식품(UPF)이 대사성 질환 및 정신건강 문제와 연관되어 있다는 연구 결과가 방대하게 축적되고 있다. 그러나 과학계와 영양학계 내부에서는 이러한 위해성의 주된 기전이 높은 지방·설탕·소금 함량에 기인하는지, 혹은 가공 공정 자체의 특수성 때문인지에 대하여 의견이 엇갈리고 있다.\n\n영국에서 섭취되는 총열량의 과반수가 초가공식품에서 비롯된다는 통계가 보고되는바, 전문가들은 이러한 식품을 완전히 배제하는 것은 사실상 불가능하다고 진단한다. 영국영양사협회 소속 전문가들은 초가공식품을 둘러싼 사회적 담론이 지나치게 이분법적인 공포를 조장하고 있다고 지적하며, 개별 식품의 유해성을 맹신하기보다 영양적 가치와 식단의 전반적인 균형을 고찰해야 한다고 조언한다.\n\n실제로 길고 복잡한 원재료 목록을 지닌 제품들이 모두 본질적으로 해로운 것은 아니며, 법적 규제에 따라 첨가된 비타민이나 미네랄을 포함하는 경우도 존재한다. 예컨대 닭고기 너깃과 같은 가공육은 단백질을 공급할 수 있으나 상대적으로 높은 염분과 지방 함량을 내포하고 있으므로, 특정한 단일 식품에 대한 맹목적인 배척보다는 균형 잡힌 식단 속에서의 적정량 섭취가 권장된다.",
+        "eng": "Amid growing concerns over the adverse health effects of a significant portion of food consumed in modern society, a vast body of research has accumulated linking ultra-processed foods (UPFs) to metabolic diseases and mental health issues. However, within the scientific and nutritional communities, opinions remain divided on whether the primary mechanism of such risks stems from high fat, sugar, and salt content or from the specifics of the processing methods themselves.\n\nWith statistics reporting that over half of the total calories consumed in the UK originate from ultra-processed foods, experts diagnose that completely eliminating such items is virtually impossible. Specialists from the British Dietetic Association point out that the social discourse surrounding ultra-processed foods fosters excessively dichotomous fear, advising that rather than blindly condemning the harmfulness of individual foods, one should examine their nutritional value and the overall balance of the diet.\n\nIn fact, products with long and complex ingredient lists are not all inherently detrimental, and some contain vitamins or minerals added in compliance with legal regulations. For instance, processed meats like chicken nuggets can provide protein but contain relatively high sodium and fat contents; therefore, rather than blindly rejecting a specific single food, consuming appropriate amounts within a balanced diet is recommended.",
+        "hu": "A modern társadalomban elfogyasztott élelmiszerek jelentős részének egészségkárosító hatásai miatt növekvő aggodalmak közepette egyre több kutatás mutat rá az ultra-feldolgozott élelmiszerek (UPF) és a anyagcsere-betegségek, valamint mentális egészségügyi problémák közötti összefüggésekre. A tudományos és táplálkozástudományi körökben azonban megoszlanak a vélemények arról, hogy ezen kockázatok elsődleges oka a magas zsír-, cukor- és sótartalom, vagy magának a feldolgozási folyamatnak a sajátossága.\n\nMivel a statisztikák szerint az Egyesült Királyságban elfogyasztott összes kalória fele az ultra-feldolgozott élelmiszerekből származik, a szakértők szerint ezen élelmiszerek teljes kizárása gyakorlatilag lehetetlen. A Brit Dietetikusok Szövetségének szakemberei rámutatnak, hogy az ultra-feldolgozott élelmiszerek körül kialakult társadalmi diskurzus túlságosan is dichotóm félelmeket kelt, és azt tanácsolják, hogy az egyes élelmiszerek károsvoltának vak elutasítása helyett a táplálékértéket és az étrend általános egyensúlyát kell vizsgálni.\n\nValójában a hosszú és összetett összetevőlistával rendelkező termékek nem mind károsak alapvető természetüknél fogva, és némelyikük jogszabályi előírásoknak megfelelően hozzáadott vitaminokat vagy ásványi anyagokat is tartalmaz. Például a csirke nuggets-hez hasonló feldolgozott húsok fehérjeforrásként szolgálhatnak, de viszonylag magas nátrium- és zsírtartalommal bírnak, ezért a bizonyos egyedi élelmiszerek vak elutasítása helyett a kiegyensúlyozott étrenden belüli mérsékelt fogyasztásuk javasolt."
+      },
+      "vocab": [
+        {
+          "word": "초가공식품",
+          "meaning_en": "ultra-processed food",
+          "meaning_hu": "ultra-feldolgozott élelmiszer"
+        },
+        {
+          "word": "기전",
+          "meaning_en": "mechanism",
+          "meaning_hu": "mechanizmus"
+        },
+        {
+          "word": "이분법적",
+          "meaning_en": "dichotomous / binary",
+          "meaning_hu": "dichotóm / kettős"
+        },
+        {
+          "word": "배척",
+          "meaning_en": "rejection / ostracism",
+          "meaning_hu": "elutasítás / kirekesztés"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "초가공식품에 대한 대중의 공포가 이분법적인 메시지에서 비롯된다는 주장에 대해 어떻게 생각하십니까?",
+          "eng": "What do you think about the claim that public fear of ultra-processed foods stems from dichotomous messages?",
+          "hu": "Mit gondol arról az állításról, hogy az ultra-feldolgozott élelmiszerekkel kapcsolatos közfélelem a dichotóm üzenetekből ered?"
+        },
+        {
+          "kor": "식단의 영양적 균형을 유지하기 위해 개인은 어떤 기준으로 식품을 선택해야 할까요?",
+          "eng": "Based on what criteria should individuals select foods to maintain the nutritional balance of their diet?",
+          "hu": "Milyen szempontok alapján kellene az egyéneknek élelmiszereket választaniuk étrendjük táplálkozási egyensúlyának fenntartása érdekében?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-12",
+      "category": "Health & Lifestyle",
+      "date": "2026.10.01",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/ckz6zzd1g54go?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "카메라가 없는 새로운 스마트 안경이 나옵니다",
+        "eng": "A new smart glasses without a camera is coming out",
+        "hu": "Új okosszemüveg érkezik kamera nélkül"
+      },
+      "desc": {
+        "kor": "메타가 카메라가 없는 새로운 스마트 안경을 공개했습니다.",
+        "eng": "Meta has revealed a new smart glasses without a camera.",
+        "hu": "A Meta bemutatott egy új okosszemüveget kamera nélkül."
+      },
+      "article": {
+        "kor": "메타가 카메라가 없는 새로운 스마트 안경을 발표했습니다. 이 안경은 사진을 찍는 기능이 없습니다. 대신에 음악을 듣거나 전화를 할 수 있습니다. 사생활을 지키기 위해서 이 안경을 만들었습니다.",
+        "eng": "Meta has announced a new smart glasses without a camera. This glasses does not have a picture-taking function. Instead, you can listen to music or make phone calls. It was made to protect privacy.",
+        "hu": "A Meta bejelentett egy új okosszemüveget kamera nélkül. Ennek a szemüvegnek nincs képkészítő funkciója. Ehelyett hallgathat zenét vagy telefonálhat. A magánélet védelmében készült."
+      },
+      "vocab": [
+        {
+          "word": "카메라",
+          "meaning_en": "camera",
+          "meaning_hu": "kamera"
+        },
+        {
+          "word": "음악",
+          "meaning_en": "music",
+          "meaning_hu": "zene"
+        },
+        {
+          "word": "전화",
+          "meaning_en": "phone call",
+          "meaning_hu": "telefonhívás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "이 안경에는 왜 카메라가 없습니까?",
+          "eng": "Why doesn't this glasses have a camera?",
+          "hu": "Miért nincs kamera ebben a szemüvegben?"
+        },
+        {
+          "kor": "이 안경으로 무엇을 할 수 있습니까?",
+          "eng": "What can you do with this glasses?",
+          "hu": "Mit lehet csinálni ezzel a szemüveggel?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-13",
+      "category": "Health & Lifestyle",
+      "date": "2026.10.01",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cy4z04gyjkmo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "한국 군대가 호르무즈 해협에 갈 수 있을까요?",
+        "eng": "Could the South Korean military be dispatched to the Strait of Hormuz?",
+        "hu": "Küldhet-e dél-koreai katonákat a Hormuzi-szorosba?"
+      },
+      "desc": {
+        "kor": "한국 정부가 호르무즈 해협에 군 병력을 보내는 것을 검토하고 있습니다.",
+        "eng": "The South Korean government is considering dispatching military troops to the Strait of Hormuz.",
+        "hu": "A dél-koreai kormány katonák küldését fontolgatja a Hormuzi-szorosba."
+      },
+      "article": {
+        "kor": "한국 정부가 호르무즈 해협에 군 병력과 장비를 보내는 방법을 생각하고 있습니다. 국방부는 현지 상황을 잘 알기 위해서 아랍에미리트에 조사단을 보냈습니다.\n\n하지만 아직 실제로 군대를 보내는 것은 정해지지 않았습니다. 조사단이 돌아온 후에 정부가 회의를 열고 국회의 동의를 받아야 최종으로 결정됩니다.",
+        "eng": "The South Korean government is thinking about sending military troops and equipment to the Strait of Hormuz. The Ministry of National Defense has sent an investigation team to the United Arab Emirates to understand the local situation.\n\nHowever, sending troops has not been decided yet. After the investigation team returns, the government must hold a meeting and get approval from the National Assembly to make a final decision.",
+        "hu": "A dél-koreai kormány katonák és felszerelés küldését fontolgatja a Hormuzi-szorosba. A védelmi minisztérium vizsgálóbizottságot küldött az Egyesült Arab Emírségekbe a helyi helyzet megismerésére.\n\nAzonban a csapatok küldéséről még nem döntöttek. A vizsgálóbizottság visszatérése után a kormánynak tárgyalnia kell, és a nemzetgyűlés jóváhagyását kell kérnie a végső döntéshez."
+      },
+      "vocab": [
+        {
+          "word": "정부",
+          "meaning_en": "government",
+          "meaning_hu": "kormány"
+        },
+        {
+          "word": "군대",
+          "meaning_en": "military / troops",
+          "meaning_hu": "hadsereg"
+        },
+        {
+          "word": "조사단",
+          "meaning_en": "investigation team",
+          "meaning_hu": "vizsgálóbizottság"
+        },
+        {
+          "word": "결정",
+          "meaning_en": "decision",
+          "meaning_hu": "döntés"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "한국 정부는 지금 어디에 군대를 보내는 것을 생각하고 있습니까?",
+          "eng": "Where is the South Korean government thinking of sending troops now?",
+          "hu": "Hová tervezi a dél-koreai kormány katonák küldését?"
+        },
+        {
+          "kor": "군대를 실제로 보내려면 누구의 동의를 받아야 합니까?",
+          "eng": "Whose approval is needed to actually send troops?",
+          "hu": "Kinek a jóváhagyása szükséges a csapatok tényleges kiküldéséhez?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261001-14",
+      "category": "Health & Lifestyle",
+      "date": "2026.10.01",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c1wxn12w1e8o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "네팔 홍수로 한국 기업이 짓던 수력발전소 큰 피해",
+        "eng": "Korean-built Hydropower Plant in Nepal Damaged by Major Flood",
+        "hu": "A koreaiak által épített nepáli vízerőmű súlyos károkat szenvedett az áradás miatt"
+      },
+      "desc": {
+        "kor": "네팔에서 큰 홍수가 나서 한국 기업이 짓고 있던 수력발전소가 크게 망가졌습니다.",
+        "eng": "A major flood in Nepal caused severe damage to a hydropower plant under construction by Korean companies.",
+        "hu": "Nepálban egy nagy áradás súlyos károkat okozott a koreai cégek által épített vízerőműben."
+      },
+      "article": {
+        "kor": "최근 네팔에 내린 대규모 홍수 때문에 한국 기업들이 짓고 있던 수력발전소 현장이 큰 피해를 입었습니다. 한국남동발전과 두산에너빌리티 등이 참여한 이 발전소는 상부 시설과 숙소의 대부분이 사라졌습니다.\n\n이번 홍수는 산 위에 있던 빙하가 무너지면서 시작되었습니다. 갑자기 불어난 물과 흙이 강을 따라 내려오면서 공사 현장을 덮쳤습니다. 다행히 지하에 있는 발전소는 아직 매몰되지 않았지만, 정확한 피해 원인과 상황에 대한 조사가 계속 이어지고 있습니다.",
+        "eng": "Recently, a large-scale flood in Nepal caused heavy damage to a hydropower plant construction site managed by Korean companies. Most of the upper facilities and camps of this power plant, which involved Korea South-East Power and Doosan Enerbility, were destroyed.\n\nThe flood started when a glacier in the mountains collapsed. Suddenly rising water and soil rushed down along the river and hit the construction site. Fortunately, the underground power plant has not been buried yet, but investigations into the exact causes and situation are ongoing.",
+        "hu": "A nemrégiben Nepálban történt nagyszabású áradás súlyos károkat okozott a koreai cégek által kezelt vízerőmű építkezésén. A felső létesítmények és a táborok nagy része megsemmisült.\n\nAz áradás azzal kezdődött, hogy egy gleccser leomlott a hegyekben. A hirtelen megáradt víz és sár lezúdulva elöntötte az építkezést. Szerencsére a föld alatti erőmű még nem temetődött el, de a pontos okok vizsgálata folyamatban van."
+      },
+      "vocab": [
+        {
+          "word": "홍수",
+          "meaning_en": "flood",
+          "meaning_hu": "ár, áradás"
+        },
+        {
+          "word": "피해",
+          "meaning_en": "damage",
+          "meaning_hu": "kár"
+        },
+        {
+          "word": "건설",
+          "meaning_en": "construction",
+          "meaning_hu": "építkezés"
+        },
+        {
+          "word": "조사",
+          "meaning_en": "investigation",
+          "meaning_hu": "vizsgálat"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 사는 곳에도 자연재해 피해가 있나요?",
+          "eng": "Are there any natural disaster damages where you live?",
+          "hu": "Előfordulnak természetkatasztrófa okozta károk ott, ahol él?"
+        },
+        {
+          "kor": "큰 자연재해가 발생했을 때 우리는 어떻게 해야 할까요?",
+          "eng": "What should we do when a major natural disaster occurs?",
+          "hu": "Mit kell tennünk egy nagyobb természeti katasztrófa esetén?"
+        }
+      ]
+    }
+  ],
   "categories": [
     "Business & Politics",
     "Science & Technology",
