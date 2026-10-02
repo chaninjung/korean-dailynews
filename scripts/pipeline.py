@@ -22,7 +22,7 @@ import time
 
 def _fallback_image(category: str) -> str:
     return CATEGORY_IMAGE_FALLBACK.get(
-        category, CATEGORY_IMAGE_FALLBACK["Culture & Society"]
+        category, CATEGORY_IMAGE_FALLBACK["Culture & Arts"]
     )
 
 
@@ -31,7 +31,9 @@ def build_entry(candidate: dict, rewritten: dict, index: int) -> dict:
     lvl = min(9, max(1, lvl))
     cat = rewritten.get("category") or candidate.get("target_category")
     if cat not in CATEGORIES:
-        cat = candidate.get("target_category") or "Culture & Society"
+        cat = candidate.get("target_category") or "Culture & Arts"
+    if cat not in CATEGORIES:
+        cat = CATEGORIES[0]
     source_url = candidate.get("source_url") or candidate.get("link") or ""
     source_name = (rewritten.get("source_name") or candidate.get("source_name") or "").strip()
     today = datetime.date.today()

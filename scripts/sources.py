@@ -3,22 +3,23 @@
 import os
 
 CATEGORIES = [
-    "Business & Politics",
-    "Science & Technology",
-    "Health & Lifestyle",
-    "Culture & Society",
-    "Travel & Experiences",
+    "Global & Society",
+    "Tech & Future",
+    "Health & Mind",
+    "Culture & Arts",
+    "Travel & Lifestyle",
 ]
 
 # ── 1. 글로벌 스탠다드 데스크 (BBC 코리아 전용) ─────────────────────────
 # 한국 국내 언론사(연합뉴스 등)를 완전히 배제하고, 외국인 학습자에게 가장 중립적이고
 # 정제된 한국어를 제공하는 BBC News 코리아 RSS 단일 소스로 통일합니다.
+# 정치(Business & Politics) 카테고리는 폐지했습니다.
 CATEGORY_RSS_FEEDS = {
-    "Business & Politics": ["https://feeds.bbci.co.uk/korean/rss.xml"],
-    "Science & Technology": ["https://feeds.bbci.co.uk/korean/rss.xml"],
-    "Health & Lifestyle": ["https://feeds.bbci.co.uk/korean/rss.xml"],
-    "Culture & Society": ["https://feeds.bbci.co.uk/korean/rss.xml"],
-    "Travel & Experiences": ["https://feeds.bbci.co.uk/korean/rss.xml"],
+    "Global & Society": ["https://feeds.bbci.co.uk/korean/rss.xml"],
+    "Tech & Future": ["https://feeds.bbci.co.uk/korean/rss.xml"],
+    "Health & Mind": ["https://feeds.bbci.co.uk/korean/rss.xml"],
+    "Culture & Arts": ["https://feeds.bbci.co.uk/korean/rss.xml"],
+    "Travel & Lifestyle": ["https://feeds.bbci.co.uk/korean/rss.xml"],
 }
 
 # 본문을 읽을 수 없는 도메인 (Google 쿠키 동의/리다이렉트 페이지 등)
@@ -29,11 +30,11 @@ BLOCKED_DOMAINS = (
 )
 
 CATEGORY_IMAGE_FALLBACK = {
-    "Business & Politics": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
-    "Science & Technology": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "Health & Lifestyle": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
-    "Culture & Society": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
-    "Travel & Experiences": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "Global & Society": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "Tech & Future": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "Health & Mind": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+    "Culture & Arts": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "Travel & Lifestyle": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
 }
 
 LEVEL_LABEL_MAP = {
@@ -50,13 +51,13 @@ LEVEL_LABEL_MAP = {
 # 이 계획으로 하루 30건이 만들어지고 레벨 1~9가 모두 포함됩니다.
 #   초급(L1~3) 9건 / 중급(L4~6) 14건 / 고급(L7~9) 7건
 LEVEL_PLAN = {
-    # 복잡한 주제는 쉬운 문장으로 풀어쓰기 어려우므로 중급 이상 위주
-    "Business & Politics": [4, 5, 6, 7, 8, 9],
-    "Science & Technology": [4, 5, 6, 7, 8, 9],
-    # 생활 주제는 쉬운 문장으로 바꾸기 쉬우므로 초급을 넉넉히
-    "Health & Lifestyle": [1, 2, 3, 4, 5, 6],
-    "Culture & Society": [1, 2, 3, 5, 6, 7],
-    "Travel & Experiences": [1, 2, 3, 4, 5, 6],
+    # 세계 이슈·과학 등 복잡한 주제는 쉬운 문장으로 풀어쓰기 어려우므로 중급 이상 위주
+    "Global & Society": [4, 5, 6, 7, 8, 9],
+    "Tech & Future": [4, 5, 6, 7, 8, 9],
+    # 생활·예술·여행 주제는 쉬운 문장으로 바꾸기 쉬우므로 초급을 넉넉히
+    "Health & Mind": [1, 2, 3, 4, 5, 6],
+    "Culture & Arts": [1, 2, 3, 5, 6, 7],
+    "Travel & Lifestyle": [1, 2, 3, 4, 5, 6],
 }
 
 # 카테고리마다 만들 기사 수. 기본 6 -> 하루 30건.
