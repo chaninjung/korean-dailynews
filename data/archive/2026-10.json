@@ -2365,5 +2365,491 @@
         "hu": "Akkor is el akarsz menni egy híres fesztiválra, ha a jegyárak emelkednek?"
       }
     ]
+  },
+  {
+    "id": "news-20261002-23",
+    "category": "Culture & Arts",
+    "date": "2026.10.02",
+    "level": "Intermediate",
+    "levelNum": 6,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw07l44l1dg8o?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "맨체스터에서 열린 브릿 어워즈, 지역 경제에 500만 파운드 효과",
+      "eng": "Brit Awards boosted Manchester economy by £5m, study finds",
+      "hu": "A Brit Awards 5 millió fonttal növelte Manchester gazdaságát a kutatás szerint"
+    },
+    "desc": {
+      "kor": "런던을 떠나 맨체스터에서 처음 개최된 브릿 어워즈가 지역 경제와 사회에 큰 활력을 불어넣었습니다.",
+      "eng": "The Brit Awards' first move to Manchester generated millions for the local economy and created thousands of temporary jobs.",
+      "hu": "A Brit Awards első manchesteri rendezvénye milliókat hozott a helyi gazdaságnak és munkahelyeket teremtett."
+    },
+    "article": {
+      "kor": "영국의 대표적인 음악 시상식인 '브릿 어워즈'가 약 50년 만에 처음으로 수도 런던을 떠나 맨체스터에서 개최되었습니다. 독립적인 조사 기관의 연구 결과에 따르면, 이번 행사는 맨체스터와 주변 지역에 500만 파운드의 경제적 효과를 창출했습니다.\n\n이번 시상식은 지난 2월 28일 맨체스터의 코옵 라이브 아레나에서 열렸으며 해리 스타일스, 올리비아 딘 등 유명 아티스트들이 공연을 펼쳤습니다. 연구에 따르면 방문객들의 지출과 주최 측의 비용 등으로 인해 순수하게 증가한 경제적 가치가 500만 파운드에 달하는 것으로 나타났습니다.\n\n또한 이번 행사는 약 3,000개의 임시 일자리를 만들고 지역 사회에 긍정적인 사회적 영향을 주었습니다. 참석한 관람객의 92%가 행사 경험에 대해 훌륭하거나 좋다고 평가했으며, 2027년 시상식도 다시 맨체스터에서 개최될 예정입니다.",
+      "eng": "The Brit Awards, one of the UK's biggest music ceremonies, was held in Manchester for the first time in its nearly 50-year history, leaving London. According to an independent research study, the event generated £5 million for Manchester and its surrounding areas.\n\nThe ceremony took place on February 28 at Manchester's Co-op Live arena, featuring performances by stars like Harry Styles and Olivia Dean. The study showed that the net additional expenditure reached £5 million, driven by visitors and organizers.\n\nIn addition, the event created about 3,000 temporary jobs and brought positive social impacts to the local community. 92% of attendees rated their experience as excellent or good, and the 2027 awards ceremony is also set to be held in Manchester.",
+      "hu": "A Brit Awards, az Egyesült Királyság egyik legnagyobb zenei díjátadója csaknem 50 éves történetében először hagyta el Londont, és Manchesterben rendezték meg. Egy független kutatás szerint az esemény 5 millió font bevételt hozott Manchesternek és környékének.\n\nAz ünnepséget február 28-án tartották a manchesteri Co-op Live arénában, olyan sztárok fellépésével, mint Harry Styles és Olivia Dean. A tanulmány kimutatta, hogy a nettó többletkiadás elérte az 5 millió fontot a látogatóknak és a szervezőknek köszönhetően.\n\nEmellett az esemény mintegy 3000 ideiglenes munkahelyet teremtett, és pozitív társadalmi hatást gyakorolt a helyi közösségre. A résztvevők 92%-a kiválónak vagy jónak értékelte a tapasztalatait, és a 2027-es díjátadót szintén Manchesterben rendezik meg."
+    },
+    "vocab": [
+      {
+        "word": "시상식",
+        "meaning_en": "awards ceremony",
+        "meaning_hu": "díjátadó ünnepség"
+      },
+      {
+        "word": "경제적 효과",
+        "meaning_en": "economic impact / effect",
+        "meaning_hu": "gazdasági hatás"
+      },
+      {
+        "word": "임시 일자리",
+        "meaning_en": "temporary jobs",
+        "meaning_hu": "ideiglenes munkahelyek"
+      },
+      {
+        "word": "개최되다",
+        "meaning_en": "to be held",
+        "meaning_hu": "megrendezésre kerülni"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분이 살고 있는 도시에 큰 음악 행사가 열린다면 어떤 변화가 생길까요?",
+        "eng": "What changes would occur if a major music event were held in the city where you live?",
+        "hu": "Milyen változások történnének, ha egy nagyobb zenei eseményt rendeznének abban a városban, ahol él?"
+      },
+      {
+        "kor": "대형 행사가 지역 경제에 미치는 영향에 대해 어떻게 생각하시나요?",
+        "eng": "What do you think about the impact of large-scale events on the local economy?",
+        "hu": "Mit gondol a nagyszabású események helyi gazdaságra gyakorolt hatásáról?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-24",
+    "category": "Culture & Arts",
+    "date": "2026.10.02",
+    "level": "Advanced",
+    "levelNum": 7,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c88z4967yj5o?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "영국의 유명 방송인이자 자선가 에스더 랜첸 별세",
+      "eng": "Dame Esther Rantzen: That's Life! presenter, Childline founder and campaigner for assisted dying",
+      "hu": "Meghalt Dame Esther Rantzen, a That's Life! műsorvezetője és a Childline alapítója"
+    },
+    "desc": {
+      "kor": "영국의 전설적인 TV 방송인이자 아동 보호 단체 '차일드라인'의 설립자인 에스더 랜첸이 86세를 일기로 별세했습니다.",
+      "eng": "Dame Esther Rantzen, famous for hosting BBC's That's Life! and founding Childline, has passed away at the age of 86.",
+      "hu": "Elhunyt Dame Esther Rantzen, a BBC híres műsorvezetője és a Childline alapítója 86 éves korában."
+    },
+    "article": {
+      "kor": "향년 86세로 별세한 에스더 랜첸은 BBC의 인기 TV 프로그램 '댓츠 라이프!(That's Life!)'를 진행하며 큰 명성을 얻었습니다. 20년 이상 방영된 이 프로그램은 단순한 소비자 고발 방송을 넘어 아동 학대 반대 등 사회적 캠페인을 주도하며 큰 주목을 받았습니다.\n\n이러한 활동을 바탕으로 에스더 랜첸은 학대나 방임에 고통받는 아이들을 위한 국가 전화 상담 서비스인 '차일드라인(Childline)'을 설립했습니다. 그녀는 방송인으로서의 삶뿐만 아니라, 노인 인권 운동가이자 생애 말년에는 조력 존엄사 합법화를 위한 저명한 사회 운동가로 활동했습니다.\n\n1940년 영국 허트퍼드셔에서 태어난 그녀는 제2차 세계대전 당시 런던을 떠나 어린 시절을 보냈습니다. 옥스퍼드대학교에서 영문학을 전공한 그녀는 대학 시절 연극 동아리 활동을 통해 공연 예술에 대한 열정을 키웠습니다.\n\n이후 BBC 라디오 수습 스튜디오 매니저로 방송계에 입문한 그녀는 텔레비전 부서로 자리를 옮겨 시사 프로그램 제작에 참여했습니다. 브레이든스 위크(Braden's Week)를 거치며 방송 진행자로서의 재능을 인정받았고, 이는 그녀의 경력에 중요한 전환점이 되었습니다.",
+      "eng": "Dame Esther Rantzen, who has died at the age of 86, was best known for presenting the BBC TV programme That's Life! Over two decades, what started as a consumer programme became renowned for its high-profile campaigns against child abuse, leading her to establish Childline.\n\nLater in life, she became a prominent campaigner for older people and for the legalisation of medically-assisted death. Born in Hertfordshire in 1940, she spent her early childhood outside London during World War Two before returning to study English at Somerville College, Oxford.\n\nAn enthusiastic member of university dramatic societies, she began her broadcasting career as a trainee studio manager with BBC Radio. She soon transitioned to television, working as a researcher and eventually making a strong on-screen impression on programmes like Braden's Week.\n\nHer career in television spanned decades, marked by her transition from behind-the-scenes researcher to a defining television personality. Her pioneering work in broadcasting and social advocacy left a lasting legacy in British society.",
+      "hu": "Dame Esther Rantzen, aki 86 éves korában hunyt el, leginkább a BBC That's Life! című műsorának műsorvezetőjeként volt ismert. A több évtizeden át futó műsor a fogyasztóvédelem mellett jelentős kampányokat folytatott a gyermekbántalmazás ellen, ami ahhoz vezetett, hogy megalapította a Childline segélyvonalat.\n\nÉletének utolsó éveiben az idősek jogaiért és az eutanázia legalizálásáért küzdő aktivistaként is ismertté vált. Az 1940-ben született Rantzen az Oxfordi Egyetemen tanult angol irodalmat, majd rádiós gyakornokként kezdte meg médiaikarrierjét a BBC-nél.\n\nA BBC rádió Stúdiómenedzser-képzése után hamarosan a televíziózás felé fordult, és kutatóként, majd műsorvezetőként dolgozott. Munkássága során mély nyomot hagyott a brit televíziózásban és a társadalmi kampányokban egyaránt."
+    },
+    "vocab": [
+      {
+        "word": "별세",
+        "meaning_en": "passing away, death (polite)",
+        "meaning_hu": "elhunyt, halál (tiszteletteljes)"
+      },
+      {
+        "word": "설립하다",
+        "meaning_en": "to establish, to found",
+        "meaning_hu": "alapítani"
+      },
+      {
+        "word": "전환점",
+        "meaning_en": "turning point",
+        "meaning_hu": "fordulópont"
+      },
+      {
+        "word": "사회 운동가",
+        "meaning_en": "social activist, campaigner",
+        "meaning_hu": "társadalmi aktivista"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "에스더 랜첸이 설립한 '차일드라인'은 어떤 아이들을 돕기 위한 서비스인가요?",
+        "eng": "What kind of children does 'Childline', established by Esther Rantzen, aim to help?",
+        "hu": "Milyen gyermekeken hivatott segíteni az Esther Rantzen által alapított 'Childline'?"
+      },
+      {
+        "kor": "당신은 방송이나 미디어를 통해 사회적 캠페인을 벌이는 것에 대해 어떻게 생각하시나요?",
+        "eng": "What do you think about running social campaigns through broadcasting and media?",
+        "hu": "Mit gondol a műsorszóráson és a médián keresztül történő társadalmi kampányokról?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-25",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Beginner",
+    "levelNum": 1,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/food/2026/oct/01/heart-meltingly-good-the-best-cooking-chocolate-to-buy"
+    },
+    "title": {
+      "kor": "맛있는 초콜릿 요리",
+      "eng": "Heart-meltingly good: the best cooking chocolate to buy",
+      "hu": "A legjobb sütőcsokoládé"
+    },
+    "desc": {
+      "kor": "맛있는 빵을 만들기 좋은 초콜릿을 소개합니다.",
+      "eng": "An introduction to the best chocolates for baking delicious treats.",
+      "hu": "Bevezetés a legjobb sütőcsokoládékhoz."
+    },
+    "article": {
+      "kor": "요리할 때 좋은 초콜릿을 쓰면 빵과 과자가 더 맛있습니다.\n\n초콜릿은 모양이 작아서 녹이기 쉽고 요리에 넣기 좋습니다.\n\n여러 가지 좋은 초콜릿을 사용해 맛있는 음식을 만들어 보세요.",
+      "eng": "Using good chocolate makes your baked goods taste better.\n\nSome chocolates melt easily and are great for baking.\n\nTry using quality chocolate to make delicious treats.",
+      "hu": "A jó csokoládé finomabbá teszi a sütiket.\n\nKönnyen olvadó csokoládék kiválóan alkalmasak sütéshez.\n\nPróbáljon ki minőségi csokoládét a finom ételek készítéséhez."
+    },
+    "vocab": [
+      {
+        "word": "초콜릿",
+        "meaning_en": "chocolate",
+        "meaning_hu": "csokoládé"
+      },
+      {
+        "word": "요리",
+        "meaning_en": "cooking",
+        "meaning_hu": "főzés, sütés"
+      },
+      {
+        "word": "맛있다",
+        "meaning_en": "to be delicious",
+        "meaning_hu": "finom"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "어떤 초콜릿을 좋아합니까?",
+        "eng": "What kind of chocolate do you like?",
+        "hu": "Milyen csokoládét szeret?"
+      },
+      {
+        "kor": "집에서 요리를 자주 합니까?",
+        "eng": "Do you often cook at home?",
+        "hu": "Gyakran főz otthon?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-26",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Beginner",
+    "levelNum": 2,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/food/2026/oct/02/ultra-processed-foods-how-to-cook-make-at-home-from-scratch-upf"
+    },
+    "title": {
+      "kor": "집에서 직접 만드는 가공식품, 시간과 돈이 얼마나 들까요?",
+      "eng": "How much time and money does it cost to make foods at home?",
+      "hu": "Mennyi időbe és pénzbe kerül az ételek otthoni elkészítése?"
+    },
+    "desc": {
+      "kor": "가공식품을 집에서 직접 만들 때 드는 시간과 비용을 알아보는 이야기입니다.",
+      "eng": "A look at the time and money required to make ultra-processed foods at home.",
+      "hu": "Egy pillantás az ultra-feldolgozott ételek otthoni elkészítéséhez szükséges időre és pénzre."
+    },
+    "article": {
+      "kor": "많은 사람이 사 먹는 가공식품은 간편하고 값이 쌉니다. 하지만 한 기자가 집에서 직접 음식을 만들기 시작했습니다. 치킨 너겟과 시리얼 바 같은 음식을 집에서 만들 때 드는 시간과 돈을 계산했습니다.\n\n집에서 만든 음식은 사 먹는 것보다 비싸거나 시간이 더 걸렸습니다. 그렇지만 맛이 더 좋고 건강에도 좋습니다. 전문가들은 개인이 모든 것을 집에서 만들기 어렵다고 말합니다. 바쁜 가족들에게는 가공식품이 여전히 쉽고 빠른 선택이기 때문입니다.",
+      "eng": "Many people think store-bought foods are cheap and fast. However, a journalist started making foods at home. They calculated the time and money needed to make items like chicken nuggets and muesli bars from scratch.\n\nHomemade foods were often more expensive or took more time than store-bought ones. Still, they tasted better and were healthier. Experts say people should not feel guilty, because cooking everything at home is hard for busy families.",
+      "hu": "Sokan gondolják úgy, hogy a bolti ételek olcsók és gyorsak. Azonban egy újságíró elkezdte otthon elkészíteni az ételeket. Kiszámolta, mennyi időbe és pénzbe kerül az olyan ételek házi elkészítése, mint a csirkenuggetts vagy a müzliszelet.\n\nA házi készítésű ételek gyakran drágábbak voltak, vagy több időt vettek igénybe, mint a boltiak. Ennek ellenére jobbak voltak az ízük és egészségesebbek. A szakértők szerint az embereknek nem kell bűntudatot érezniük, mert mindent otthon főzni nehéz a elfoglalt családok számára."
+    },
+    "vocab": [
+      {
+        "word": "가공식품",
+        "meaning_en": "processed food",
+        "meaning_hu": "feldolgozott élelmiszer"
+      },
+      {
+        "word": "시간",
+        "meaning_en": "time",
+        "meaning_hu": "idő"
+      },
+      {
+        "word": "비용",
+        "meaning_en": "cost",
+        "meaning_hu": "költség"
+      },
+      {
+        "word": "건강",
+        "meaning_en": "health",
+        "meaning_hu": "egészség"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분은 집에서 음식을 자주 만들어 먹습니까?",
+        "eng": "Do you often cook food at home?",
+        "hu": "Gyakran főz otthon?"
+      },
+      {
+        "kor": "가공식품과 집밥 중에서 어떤 것을 더 좋아합니까?",
+        "eng": "Which do you prefer, processed foods or home-cooked meals?",
+        "hu": "Mit szeretsz jobban, a feldolgozott ételeket vagy a házi készítésű ételeket?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-27",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Elementary",
+    "levelNum": 3,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/travel/2024/mar/12/miami-three-day-travel-guide"
+    },
+    "title": {
+      "kor": "마이애미에서 보내는 즐거운 삼일 동안의 여행",
+      "eng": "A Three-Day Fun Trip in Miami",
+      "hu": "Egy háromnapos vidám utazás Miamiban"
+    },
+    "desc": {
+      "kor": "미국 마이애미에서 맛있는 음식을 먹고 구경할 수 있는 여행 방법을 소개합니다.",
+      "eng": "This article introduces a travel guide to eating and sightseeing in Miami, USA.",
+      "hu": "Ez a cikk egy utazási útmutatót mutat be a miamii evéshez és látnivalókhoz."
+    },
+    "article": {
+      "kor": "미국 마이애미는 아름다운 바다와 멋진 건물이 있는 멋진 도시입니다. 라틴 아메리카의 문화가 있어서 언제나 활기가 넘칩니다. 이곳에서 삼일 동안 재미있게 놀 수 있는 여행 방법을 알려드리겠습니다.\n\n첫째 날에는 리틀 아바나에 가서 맛있는 쿠바 샌드위치를 먹습니다. 오후에는 예쁜 그림과 가게가 많은 윈우드 지역을 구경합니다. 둘째 날에는 역사적인 빅스카이 저택과 커다란 식물원에서 산책을 합니다. 세 번째 날에는 유명한 사우스 비치에서 구경을 하고 에버글레이즈 공원에서 악어를 찾아봅니다. 마이애미에서 맛있는 음식도 먹고 즐거운 추억을 만들어 보세요.",
+      "eng": "Miami, USA, is a wonderful city with beautiful oceans and nice buildings. It is always full of energy because of Latin American culture. Here is a fun three-day travel guide for you.\n\nOn the first day, you can go to Little Havana and eat a delicious Cuban sandwich. In the afternoon, you can explore the Wynwood area with pretty paintings and shops. On the second day, you can walk around the historic Vizcaya mansion and a big botanical garden. On the third day, you can visit the famous South Beach and look for alligators in the Everglades. Enjoy tasty food and make happy memories in Miami.",
+      "hu": "Az amerikai Miami egy csodálatos város gyönyörű óceánokkal és szép épületekkel. A latin-amerikai kultúra miatt mindig tele van energiával. Íme egy szórakoztató háromnapos utazási útmutató az Ön számára.\n\nAz első napon elmehet Little Havanába, és megehet egy finom kubai szendvicset. Délután felfedezheti a Wynwood területét a csinos festményekkel és boltokkal. A második napon sétálhat a történelmi Vizcaya kúria körül és egy nagy botanikus kertben. A harmadik napon meglátogathatja a híres South Beach-et, és aligátorokat kereshet az Evergladesben. Élvezze a finom ételeket és szerezzen boldog emlékeket Miamiban."
+    },
+    "vocab": [
+      {
+        "word": "도시",
+        "meaning_en": "city",
+        "meaning_hu": "város"
+      },
+      {
+        "word": "여행",
+        "meaning_en": "trip, travel",
+        "meaning_hu": "utazás"
+      },
+      {
+        "word": "음식",
+        "meaning_en": "food",
+        "meaning_hu": "étel"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "마이애미에서 가장 가보고 싶은 곳은 어디인가요?",
+        "eng": "Where do you want to visit the most in Miami?",
+        "hu": "Hová szeretne a legjobban elmenni Miamiban?"
+      },
+      {
+        "kor": "여행할 때 가장 중요하게 생각하는 것은 무엇인가요?",
+        "eng": "What do you think is most important when travelling?",
+        "hu": "Mit tart a legfontosabbnak utazás közben?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-28",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Intermediate",
+    "levelNum": 4,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/food/2026/sep/17/welcome-to-the-age-of-the-grown-up-soft-drink"
+    },
+    "title": {
+      "kor": "어른들을 위한 새로운 음료의 시대가 왔습니다",
+      "eng": "Welcome to the age of the grown-up soft drink",
+      "hu": "Üdvözöljük a felnőtt üdítőitalok korában"
+    },
+    "desc": {
+      "kor": "설탕이 적고 맛이 복잡한 성인용 무알코올 음료가 인기를 끌고 있습니다.",
+      "eng": "Non-alcoholic drinks with less sugar and complex flavors are gaining popularity among adults.",
+      "hu": "A kevesebb cukrot tartalmazó és komplex ízvilágú alkoholmentes italok egyre népszerűbbek a felnőttek körében."
+    },
+    "article": {
+      "kor": "요즘 어른들을 위한 특별한 무알코올 음료가 인기를 끌고 있습니다. 이 음료들은 전통적인 탄산음료와 다릅니다. 설탕이 적게 들어 있고 맛이 더 복잡하며 깊습니다.\n\n시중에는 건강에 도움을 준다는 기능성 음료들이 많이 나와 있습니다. 어떤 음료는 기분을 좋게 만들거나 집중력을 높여 줍니다. 또한 천연 재료를 사용하여 만든 고급 탄산음료와 와인을 대신할 수 있는 음료도 인기가 많습니다.\n\n사람들은 술을 마시고 싶지 않거나 건강을 생각할 때 이런 음료를 마십니다. 영국의 술 소비량이 낮아지면서 이러한 무알코올 음료 시장은 앞으로 더 커질 것으로 보입니다.",
+      "eng": "Special non-alcoholic drinks for adults are gaining popularity these days. These drinks are different from traditional sodas because they have less sugar and a more complex taste.\n\nThere are many functional drinks on the market that claim to help with health. Some drinks make you feel better or improve your focus.\n\nPeople choose these drinks when they do not want to drink alcohol or when they care about their health. As alcohol consumption in the UK decreases, the market for these non-alcoholic drinks is expected to grow further.",
+      "hu": "Napjainkban a felnőtteknek szánt különleges alkoholmentes italok egyre népszerűbbek. Ezek az italok különböznek a hagyományos üdítőktől, mert kevesebb cukrot és összetettebb ízvilágot tartalmaznak.\n\nSzámos funkcionális ital található a piacon, amelyek egészségügyi előnyöket ígérnek. Egyes italok javítják a hangulatot vagy a koncentrációt.\n\nAz emberek akkor választják ezeket az italokat, amikor nem akarnak alkoholt fogyasztani, vagy odafigyelnek az egészségükre."
+    },
+    "vocab": [
+      {
+        "word": "무알코올",
+        "meaning_en": "non-alcoholic",
+        "meaning_hu": "alkoholmentes"
+      },
+      {
+        "word": "탄산음료",
+        "meaning_en": "soft drink, soda",
+        "meaning_hu": "szénsavas üdítő"
+      },
+      {
+        "word": "소비량",
+        "meaning_en": "consumption amount",
+        "meaning_hu": "fogyasztási mennyiség"
+      },
+      {
+        "word": "인기",
+        "meaning_en": "popularity",
+        "meaning_hu": "népszerűség"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분은 평소에 무알코올 음료를 마셔 본 적이 있습니까?",
+        "eng": "Have you ever tried non-alcoholic drinks?",
+        "hu": "Próbált már valaha alkoholmentes italokat?"
+      },
+      {
+        "kor": "왜 요즘 많은 사람들이 술 대신 무알코올 음료를 찾을까요?",
+        "eng": "Why do many people look for non-alcoholic drinks instead of alcohol these days?",
+        "hu": "Miért keresik sokan az alkoholmentes italokat az alkohol helyett napjainkban?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-29",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Intermediate",
+    "levelNum": 5,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/food/2026/oct/01/a-perry-respectable-alternative-to-wine-in-praise-of-pear-cider"
+    },
+    "title": {
+      "kor": "와인 대신 마시기 좋은 전통 배 술, '페리'의 매력",
+      "eng": "A perry respectable alternative to wine – in praise of pear cider",
+      "hu": "Egy tisztességes alternatíva a bor helyett – a körtecider dicsérete"
+    },
+    "desc": {
+      "kor": "사과로 만든 시더와 비슷하지만 배로 만들어 특별한 맛과 매력을 가진 전통 술 페리를 소개합니다.",
+      "eng": "Discover perry, a traditional pear-based drink similar to cider that offers unique flavors and pairs wonderfully with food.",
+      "hu": "Ismerje meg a perry-t, egy hagyományos körte alapú italt, amely hasonlít a ciderre, és egyedi ízeket kínál."
+    },
+    "article": {
+      "kor": "사과로 만든 술인 시더는 많은 사람이 알고 있지만, 배로 만든 술인 '페리'는 조금 생소할 수 있습니다. 페리는 배의 과즙을 발효해서 만드는 전통 술로, 영국의 서쪽 지역과 프랑스 북부에서 주로 소량 생산됩니다. 배는 잘 익는 시기가 매우 짧고 나무가 높아서 열매를 따기 어렵기 때문에 페리를 만드는 일은 생각보다 훨씬 어렵습니다.\n\n페리는 와인처럼 포도의 품종이나 지역의 특성에 따라 다양한 맛을 냅니다. 사과 시더와 달리 대중적으로 널리 알려지지 않았지만, 자연스럽게 낮은 도수와 단맛을 가지고 있어 현대인들에게 인기가 많습니다. 또한 굴이나 치즈뿐만 아니라 매운 음식이나 기름진 생선에도 잘 어울려서 음식과 함께 마시기 매우 좋습니다.\n\n와인에 비해 아직 가격이 저렴하다는 것도 큰 장점입니다. 와인처럼 높은 명성과 비싼 세금이 붙지 않아서 훌륭한 품질의 페리를 합리적인 가격에 즐길 수 있습니다. 이번 주말에는 와인 대신 향긋한 배의 풍미가 가득한 페리를 한 잔 마셔보는 것은 어떨까요?",
+      "eng": "While cider made from apples is well known, perry made from pears might be a bit unfamiliar. Perry is a traditional fermented pear drink produced in small batches mainly in the British West Country and northern France. Because pears ripen for a short time and trees are tall, making perry is quite difficult.\n\nPerry offers various flavors depending on the pear variety and terroir, much like wine. Although it lacks mass-market presence compared to cider, it is gaining popularity due to its low alcohol content and natural sweetness. It also pairs wonderfully with oysters, cheese, spicy dishes, and oily fish.\n\nAnother great advantage is its reasonable price compared to wine. Without wine's prestige and heavy taxes, high-quality perry can be enjoyed at a lower cost. Why not try a glass of fragrant perry instead of wine this weekend?",
+      "hu": "Míg az almából készült cider jól ismert, a körtéből készült perry kevésbé lehet ismerős. A perry egy hagyományos erjesztett körteital, amelyet kis mennyiségben készítenek a brit nyugati vidéken és az észak-francia régióban. Mivel a körte érési ideje rövid és a fák magasak, a perry készítése meglehetősen nehéz.\n\nA perry a borhoz hasonlóan változatos ízeket kínál a körtefajtától és a termőhelytől függően. Bár a ciderhez képest kevésbé ismert a piacon, egyre népszerűbbé válik alacsony alkoholtartalma és természetes édessége miatt. Emellett nagyszerűen illik osztrigához, sajthoz, fűszeres ételekhez és zsíros halakhoz is.\n\nEgy másik nagy előnye az ésszerű ára a borhoz képest. A bor hírneve és magas adói nélkül a kiváló minőségű perry alacsonyabb áron élvezhető. Miért ne kóstolna meg egy pohár illatos perry-t bor helyett ezen a hétvégén?"
+    },
+    "vocab": [
+      {
+        "word": "발효하다",
+        "meaning_en": "to ferment",
+        "meaning_hu": "erjeszteni"
+      },
+      {
+        "word": "품종",
+        "meaning_en": "variety / breed",
+        "meaning_hu": "fajta"
+      },
+      {
+        "word": "풍미",
+        "meaning_en": "flavor / taste",
+        "meaning_hu": "ízvilág / aroma"
+      },
+      {
+        "word": "합리적이다",
+        "meaning_en": "to be reasonable",
+        "meaning_hu": "ésszerű / kedvező"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "당신은 사과로 만든 시더와 배로 만든 페리 중에 어떤 것을 더 마시고 싶나요?",
+        "eng": "Would you prefer to drink apple cider or pear perry?",
+        "hu": "Inkább az almácidert vagy a körtecider (perry) inná?"
+      },
+      {
+        "kor": "새로운 술을 고를 때 가장 중요하게 생각하는 것은 무엇인가요?",
+        "eng": "What is the most important factor when choosing a new alcoholic drink?",
+        "hu": "Mi a legfontosabb szempont, amikor új alkoholos italt választ?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-30",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Intermediate",
+    "levelNum": 6,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/food/2026/oct/01/lasagne-three-cheeses-recipe-tomato-tiny-meatballs-rachel-roddy"
+    },
+    "title": {
+      "kor": "레이첼 로디의 특별한 라자냐 레시피: 세 가지 치즈와 작은 미트볼",
+      "eng": "Rachel Roddy’s recipe for lasagne with three cheeses, tomato and tiny meatballs",
+      "hu": "Rachel Roddy receptje a három sajtos, paradicsomos és apró húsgombócás lasagnéhoz"
+    },
+    "desc": {
+      "kor": "토마토 소스와 치즈, 작은 미트볼을 넣어 만드는 풍성한 라자냐 요리법을 소개합니다.",
+      "eng": "A rich recipe for making lasagne with tomato sauce, three cheeses, and tiny meatballs.",
+      "hu": "Gazdag recept lasagne készítéséhez paradicsomszósszal, három sajttal és apró húsgombócokkal."
+    },
+    "article": {
+      "kor": "영국 요리 칼럼니스트 레이첼 로디가 토마토 소스와 세 가지 치즈, 아주 작은 미트볼을 넣은 풍성한 라자냐 레시피를 소개했습니다. 라자냐는 일종의 건축과 같아서 오븐 용기의 크기와 파스타 면의 크기를 잘 맞추는 것이 중요합니다. 네 층으로 쌓아 올리는 이 레시피는 나폴리와 시시리의 전통 요리법에서 영감을 받았습니다.\n\n재료 준비 과정에서는 먼저 올리브유와 마늘, 방울토마토와 으깬 토마토를 냄비에 끓여 맛있는 토마토 소스를 만듭니다. 소시지 고기는 껍질을 벗기고 물에 적신 손으로 포도 알맹이처럼 아주 작게 빚어서 살짝 굽습니다. 리코타 치즈는 우유를 조금 섞어 부드럽게 만들고, 모차렐라 치즈는 얇게 썰어 준비합니다.\n\n오븐 용기에 기름을 바르고 파스타 면을 깐 뒤, 준비한 네 가지 재료를 네 등분하여 층층이 쌓아 올립니다. 가장 위층에는 미트볼을 넣지 않고 파마산 치즈를 뿌려 마무리합니다. 190도로 예열한 오븐에서 25분 동안 구운 뒤, 자르기 전에 30분 정도 식히면 완성됩니다.",
+      "eng": "British food columnist Rachel Roddy has introduced a rich lasagne recipe featuring tomato sauce, three cheeses, and very small meatballs. Making lasagne is like a construction project, so it is important to match the size of the baking dish with the pasta sheets. This four-layer recipe takes inspiration from traditional cooking methods in Naples and Sicily.\n\nIn the preparation process, you first simmer olive oil, garlic, cherry tomatoes, and crushed tomatoes in a pan to make a delicious tomato sauce. The sausage meat is removed from its casings and shaped into tiny grape-sized balls with wet hands, then lightly fried. The ricotta cheese is softened with a little milk, and the mozzarella cheese is sliced thinly.\n\nGrease a baking dish, lay down the pasta sheets, and layer the prepared ingredients divided into four parts. The top layer does not include meatballs, but is finished with a scattering of parmesan cheese. Bake in an oven preheated to 190 degrees for 25 minutes, and let it rest for about 30 minutes before cutting.",
+      "hu": "Rachel Roddy brit ételkarmester bemutatott egy gazdag lasagne receptet paradicsomszósszal, három sajttal és apró húsgombócokkal. A lasagne készítése olyan, mint egy építkezés, ezért fontos összeilleszteni a sütőedény és a tésztalapok méretét. Ez a négyrétegű recept a nápolyi és szicíliai hagyományos főzési módszerekből merít ihletet.\n\nAz előkészítési folyamat során először olívaolajat, fokhagymát, cseresznyeparadicsomot és zúzott paradicsomot főz egy serpenyőben, hogy finom paradicsomszószt készítsen. A kolbászhúst kiszedik a burkolatából, nedves kézzel apró, szőlőszem nagyságú golyókká formálják, majd enyhén megsütik. A ricotta sajtot egy kevés tejjel lágyítják, a mozzarella sajtot pedig vékonyra szeletelik.\n\nKikenünk egy sütőedényt olajjal, letesszük a tésztalapokat, és rétegezzük az előkészített hozzávalókat, négy részre osztva. A legfelső réteg nem tartalmaz húsgombócot, de parmezán sajttal szórják meg. Süssük 190 fokra előmelegített sütőben 25 percig, majd szeletelés előtt pihentessük körülbelül 30 percig."
+    },
+    "vocab": [
+      {
+        "word": "레시피",
+        "meaning_en": "recipe",
+        "meaning_hu": "recept"
+      },
+      {
+        "word": "미트볼",
+        "meaning_en": "meatball",
+        "meaning_hu": "húsgombóc"
+      },
+      {
+        "word": "오븐",
+        "meaning_en": "oven",
+        "meaning_hu": "sütő"
+      },
+      {
+        "word": "준비하다",
+        "meaning_en": "to prepare",
+        "meaning_hu": "előkészíteni"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "라자냐를 만들 때 오븐 용기와 파스타 면의 크기를 맞추는 것이 왜 중요할까요?",
+        "eng": "Why is it important to match the size of the baking dish and pasta sheets when making lasagne?",
+        "hu": "Miért fontos összeilleszteni a sütőedény és a tésztalapok méretét a lasagne készítésekor?"
+      },
+      {
+        "kor": "요리를 완성한 후에 30분 동안 식히는 이유는 무엇일까요?",
+        "eng": "What is the reason for letting the dish rest for 30 minutes after cooking?",
+        "hu": "Mi az oka annak, hogy a főzés után 30 percig pihentetik az ételt?"
+      }
+    ]
   }
 ]
