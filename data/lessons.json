@@ -2,11 +2,1335 @@
   "featured": [
     {
       "id": "news-20261002-1",
-      "category": "Global & Society",
+      "category": "Tech & Future",
       "date": "2026.10.02",
       "level": "Intermediate",
       "levelNum": 4,
       "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "인공지능 회사 오픈에이아이(OpenAI), 중요한 정보를 다루는 규칙을 어겨 직원 3명을 해고했습니다",
+        "eng": "OpenAI fires three workers over mishandling 'sensitive information'",
+        "hu": "Az OpenAI három dolgozót bocsátott el 'érzékeny információk' helytelen kezelése miatt"
+      },
+      "desc": {
+        "kor": "인공지능 개발 회사인 오픈에이아이가 회사 규칙을 어긴 연구원 3명을 해고했습니다.",
+        "eng": "OpenAI has dismissed three researchers for allegedly mishandling sensitive company information.",
+        "hu": "Az OpenAI elbocsátott három kutatót érzékeny vállalati információk helytelen kezelése miatt."
+      },
+      "article": {
+        "kor": "인공지능 챗봇 '챗지피티(ChatGPT)'를 만든 회사인 오픈에이아이가 최근 직원 3명을 해고했습니다. 이들은 회사의 중요한 정보를 정해진 규칙과 다르게 다루었기 때문에 회사를 떠나게 되었습니다.\n\n오픈에이아이의 대변인은 이들의 행동이 회사의 규칙을 어기고 신뢰를 깨뜨렸다고 설명했습니다. 해고된 직원들의 이름은 알려지지 않았지만, 그중 최소 두 명은 인공지능의 안전을 연구하는 부서에서 일했습니다.\n\n이번 일은 인공지능 기술의 안전성과 위험성에 대한 걱정이 커지고 있는 가운데 일어났습니다. 많은 전문가와 지도자들이 인공지능 기술을 더 안전하게 관리해야 한다고 이야기하고 있습니다.",
+        "eng": "OpenAI, the creator of ChatGPT, has recently fired three workers. They had to leave the company because they handled important information outside of established company rules.\n\nAn OpenAI spokesperson explained that their actions broke company policies and trust. The names of the fired workers were not revealed, but at least two of them worked in safety research.\n\nThis event happened while worries about the safety and risks of artificial intelligence are growing. Many experts and leaders are saying that AI technology needs to be managed more safely.",
+        "hu": "Az OpenAI, a ChatGPT készítője nemrég három dolgozót bocsátott el. Azért kellett elhagyniuk a céget, mert a fontos információkat a megállapodott szabályokon kívül kezelték.\n\nAz OpenAI szóvivője elmagyarázta, hogy a tetteik megsértették a cég szabályait és a bizalmat. Az elbocsátott dolgozók nevét nem hozták nyilvánosságra, de legalább ketten közülük a biztonsági kutatás területén dolgoztak.\n\nEz az eset akkor történt, amikor növekszik az aggodalom a mesterséges intelligencia biztonsága és kockázatai miatt. Számos szakértő és vezető mondja azt, hogy az MI-technológiát biztonságosabban kell kezelni."
+      },
+      "vocab": [
+        {
+          "word": "해고하다",
+          "meaning_en": "to fire, to dismiss",
+          "meaning_hu": "elbocsátani"
+        },
+        {
+          "word": "규칙",
+          "meaning_en": "rule, policy",
+          "meaning_hu": "szabály"
+        },
+        {
+          "word": "안전",
+          "meaning_en": "safety",
+          "meaning_hu": "biztonság"
+        },
+        {
+          "word": "위험성",
+          "meaning_en": "risk",
+          "meaning_hu": "kockázat"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "오픈에이아이가 직원들을 해고한 이유는 무엇인가요?",
+          "eng": "Why did OpenAI fire the workers?",
+          "hu": "Miért bocsátotta el az OpenAI a dolgozókat?"
+        },
+        {
+          "kor": "인공지능 기술을 사용할 때 왜 안전이 중요할까요?",
+          "eng": "Why is safety important when using AI technology?",
+          "hu": "Miért fontos a biztonság a mesterséges intelligencia használatakor?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-2",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국 중앙은행 총재, 인공지능 규제보다 철저한 검증이 먼저다",
+        "eng": "Regulating AI 'not the right place to start' says Bailey",
+        "hu": "A Bank of England elnöke szerint nem a szabályozással kell kezdeni az MI-t"
+      },
+      "desc": {
+        "kor": "앤드루 베일리 영국 중앙은행 총재는 인공지능(AI) 규제를 서두르기보다 철저한 검증과 위험 관리가 먼저라고 강조했다.",
+        "eng": "Bank of England Governor Andrew Bailey says rigorous testing of AI is needed before jumping straight into regulation.",
+        "hu": "A Bank of England kormányzója szerint az MI szigorú tesztelése fontosabb a korai szabályozásnál."
+      },
+      "article": {
+        "kor": "앤드루 베일리 영국 중앙은행 총재가 인공지능(AI) 기술과 관련해 새로운 입장을 밝혔다. 그는 AI를 바로 규제하는 것은 올바른 시작이 아니라고 말했다. 대신에 위험을 찾기 위한 철저한 검증이 먼저 필요하다고 강조했다.\n\n그는 AI 개발을 멈추거나 금지해서는 안 된다고 설명했다. AI 기술이 가져다줄 이점이 매우 크기 때문이다. 다만 AI가 안전하게 작동할 수 있도록 명확한 기준과 개입 시스템을 만들어야 한다고 덧붙였다.\n\n현재 세계적으로 AI의 위험성과 안전성에 대한 논의가 활발하다. 영국의 경우 AI 안전 연구소를 통해 기술을 검증하는 중요한 작업이 진행 중이다. 베일리 총재는 검증 과정에서 실패가 발생하더라도 그것은 검증이 필요하다는 증거라고 말했다.",
+        "eng": "Bank of England Governor Andrew Bailey has stated that regulating artificial intelligence immediately is not the right approach. Instead, he called for rigorous testing to identify vulnerabilities and establish safeguards. He emphasized that AI development should not be halted because the benefits are immense, but a system of intervention is necessary. Globally, discussions about AI risks have intensified, and the UK is currently working on safety testing through its AI Security Institute. Bailey noted that unexpected failures during testing simply prove why such testing is necessary in the first place.",
+        "hu": "A Bank of England kormányzója, Andrew Bailey kijelentette, hogy a mesterséges intelligencia azonnali szabályozása nem a megfelelő megközelítés. Ehelyett szigorú tesztelést szorgalmazott a hibák feltárására és a biztonsági intézkedések kidolgozására. Hangsúlyozta, hogy az MI fejlesztését nem szabad leállítani, mivel a benne rejlő előnyök hatalmasak. Globálisan intenzívebbé váltak a viták az MI kockázatairól, és az Egyesült Királyság már teszteli is a technológiát. Bailey megjegyezte, hogy a tesztek során fellépő hibák éppen azt bizonyítják, hogy szükség van a vizsgálatokra."
+      },
+      "vocab": [
+        {
+          "word": "인공지능",
+          "meaning_en": "Artificial Intelligence (AI)",
+          "meaning_hu": "Mesterséges intelligencia (MI)"
+        },
+        {
+          "word": "규제",
+          "meaning_en": "Regulation",
+          "meaning_hu": "Szabályozás"
+        },
+        {
+          "word": "검증",
+          "meaning_en": "Verification / Testing",
+          "meaning_hu": "Ellenőrzés / Tesztelés"
+        },
+        {
+          "word": "위험",
+          "meaning_en": "Risk",
+          "meaning_hu": "Kockázat"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "인공지능 기술을 규제하는 것과 먼저 검증하는 것 중 어느 것이 더 중요하다고 생각합니까?",
+          "eng": "Do you think regulating AI or testing it first is more important?",
+          "hu": "Ön szerint mi a fontosabb: az MI szabályozása vagy előbb a tesztelése?"
+        },
+        {
+          "kor": "여러분이 생각하는 인공지능 기술의 가장 큰 장점과 단점은 무엇입니까?",
+          "eng": "What do you think are the biggest pros and cons of AI technology?",
+          "hu": "Ön szerint mik az MI technológia legfőbb előnyei és hátrányai?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-3",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "왓츠앱, 청소년을 위한 새로운 부모 통제 기능 도입",
+        "eng": "WhatsApp introduces optional parental controls for teenagers",
+        "hu": "A WhatsApp választható szülői felügyeletet vezet be tizenévesek számára"
+      },
+      "desc": {
+        "kor": "메신저 앱 왓츠앱이 청소년 보호를 위해 부모가 설정할 수 있는 새로운 관리 기능을 도입했습니다.",
+        "eng": "Messaging app WhatsApp has introduced new parental control features to better protect teenagers.",
+        "hu": "A WhatsApp üzenetküldő alkalmazás új szülői felügyeleti funkciókat vezetett be a tizenévesek védelmében."
+      },
+      "article": {
+        "kor": "인기 메신저 앱인 왓츠앱이 청소년 사용자를 위한 새로운 부모 통제 기능을 도입했습니다. 최근 기술 기업들은 어린이와 청소년을 더 안전하게 보호해야 한다는 정부와 규제 기관의 압박을 받고 있습니다. 왓츠앱의 새로운 도구를 통해 부모는 자녀가 대화방에 들어가거나 나갈 때 알림을 받을 수 있습니다. 또한 자녀 계정의 개인정보 보호 설정을 관리하는 것도 가능해졌습니다.\n\n하지만 왓츠앱은 부모가 자녀의 실제 메시지 내용을 볼 수는 없다고 분명히 밝혔습니다. 모든 대화와 통화는 여전히 철저한 보안 기술로 보호되기 때문에 사생활이 유지됩니다. 이 기능들은 필수가 아니라 선택 사항이어서, 일부 전문가들은 과연 얼마나 많은 가족이 실제로 이 기능을 사용할지 의문이라고 지적합니다. 또한 이번 조치가 부모와 청소년에게 일부 책임을 넘겨줌으로써 회사의 부담을 줄이려는 의도라는 분석도 나옵니다.\n\n부모는 핀 번호를 사용하여 설정 화면을 쉽게 관리할 수 있으며, 필요할 때 언제든지 기능을 켜거나 끌 수 있습니다. 프로필 사진을 볼 수 있는 사람을 제한하거나, 인공지능 비서의 이용 방식을 엄격하게 설정하는 등의 기능도 포함되어 있습니다. 왓츠앱 측은 이러한 도구가 부모와 자녀가 안전한 앱 사용에 대해 더 많이 대화할 수 있도록 돕기 위해 만들어졌다고 설명했습니다.",
+        "eng": "Popular messaging app WhatsApp has introduced new parental control features for teenage users. Recently, tech companies have faced increasing pressure from governments and regulators to provide safer experiences for children. With WhatsApp's new tools, parents can receive notifications when their child joins or leaves a group chat. They can also manage the privacy settings of their child's account.\n\nHowever, WhatsApp clarified that parents will not be able to see the actual messages sent and received by their teens. All messages and calls remain private and protected by encryption technology. Because these controls are optional, some analysts question whether enough families will actually use them. There are also opinions that this move reduces the company's responsibility by shifting some duties to parents and teenagers.\n\nParents can easily manage the settings using a PIN and can turn the features on or off whenever they want. The new tools include selecting who can view a profile photo and choosing a stricter content option for the app's AI assistant. WhatsApp stated that these controls are designed to support open conversations between parents and teens about safe app usage while keeping personal messages private.",
+        "hu": "A népszerű üzenetküldő alkalmazás, a WhatsApp új szülői felügyeleti funkciókat vezetett be a tizenéves felhasználók számára. Az utóbbi időben a technológiai vállalatok egyre nagyobb nyomásnak vannak kitéve a kormányok és a hatóságok részéről, hogy biztonságosabb élményeket nyújtsanak a gyermekeknek. A WhatsApp új eszközei révén a szülők értesítést kaphatnak, amikor gyermekük csatlakozik egy csoportos csevegéshez vagy elhagyja azt. Emellett a gyermek fiókjának adatvédelmi beállításait is kezelhetik.\n\nA WhatsApp azonban tisztázta, hogy a szülők nem láthatják a tizenévesek által elküldött és fogadott üzeneteket. Minden üzenet és hívás privát marad, és titkosítás védi őket. Mivel ezek a felügyeleti eszközök nem kötelezőek, egyes elemzők megkérdőjelezik, hogy elegendő család fogja-e valóban használni őket. Olyan vélemények is léteznek, amelyek szerint ez a lépés csökkenti a vállalat felelősségét azáltal, hogy a feladatok egy részét a szülőkre és a fiatalokra hárítja.\n\nA szülők egy PIN-kód segítségével egyszerűen kezelhetik a beállításokat, és bármikor be- vagy kikapcsolhatják a funkciókat. Az új eszközök magukban foglalják annak kiválasztását, hogy ki láthatja a profilképet, valamint az alkalmazás mesterséges intelligenciájának szigorúbb tartalombeállítását. A WhatsApp nyilatkozata szerint ezeket a vezérlőket úgy tervezték, hogy elősegítsék a szülők és a tizenévesek közötti nyílt beszélgetéseket a biztonságos alkalmazáshasználatról, miközben a személyes üzenetek magánjellegűek maradnak."
+      },
+      "vocab": [
+        {
+          "word": "통제",
+          "meaning_en": "control",
+          "meaning_hu": "irányítás, felügyelet"
+        },
+        {
+          "word": "사생활",
+          "meaning_en": "private life / privacy",
+          "meaning_hu": "magánélet"
+        },
+        {
+          "word": "선택 사항",
+          "meaning_en": "optional matter / choice",
+          "meaning_hu": "választható opció"
+        },
+        {
+          "word": "책임",
+          "meaning_en": "responsibility",
+          "meaning_hu": "felelősség"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "청소년을 위한 소셜미디어 부모 통제 기능이 실제로 얼마나 효과가 있을까요?",
+          "eng": "How effective do you think parental control features on social media for teenagers will actually be?",
+          "hu": "Ön szerint mennyi lesz a valós hatékonysága a tizenéveseknek szóló közösségi média szülői felügyeleti funkcióknak?"
+        },
+        {
+          "kor": "청소년의 온라인 활동을 보호하기 위해 부모와 기업 중 누구에게 더 큰 책임이 있다고 생각하십니까?",
+          "eng": "Between parents and tech companies, who do you think bears more responsibility for protecting teenagers' online activities?",
+          "hu": "A szülők vagy a technológiai vállalatok viselik Ön szerint a nagyobb felelősséget a tizenévesek online tevékenységének védelméért?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-4",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "오픈에이아이, 새로운 인공지능 비서 '닷츠' 공개와 안전성 우려",
+        "eng": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+        "hu": "Az OpenAI bemutatta a 'dots' nevű AI-asszisztenst, miközben biztonsági aggályok merülnek fel"
+      },
+      "desc": {
+        "kor": "오픈에이아이가 자율적으로 작업을 수행하는 새로운 AI 비서 '닷츠'를 공개한 동시에, 안전성 확보를 위한 신중한 접근과 규제 논의를 이어가고 있습니다.",
+        "eng": "OpenAI unveils its new autonomous AI assistant 'dots' while addressing safety concerns and regulatory discussions.",
+        "hu": "Az OpenAI bemutatta új, önálló feladatellátásra képes AI-asszisztensét, a 'dots'-ot, miközben a biztonsági kérdések is előtérbe kerülnek."
+      },
+      "article": {
+        "kor": "오픈에이아이는 최근 샌프란시스코에서 열린 연례 개발자 행사를 통해 사용자를 대신해 자율적으로 업무를 수행하는 새로운 인공지능 비서인 '닷츠'를 공개했습니다. 최고경영자인 샘 알트먼은 이 도구가 사용자가 생각하는 거의 모든 일을 처리할 수 있는 유능하고 상시 작동하는 에이전트라고 설명했습니다. 행사에서 상영된 홍보 영상 속의 닷츠는 웹사이트 제작이나 방과 후 활동 예약 등 다양한 일상 업무를 스스로 수행하는 모습을 보여주었습니다.\n\n이러한 기술 공개와 동시에 오픈에이아이의 경영진은 도널드 트럼프 미국 대통령을 만나 인공지능 분야의 규제와 자체 정화 방안에 대해 논의했습니다. 트럼프 대통령은 인공지능 기업들이 스스로 규제해야 한다는 입장을 거듭 강조했으며, 산업을 감독할 위원회 신설 가능성 등이 언급되었습니다. 최근 내부 테스트 과정에서 예상치 못한 문제가 발견되면서 인공지능 에이전트의 위험성에 대한 철저한 검증의 필요성이 대두되고 있습니다.\n\n한편 오픈에이아이는 안전성에 대한 확실한 검증이 이루어질 때까지 기업공개를 서두르지 않겠다는 기존의 입장을 재확인했습니다. 알트먼은 인공지능의 기술적 역량이 급격히 발전함에 따라 이를 통제하고 모니터링하는 안전장치가 기술의 속도를 앞서갈 수 있도록 충분한 시간을 갖겠다고 밝혔습니다.\n\n일부 연구자들과 업계 관계자들은 인공지능 모델의 부작용과 위험성이 드러남에 따라 개발 속도를 조절해야 한다는 목소리를 높이고 있습니다. 이에 대해 알트먼은 극단적인 치우침을 경계하며 산업계가 더욱 합리적이고 실용적인 태도를 찾아내기를 희망한다고 덧붙였습니다.",
+        "eng": "OpenAI has unveiled its new artificial intelligence assistant, 'dots', at its annual developer event in San Francisco, designed to autonomously perform tasks on behalf users. Chief Executive Sam Altman described the tool as a remarkably capable, always-on agent capable of handling a wide variety of tasks. Promotional videos demonstrated the AI handling responsibilities such as building websites and booking after-school activities.\n\nSimultaneously, OpenAI leadership met with US President Donald Trump to discuss regulation and self-governance within the sector. President Trump reiterated his stance that artificial intelligence companies should practice self-regulation, with discussions touching on the potential creation of an oversight committee. These developments coincide with internal testing that revealed unexpected actions, highlighting heightened scrutiny over AI agent safety.\n\nFurthermore, OpenAI reaffirmed its decision to postpone its anticipated stock market debut until confident safety determinations can be made. Altman emphasized that the company requires adequate time to ensure that alignment, monitoring, and security measures outpace rapid technological capabilities.\n\nAmidst calls from some researchers and industry leaders to slow down development due to emerging breaches and safety concerns, Altman advocated for a pragmatic path forward. He expressed hope that the broader industry will adopt a sensible and balanced approach moving ahead.",
+        "hu": "Az OpenAI a San Franciscóban megrendezett éves fejlesztői konferenciáján bemutatta új, 'dots' nevű mesterséges intelligencia asszisztensét, amely önállóan képes a felhasználók helyett feladatokat végezni. Sam Altman vezérigazgató rendkívül alkalmas, folyamatosan működő ügynökként jellemezte az eszközt. A bemutató során látható videók bemutatták, hogyan kezel a rendszer olyan feladatokat, mint a weboldalkészítés vagy a délutáni programok foglalása.\n\nEzzel párhuzamosan az OpenAI vezetősége találkozott Donald Trump amerikai elnökkel, hogy az ágazati szabályozásról és az önkorlátozásról tárgyaljon. Trump elnök megismételte álláspontját, miszerint a technológiai cégeknek maguknak kellene szabályozniuk tevékenységüket. Ezek a fejlemények olyan belső tesztek hátterében zajlanak, amelyek váratlan kockázatokat tártak fel, így növelve a biztonsági ellenőrzések fontosságát.\n\nEmellett az OpenAI megerősítette azon szándékát, hogy elhalasztja a várva várt tőzsdei bevezetését mindaddig, amíg a biztonsági döntések nem teljesen megalapozottak. Altman hangsúlyozza, hogy időre van szükség annak biztosítására, hogy a biztonsági és felügyeleti intézkedések lépést tartsanak a technológiai fejlődéssel.\n\nMíg egyes kutatók és iparági vezetők a fejlesztés lassítását szorgalmazzák a kockázatok miatt, Altman pragmatikus utat szorgalmaz. Reményét fejezte ki, hogy az iparág egésze értelmes és kiegyensúlyozott megközelítést fog követni a jövőben."
+      },
+      "vocab": [
+        {
+          "word": "인공지능",
+          "meaning_en": "artificial intelligence",
+          "meaning_hu": "mesterséges intelligencia"
+        },
+        {
+          "word": "자율적으로",
+          "meaning_en": "autonomously",
+          "meaning_hu": "önállóan, autonóm módon"
+        },
+        {
+          "word": "규제",
+          "meaning_en": "regulation",
+          "meaning_hu": "szabályozás"
+        },
+        {
+          "word": "검증",
+          "meaning_en": "verification / validation",
+          "meaning_hu": "ellenőrzés, hitelesítés"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "인공지능 비서가 스스로 결정을 내리고 작업을 수행하는 것에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about AI assistants making autonomous decisions and performing tasks?",
+          "hu": "Mit gondol arról, hogy a mesterséges intelligencia asszisztensek önálló döntéseket hoznak és feladatokat hajtanak végre?"
+        },
+        {
+          "kor": "인공지능 기술의 발전 속도와 안전성을 위한 규제 중 어느 것이 더 중요하다고 보십니까?",
+          "eng": "Which do you think is more important: the speed of AI technological development or regulations for safety?",
+          "hu": "Ön szerint mi a fontosabb: a mesterséges intelligencia technológiai fejlődésének sebessége vagy a biztonsági szabályozások?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-5",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 8,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "도널드 트럼프 대통령과 최고 기술 경영자들이 백악관에서 개최한 인공지능 정상회의의 주요 핵심 3가지",
+        "eng": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "hu": "Három tanulság Trump „Szuperintelligencia” csúcstalálkozójáról"
+      },
+      "desc": {
+        "kor": "미국 대통령 도널드 트럼프가 백악관에서 주요 인공지능 기업 최고경영자들과 만나 인공지능 안전을 위한 합의문에 서명했습니다.",
+        "eng": "US President Donald Trump hosted tech leaders at the White House, where they signed an agreement focusing on AI safety.",
+        "hu": "Donald Trump amerikai elnök technológiai vezetőket látott vendégül a Fehér Házban, ahol aláírtak egy, a mesterséges intelligencia biztonságára összpontosító megállapodást."
+      },
+      "article": {
+        "kor": "도널드 트럼프 미국 대통령은 화요일 백악관에서 미국의 인공지능 산업을 이끄는 주요 최고경영자들을 초청하여 대규모 기술 정상회의를 주재했습니다. 이번 회의에는 오픈AI, 앤트로픽, 엔비디아, 스페이스X, 메타, 구글 등의 핵심 임원들이 참석하여 인공지능의 미래와 발전 방향을 논의했습니다. 이는 일부 기술 전문가들이 인류에게 잠재적인 위험을 초래할 수 있는 인공지능에 대해 더욱 엄격한 규제를 요구하는 시점에 이루어졌습니다.\n\n비공개 회의 이후 트럼프 대통령은 최고 기술 경영자들과 함께 언론의 질문에 답변하며, 참석자들이 '도덕적 구속력'을 지닌 문서에 서명했다고 밝혔습니다. 온라인에 공개된 해당 합의서에 따르면, 인공지능 기업들은 자사 기술의 안전성을 보장하고 모델이 의도대로 작동하도록 안전장치를 구현할 책임이 있습니다. 또한 기업들은 독립적인 감사관들과 협력하여 인공지능 시스템이 의도대로 작동하는지 평가하고 기술적 시스템에 무단으로 접근하지 못하도록 보장하기로 합의했습니다.\n\n서명식에는 구글의 순다르 피차이, 앤트로픽의 다리오 아모데이, 메타의 마크 저커버그, 오픈AI의 그레그 브록만, 스페이스X의 일론 머스크, 엔비디아의 젠슨 황 등 세계적인 기술 기업 수장들이 참여했습니다. 트럼프 대통령은 이 문서를 헌법에 비유하며 세계적인 기업들과 자신이 직접 서명했다고 강조했습니다. 아울러 그는 인공지능 도구의 안전성을 감독할 위원회를 설립할 예정이라고 덧붙였습니다.\n\n저커버그는 이번 합의가 미국 국민과 소비자에게 기술의 신뢰성을 제공한다고 평가하며 역사적인 대화라고 언급했습니다. 앤트로픽의 아모데이는 대통령의 과거 발언을 인용하며 안전하게 승리하는 방법이라고 평가했습니다. 그러나 이러한 긍정적인 평가에도 불구하고 일부 기술 전문가들은 이번 합의서의 실효성에 대해 여전히 의구심을 품고 있습니다.",
+        "eng": "US President Donald Trump hosted a meeting of top technology bosses on Tuesday for an extraordinary gathering at the White House. The guest list included leaders from OpenAI, Anthropic, Nvidia, SpaceX, Meta, and Google, as experts call for tighter oversight of AI. The meeting came as some tech executives cited concerns about potential risks posed to humanity.\n\nFollowing the closed-door meeting, Trump announced that executives signed a morally binding document serving as protection from AI risks. Under the agreement, companies are responsible for ensuring the safety of their technology and implementing safeguards. Firms also agreed to work with independent auditors to assess their systems and ensure platforms do not hack technical systems unintentionally.\n\nThe accord was signed by prominent tech leaders including Sundar Pichai, Dario Amodei, Mark Zuckerberg, Greg Brockman, Elon Musk, and Jensen Huang. Trump compared the document to a constitution and announced plans to set up a board to oversee AI safety tools. Participants praised the historic conversation for giving customers confidence in technology.\n\nDespite the high-profile agreement, not all technology experts are impressed with the accord. The ongoing debate highlights the complex challenges surrounding artificial intelligence regulation and safety governance. As the industry rapidly evolves, establishing effective oversight remains a critical global priority.",
+        "hu": "Donald Trump amerikai elnök kedden a Fehér Házban rendezett csúcstalálkozót a vezető technológiai cégek vezetőivel. A résztvevők között szerepeltek az OpenAI, az Anthropic, az Nvidia, a SpaceX, a Meta és a Google vezetői. A találkozóra amiatt került sor, hogy egyes szakértők szigorúbb felügyeletet követelnek az MI emberiségre jelentő kockázatai miatt.\n\nA zárt ajtók mögötti megbeszélést követően Trump bejelentette, hogy a vezetők aláírtak egy erkölcsi kötőerejű dokumentumot. A megállapodás értelmében a vállalatok felelősek a technológiájuk biztonságáért és a védelmi intézkedések végrehajtásáért. A cégek független auditorokkal is együttműködnek rendszereik értékelése érdekében.\n\nA megállapodást olyan prominens vezető írták alá, mint Sundar Pichai, Mark Zuckerberg és Elon Musk. Trump az alkotmányhoz hasonlította a dokumentumot, és egy felügyelőbizottság felállítását ígérte. A résztvevők történelmi beszélgetésnek nevezték az eseményt.\n\nA pozitív értékelések ellenére nem minden technológiai szakértő lenyűgözött a megállapodástól. A vita továbbra is fennáll a mesterséges intelligencia szabályozásának hatékonyságáról."
+      },
+      "vocab": [
+        {
+          "word": "최고경영자",
+          "meaning_en": "Chief Executive Officer (CEO)",
+          "meaning_hu": "vezérigazgató"
+        },
+        {
+          "word": "구속력",
+          "meaning_en": "binding force",
+          "meaning_hu": "kötelező erejű hatás"
+        },
+        {
+          "word": "안전장치",
+          "meaning_en": "safety safeguard",
+          "meaning_hu": "biztonsági intézkedés"
+        },
+        {
+          "word": "독립적",
+          "meaning_en": "independent",
+          "meaning_hu": "független"
+        },
+        {
+          "word": "감독",
+          "meaning_en": "oversight / supervision",
+          "meaning_hu": "felügyelet"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "인공지능 기술의 급격한 발전에 따라 정부와 기업이 어떤 규제와 안전장치를 마련해야 한다고 생각하십니까?",
+          "eng": "What regulations and safety measures do you think governments and corporations should implement as AI technology rapidly evolves?",
+          "hu": "Milyen szabályozásokat és biztonsági intézkedéseket kellene bevezetniük a kormányoknak és vállalatoknak az MI gyors fejlődésével?"
+        },
+        {
+          "kor": "기업들이 자발적으로 서명한 도덕적 구속력을 가진 합의가 실제 인공지능의 위험을 예방하는 데 얼마나 효과적일까요?",
+          "eng": "How effective do you think a voluntary, morally binding agreement signed by tech firms will be in actually preventing AI risks?",
+          "hu": "Mennyire tartja hatékonynak a technológiai cégek által önkéntesen aláírt megállapodást az MI kockázatainak megelőzésében?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-6",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국 정치인이 노인 돌봄을 위한 새로운 계획을 말했습니다",
+        "eng": "British politician announces new plan for elderly care",
+        "hu": "Egy brit politikus új tervet jelentett be az idősek gondozására"
+      },
+      "desc": {
+        "kor": "앤디 번햄 총리가 2030년에 연금 제도를 바꾸어 돌봄 서비스를 돕겠다고 말했습니다.",
+        "eng": "Prime Minister Andy Burnham said he will change the pension system in 2030 to help care services.",
+        "hu": "Andy Burnham miniszterelnök elmondta, hogy 2030-ban megváltoztatja a nyugdíjrendszert a gondozási szolgáltatások támogatására."
+      },
+      "article": {
+        "kor": "영국의 앤디 번햄 총리가 새로운 돌봄 서비스를 만들기 위한 계획을 발표했습니다. 번햄 총리는 2030년부터 나라의 연금 주는 방법을 조금 바꾸겠다고 말했습니다. 이 방법으로 아낀 돈은 모두 아픈 사람들을 돌보는 일에 사용됩니다. 새로운 돌봄 서비스는 사람들의 생활을 더 안전하게 만들 것입니다.",
+        "eng": "British Prime Minister Andy Burnham announced a plan to create a new care service. Prime Minister Burnham said that starting in 2030, he will slightly change how the country gives out pensions. The money saved this way will be used entirely to help care for sick people. The new care service will make people's lives safer.",
+        "hu": "Andy Burnham brit miniszterelnök bejelentett egy tervet egy új gondozási szolgáltatás létrehozására. Burnham miniszterelnök elmondta, hogy 2030-tól kissé megváltoztatja az ország nyugdíjkifizetési rendszerét. Az így megspórolt pénzt a betegek ápolására fordítják. Az új gondozási szolgáltatás biztonságosabbá teszi az emberek életét."
+      },
+      "vocab": [
+        {
+          "word": "연금",
+          "meaning_en": "pension",
+          "meaning_hu": "nyugdíj"
+        },
+        {
+          "word": "계획",
+          "meaning_en": "plan",
+          "meaning_hu": "terv"
+        },
+        {
+          "word": "돌봄",
+          "meaning_en": "care",
+          "meaning_hu": "gondozás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "당신은 나라에서 노인을 돌보는 일이 왜 중요하다고 생각합니까?",
+          "eng": "Why do you think caring for the elderly is important in a country?",
+          "hu": "Miért tartja fontosnak az idősek gondozását egy országban?"
+        },
+        {
+          "kor": "늙었을 때 가장 필요한 것은 무엇이라고 생각합니까?",
+          "eng": "What do you think is most needed when people get old?",
+          "hu": "Ön szerint mire van a legnagyobb szükség idősebb korban?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-7",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국 병원, 환자 기록을 몰래 본 직원을 바로 정직 처분합니다",
+        "eng": "NHS to suspend staff suspected of snooping on patient records",
+        "hu": "Az NHS felfüggeszti a betegrekordokban kutakodással gyanúsított személyzetet"
+      },
+      "desc": {
+        "kor": "영국 보건 서비스(NHS)가 환자의 의료 기록을 허락 없이 보는 직원들을 바로 일하지 못하게 하겠다고 발표했습니다.",
+        "eng": "The NHS in England announced immediate suspensions for staff who look at patient records without permission.",
+        "hu": "Az angliai NHS bejelentette, hogy azonnal felfüggeszti azokat a dolgozókat, akik engedély nélkül nézik meg a betegrekordokat."
+      },
+      "article": {
+        "kor": "영국 보건 서비스(NHS)는 환자의 의료 기록을 몰래 보는 직원들을 엄격하게 벌인다고 발표했습니다. 이유 없이 환자 기록을 본 의심을 받는 직원은 즉시 일을 할 수 없게 됩니다. 그리고 병원 컴퓨터 시스템을 사용할 수 없도록 막을 것입니다.\n\n이런 규칙은 최근 병원 직원들이 유명한 사건의 피해자나 다른 사람의 의료 기록을 허락 없이 보았기 때문에 생겼습니다. 병원 측은 환자의 개인 정보를 지키는 것이 아주 중요하다고 말했습니다. 앞으로 환자 기록을 몰래 보는 직원은 일을 잃거나 법의 처벌을 받을 수 있습니다.",
+        "eng": "The UK's NHS announced strict punishments for staff who secretly look at patient records. Workers suspected of viewing patient records without a valid reason will be suspended immediately. They will also be blocked from using hospital computer systems.\n\nThese rules were introduced because hospital staff recently viewed the medical records of victims in high-profile cases without permission. The NHS said protecting patients' private information is very important. In the future, staff who snoop on patient records could lose their jobs or face criminal charges.",
+        "hu": "Az Egyesült Királyság NHS-e szigorú büntetéseket jelentett be azoknak a dolgozóknak, akik titokban megnézik a betegrekordokat. Azokat a munkatársakat, akiket azzal gyanúsítanak, hogy érvényes ok nélkül nézik a betegrekordokat, azonnal felfüggesztik. Emellett le tiltják őket a kórházi számítógépes rendszerekről is.\n\nEzeket a szabályokat azért vezették be, mert a kórházi személyzet a közelmúltban engedély nélkül megtekintette a híres esetek áldozatainak orvosi feljegyzéseit. Az NHS szerint a betegek magánadatainak védelme nagyon fontos. A jövőben a betegrekordokban kutakodó dolgozók elveszíthetik állásukat, vagy büntetőeljárással nézhetnek szembe."
+      },
+      "vocab": [
+        {
+          "word": "기록",
+          "meaning_en": "record",
+          "meaning_hu": ""
+        },
+        {
+          "word": "직원",
+          "meaning_en": "staff, employee",
+          "meaning_hu": ""
+        },
+        {
+          "word": "정보",
+          "meaning_en": "information",
+          "meaning_hu": ""
+        }
+      ],
+      "questions": [
+        {
+          "kor": "왜 환자의 의료 기록을 몰래 보면 안 될까요?",
+          "eng": "Why is it wrong to secretly look at patient medical records?",
+          "hu": "Miért helytelen titokban megnézni a betegek orvosi feljegyzéseit?"
+        },
+        {
+          "kor": "다른 사람의 비밀을 지키는 것이 왜 중요할까요?",
+          "eng": "Why is it important to keep other people's secrets?",
+          "hu": "Miért fontos mások titkainak megőrzése?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-8",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "젊은 사람들이 달리기 대신 근육 운동을 하는 이유",
+        "eng": "Why young people are swapping cardio for strength training",
+        "hu": "Miért cserélik le a fiatalok a kardiót erősítő edzésre"
+      },
+      "desc": {
+        "kor": "최근 많은 젊은 사람들이 달리기 같은 유산소 운동보다 무거운 것을 드는 근력 운동을 더 많이 하고 있습니다.",
+        "eng": "Many young people are choosing strength training over cardio for better health and fitness.",
+        "hu": "Sok fiatal választja a kardió helyett az erősítő edzést a jobb egészség érdekében."
+      },
+      "article": {
+        "kor": "요즘 많은 젊은 사람들이 헬스장에서 달리기 기계나 자전거 대신 무거운 덤벨과 바벨을 사용하는 근육 운동을 더 많이 하고 있습니다. 전문가들은 이러한 근육 운동이 몸을 건강하게 만들고 뼈를 튼튼하게 지켜준다고 말합니다. 또한 소셜 미디어를 통해 운동하는 모습을 쉽게 볼 수 있어서 젊은 사람들이 운동에 더 쉽게 관심을 가지게 되었습니다.\n\n근육 운동은 몸을 튼튼하게 만들 뿐만 아니라 기분을 좋게 하고 마음도 건강하게 만들어 줍니다. 일주일에 두 시간 정도 꾸준히 근육 운동을 하면 심장병이나 뇌 질환의 위험을 줄이는 데 도움이 됩니다. 그래서 많은 사람들은 혼자 운동하는 것보다 다른 사람들과 함께 어울려서 즐겁게 운동을 계속하고 있습니다.",
+        "eng": "These days, many young people at the gym are doing more strength training with heavy dumbbells and barbells instead of using running machines and bicycles. Experts say that these muscle exercises make the body healthy and keep bones strong. Also, because it is easy to see people working out through social media, young people have become more interested in exercise.\n\nStrength training not only makes the body strong, but it also improves mood and keeps the mind healthy. Doing strength training regularly for about two hours a week helps reduce the risk of heart disease and brain stroke. Therefore, many people continue to exercise happily by gathering with others rather than working out alone.",
+        "hu": "Napjainkban sok fiatal végez több erősítő edzést nehéz súlyzókkal a futópadok vagy kerékpárok helyett az edzőteremben. A szakértők szerint ezek az izomgyakorlatok egészségesebbé teszik a testet és erősen tartják a csontokat. Emellett a közösségi médián keresztül könnyen látható az edzés, így a fiatalok jobban érdeklődnek a mozgás iránt.\n\nAz erősítő edzés nemcsak erőssé teszi a testet, hanem javítja a hangulatot és az elme egészségét is. A heti rendszerességgel végzett, körülbelül két óra hosszúságú erősítő edzés segít csökkenteni a szívbetegségek kockázatát. Ezért sokan inkább másokkal együtt, közösségben élvezik a testmozgást ahelyett, hogy egyedül edzenének."
+      },
+      "vocab": [
+        {
+          "word": "운동",
+          "meaning_en": "exercise",
+          "meaning_hu": "edzés, mozgás"
+        },
+        {
+          "word": "건강",
+          "meaning_en": "health",
+          "meaning_hu": "egészség"
+        },
+        {
+          "word": "전문가",
+          "meaning_en": "expert",
+          "meaning_hu": "szakértő"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 달리기와 근육 운동 중에 어떤 운동을 더 좋아합니까?",
+          "eng": "Which do you prefer, running or strength training?",
+          "hu": "Melyiket kedveli jobban: a futást vagy az erősítő edzést?"
+        },
+        {
+          "kor": "운동을 할 때 혼자 하는 것과 다른 사람과 함께 하는 것 중 어느 것이 더 좋습니까?",
+          "eng": "Do you prefer exercising alone or with other people?",
+          "hu": "Jobban szeret egyedül edzeni vagy másokkal együtt?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-9",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국 병원, 몇 주 걸리던 뇌종양 진단을 몇 시간 만에 끝내는 새 검사 도입",
+        "eng": "New rapid test transforms brain tumour diagnosis from weeks to hours in the UK",
+        "hu": "Új, gyors teszt alakítja át az agydaganatok diagnosztizálását hetekről órákra az Egyesült Királyságban"
+      },
+      "desc": {
+        "kor": "영국 NHS가 뇌종양 진단 시간을 몇 주에서 단 두 시간으로 줄여주는 새로운 유전체 검사를 시작했습니다.",
+        "eng": "The UK NHS has started using a new rapid genomic test that reduces brain tumour diagnosis time from weeks to just two hours.",
+        "hu": "Az Egyesült Királyság NHS-e új, gyors genetikai tesztet kezdett használni, amely hetekről mindössze két órára csökkenti az agydaganat diagnosztizálásának idejét."
+      },
+      "article": {
+        "kor": "영국 보건 서비스(NHS)가 뇌종양을 빠르게 진단할 수 있는 새로운 검사를 시작했습니다. 이 검사를 사용하면 환자의 정확한 진단 결과를 얻는 데 걸리는 시간이 최대 8주에서 단 2시간으로 줄어듭니다.\n\n55세의 스티브 팔머 씨는 이 새로운 기술 덕분에 수술 중에 결과를 받을 수 있었습니다. 그는 빠른 진단 덕분에 몇 주 동안의 불안감을 없앨 수 있었다고 말했습니다.\n\n의사들은 뇌종양의 종류를 빨리 알게 되면서 환자에게 더 알맞은 치료를 바로 시작할 수 있습니다. 전문가들은 이 기술이 환자들의 치료를 돕고 걱정을 줄여줄 것이라고 기대합니다.",
+        "eng": "The UK National Health Service (NHS) has started a new test that can quickly diagnose brain tumours. Using this test, the time it takes to get an accurate diagnosis is reduced from up to eight weeks down to just two hours.\n\nSteve Palmer, 55, was able to receive his result while he was still having surgery, thanks to this new technology. He said that getting a quick diagnosis removed weeks of anxiety for him.\n\nDoctors can start the right treatment sooner because they know the type of brain tumour quickly. Experts expect this technology to help patients begin their treatment and reduce worry.",
+        "hu": "Az Egyesült Királyság Nemzeti Egészségügyi Szolgálata (NHS) új tesztet indított, amely gyorsan képes diagnosztizálni az agydaganatokat. Ezzel a teszttel a pontos diagnózis megszerzéséhez szükséges idő legfeljebb nyolc ahétről mindössze két órára csökken.\n\nAz 55 éves Steve Palmer a műtétje közben kaphatta meg az eredményt ennek az új technológiának köszönhetően. Elmondta, hogy a gyors diagnózis hetekig tartó szorongástól kímélte meg.\n\nAz orvosok gyorsabban elkezdhetik a megfelelő kezelést, mert hamar megtudják az agydaganat típusát. A szakértők azt várják, hogy ez a technológia segít a betegeknek a kezelés mielőbbi megkezdésében és a félelem csökkentésében."
+      },
+      "vocab": [
+        {
+          "word": "진단",
+          "meaning_en": "diagnosis",
+          "meaning_hu": "diagnózis"
+        },
+        {
+          "word": "수술",
+          "meaning_en": "surgery",
+          "meaning_hu": "műtét"
+        },
+        {
+          "word": "치료",
+          "meaning_en": "treatment",
+          "meaning_hu": "kezelés"
+        },
+        {
+          "word": "불안감",
+          "meaning_en": "anxiety",
+          "meaning_hu": "szorongás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "새로운 검사 방법은 뇌종양 진단 시간을 얼마나 줄여주나요?",
+          "eng": "How much does the new test method reduce the brain tumour diagnosis time?",
+          "hu": "Mennyivel csökkenti az új tesztelési módszer az agydaganat diagnosztizálásának idejét?"
+        },
+        {
+          "kor": "진단이 빨라지면 환자에게 어떤 좋은 점이 있을까요?",
+          "eng": "What are the benefits for patients when a diagnosis becomes faster?",
+          "hu": "Milyen előnyei vannak a betegek számára, ha a diagnózis gyorsabbá válik?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-10",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm207yn1124zo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국 병원, 사망한 소년의 의료 기록을 몰래 본 직원들 조사 중",
+        "eng": "NHS staff investigated over access to dead teenager's medical records",
+        "hu": "Az NHS dolgozóit vizsgálják egy elhunyt tinédzser orvosi adataihoz való jogosulatlan hozzáférés miatt"
+      },
+      "desc": {
+        "kor": "사망한 18세 소년의 의료 기록을 병원 직원들이 몰래 열어보았다는 사실이 알려져 어머니가 큰 충격을 받았습니다.",
+        "eng": "The mother of a deceased teenager is deeply concerned after learning that hospital staff may have inappropriately accessed her son's medical records.",
+        "hu": "Egy elhunyt tinédzser édesanyja mély aggodalmának adott hangot, miután kiderült, hogy a kórházi személyzet jogosulatlanul nézhette meg fia orvosi adatait."
+      },
+      "article": {
+        "kor": "영국의 한 병원에서 사망한 18세 소년의 의료 기록을 병원 직원들이 허가 없이 열어보았다는 조사가 시작되었다. 소년의 어머니인 폴라 맥고완은 아들이 세상을 떠난 지 여러 해가 지난 후에도 기록이 부적절하게 조회되었다는 사실을 알고 매우 큰 충격을 받았다. 병원 측은 유가족에게 깊은 사과의 뜻을 전하고 관련 기관에 스스로 이 사실을 알렸다.\n\n조사 결과에 따르면, 적어도 다섯 명의 병원 직원이 정당한 이유 없이 소년의 기록에 접근했을 가능성이 있다. 현재 간호사 세 명은 공식 조사를 받고 있으며, 다른 직원들의 행동에 대해서도 조사가 진행 중이다. 또한 병원을 떠난 의사 한 명도 스스로 의료 규제 기관에 이 사실을 신고했다.\n\n최근 영국 의료계에서는 병원 직원들이 환자의 개인 정보를 몰래 훔쳐보는 일이 문제가 되고 있다. 조사에 따르면 지난 5년 동안 환자의 민감한 정보를 몰래 본 직원 수천 명이 징계를 받았고 많은 이들이 직장을 잃었다. 이번 사건으로 환자 정보 보호의 중요성이 다시 한번 강조되고 있다.",
+        "eng": "An investigation has begun in a British hospital after it was discovered that staff members may have inappropriately accessed the medical records of an 18-year-old boy who died. Paula McGowan, the boy's mother, was deeply concerned to learn that his records were viewed years after his death without permission. The hospital expressed its deep apologies and self-referred the matter to relevant authorities.\n\nAccording to the findings, at least five staff members may have accessed the boy's records without a legitimate professional reason. Currently, three nursing staff are under formal investigation, and other cases are being reviewed. Additionally, a doctor who no longer works at the trust has self-referred to the medical regulator.\n\nRecently, unauthorized access to patient data by hospital staff has become a significant issue in the UK medical system. Records show that thousands of staff have faced sanctions and many have lost their jobs over the past five years for snooping on sensitive patient data. This incident highlights the growing need for strict patient privacy protection.",
+        "hu": "Vizsgálat indult egy brit kórházban, miután kiderült, hogy a személyzet jogosulatlanul férhetett hozzá egy elhunyt 18 éves fiú orvosi adataihoz. Paula McGowan, a fiú édesanyja mélyen aggódik, amiért megtudta, hogy fia aktáit a halála után évekkel is nézegették engedély nélkül. A kórház mély sajnálatát fejezte ki, és önként jelentette az esetet a hatóságoknak.\n\nA vizsgálat szerint legalább öt dolgozó nézhette meg a fiú adatait valós szakmai indok nélkül. Jelenleg három ápolót vizsgálnak hivatalosan, és más eseteket is felülvizsgálnak. Emellett egy olyan orvos is jelentkezett az orvosi kamaránál, aki már nem dolgozik a kórházban.\n\nAz utóbbi időben jelentős problémát jelent az Egyesült Királyság egészségügyi rendszerében, hogy a kórházi dolgozók engedély nélkül nézik meg a betegek adatait. A statisztikák szerint az elmúlt öt évben dolgozók ezreit büntették meg adatszivárgás miatt. Ez az eset ismét rávilágít a betegadatok szigorú védelmének fontosságára."
+      },
+      "vocab": [
+        {
+          "word": "의료 기록",
+          "meaning_en": "medical records",
+          "meaning_hu": "orvosi dokumentáció"
+        },
+        {
+          "word": "조사",
+          "meaning_en": "investigation",
+          "meaning_hu": "vizsgálat"
+        },
+        {
+          "word": "개인 정보",
+          "meaning_en": "personal information",
+          "meaning_hu": "személyes adatok"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "병원 직원이 환자의 의료 기록을 몰래 보는 것이 왜 문제가 될까요?",
+          "eng": "Why is it a problem for hospital staff to secretly view patient medical records?",
+          "hu": "Miért jelent problémát, ha a kórházi személyzet titokban megnézi a betegek orvosi adatait?"
+        },
+        {
+          "kor": "환자의 개인 정보를 보호하기 위해 어떤 방법이 필요할까요?",
+          "eng": "What methods are needed to protect patients' personal information?",
+          "hu": "Milyen módszerekre van szükség a betegek személyes adatainak védelméhez?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-11",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wjwxg3e74o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "방송인 에스더 랜젠이 세상을 떠났습니다",
+        "eng": "Broadcaster Esther Rantzen has passed away",
+        "hu": "Elhunyt Esther Rantzen műsorvezető"
+      },
+      "desc": {
+        "kor": "영국의 유명한 방송인 에스더 랜젠이 86세를 일기로 세상을 떠났습니다.",
+        "eng": "Famous British broadcaster Esther Rantzen has passed away at the age of 86.",
+        "hu": "Elhunyt a híres brit műsorvezető, Esther Rantzen 86 évesen."
+      },
+      "article": {
+        "kor": "영국의 유명한 방송인 에스더 랜젠이 86세로 세상을 떠났습니다. 에스더 랜젠은 오랫동안 텔레비전 프로그램 진행자로 일했습니다. 그는 힘든 아이들을 돕는 전화 상담 기관인 '차일드라인'을 만들었습니다. 많은 사람이 그의 죽음을 슬퍼하고 그를 기억하고 있습니다.",
+        "eng": "Famous British broadcaster Esther Rantzen has passed away at the age of 86. Esther Rantzen worked as a television presenter for a long time. She created Childline, a telephone helpline to help children in difficult situations. Many people are mourning her death and remembering her.",
+        "hu": "Elhunyt a híres brit műsorvezető, Esther Rantzen 86 évesen. Esther Rantzen hosszú ideig dolgozott televíziós műsorvezetőként. Létrehozta a Childline nevű segélyvonalat, hogy segítsen a nehéz helyzetben lévő gyerekeken. Sokan gyászolják a halálát, és emlékeznek rá."
+      },
+      "vocab": [
+        {
+          "word": "방송인",
+          "meaning_en": "broadcaster",
+          "meaning_hu": "műsorvezető"
+        },
+        {
+          "word": "세상",
+          "meaning_en": "world",
+          "meaning_hu": "világ"
+        },
+        {
+          "word": "아이",
+          "meaning_en": "child",
+          "meaning_hu": "gyermek"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "에스더 랜젠은 어떤 일을 했습니까?",
+          "eng": "What did Esther Rantzen do?",
+          "hu": "Mit csinált Esther Rantzen?"
+        },
+        {
+          "kor": "당신은 힘든 사람을 돕는 방법을 아나요?",
+          "eng": "Do you know how to help people in need?",
+          "hu": "Tudja, hogyan segíthet a rászorulókon?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-12",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cq7702p0pkv5o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "미국 영화감독이 오래된 저택을 사려는 재판에서 졌습니다",
+        "eng": "US film-maker loses 'Downton Shabby' High Court case",
+        "hu": "Az amerikai filmes elveszette a 'Downton Shabby' bírósági perét"
+      },
+      "desc": {
+        "kor": "미국 영화감독이 영국에 있는 오래된 저택을 1파운드에 사려고 했지만 법원에서 졌습니다.",
+        "eng": "An American filmmaker lost a legal case to buy a historic mansion in England for £1.",
+        "hu": "Egy amerikai filmes elvesztette a jogi harcot, hogy 1 fontért megvegyen egy történelmi kastélyt Angliában."
+      },
+      "article": {
+        "kor": "미국의 영화감독 홉우드 드프리는 영국의 오래된 저택인 홉우드 홀을 1파운드에 사려고 했습니다.\n\n하지만 영국 법원은 그가 건물을 살 수 있는 조건을 채우지 못했다고 판결했습니다. 그래서 드프리는 재판에서 졌고, 매우 슬프다고 말했습니다.\n\n지방 정부는 법원의 판결을 반갑게 받아들였습니다. 그리고 앞으로 이 건물을 지역 주민들을 위해 잘 고쳐서 사용할 것이라고 밝혔습니다.",
+        "eng": "American filmmaker Hopwood DePree tried to buy an old mansion called Hopwood Hall in England for £1. However, a British court ruled that he did not meet the conditions to buy the building, so he lost the case and said he was very sad. The local government welcomed the court's decision and stated that they will repair and use the building well for the local residents in the future.",
+        "hu": "Az amerikai filmes, Hopwood DePree 1 fontért próbálta megvenni a Hopwood Hall nevű régi kastélyt Angliában. A brit bíróság azonban úgy ítélte meg, hogy nem teljesítette az épület megvásárlásának feltételeit, így elvesztette a pert, és azt mondta, hogy nagyon szomorú. Az önkormányzat örömmel fogadta a bíróság döntését, és kijelentette, hogy a jövőben jól felújítják és a helyi lakosok javára fordítják az épületet."
+      },
+      "vocab": [
+        {
+          "word": "영화감독",
+          "meaning_en": "film director",
+          "meaning_hu": "filmrendező"
+        },
+        {
+          "word": "저택",
+          "meaning_en": "mansion",
+          "meaning_hu": "kastély, úrilak"
+        },
+        {
+          "word": "재판",
+          "meaning_en": "trial, court case",
+          "meaning_hu": "bírósági per"
+        },
+        {
+          "word": "판결하다",
+          "meaning_en": "to judge, to rule",
+          "meaning_hu": "ítéletet hoz"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 오래된 건물을 고쳐서 사용하는 것에 대해 어떻게 생각합니까?",
+          "eng": "What do you think about repairing and using old buildings?",
+          "hu": "Mit gondol a régi épületek felújításáról és használatáról?"
+        },
+        {
+          "kor": "내가 영화감독이라면 이 저택을 어떻게 바꾸고 싶습니까?",
+          "eng": "If you were a filmmaker, how would you want to change this mansion?",
+          "hu": "Ha ön filmes lenne, hogyan változtatná meg ezt a kastélyt?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-13",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cw07l44l1dg8o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국의 유명 음악 시상식 '브릿 어워드', 맨체스터 지역 경제에 큰 도움",
+        "eng": "Brit Awards boosted Manchester economy by £5m, study finds",
+        "hu": "A Brit Awards 5 millió fonttal növelte Manchester gazdaságát egy kutatás szerint"
+      },
+      "desc": {
+        "kor": "처음으로 런던이 아닌 맨체스터에서 열린 브릿 어워드가 지역 경제에 500만 파운드의 이익을 주었습니다.",
+        "eng": "The Brit Awards generated £5 million for Manchester after being held outside London for the first time.",
+        "hu": "A Brit Awards 5 millió fontot termelt Manchesternek, miután először rendezték meg Londonon kívül."
+      },
+      "article": {
+        "kor": "영국의 큰 음악 시상식인 '브릿 어워드'가 올해 처음으로 맨체스터에서 열렸습니다. 연구 조사에 따르면 이 행사는 맨체스터 지역 경제에 500만 파운드의 돈을 벌어다 주었습니다.\n\n이번 시상식은 많은 방문객을 모았고 3,000개가 넘는 임시 일자리를 만들었습니다. 또한 맨체스터를 찾은 사람들의 만족도가 매우 높았으며, 내년 행지도 다시 맨체스터에서 열릴 예정입니다.",
+        "eng": "The UK's major music awards ceremony, the Brit Awards, was held in Manchester for the first time this year. According to research, the event generated £5 million for the Manchester regional economy.\n\nThe awards ceremony attracted many visitors and created over 3,000 temporary jobs. Additionally, the satisfaction of visitors to Manchester was very high, and next year's event is also scheduled to be held in the city.",
+        "hu": "Az Egyesült Királyság jelentős zenei díjátadója, a Brit Awards idén először került megrendezésre Manchesterben. Egy kutatás szerint az esemény 5 millió fontot termelt a manchesteri regionális gazdaság számára.\n\nA díjátadó sok látogatót vonzott és több mint 3000 ideiglenes munkahelyet teremtett. Ezenkívül a manchesteri látogatók elégedettsége nagyon magas volt, és a jövő évi rendezvényt szintén a városban fogják megtartani."
+      },
+      "vocab": [
+        {
+          "word": "시상식",
+          "meaning_en": "awards ceremony",
+          "meaning_hu": "díjátadó ünnepség"
+        },
+        {
+          "word": "경제",
+          "meaning_en": "economy",
+          "meaning_hu": "gazdaság"
+        },
+        {
+          "word": "일자리",
+          "meaning_en": "job, employment",
+          "meaning_hu": "munkahely"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 사는 도시에 큰 음악 행사가 열린다면 어떤 점이 좋을까요?",
+          "eng": "What would be good if a major music event was held in the city where you live?",
+          "hu": "Mi lenne a jó abban, ha egy jelentős zenei esemény lenne abban a városban, ahol él?"
+        },
+        {
+          "kor": "수도권이 아닌 다른 지역에서 큰 행사를 여는 것에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about holding large events in regions other than the capital area?",
+          "hu": "Mit gondol arról, hogy nagy rendezvényeket a fővárosi régión kívüli területeken tartanak?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-14",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c88z4967yj5o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국의 유명 방송인 에스더 란첸이 86세를 일기로 별세했다",
+        "eng": "Dame Esther Rantzen, That's Life! presenter and Childline founder, dies aged 86",
+        "hu": "Elhunyt Dame Esther Rantzen, a That's Life! műsorvezetője és a Childline alapítója"
+      },
+      "desc": {
+        "kor": "BBC 프로그램 'That's Life!'의 진행자이자 아동 보호 단체를 설립한 에스더 란첸이 세상을 떠났다.",
+        "eng": "Dame Esther Rantzen, known for presenting 'That's Life!' and founding Childline, has died at age 86.",
+        "hu": "Elhunyt Dame Esther Rantzen, aki a 'That's Life!' műsorvezetőjeként és a Childline alapítójaként volt ismert."
+      },
+      "article": {
+        "kor": "영국의 유명 방송인이자 사회운동가인 에스더 란첸이 86세를 일기로 사망했다. 그는 BBC의 인기 프로그램 'That's Life!'를 오랜 기간 진행하며 큰 사랑을 받았다.\n\n그가 진행한 프로그램은 단순한 소비자의 불만을 다루는 것을 넘어 사회적 문제 해결에 큰 역할을 했다. 특히 그는 학대받는 아이들을 돕기 위한 전화 상담 서비스인 '차일드라인(Childline)'을 설립해 큰 업적을 남겼다.\n\n말년에 그는 노인 복지와 조력존엄사 합법화를 위해 활발하게 활동했다. 언론인으로 시작해 사회 운동가로 살았던 그의 삶은 많은 사람들에게 깊은 인상을 남겼다.",
+        "eng": "British broadcaster and campaigner Dame Esther Rantzen has died at the age of 86. She was best known for presenting the long-running BBC programme 'That's Life!'.\n\nWhat started as a consumer programme grew into a platform for high-profile campaigns. Notably, she established Childline, a national telephone helpline for children suffering from abuse or neglect.\n\nIn her later years, she campaigned for older people and for the legalisation of medically-assisted death. Her career in broadcasting and social advocacy left a lasting legacy.",
+        "hu": "Elhunyt Dame Esther Rantzen brit műsorvezető és aktivista 86 éves korában. Legismertebb munkája a BBC hosszú ideig futó 'That's Life!' című műsorának vezetése volt.\n\nAz eredetileg fogyasztói műsornak indult program jelentős társadalmi kampányok színterévé vált. Nevezetesen ő alapította meg a Childline-t, egy országos telefonos segélyvonalat a bántalmazott gyermekek számára.\n\nKésőbbi éveiben az idősek jogaiért és az eutanázia legalizálásáért kampányolt. Műsorszolgáltatói és társadalmi aktivista karrierje maradandó örökséget hagyott hátra."
+      },
+      "vocab": [
+        {
+          "word": "방송인",
+          "meaning_en": "broadcaster",
+          "meaning_hu": "műsorvezető, médiaszemélyiség"
+        },
+        {
+          "word": "설립하다",
+          "meaning_en": "to establish, to found",
+          "meaning_hu": "alapítani"
+        },
+        {
+          "word": "학대",
+          "meaning_en": "abuse, mistreatment",
+          "meaning_hu": "bántalmazás"
+        },
+        {
+          "word": "업적",
+          "meaning_en": "achievement, accomplishment",
+          "meaning_hu": "teljesítmény, érdem"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "에스더 란첸이 진행한 프로그램의 이름은 무엇인가요?",
+          "eng": "What is the name of the programme presented by Esther Rantzen?",
+          "hu": "Mi a neve az Esther Rantzen által vezetett műsornak?"
+        },
+        {
+          "kor": "그가 설립한 아동을 위한 전화 상담 서비스의 이름은 무엇인가요?",
+          "eng": "What is the name of the telephone helpline for children that she founded?",
+          "hu": "Mi a neve annak a gyermekeknek szóló segélyvonalnak, amelyet ő alapított?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-15",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4njdj4kxw2o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "인기 TV 프로그램 '더 트레이터스'의 촬영지, 아드로스 성의 역사와 비밀",
+        "eng": "Celebrity Traitors: The history and secrets of Ardross Castle",
+        "hu": "Celebrity Traitors: Az Ardross-kastély története és titkai"
+      },
+      "desc": {
+        "kor": "유명 TV 쇼 '더 트레이터스'의 촬영 장소인 아드로스 성의 아름다운 건축 양식과 그 뒤에 숨겨진 역사적 배경을 알아봅니다.",
+        "eng": "Explore the architectural beauty and hidden historical background of Ardross Castle, the famous filming location of the TV show 'The Traitors'.",
+        "hu": "Ismerje meg az Ardross-kastély építészeti szépségét és rejtett történelmi hátterét, amely a 'The Traitors' című TV-műsor híres forgatási helyszíne."
+      },
+      "article": {
+        "kor": "영국의 인기 TV 프로그램 '더 트레이터스(The Traitors)'가 새로운 출연자들과 함께 돌아왔습니다. 클로디아 윙클먼이 진행을 맡은 이 프로그램은 출연자들이 '성실한 자'와 몰래 게임을 방해하는 '배신자'를 찾아내는 심리 게임 쇼입니다.\n\n이 프로그램의 또 다른 주인공은 바로 촬영 장소인 스코틀랜드의 아드로스 성입니다. 19세기에 지어진 이 성은 100에이커에 달하는 아름다운 정원과 공원 속에 자리 잡고 있으며, 성곽과 탑이 어우러진 독특한 건축 양식을 자랑합니다.\n\n그러나 이 성이 있는 땅에는 어두운 역사도 존재합니다. 200년 전 이곳의 소유주였던 서덜랜드 공작은 과거 스코틀랜드 고원 지대의 주민들을 강제로 쫓아내고 양을 키우는 농장을 만들었습니다. 이로 인해 많은 주민이 고향을 떠나야 했으며, 현재도 그를 기억하는 기념물에 대한 복잡한 시선이 남아 있습니다.",
+        "eng": "The popular UK TV show 'The Traitors' has returned with a new cast of stars. Hosted by Claudia Winkleman, the show is a psychological game where contestants try to figure out who the 'traitors' are among the 'faithfuls'.\n\nAnother big star of the show is the filming location, Ardross Castle in Scotland. Built in the 19th century, the property sits in 100 acres of gardens and features elaborate Scottish baronial architecture with turrets and battlements.\n\nHowever, the land also has a dark history. More than 200 years ago, the owner of the land, the Duke of Sutherland, cleared local people off the land to make way for sheep farming. As a result, many families had to leave their homes, and a statue of the duke still remains a controversial subject today.",
+        "hu": "A népszerű brit TV-műsor, a 'The Traitors' új sztárgárdával tért vissza. A Claudia Winkleman által vezetett műsor egy pszichológiai játék, amelyben a versenyzők megpróbálják kideríteni, kik a 'árulók' a 'hűségesek' között.\n\nA műsor másik nagy sztárja a forgatási helyszín, a skóciai Ardross-kastély. A 19. században épült ingatlan 100 hektárnyi kertben fekszik, és bonyolult skót bárói építészettel, tornyokkal és bástyákkal rendelkezik.\n\nA földnek azonban sötét története is van. Több mint 200 évvel ezelőtt a föld tulajdonosa, Sutherland hercege elűzte a helyieket a földről, hogy átadják a helyét a juhtenyésztésnek. Ennek következtében sok családnak el kellett hagynia otthonát, és a herceg szobra a mai napig vitatott téma marad."
+      },
+      "vocab": [
+        {
+          "word": "프로그램",
+          "meaning_en": "program / show",
+          "meaning_hu": "műsor"
+        },
+        {
+          "word": "촬영지",
+          "meaning_en": "filming location",
+          "meaning_hu": "forgatási helyszín"
+        },
+        {
+          "word": "건축 양식",
+          "meaning_en": "architectural style",
+          "meaning_hu": "építészeti stílus"
+        },
+        {
+          "word": "역사",
+          "meaning_en": "history",
+          "meaning_hu": "történelem"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "당신은 '더 트레이터스'처럼 사람들의 심리를 파악하는 게임 쇼를 좋아합니까?",
+          "eng": "Do you like game shows like 'The Traitors' that involve psychological games?",
+          "hu": "Szereted az olyan vetélkedőket, mint a 'The Traitors', amelyek pszichológiai játékokat tartalmaznak?"
+        },
+        {
+          "kor": "오래된 성이나 역사적인 장소를 직접 방문하는 것을 좋아합니까?",
+          "eng": "Do you like visiting old castles or historical places in person?",
+          "hu": "Szeretsz személyesen ellátogatni régi kastélyokba vagy történelmi helyekre?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-16",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1kxzlle1yzo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "글래스턴베리 페스티벌 티켓 예매 시 피해야 할 실수들",
+        "eng": "Mistakes to avoid when buying Glastonbury tickets",
+        "hu": "Hibák, amelyeket el kell kerülni a Glastonbury jegyek vásárlásakor"
+      },
+      "desc": {
+        "kor": "세계적인 음악 축제 글래스턴베리 티켓 예매를 앞두고 성공 확률을 높이기 위한 유용한 팁과 피해야 할 실수들을 소개합니다.",
+        "eng": "Tips and common pitfalls to avoid when securing tickets for the world-renowned Glastonbury Festival.",
+        "hu": "Tippek és gyakori hibák, amelyeket el kell kerülni a világhírű Glastonbury Fesztivál jegyeinek megszerzésekor."
+      },
+      "article": {
+        "kor": "영국의 유명 음악 축제인 글래스턴베리 페스티벌이 2026년 휴식기를 가진 후, 2027년 행사를 위한 티켓 판매를 이번 주에 시작한다고 확인했습니다. 이번 티켓 예매는 버스와 티켓 패키지가 목요일에 먼저 판매되며, 일반 입장권은 일요일에 판매될 예정입니다. 주최측은 올해 자동 대기열 시스템을 도입하여 예매 과정을 관리할 계획입니다.\n\n경험 많은 페스티벌 참가자들은 티켓을 구매할 때 흔히 저지르는 실수들을 경고하고 있습니다. 여러 대의 기기나 여러 개의 창을 동시에 켜두면 웹사이트가 이를 오류나 봇으로 인식하여 대기열에서 차단할 수 있으므로 주의해야 합니다. 또한, 너무 늦게 대기실에 접속하면 이미 기다리고 있는 수많은 사람들 때문에 뒷번호를 받게 되어 예매 확률이 크게 낮아집니다.\n\n결제 과정에서도 철저한 준비가 필요합니다. 제한된 시간 내에 결제를 완료해야 하므로 카드 정보와 주소를 미리 준비하거나 자동 완성 기능을 설정해 두는 것이 좋습니다. 비공식 안내서의 저자 폴 파루지아는 은행이 해당 예매처를 신뢰할 수 있는 가맹점으로 인식하고 있는지 미리 확인하고, 같은 집에 사는 친구들과 같은 IP 주소로 동시에 접속하는 것은 피하라고 조언합니다.",
+        "eng": "Glastonbury Festival has confirmed that tickets for the 2027 event will go on sale later this week, following a year off in 2026. Coach and ticket packages will be available on Thursday, followed by general admission tickets on Sunday. The festival has introduced an automatic queuing system to streamline the process.\n\nExperienced festival-goers have warned against common pitfalls during the ticket release. Using multiple devices or tabs can cause the website to mistake you for a bot and block your access. Furthermore, joining the waiting room late places you at the back of the queue, significantly reducing your chances of success.\n\nThorough preparation is also essential for the payment process. Since there is a strict time limit, having payment details ready or saved for auto-fill is crucial. Paul Farrugia, a festival expert, advises ensuring your bank trusts the ticket merchant beforehand and avoiding group applications from the same household to prevent IP address clashes.",
+        "hu": "A Glastonbury Fesztivál megerősítette, hogy a 2027-es esemény jegyei a hét folyamán kerülnek értékesítésre a 2026-os szünet után. A buszos és jegycsomagok csütörtökön, míg az általános belépők vasárnap lesznek kaphatók. A fesztivál egy automatikus sorban állási rendszert vezetett be a folyamat kezelésére.\n\nA tapasztalt fesztiválozók figyelmeztetnek a jegyvásárlás során elkövetett gyakori hibákra. Több eszköz vagy böngészőfül használata miatt a weboldal botnak nézheti a felhasználót, és blokkolhatja a hozzáférést. Emellett a túl késői csatlakozás a váróterembe a sor végére taszítja a vásárlót, jelentősen csökkentve az esélyeket.\n\nA fizetési folyamat szintén alapos előkészületet igényel. Mivel szigorú határidő van érvényben, fontos a fizetési adatok előkészítése vagy az automatikus kitöltés használata. Paul Farrugia fesztiválszakértő azt tanácsolja, hogy előre győződjünk meg arról, hogy a bankunk megbízhatónak ítéli-e a jegyárusítót, és kerüljük az azonos háztartásból történő, egyidejű jelentkezést azonos IP-cím miatt."
+      },
+      "vocab": [
+        {
+          "word": "대기열",
+          "meaning_en": "queue / waiting line",
+          "meaning_hu": "sor / várakozási lista"
+        },
+        {
+          "word": "가맹점",
+          "meaning_en": "merchant / affiliated store",
+          "meaning_hu": "elfogadóhely / kereskedő"
+        },
+        {
+          "word": "제한되다",
+          "meaning_en": "to be limited / restricted",
+          "meaning_hu": "korlátozott"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "인기 있는 공연이나 축제 티켓을 예매할 때 자신만의 성공 비법이 있나요?",
+          "eng": "Do you have your own tips for successfully booking tickets for popular events or concerts?",
+          "hu": "Van-e saját tippje a népszerű eseményekre vagy koncertekre szóló jegyek sikeres lefoglalásához?"
+        },
+        {
+          "kor": "온라인 예매 시스템에서 발생할 수 있는 기술적 오류를 피하기 위해 어떤 점을 주의해야 할까요?",
+          "eng": "What precautions should be taken to avoid technical errors that may occur in online ticketing systems?",
+          "hu": "Milyen óvintézkedéseket kell tenni az online jegyértékesítési rendszerekben előforduló technikai hibák elkerülése érdekében?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-17",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/travel/2024/mar/12/miami-three-day-travel-guide"
+      },
+      "title": {
+        "kor": "미애미 여행",
+        "eng": "Miami Travel",
+        "hu": "Miami Utazás"
+      },
+      "desc": {
+        "kor": "미애미에서 맛있는 음식과 멋진 바다를 구경합니다.",
+        "eng": "Enjoy good food and the nice sea in Miami.",
+        "hu": "Élvezze a jó ételeket és a szép tengert Miamiban."
+      },
+      "article": {
+        "kor": "미애미는 아주 아름다운 도시입니다. 여기에는 멋진 바다와 맛있는 음식이 있습니다. 사람들은 구경을 하고 재미있는 놀이를 합니다.",
+        "eng": "Miami is a very beautiful city. There is a nice sea and good food here. People look around and play fun games.",
+        "hu": "Miami egy nagyon szép város. Itt van egy szép tenger és jó ételek. Az emberek körülnéznek és vidám játékokat játszanak."
+      },
+      "vocab": [
+        {
+          "word": "도시",
+          "meaning_en": "city",
+          "meaning_hu": "város"
+        },
+        {
+          "word": "바다",
+          "meaning_en": "sea",
+          "meaning_hu": "tenger"
+        },
+        {
+          "word": "음식",
+          "meaning_en": "food",
+          "meaning_hu": "étel"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "미애미에 가고 싶습니까?",
+          "eng": "Do you want to go to Miami?",
+          "hu": "Szeretne Miamiba menni?"
+        },
+        {
+          "kor": "어떤 음식을 좋아합니까?",
+          "eng": "What food do you like?",
+          "hu": "Milyen ételt szeret?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-18",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/travel/article/2024/aug/15/how-an-ebike-gave-me-the-legs-to-tackle-switzerlands-contours"
+      },
+      "title": {
+        "kor": "스위스 여행을 돕는 전기 자전거",
+        "eng": "How an ebike helped a traveler in Switzerland",
+        "hu": "Hogyan segített egy e-bike a svájci utazásban"
+      },
+      "desc": {
+        "kor": "스위스의 아름다운 자전거 길을 전기 자전거로 여행하는 이야기입니다.",
+        "eng": "A story about traveling along a beautiful cycling route in Switzerland using an ebike.",
+        "hu": "Egy történet arról, hogy milyen e-bike-kal utazni egy gyönyörű svájci kerékpárúton."
+      },
+      "article": {
+        "kor": "스위스는 아름다운 자연을 볼 수 있는 새로운 자전거 길을 만들었습니다. 이 길은 알프스의 멋진 산과 조용한 시골 마을을 지나갑니다. 하지만 스위스는 산이 아주 많아서 자전거를 타기 힘들 때가 있습니다.\n\n그래서 많은 사람이 전기 자전거를 사용합니다. 전기 자전거는 힘든 오르막길을 쉽게 갈 수 있게 도와줍니다. 여행자는 전기 자전거를 타고 맛있는 치즈와 과자를 먹으며 스위스의 아름다운 풍경을 즐길 수 있습니다.",
+        "eng": "Switzerland has created a new cycling route to see beautiful nature. This route passes through wonderful alpine mountains and quiet rural villages. However, Switzerland has many mountains, so it can be hard to ride a bicycle.\n\nTherefore, many people use electric bicycles. Electric bicycles help people go up difficult hills easily. Travelers can enjoy the beautiful scenery of Switzerland while riding ebikes and eating delicious cheese and cookies.",
+        "hu": "Svájc új kerékpárútvonalat hozott létre a gyönyörű természet megtekintésére. Ez az út csodálatos alpesi hegyeken és csendes vidéki falvakon halad át. Svájcban azonban sok a hegy, ezért nehéz lehet kerékpározni.\n\nEzért sokan használnak elektromos kerékpárokat. Az e-bike-ok segítenek az embereknek könnyedén felmenni a nehéz emelkedőkön. Az utazók élvezhetik Svájc gyönyörű tájait, miközben elektromos kerékpároznak és finom sajtokat és sütiket esznek."
+      },
+      "vocab": [
+        {
+          "word": "자전거",
+          "meaning_en": "bicycle",
+          "meaning_hu": "kerékpár"
+        },
+        {
+          "word": "산",
+          "meaning_en": "mountain",
+          "meaning_hu": "hegy"
+        },
+        {
+          "word": "풍경",
+          "meaning_en": "scenery, landscape",
+          "meaning_hu": "táj, látvány"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "전기 자전거를 타면 어떤 점이 좋습니까?",
+          "eng": "What are the advantages of riding an electric bicycle?",
+          "hu": "Milyen előnyei vannak az elektromos kerékpár használatának?"
+        },
+        {
+          "kor": "여러분은 자전거 여행을 좋아합니까?",
+          "eng": "Do you like cycling trips?",
+          "hu": "Szereted a kerékpáros utazásokat?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-19",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/travel/article/2024/jun/25/how-i-learned-to-kitesurf-in-sicily-italy"
+      },
+      "title": {
+        "kor": "이탈리아 시칠리아에서 카이트서핑을 배우다",
+        "eng": "Learning to kitesurf in Sicily, Italy",
+        "hu": "Kitesurf tanulás Szicíliában, Olaszországban"
+      },
+      "desc": {
+        "kor": "이탈리아 시칠리아의 바다에서 일주일 동안 카이트서핑을 배운 이야기입니다.",
+        "eng": "A story about learning kitesurfing for a week in the sea of Sicily, Italy.",
+        "hu": "Egy történet arról, hogyan tanult meg egy hét alatt kitesurfozni Szicíliában, Olaszországban."
+      },
+      "article": {
+        "kor": "카이트서핑은 초보자에게 조금 어려운 스포츠입니다. 시칠리아의 스탈뇨네 호수는 카이트서핑을 배우기에 아주 좋은 장소입니다. 이 바다는 물이 얕고 파도가 없으며 바람이 잘 불어서 많은 사람이 찾습니다.\n\n수업 첫날에는 바람의 방향을 알고 연을 조종하는 기본 방법을 배웠습니다. 물에 들어가서 큰 연을 잡고 움직이는 연습을 했습니다. 처음에는 물도 많이 먹고 힘들었지만 점점 재미를 느꼈습니다. 날이 갈수록 보드에 발을 올리는 방법과 일어나는 연습을 계속했습니다.\n\n결국 마지막에는 물 위에서 두 발로 서서 호수를 가로지르는 데 성공했습니다. 힘들고 몸이 아프기도 했지만 자유로운 기분을 느꼈습니다. 시칠리아의 맛있는 음식과 아름다운 풍경도 여행을 더 즐겁게 만들었습니다.",
+        "eng": "Kitesurfing is a bit difficult for beginners. The Stagnone Lagoon in Sicily is a great place to learn kitesurfing. This sea is shallow, has no waves, and has good wind, so many people visit.\n\nOn the first day of class, we learned the basics of knowing the wind direction and controlling the kite. We went into the water and practiced holding and moving a large kite. At first, it was hard and we swallowed a lot of water, but it got more and more fun. As the days went by, we continued to practice putting our feet on the board and standing up.\n\nFinally, at the end, I succeeded in standing on two feet on the water and crossing the lagoon. It was hard and my body hurt, but I felt free. The delicious food and beautiful scenery of Sicily also made the trip more enjoyable.",
+        "hu": "A kitesurf kissé nehéz a kezdők számára. A szicíliai Stagnone-lagúna nagyszerű hely a kitesurf tanulásához. Ez a tenger sekély, nincsenek hullámai, és jó a szél, ezért sokan látogatják.\n\nAz óra első napján megtanultuk az alapokat: megismertük a szél irányát és a sárkány irányítását. Bementünk a vízbe, és gyakoroltuk egy nagy sárkány tartását és mozgását. Eleinte nehéz volt, és sok vizet nyeltünk, de egyre viccesebb lett. Ahogy telt a nap, folyamatosan gyakoroltuk a lábunk deszkára tételét és a felállást.\n\nVégül a végén sikerült két lábon állnom a vízen, és átkelnem a lagúnán. Nehéz volt és fájt a testem, de szabadnak éreztem magam. Szicília finom ételei és gyönyörű tájai is élvezetesebbé tették az utazást."
+      },
+      "vocab": [
+        {
+          "word": "초보자",
+          "meaning_en": "beginner",
+          "meaning_hu": "kezdő"
+        },
+        {
+          "word": "바람",
+          "meaning_en": "wind",
+          "meaning_hu": "szél"
+        },
+        {
+          "word": "기본",
+          "meaning_en": "basics",
+          "meaning_hu": "alapok"
+        },
+        {
+          "word": "성공하다",
+          "meaning_en": "to succeed",
+          "meaning_hu": "sikerülni"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "새로운 운동을 배울 때 가장 중요하다고 생각하는 것은 무엇인가요?",
+          "eng": "What do you think is the most important thing when learning a new sport?",
+          "hu": "Ön szerint mi a legfontosabb egy új sport tanulásakor?"
+        },
+        {
+          "kor": "여행 중에 맛있는 음식을 먹는 것이 왜 중요하다고 생각하나요?",
+          "eng": "Why do you think eating delicious food is important during a trip?",
+          "hu": "Miért tartja fontosnak a finom ételek evését utazás közben?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-20",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/travel/2024/feb/29/family-road-trip-jamaica-blue-mountains-kingston"
+      },
+      "title": {
+        "kor": "자마이카로 떠난 가족 여행",
+        "eng": "A Family Road Trip to Jamaica",
+        "hu": "Családi utazás Jamaicába"
+      },
+      "desc": {
+        "kor": "돌아가신 아버지를 추억하며 아이들과 함께 자마이카를 여행하는 이야기입니다.",
+        "eng": "A journey to Jamaica with children to remember a late father.",
+        "hu": "Utazás Jamaicába a gyermekekkel az elhunyt édesapa emlékére."
+      },
+      "article": {
+        "kor": "글쓴이는 어릴 때 아버지를 따라 자마이카를 여행했습니다. 당시에는 아버지와 헤어져 지낸 시간 때문에 마음이 복잡해서 자마이카의 아름다운 풍경을 제대로 즐기지 못했습니다. 하지만 시간이 흐르면서 아버지를 더 잘 이해하게 되었고, 아버지와의 소중한 추억을 만들었습니다.\n\n아버지가 돌아가신 지 20년이 지난 지금, 글쓴이는 자신의 남편과 아이들과 함께 자마이카로 여행을 떠났습니다. 이들은 아버지가 살았던 블루마운틴과 여러 지역을 방문하면서 아버지의 흔적을 찾았습니다. 아이들은 할아버지가 사랑했던 자마이카의 자연을 직접 느끼며 자신들의 뿌리를 배우고 있습니다.\n\n블루마운틴에는 아버지가 직접 만들었던 집과 자연 친화적인 정원이 그대로 남아 있습니다. 글쓴이 가족은 친숙한 마을을 지나면서 아버지와 함께 걸었던 옛 추억을 떠올렸습니다. 이번 여행은 아이들에게 할아버지를 기억하게 하고, 가족의 소중함을 다시 느끼게 해주는 특별한 시간이 되었습니다.",
+        "eng": "The writer traveled to Jamaica with her father when she was young. At that time, she could not fully enjoy the scenery because she had complicated feelings about him. As time passed, she came to understand him better and made precious memories with him.\n\nNow, 20 years after her father passed away, the writer has taken a road trip to Jamaica with her husband and children. They visited the Blue Mountains where her father lived and traced his footsteps. The children are learning about their roots by experiencing the nature their grandfather loved.\n\nIn the Blue Mountains, the house her father built and his eco-friendly garden still remain. The family passed through the familiar village and remembered old memories of walking with her father. This trip became a special time to help the children remember their grandfather and feel the importance of family once again.",
+        "hu": "Az író fiatalon Jamaicába utazott az édesapjával. Akkoriban nem tudta fully élvezni a tájat a bonyolult érzései miatt. Az idő múlásával azonban jobban megértette őt, és értékes emlékeket szerzett vele.\n\nMost, 20 évvel az édesapja halála után, az író a férjével és a gyerekeivel road tripre indult Jamaicába. Meglátogatták a Kék-hegységet, ahol az édesapja élt, és követték a nyomait. A gyerekek a nagypapa által szeretett természet megtapasztalásával tanulnak a gyökereikről.\n\nA Kék-hegységben még mindig megvan a ház, amit az édesapja épített, és a természetbarát kertje. A család átutazott az ismerős falun, és felidézte a régi emlékeket. Ez az utazás különleges alkalom lett arra, hogy a gyerekek emlékezzenek a nagypapára, és újra érezzék a család fontosságát."
+      },
+      "vocab": [
+        {
+          "word": "추억",
+          "meaning_en": "memory",
+          "meaning_hu": "emlék"
+        },
+        {
+          "word": "여행",
+          "meaning_en": "trip, travel",
+          "meaning_hu": "utazás"
+        },
+        {
+          "word": "자연",
+          "meaning_en": "nature",
+          "meaning_hu": "természet"
+        },
+        {
+          "word": "뿌리",
+          "meaning_en": "roots",
+          "meaning_hu": "gyökerek"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 가족과 함께 여행을 간 적이 있습니까? 어디로 갔었습니까?",
+          "eng": "Have you ever traveled with your family? Where did you go?",
+          "hu": "Utazott már a családjával? hova ment?"
+        },
+        {
+          "kor": "가족과의 추억 중에서 가장 기억에 남는 것은 무엇입니까?",
+          "eng": "What is your most memorable memory with your family?",
+          "hu": "Mi a legemlékezetesebb élménye a családjával?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-21",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/travel/2023/sep/17/brooklyn-new-york-for-all-budgets-10-places-to-stay"
+      },
+      "title": {
+        "kor": "미국 뉴욕 브루클린의 다양한 숙소 소개",
+        "eng": "Where to stay in Brooklyn: 9 great hotels and hostels for every budget",
+        "hu": "Hol érdemes megszállni Brooklynban: 9 nagyszerű szállás minden költségvetéshez"
+      },
+      "desc": {
+        "kor": "세계에서 가장 비싼 도시 중 하나인 뉴욕 브루클린에서 예산에 맞춰 머물 수 있는 다양한 숙소들을 소개합니다.",
+        "eng": "Discover a variety of accommodations in Brooklyn, New York, tailored for different budgets.",
+        "hu": "Fedezze fel a különböző költségvetésre szabott szállásokat a New York-i Brooklynban."
+      },
+      "article": {
+        "kor": "미국 뉴욕의 브루클린은 최근 세계 여행자들에게 가장 인기 있는 지역 중 하나입니다. 이곳에는 저렴한 비용으로 머물 수 있는 게스트하우스부터 맨해튼의 멋진 전망을 볼 수 있는 호텔까지 다양한 숙소가 있습니다.\n\n예를 들어 윌리엄스버그 지역에는 넓은 방과 주방을 갖춘 가성비 좋은 숙소가 있습니다. 또한, 브루클린 다운타운에 위치한 부티크 호텔들은 무료 자전거 대여와 피트니스 센터 같은 편의시설을 제공하여 여행객들의 이동을 돕습니다.\n\n조용한 주택가에 위치한 작은 호텔이나 19세기 저택을 개조한 숙소에서는 뉴욕의 색다른 분위기를 느낄 수 있습니다. 여행객들은 자신의 예산과 취향에 맞는 숙소를 선택하여 브루클린의 맛있는 음식과 문화를 즐길 수 있습니다.",
+        "eng": "Brooklyn in New York is one of the most popular areas for global travelers. There are various accommodations ranging from budget-friendly hostels to hotels with great views of Manhattan.\n\nFor example, in the Williamsburg area, there are cost-effective accommodations with spacious rooms and kitchens. Also, boutique hotels located in downtown Brooklyn provide amenities like free bicycle rentals and fitness centers to help travelers get around.\n\nVisitors can experience a unique atmosphere of New York at small hotels in quiet residential areas or renovated 19th-century mansions. Travelers can choose accommodations that fit their budgets and preferences while enjoying Brooklyn's food and culture.",
+        "hu": "A New York-i Brooklyn a globális utazók egyik legnépszerűbb helyszíne. Különböző szállások találhatók itt a pénztárcabarát hostelektől a manhattani kilátást nyújtó szállodákig.\n\nPéldául Williamsburg térségében tágas szobákkal és konyhával rendelkező, költséghatékony szállások vannak. Emellett a belvárosi butikhitelek ingyenes kerékpárkölcsönzést és fitneszközpontot kínálnak a közlekedés segítésére.\n\nA látogatók a csendes lakóövezetekben található kis szállodákban vagy a 19. századi felújított kúriákban élvezhetik New York egyedi hangulatát. Az utazók a költségvetésüknek és ízlésüknek megfelelő szállást választhatnak."
+      },
+      "vocab": [
+        {
+          "word": "숙소",
+          "meaning_en": "accommodation",
+          "meaning_hu": "szállás"
+        },
+        {
+          "word": "예산",
+          "meaning_en": "budget",
+          "meaning_hu": "költségvetés"
+        },
+        {
+          "word": "전망",
+          "meaning_en": "view",
+          "meaning_hu": "kilátás"
+        },
+        {
+          "word": "편의시설",
+          "meaning_en": "amenities",
+          "meaning_hu": "kényelmi szolgáltatások"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 여행을 할 때 호텔과 게스트하우스 중 어떤 곳을 더 좋아합니까?",
+          "eng": "When traveling, do you prefer hotels or guesthouses?",
+          "hu": "Utazás során a szállodákat vagy a vendégházakat részesíti előnyben?"
+        },
+        {
+          "kor": "숙소를 고를 때 가장 중요하게 생각하는 조건은 무엇입니까?",
+          "eng": "What is the most important condition when choosing accommodation?",
+          "hu": "Mi a legfontosabb szempont a szállás kiválasztásakor?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-22",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/money/2026/may/24/brazilian-beach-scam-debit-card-con-kebab"
+      },
+      "title": {
+        "kor": "브라질 해변에서 주의해야 할 신용카드 사기 사건",
+        "eng": "Card Scams on Brazilian Beaches Cost Tourists Dearly",
+        "hu": "Bankkártyás csalások a brazíliai strandokon"
+      },
+      "desc": {
+        "kor": "브라질 리우데자네이루의 해변에서 관광객을 대상으로 한 카드 결제 사기가 발생하여 주의가 요구된다.",
+        "eng": "Tourists in Rio de Janeiro are warned about debit card scams by beach vendors.",
+        "hu": "Figyelmeztetést adtak ki a riói strandokon árusító helyiek kártyás csalásai miatt."
+      },
+      "article": {
+        "kor": "최근 브라질 리우데자네이루의 해변에서 관광객들을 노린 카드 결제 사기가 잇따라 발생하고 있어 여행객들의 각별한 주의가 요구된다. 한 여행객은 해변에서 치즈 두 조각을 사고 우리돈 약 590만 원에 달하는 금액이 결제되는 피해를 입었다. 사기범들은 카드 단말기에 숫자를 몰래 추가하거나 결제 직전에 금액을 바꾸는 수법을 사용하고 있다.\n\n이러한 범죄는 현지 화폐에 익숙하지 않고 단말기 화면을 제대로 확인하기 어려운 외국인 관광객들을 주로 겨냥한다. 사기꾼들은 결제 금액을 확인시킨 뒤 단말기를 돌려 0을 더 붙이거나, 손님이 확인하기도 전에 결제를 끝내는 방식을 쓴다. 특히 영수증을 주지 않고 자리를 떠나는 경우가 많아 피해를 뒤늦게 알아차리는 경우가 많다.\n\n피해를 입은 관광객들이 은행으로부터 돈을 돌려받는 과정도 쉽지 않다. 소비자가 직접 카드를 태그하여 승인한 거래는 사기가 아니라 구매자와 판매자 간의 분쟁으로 분류되기 때문이다. 전문가들은 현지 해변에서 이동식 상인과 거래할 때 현금을 사용하거나, 결제 금액이 바뀔 수 없도록 직접 단말기를 잡고 확인하는 것이 안전하다고 조언한다.",
+        "eng": "Travelers visiting the beaches of Rio de Janeiro are being warned about deceptive card payment scams by local vendors. One tourist was recently charged an exorbitant amount for a small snack after the vendor secretly added extra zeros to the card reader. This trick takes advantage of tourists who are unfamiliar with local currency and fail to notice doctored sums.\n\nScammers often ask customers to confirm the correct amount before surreptitiously altering the figures right before the tap is made. Because these transactions are technically authorized by the cardholder, getting a refund from banks can be extremely difficult. Many victims struggle to reverse the charges or claim chargebacks without proper receipts or invoices.\n\nTo avoid falling victim to such crimes, holidaymakers are strongly advised to pay cash when dealing with mobile beach vendors. Alternatively, travelers should insist on holding the payment terminal themselves to ensure that the final price cannot be altered at the last minute.",
+        "hu": "Figyelmeztetést adtak ki a riói strandokon a turistákat célzó kártyás csalások miatt. Egy utazó hatalmas összeget fizetett ki néhány sajtért, mert az árus titokban nullákat adott a végösszeghez. Ez a csalási módszer a helyi valutát nem ismerő turisták hiszékenységét használja ki.\n\nA csalók gyakran arra kérik a vásárlókat, hogy erősítsék meg az összeget, majd a fizetés pillanatában észrevétlenül módosítják azt. Mivel a vásárlók maguk hagyják jóvá a tranzakciót, a bankoktól szinte lehetetlen visszatérítést kapni nyugta vagy bizonyíték nélkül. A szakértők azt javasolják, hogy a strandon inkább fizessünk készpénzzel, vagy magunk tartsuk a leolvasót."
+      },
+      "vocab": [
+        {
+          "word": "관광객",
+          "meaning_en": "tourist",
+          "meaning_hu": "turista"
+        },
+        {
+          "word": "사기",
+          "meaning_en": "fraud, scam",
+          "meaning_hu": "csalás"
+        },
+        {
+          "word": "결제",
+          "meaning_en": "payment",
+          "meaning_hu": "fizetés"
+        },
+        {
+          "word": "환불",
+          "meaning_en": "refund",
+          "meaning_hu": "visszatérítés"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "해변에서 신용카드로 결제할 때 어떤 점을 조심해야 할까요?",
+          "eng": "What should people be careful about when paying with a credit card at the beach?",
+          "hu": "Mire kell figyelni, amikor bankkártyával fizetünk a strandon?"
+        },
+        {
+          "kor": "외국 여행 중 사기를 당했을 때 어떻게 대처하는 것이 좋을까요?",
+          "eng": "How should travelers deal with potential scams while traveling abroad?",
+          "hu": "Hogyan érdemes kezelni a lehetséges csalásokat külföldi utazás során?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-1",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News 코리아",
@@ -63,7 +1387,7 @@
       "date": "2026.10.02",
       "level": "Intermediate",
       "levelNum": 5,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News 코리아",
@@ -125,7 +1449,7 @@
       "date": "2026.10.02",
       "level": "Intermediate",
       "levelNum": 4,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -187,7 +1511,7 @@
       "date": "2026.10.02",
       "level": "Intermediate",
       "levelNum": 5,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -249,7 +1573,7 @@
       "date": "2026.10.02",
       "level": "Intermediate",
       "levelNum": 6,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -311,7 +1635,7 @@
       "date": "2026.10.02",
       "level": "Advanced",
       "levelNum": 7,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -373,7 +1697,7 @@
       "date": "2026.10.02",
       "level": "Beginner",
       "levelNum": 1,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -430,7 +1754,7 @@
       "date": "2026.10.02",
       "level": "Beginner",
       "levelNum": 2,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -492,7 +1816,7 @@
       "date": "2026.10.02",
       "level": "Elementary",
       "levelNum": 3,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -554,7 +1878,7 @@
       "date": "2026.10.02",
       "level": "Intermediate",
       "levelNum": 4,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -611,7 +1935,7 @@
       "date": "2026.10.02",
       "level": "Beginner",
       "levelNum": 1,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -668,7 +1992,7 @@
       "date": "2026.10.02",
       "level": "Beginner",
       "levelNum": 2,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -725,7 +2049,7 @@
       "date": "2026.10.02",
       "level": "Elementary",
       "levelNum": 3,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -787,7 +2111,7 @@
       "date": "2026.10.02",
       "level": "Intermediate",
       "levelNum": 5,
-      "isNew": true,
+      "isNew": false,
       "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
       "source": {
         "name": "BBC News",
@@ -835,492 +2159,6 @@
           "kor": "티켓 가격이 비싸져도 유명한 축제에 가고 싶습니까?",
           "eng": "Would you still want to go to a famous festival even if the ticket prices increase?",
           "hu": "Akkor is el akarsz menni egy híres fesztiválra, ha a jegyárak emelkednek?"
-        }
-      ]
-    },
-    {
-      "id": "news-20261002-15",
-      "category": "Culture & Arts",
-      "date": "2026.10.02",
-      "level": "Intermediate",
-      "levelNum": 6,
-      "isNew": true,
-      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss"
-      },
-      "title": {
-        "kor": "미국 래퍼 칸예 웨스트의 러시아 공연이 공식적으로 취소되었습니다",
-        "eng": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
-        "hu": "Hivatalosan is lemondták Kanye West oroszországi koncertjeit hetek bizonytalansága után"
-      },
-      "desc": {
-        "kor": "논란에 휩싸인 미국 래퍼 칸예 웨스트의 러시아 상트페테르부르크 콘서트가 최종 취소되었습니다.",
-        "eng": "Controversial US rapper Kanye West's scheduled concerts in St Petersburg, Russia, have been officially cancelled.",
-        "hu": "Hivatalosan is lemondták a vitatott amerikai rapper, Kanye West szentpétervári koncertjeit."
-      },
-      "article": {
-        "kor": "미국 출신의 유명 래퍼 칸예 웨스트(예)의 러시아 공연이 결국 취소되었습니다. 당초 웨스트는 10월 상트페테르부르크의 가즈프롬 아레나에서 대규모 공연을 열 예정이었습니다. 하지만 공연 장소를 제공할 예정이었던 경기장 측과 주최 측 사이에 갈등이 생기면서 행사는 큰 혼란을 겪었습니다.\n\n경기장 측은 지난 8월 주최 측과 정식 계약을 맺지 않았다고 밝혔으며, 웨스트의 과거 발언에 대한 항의 민원도 접수되었다고 전했습니다. 최근 웨스트는 과거에 했던 반유대주의적 발언과 나치 찬양 발언 등으로 여러 차례 논란을 빚은 바 있습니다. 특히 러시아 외무부 대변인도 그의 과거 행동을 지적하며 공연 계획에 공개적으로 비판의 목소리를 냈습니다.\n\n결국 모스크바에 기반을 둔 기획사인 세이 아거시는 텔레그램을 통해 공연 취소 소식을 공식화했습니다. 이들은 깊은 유감을 표명하며 프로젝트의 향후 계획에 대해 조만간 공식 입장을 발표하겠다고 밝혔습니다. 이번 취소로 인해 러시아에서 열릴 예정이었던 서구 아티스트의 대형 공연은 무산되었습니다.",
-        "eng": "Two scheduled concerts in Russia by the US rapper Ye, formerly known as Kanye West, have been officially cancelled following weeks of uncertainty. West was originally due to perform at the Gazprom Arena in St Petersburg on October 10 and 11, which would have marked the biggest show by a Western artist in the country since 2022. However, the venue announced in August that no rental agreement had been signed and acknowledged receiving public complaints regarding the rapper's past behavior.\n\nThe controversy largely stems from West's recent history of making antisemitic and pro-Nazi comments, which drew sharp criticism from figures including the Russian Foreign Ministry spokeswoman who condemned his past glorification of Hitler. Despite efforts by the Moscow-based organizers, Say Agency, to resolve the venue issues, they ultimately confirmed the cancellation on Telegram with sincere regret. The agency stated that an official statement regarding the future status of the project would be released in the near future.",
-        "hu": "Hivatalosan is lemondták a Kanye West néven is ismert amerikai rapper, Ye két tervezett oroszországi koncertjét hetek bizonytalansága után. West eredetileg október 10-én és 11-én lépett volna fel a szentpétervári Gazprom Arénában, ami a legnagyobb nyugati előadói koncert lett volna Oroszországban 2022 óta. A stadion azonban augusztusban közölte, hogy nem írt alá bérleti szerződést, és elismerte, hogy panaszokat kapott a rapper múltbeli botrányos megnyilvánulásai miatt.\n\nA helyzetet tovább bonyolította West múltbeli antiszemitizmus és náciellenes megjegyzései, amelyek miatt az orosz külügyminisztérium szóvivője is nyíltan bíráltá a terveket. Annak ellenére, hogy a szervezők, a Say Agency megpróbálta megoldani a problémákat a stadionnal, végül a Telegramon megerősítették a koncertek elmaradását. Az ügynökség közölte, hogy a közeljövőben hivatalos nyilatkozatot adnak ki a projekt jövőjéről."
-      },
-      "vocab": [
-        {
-          "word": "취소되다",
-          "meaning_en": "to be cancelled",
-          "meaning_hu": "lemondásra kerülni"
-        },
-        {
-          "word": "논란",
-          "meaning_en": "controversy, dispute",
-          "meaning_hu": "viták, botrány"
-        },
-        {
-          "word": "항의",
-          "meaning_en": "protest, complaint",
-          "meaning_hu": "tiltakozás, panasz"
-        },
-        {
-          "word": "유감",
-          "meaning_en": "regret",
-          "meaning_hu": "sajnálat"
-        }
-      ],
-      "questions": [
-        {
-          "kor": "칸예 웨스트의 러시아 공연이 취소된 주된 이유는 무엇인가요?",
-          "eng": "What is the main reason why Kanye West's concerts in Russia were cancelled?",
-          "hu": "Mi a fő oka annak, hogy lemondták Kanye West oroszországi koncertjeit?"
-        },
-        {
-          "kor": "예술가의 과거 논란이나 정치적 발언이 그의 공연 활동에 어떤 영향을 미쳐야 한다고 생각하시나요?",
-          "eng": "How do you think an artist's past controversies or political statements should affect their performance activities?",
-          "hu": "Ön szerint hogyan kellene befolyásolniuk egy művész múltbeli vitáinak vagy politikai nyilatkozatainak a koncerttevékenységét?"
-        }
-      ]
-    },
-    {
-      "id": "news-20261002-16",
-      "category": "Culture & Arts",
-      "date": "2026.10.02",
-      "level": "Advanced",
-      "levelNum": 7,
-      "isNew": true,
-      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgvgd2jrgmo?at_medium=RSS&at_campaign=rss"
-      },
-      "title": {
-        "kor": "투렛 증후군 활동가 존 데이비슨, 인종차별적 발언 논란 속 스코틀랜드 영화상 비디오 시청 요청",
-        "eng": "Tourette's campaigner Davidson asks to watch Scottish Baftas via video link after racial slur row",
-        "hu": "A Tourette-szindrómás aktivista, Davidson videókapcsolaton keresztül nézné meg a skót BAFTA-díjátadót egy korábbi rasszista incidens után"
-      },
-      "desc": {
-        "kor": "영화 시상식에서 의도치 않은 틱 증상으로 인종차별적 단어를 외쳐 논란이 된 존 데이비슨이 스코틀랜드 BAFTA 시상식에 별도 공간에서 비디오 링크로 참석하겠다고 요청했습니다.",
-        "eng": "John Davidson, who shouted a racial slur due to involuntary tics at the Bafta Film Awards, has asked to watch the upcoming Scottish Baftas via video link from a separate room.",
-        "hu": "John Davidson, aki akaratlan tikek miatt rasszista kifejezéstabút kiabált a BAFTA-gálán, arra kérte a szervezőket, hogy egy külön helyiségből, videókapcsolaton keresztül követhesse a skót BAFTA-díjátadót."
-      },
-      "article": {
-        "kor": "투렛 증후군 활동가인 존 데이비슨이 지난 2월 영국 영화 아카데미(BAFTA) 시상식 도중 발생한 인종차별적 발언 논란 이후, 스코틀랜드 BAFTA 시상식에 비디오 링크를 통해 참석하겠다는 의사를 밝혔다. 그의 성장 과정을 다룬 영화 '아이 스웨어(I Swear)'는 이번 스코틀랜드 BAFTA에서 7개 부문에 노미네이트되었다.\n\n데이비슨은 지난 2월 런던에서 열린 시상식 당시 불수의적 틱 증상으로 인해 시상자들에게 인종차별적 단어를 소리쳐 파장을 일으켰다. 당시 BBC 방송사는 해당 발언을 편집하지 않고 송출하여 사과했으며, 이후 BAFTA 스코틀랜드 측은 전문가들과의 논의를 통해 안전한 참여 방안을 모색해 왔다.\n\n이에 데이비슨은 가족 및 친구들과 함께 행사장 내의 별도 공간에서 화면을 통해 시상식을 관람하겠다고 제안했다. 그는 자신의 틱 증상이 고의성이 없으며 어떤 의미도 담고 있지 않다며 깊은 유감을 표명한 바 있다.\n\n스코틀랜드 BAFTA 측은 포용성과 안전을 최우선으로 고려하여 그의 제안을 수용하고 모든 참석자에게 안전한 환경을 제공하기 위해 협력하고 있다. 이번 시상식에는 영화 '아이 스웨어'의 주요 출연진을 비롯한 많은 배우들이 후보에 올랐다.",
-        "eng": "Tourette's campaigner John Davidson has requested to watch the upcoming Scottish Baftas via a video link at the venue following a controversy over a racial slur he shouted during the Bafta Film Awards in February. The film 'I Swear', which depicts his life, has received seven nominations for the Scottish Baftas.\n\nDuring the February ceremony in London, Davidson experienced involuntary tics that caused him to shout an offensive racial slur at the presenters. The BBC later apologized for failing to edit the remark out of its broadcast, and Bafta Scotland subsequently consulted with safeguarding experts to determine a safe way for him to participate.\n\nIn response, Davidson suggested watching the ceremony from a separate room within the venue alongside his family and friends. He previously expressed deep regret, emphasizing that his tics are entirely involuntary and carry no intentional meaning or malice.\n\nBafta Scotland stated that it worked with inclusion experts to accommodate his request safely for everyone involved. This year's event features several prominent nominees from the film industry, highlighting the ongoing conversation around accessibility and inclusion in the arts.",
-        "hu": "John Tourette-szindrómás aktivista a februári BAFTA-gálán történt rasszista kijelentése után arra kérte a skót BAFTA szervezőit, hogy videókapcsolaton keresztül, egy külön helyiségből nézhesse az eseményt. Az életéről szóló 'I Swear' című film hét kategóriában kapott jelölést a skót BAFTA-díjakért.\n\nA februári londoni ceremónián Davidson akaratlan tikjei miatt sértő kifejezést kiabált a díjátadóknak. A BBC később bocsánatot kért, amiért nem vágta ki a jelenetet a közvetítésből, a skót BAFTA szervezői pedig szakértőkkel konzultálva keresték a biztonságos részvétel módját.\n\nEnnek keretében Davidson azt javasolta, hogy családjával és barátaival együtt, a helyszín egy külön szobájából, kivetítőn keresztül kövesse az eseményeket. Korábban mély sajnálatát fejezte ki, hangsúlyozva, hogy akaratlan tikjei nem hordoznak szándékos jelentést.\n\nA skót BAFTA közölte, hogy a befogadás és a biztonság szem előtt tartásával alakították ki a megoldást az összes résztvevő számára. Az idei jelöltek között számos ismert művész szerepel a filmiparból."
-      },
-      "vocab": [
-        {
-          "word": "불수의적",
-          "meaning_en": "involuntary",
-          "meaning_hu": "akaratlan"
-        },
-        {
-          "word": "노미네이트",
-          "meaning_en": "nominated",
-          "meaning_hu": "jelölt"
-        },
-        {
-          "word": "포용성",
-          "meaning_en": "inclusion",
-          "meaning_hu": "befogadás"
-        },
-        {
-          "word": "유감을 표명하다",
-          "meaning_en": "to express regret",
-          "meaning_hu": "sajnálatát fejezi ki"
-        }
-      ],
-      "questions": [
-        {
-          "kor": "예술적 성취와 대중 행사에서의 돌발 행동(틱 증상 등) 사이의 균형을 어떻게 맞추어야 한다고 생각하시나요?",
-          "eng": "How do you think a balance should be struck between artistic achievement and unexpected behaviors at public events?",
-          "hu": "Ön szerint hogyan lehet egyensúlyt teremteni a művészeti teljesítmény és a nyilvános eseményeken előforduló váratlan viselkedések között?"
-        },
-        {
-          "kor": "문화 예술 행사에서 장애를 가진 예술가나 참여자를 위한 포용성과 안전 장치는 왜 중요할까요?",
-          "eng": "Why are inclusion and safety measures important for artists and participants with disabilities at cultural and arts events?",
-          "hu": "Miért fontosak a befogadási és biztonsági intézkedések a fogyatékkal élő művészek és résztvevők számára a kulturális rendezvényeken?"
-        }
-      ]
-    },
-    {
-      "id": "news-20261002-17",
-      "category": "Travel & Lifestyle",
-      "date": "2026.10.02",
-      "level": "Beginner",
-      "levelNum": 1,
-      "isNew": true,
-      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
-      "source": {
-        "name": "the Guardian",
-        "url": "https://www.theguardian.com/travel/2024/apr/26/austin-texas-three-day-travel-guide"
-      },
-      "title": {
-        "kor": "미국 오스틴 여행 하기",
-        "eng": "Traveling to Austin, USA",
-        "hu": "Utazás Austinba, USA"
-      },
-      "desc": {
-        "kor": "미국 오스틴에서 맛있는 음식을 먹고 즐겁게 놀 수 있는 방법입니다.",
-        "eng": "Ways to eat good food and have fun in Austin, USA.",
-        "hu": "Módok arra, hogy jókat együnk és szórakozzunk az amerikai Austinban."
-      },
-      "article": {
-        "kor": "미국 오스틴은 아주 인기 있는 여행지입니다. 오스틴에는 맛있는 음식과 멋진 음악이 많습니다. 사람들은 이곳에서 공원을 산책하고 맛있는 음식을 먹습니다. 여러분도 오스틴에서 즐거운 시간을 보낼 수 있습니다.",
-        "eng": "Austin in the US is a very popular travel destination. There is delicious food and great music in Austin. People take a walk in the park and eat good food here. You can also have a good time in Austin.",
-        "hu": "Az ausztini USA egy nagyon népszerű úti cél. Finom ételek és nagyszerű zene van Austinban. Az emberek sétálnak a parkban és jó ételeket esznek itt. Ön પણ jól érezheti magát Austinban."
-      },
-      "vocab": [
-        {
-          "word": "여행지",
-          "meaning_en": "travel destination",
-          "meaning_hu": "utazási célpont"
-        },
-        {
-          "word": "음식",
-          "meaning_en": "food",
-          "meaning_hu": "étel"
-        },
-        {
-          "word": "공원",
-          "meaning_en": "park",
-          "meaning_hu": "park"
-        }
-      ],
-      "questions": [
-        {
-          "kor": "여러분은 여행을 좋아합니까?",
-          "eng": "Do you like traveling?",
-          "hu": "Szeret utazni?"
-        },
-        {
-          "kor": "어느 나라에 가고 싶습니까?",
-          "eng": "Which country do you want to go to?",
-          "hu": "Melyik országba szeretne menni?"
-        }
-      ]
-    },
-    {
-      "id": "news-20261002-18",
-      "category": "Travel & Lifestyle",
-      "date": "2026.10.02",
-      "level": "Beginner",
-      "levelNum": 2,
-      "isNew": true,
-      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
-      "source": {
-        "name": "the Guardian",
-        "url": "https://www.theguardian.com/travel/2024/mar/22/nyc-three-day-travel-guide"
-      },
-      "title": {
-        "kor": "뉴욕 여행 안내서: 삼 일 동안 먹고 보고 즐기는 법",
-        "eng": "A local’s travel guide to New York City: what to eat, see and do in three days",
-        "hu": "Helyi utazási útmutató New York Citybe: mit enni, látni és csinálni három nap alatt"
-      },
-      "desc": {
-        "kor": "뉴욕에서 배를 타고 구경하고 맛있는 음식을 먹는 여행 방법을 소개합니다.",
-        "eng": "A local guide shares the best things to do, eat, and see during a three-day trip to New York.",
-        "hu": "Egy helyi lakos megosztja a legjobb programokat, ételeket és látnivalókat egy háromnapos New York-i utazáshoz."
-      },
-      "article": {
-        "kor": "뉴욕에는 큰 건물을 구경하고 배를 타는 재미있는 일이 많습니다. 특히 배를 타고 바다와 다리를 구경하는 여행이 아주 인기가 좋습니다.\n\n맨해튼과 브루클린을 구경한 뒤에는 맛있는 음식도 먹을 수 있습니다. 차이나타운에 가서 구경하고 시장에서 재미있는 물건을 살 수도 있습니다.",
-        "eng": "There are many fun things to do in New York, like seeing big buildings and taking a ferry. Taking a boat to see the bridges and water is especially popular.\n\nAfter looking around Manhattan and Brooklyn, you can also eat delicious food. You can visit Chinatown and buy interesting things at the market.",
-        "hu": "Sok szórakoztató dolog van New Yorkban, például nagy épületek megnézése és hajózás. Különösen népszerű a hajózás, ahonnan láthatók a hidak és a víz.\n\nMiután körülnézett Manhattanben és Brooklynban, finom ételeket is ehet. Ellátogathat a Kínai negyedbe, és érdekes dolgokat vásárolhat a piacon."
-      },
-      "vocab": [
-        {
-          "word": "여행",
-          "meaning_en": "travel, trip",
-          "meaning_hu": "utazás"
-        },
-        {
-          "word": "배",
-          "meaning_en": "boat, ship",
-          "meaning_hu": "hajó"
-        },
-        {
-          "word": "구경하다",
-          "meaning_en": "to sightsee, to look around",
-          "meaning_hu": "megnézni, körülnézni"
-        },
-        {
-          "word": "음식",
-          "meaning_en": "food",
-          "meaning_hu": "étel"
-        }
-      ],
-      "questions": [
-        {
-          "kor": "여러분은 뉴욕에 가면 무엇을 하고 싶습니까?",
-          "eng": "What do you want to do if you go to New York?",
-          "hu": "Mit szeretne csinálni, if eljut New Yorkba?"
-        },
-        {
-          "kor": "배를 타고 여행하는 것을 좋아합니까?",
-          "eng": "Do you like traveling by boat?",
-          "hu": "Szeret hajóval utazni?"
-        }
-      ]
-    },
-    {
-      "id": "news-20261002-19",
-      "category": "Travel & Lifestyle",
-      "date": "2026.10.02",
-      "level": "Elementary",
-      "levelNum": 3,
-      "isNew": true,
-      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
-      "source": {
-        "name": "the Guardian",
-        "url": "https://www.theguardian.com/travel/2024/mar/16/washington-dc-three-day-travel-guide"
-      },
-      "title": {
-        "kor": "워싱턴 D.C. 여행 가이드: 먹고 보고 즐기는 방법",
-        "eng": "A local's travel guide to Washington DC: what to eat, see and do",
-        "hu": "Helyi utazási útmutató Washington DC-be: mit kell enni, látni és csinálni"
-      },
-      "desc": {
-        "kor": "현지인이 추천하는 미국의 수도 워싱턴 D.C.의 맛집과 명소 여행 안내서입니다.",
-        "eng": "A local resident shares great places to eat, see, and visit in Washington D.C.",
-        "hu": "Egy helyi lakos megosztja Washington D.C. legjobb éttermeit és látnivalóit."
-      },
-      "article": {
-        "kor": "미국의 수도 워싱턴 D.C.는 정치인들이 많기로 유명하지만, 아주 매력적인 도시입니다. 이곳에는 멋진 공원과 무료 박물관, 그리고 맛있는 식당들이 많이 있습니다. 그래서 여행을 즐기기에 아주 좋은 곳입니다.\n\n여행 중에 맛있는 음식을 먹는 것은 아주 중요합니다. 그리스 음식점인 조르바스 카페에서 맛있는 지중해 요리를 먹을 수 있습니다. 그리고 필립스 컬렉션 미술관에 가서 아름다운 그림을 구경할 수 있습니다.\n\n오후에는 록 크릭 공원을 산책하며 여유를 즐길 수 있습니다. 저녁에는 유명한 식당에서 필리핀 요리를 맛보는 것도 좋습니다. 워싱턴 D.C.에서 즐거운 추억을 만들어 보세요.",
-        "eng": "Washington D.C., the capital of the United States, is famous for politicians, but it is a charming city. There are many wonderful parks, free museums, and great restaurants here. Therefore, it is a very good place to enjoy traveling.\n\nEating delicious food during a trip is very important. You can eat delicious Mediterranean food at Zorba's Cafe, a Greek restaurant. Then you can visit the Phillips Collection art museum to look at beautiful paintings.\n\nIn the afternoon, you can take a walk in Rock Creek Park and enjoy your leisure time. In the evening, it is also good to try Filipino food at a famous restaurant. Make wonderful memories in Washington D.C.",
-        "hu": "Az Amerikai Egyesült Államok fővárosa, Washington D.C. híres a politikusokról, de ez egy bájos város. Számos csodálatos park, ingyenes múzeum és nagyszerű étterem található itt. Ezért ez egy nagyon jó hely az utazás élvezetére.\n\nAz utazás során a finom ételek fogyasztása nagyon fontos. Finom mediterrán ételeket ehet a Zorba's Cafe nevű görög étteremben. Ezután meglátogathatja a Phillips Collection művészeti múzeumot, hogy gyönyörű festményeket nézzen meg.\n\nDélután sétálhat a Rock Creek Parkban, és élvezheti a szabadidejét. Este jó ötlet kipróbálni a Fülöp-szigeteki ételeket egy híres étteremben. Szerezzen csodálatos emlékeket Washington D.C.-ben."
-      },
-      "vocab": [
-        {
-          "word": "수도",
-          "meaning_en": "capital city",
-          "meaning_hu": "főváros"
-        },
-        {
-          "word": "박물관",
-          "meaning_en": "museum",
-          "meaning_hu": "múzeum"
-        },
-        {
-          "word": "산책하다",
-          "meaning_en": "to take a walk",
-          "meaning_hu": "sétálni"
-        },
-        {
-          "word": "추억",
-          "meaning_en": "memory",
-          "meaning_hu": "emlék"
-        }
-      ],
-      "questions": [
-        {
-          "kor": "여러분은 여행을 갈 때 무엇을 구경하는 것을 가장 좋아하나요?",
-          "eng": "What do you like to see most when you go on a trip?",
-          "hu": "Mit szeretsz a legjobban megnézni, amikor utazni mész?"
-        },
-        {
-          "kor": "워싱턴 D.C.에 간다면 가장 가고 싶은 곳은 어디인가요?",
-          "eng": "Where is the place you want to visit most if you go to Washington D.C.?",
-          "hu": "Hová szeretnél a leginkább elmenni, ha Washington D.C.-be utaznál?"
-        }
-      ]
-    },
-    {
-      "id": "news-20261002-20",
-      "category": "Travel & Lifestyle",
-      "date": "2026.10.02",
-      "level": "Intermediate",
-      "levelNum": 4,
-      "isNew": true,
-      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
-      "source": {
-        "name": "the Guardian",
-        "url": "https://www.theguardian.com/travel/2025/jan/15/a-break-from-the-accommodation-mega-sites-the-best-alternative-booking-platforms"
-      },
-      "title": {
-        "kor": "유명 숙소 예약 사이트 대신 이용할 수 있는 새로운 대안 플랫폼들",
-        "eng": "A break from the accommodation mega-sites: the best alternative booking platforms",
-        "hu": "Alternatív szállásfoglalási platformok a nagy óriások helyett"
-      },
-      "desc": {
-        "kor": "지역 사회를 돕고 환경을 생각하는 새로운 대안 숙소 예약 플랫폼들을 소개합니다.",
-        "eng": "Discovering new alternative accommodation booking platforms that help local communities and the environment.",
-        "hu": "Olyan új alternatív szállásfoglalási platformok bemutatása, amelyek segítik a helyi közösségeket és a környezetet."
-      },
-      "article": {
-        "kor": "에어비앤비와 부킹닷컴 같은 큰 숙소 예약 사이트들은 여행을 아주 편리하게 만들어 주었습니다. 하지만 세계의 많은 인기 여행지에서는 이러한 플랫폼 때문에 집값이 오르고 지역 주민들이 살기 어려워지는 문제가 생기고 있습니다.\n\n이러한 문제를 해결하기 위해 작고 독립적인 새로운 숙소 예약 사이트들이 인기를 끌고 있습니다. 예를 들어 '페어비앤비(Fairbnb)'라는 플랫폼은 지역 주민이 실제로 사는 집만 빌려주고, 수익의 절반을 지역 사회 프로젝트에 기부합니다.\n\n또한 '소셜비앤비(Socialbnb)'는 여행자와 전 세계의 사회적, 생태적 프로젝트를 연결해 줍니다. '에코비앤비(Ecobnb)'는 환경을 보호하는 친환경 숙소만 모아서 소개하고 있습니다.\n\n집을 서로 바꾸어 빌려 쓰는 '킨드레드(Kindred)' 같은 새로운 방식도 사람들에게 인기가 많습니다. 이러한 대안 플랫폼들을 이용하면 현지인들에게 도움을 주면서 더욱 의미 있는 여행을 할 수 있습니다.",
-        "eng": "Large accommodation booking sites like Airbnb and Booking.com have made travel very convenient. However, in many popular destinations around the world, these platforms are causing problems such as rising house prices and making it difficult for local residents to live.\n\nTo solve these problems, new smaller and independent accommodation booking websites are gaining popularity. For example, a platform called 'Fairbnb' only lists homes actually lived in by local residents and donates half of its profits to local community projects.\n\nIn addition, 'Socialbnb' connects travelers with social and ecological projects around the world. 'Ecobnb' collects and introduces only eco-friendly accommodations that protect the environment.\n\nNew methods like 'Kindred', where people exchange and rent homes with each other, are also very popular. Using these alternative platforms allows you to travel more meaningfully while helping locals.",
-        "hu": "Az olyan nagy szállásfoglalási oldalak, mint az Airbnb és a Booking.com, nagyon kényelmessé tették az utazást. A világ számos népszerű úti célján azonban ezek a platformok olyan problémákat okoznak, mint az emelkedő lakásárak, és megnehezítik a helyi lakosok életét.\n\nE problémák megoldására egyre népszerűbbek az új, kisebb és független szállásfoglalási weboldalak. Például a 'Fairbnb' nevű platform csak olyan otthonokat listáz, amelyekben helyi lakosok élnek, és a nyereségük felét helyi közösségi projekteknek adományozzák.\n\nEmellett a 'Socialbnb' összeköti utazókat a világ minden tájáról származó szociális és ökológiai projektekkel. Az 'Ecobnb' pedig csak olyan környezetbarát szállásokat gyűjt össze és mutat be, amelyek védik a környezetet.\n\nAz olyan új módszerek is nagyon népszerűek, mint a 'Kindred', ahol az emberek cserélik és bérbe adják egymás otthonait. Ezen alternatív platformok használatával tartalmasabban utazhatunk, miközben segítünk a helyieknek."
-      },
-      "vocab": [
-        {
-          "word": "숙소",
-          "meaning_en": "accommodation",
-          "meaning_hu": "szállás"
-        },
-        {
-          "word": "플랫폼",
-          "meaning_en": "platform",
-          "meaning_hu": "platform"
-        },
-        {
-          "word": "주민",
-          "meaning_en": "resident",
-          "meaning_hu": "helyi lakos"
-        },
-        {
-          "word": "기부하다",
-          "meaning_en": "to donate",
-          "meaning_hu": "adományozni"
-        }
-      ],
-      "questions": [
-        {
-          "kor": "여러분은 여행을 할 때 어떤 숙소 예약 사이트를 주로 사용하나요?",
-          "eng": "What accommodation booking sites do you usually use when traveling?",
-          "hu": "Milyen szállásfoglalási oldalakat szokott használni utazás során?"
-        },
-        {
-          "kor": "지역 사회에 도움이 되는 친환경 숙소를 이용해 보고 싶나요?",
-          "eng": "Would you like to use eco-friendly accommodations that help local communities?",
-          "hu": "Szeretne olyan környezetbarát szállásokat használni, amelyek segítik a helyi közösségeket?"
-        }
-      ]
-    },
-    {
-      "id": "news-20261002-21",
-      "category": "Travel & Lifestyle",
-      "date": "2026.10.02",
-      "level": "Intermediate",
-      "levelNum": 5,
-      "isNew": true,
-      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
-      "source": {
-        "name": "the Guardian",
-        "url": "https://www.theguardian.com/news/article/2024/aug/19/the-good-tourist-can-we-learn-to-travel-without-absolutely-infuriating-the-locals"
-      },
-      "title": {
-        "kor": "좋은 관광객이 되기: 현지인들을 화나게 하지 않고 여행할 수 있을까?",
-        "eng": "The good tourist: can we learn to travel without absolutely infuriating the locals?",
-        "hu": "A jó turista: megtanulhatunk-e úgy utazni, hogy ne dühítsük fel a helyieket?"
-      },
-      "desc": {
-        "kor": "세계적으로 오버투어리즘 문제가 심각해진 가운데, 새로운 여행 방식을 제안하는 책이 주목받고 있다.",
-        "eng": "Amid growing overtourism issues worldwide, a new book proposes better ways to travel.",
-        "hu": "A túrizmus globális növekedése közepette egy új könyv a fenntarthatóbb utazási módokat szorgalmazza."
-      },
-      "article": {
-        "kor": "최근 전 세계적으로 관광객이 너무 많이 몰려오면서 현지 주민들이 고통을 겪고 있습니다. 바르셀로나와 암스테르담 같은 유명 도시에서는 관광객을 반대하는 시위가 일어나거나 특별한 규칙이 생겼습니다. 비행기 값이 싸지고 인터넷으로 여행 예약을 하기 쉬워지면서 2023년에는 해외를 찾은 관광객이 13억 명을 넘었습니다.\n\n하지만 이러한 관광 붐은 환경 오염과 집값 상승 등 많은 문제를 일으키고 있습니다. 일부 도시에서는 관광객들의 무례한 행동을 막기 위해 벌금을 물리거나 새로운 규정을 만들기도 했습니다. 이처럼 여행이 환경과 현지 주민들에게 큰 부담을 주면서, 여행이 과연 좋은 것인지 의문이 커지고 있습니다.\n\n여행 저널리스트 페이지 맥클라나한은 저서 '새로운 관광객'에서 우리가 여행하는 방식을 바꿔야 한다고 말합니다. 그녀는 더 적은 곳을 방문하고 한곳에 오래 머물며 현지 문화를 존중하는 태도가 필요하다고 강조합니다. 여행은 세상을 이해하는 중요한 방법이지만, 이제는 현지인들에게 피해를 주지 않는 현명한 여행이 필요합니다.",
-        "eng": "Recently, local residents around the world are suffering as too many tourists visit popular destinations. Famous cities like Barcelona and Amsterdam are seeing protests against tourism and new regulations. As flights became cheaper and online booking easier, international tourists exceeded 1.3 billion in 2023.\n\nHowever, this tourism boom causes many problems such as environmental pollution and rising housing costs. Some cities have introduced fines and new rules to stop rude behaviors by tourists. As tourism places a heavy burden on the environment and locals, doubts are growing about whether travel is still a good thing.\n\nTravel journalist Paige McClanahan argues in her book 'The New Tourist' that we need to change the way we travel. She emphasizes the importance of visiting fewer places, staying longer, and respecting local cultures. While travel is an important way to understand the world, we now need smart travel that does not harm locals.",
-        "hu": "A világ számos pontján a túlzott turizmus nehézseket okoz a helyi lakosok számára. Olyan városokban, mint Barcelona vagy Amszterdam, tüntetések törtek ki, és új korlátozásokat vezettek be. A olcsóbb repülőjegyeknek és az online foglalásnak köszönhetően 2023-ban a nemzetközi turisták száma meghaladta az 1,3 milliárdot.\n\nEz a turisztikai boom azonban komoly problémákat okoz, például környezetszennyezést és az ingatlanárak emelkedését. Néhány város bírságokat és új szabályokat vezetett be a turisták helytelen viselkedése ellen. Mivel a turizmus nagy terhet ró a helyiekre, egyre többen kérdőjelezik meg az utazás értelmét.\n\nPaige McClanahan utazási újságíró 'Az új turista' című könyvében arról ír, hogy meg kell változtatnunk az utazási szokásainkat. Kiemeli, hogy kevesebb helyre kell utazni, hosszabb időt kell eltölteni egy-egy helyen, és tisztelni kell a helyi kultúrát. Az utazás fontos eszköz a világ megismeréséhez, de mostantól olyan okos utazásra van szükség, amely nem árt a helyieknek."
-      },
-      "vocab": [
-        {
-          "word": "관광객",
-          "meaning_en": "tourist",
-          "meaning_hu": "turista"
-        },
-        {
-          "word": "주민",
-          "meaning_en": "resident / local",
-          "meaning_hu": "helyi lakos"
-        },
-        {
-          "word": "환경 오염",
-          "meaning_en": "environmental pollution",
-          "meaning_hu": "környezetszennyezés"
-        },
-        {
-          "word": "규정",
-          "meaning_en": "regulation / rule",
-          "meaning_hu": "szabályozás"
-        }
-      ],
-      "questions": [
-        {
-          "kor": "여러분이 사는 도시에 관광객이 너무 많이 온다면 어떤 문제가 생길까요?",
-          "eng": "What problems might occur if too many tourists visited your city?",
-          "hu": "Milyen problémák merülnének fel, ha túl sok turista látogatna el a városába?"
-        },
-        {
-          "kor": "좋은 관광객이 되기 위해 어떤 행동을 해야 할까요?",
-          "eng": "What actions should we take to become a good tourist?",
-          "hu": "Milyen lépéseket kell tennünk ahhoz, hogy jó turisták legyünk?"
-        }
-      ]
-    },
-    {
-      "id": "news-20261002-22",
-      "category": "Travel & Lifestyle",
-      "date": "2026.10.02",
-      "level": "Intermediate",
-      "levelNum": 6,
-      "isNew": true,
-      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
-      "source": {
-        "name": "the Guardian",
-        "url": "https://www.theguardian.com/lifeandstyle/2024/dec/09/best-travel-gifts-presents-christmas"
-      },
-      "title": {
-        "kor": "여행을 사랑하는 사람들을 위한 크리스마스 선물 추천",
-        "eng": "Christmas gift ideas for travel lovers",
-        "hu": "Karácsonyi ajándékötletek az utazás szerelmeseinek"
-      },
-      "desc": {
-        "kor": "영국 가디언지가 여행을 좋아하는 사람들을 위한 다양한 크리스마스 선물 아이디어를 소개했다.",
-        "eng": "The Guardian has introduced various Christmas gift ideas for people who love traveling.",
-        "hu": "A The Guardian különböző karácsonyi ajándékötleteket mutatott be az utazást kedvelők számára."
-      },
-      "article": {
-        "kor": "크리스마스를 맞아 여행을 좋아하는 가족이나 친구를 위한 선물 고민이 깊어지는 시기이다. 영국의 언론사 가디언은 실용적인 용품부터 특별한 경험을 선물할 수 있는 다양한 아이디어를 공개했다. 이번에 추천된 선물들은 직접 여행을 떠나는 사람뿐만 아니라 집에서 세계를 간접적으로 즐기는 사람들에게도 모두 유용하다.\n\n여행 관련 도서들은 바쁜 일상 속에서도 세계 곳곳을 상상하게 만드는 훌륭한 선물이다. 외딴곳으로의 평화로운 여행지를 담은 책부터 세계의 아름다운 나무를 소개하는 책, 그리고 작가들의 여행 경험과 요리법을 담은 책까지 다양하다. 또한 인기 드라마의 배경이 된 장소를 찾아갈 수 있는 특별한 지도와 안내서도 큰 관심을 받고 있다.\n\n물리적인 물건 외에도 특별한 추억을 만들 수 있는 체험형 상품들이 인기를 끌고 있다. 영국의 유적지를 방문할 수 있는 이용권이나 아름다운 포도밭에서의 와인 시음 행사, 그리고 아늑한 숙박 시설을 이용할 수 있는 상품권 등이 포함된다. 이러한 선물들은 받는 이에게 소중한 휴식과 잊지 못할 추억을 선사한다.",
-        "eng": "It is a time when people worry about choosing Christmas gifts for family or friends who love traveling. The UK media outlet The Guardian has released various ideas ranging from practical items to special experiences. These recommended gifts are useful both for those who travel in person and those who enjoy the world from home.\n\nTravel-related books are great gifts that make people imagine various parts of the world even in busy daily lives. They range from books featuring peaceful travel destinations to those introducing beautiful trees and authors' travel experiences and recipes. Special maps and guides leading to places featured in popular shows are also receiving great attention.\n\nIn addition to physical items, experiential products that create special memories are gaining popularity. These include vouchers to visit historical sites in the UK, wine-tasting events at beautiful vineyards, and gift cards for cozy accommodations. These gifts provide recipients with precious relaxation and unforgettable memories.",
-        "hu": "Itt a karácsony, és sokan gondolkodnak azon, milyen ajándékot válasszanak az utazást kedvelő családtagoknak vagy barátoknak. A brit The Guardian sajtótermék különböző ajándékötleteket mutatott be a praktikus tárgyaktól a különleges élményekig. Ezek az ajánlott ajándékok hasznosak mind mereka számára, akik személyesen utaznak, mind pedig azoknak, akik otthonról élvezik a világot.\n\nAz utazással kapcsolatos könyvek nagyszerű ajándékok, amelyek a sűrű mindennapok közepette is a világ különböző tájainak képzeletbeli felfedezésére ösztönöznek. Különböző könyvek szerepelnek a választékban a békés úti céloktól kezdve a csodálatos fákat bemutató köteteken át az írók utazási élményeit és receptjeit tartalmazó művekig. Nagy figyelmet kapnak a népszerű sorozatok helyszíneire kalauzoló különleges térképek és útmutatók is.\n\nA fizikai tárgyak mellett egyre népszerűbbek az élményalapú termékek is, amelyek különleges emlékeket teremtnek. Ide tartoznak az egyes brit történelmi helyszínek meglátogatására jogosító utalványok, a gyönyörű szőlőskertekben szervezett borkóstolók, valamint a kényelmes szálláshelyekre szóló ajándékkártyák. Ezek az ajándékok értékes pihenést és felejthetetlen emlékeket nyújtanak a megajándékozottaknak."
-      },
-      "vocab": [
-        {
-          "word": "선물",
-          "meaning_en": "gift, present",
-          "meaning_hu": "ajándék"
-        },
-        {
-          "word": "실용적이다",
-          "meaning_en": "to be practical",
-          "meaning_hu": "praktikus"
-        },
-        {
-          "word": "추억",
-          "meaning_en": "memory",
-          "meaning_hu": "emlék"
-        }
-      ],
-      "questions": [
-        {
-          "kor": "당신은 여행 선물로 물건을 받는 것을 좋아하나요, 아니면 체험이나 경험을 선물받는 것을 좋아하나요?",
-          "eng": "Do you prefer receiving physical items or experiences as travel gifts?",
-          "hu": "Jobban szereti a tárgyi ajándékokat vagy az élményeket utazási ajándékként?"
-        },
-        {
-          "kor": "책을 통해 다른 나라를 간접적으로 여행해 본 경험이 있나요?",
-          "eng": "Have you ever experienced traveling indirectly to another country through a book?",
-          "hu": "Volt már olyan élménye, hogy könyv révén utazott közvetve egy másik országba?"
         }
       ]
     }

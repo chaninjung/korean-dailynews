@@ -1760,5 +1760,491 @@
         "hu": "Hogyan járulhat hozzá a tudat természetének feltárását célzó idegtudományi kutatás az orvostechnológia fejlődéséhez?"
       }
     ]
+  },
+  {
+    "id": "news-20261002-15",
+    "category": "Culture & Arts",
+    "date": "2026.10.02",
+    "level": "Intermediate",
+    "levelNum": 6,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "미국 래퍼 칸예 웨스트의 러시아 공연이 공식적으로 취소되었습니다",
+      "eng": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
+      "hu": "Hivatalosan is lemondták Kanye West oroszországi koncertjeit hetek bizonytalansága után"
+    },
+    "desc": {
+      "kor": "논란에 휩싸인 미국 래퍼 칸예 웨스트의 러시아 상트페테르부르크 콘서트가 최종 취소되었습니다.",
+      "eng": "Controversial US rapper Kanye West's scheduled concerts in St Petersburg, Russia, have been officially cancelled.",
+      "hu": "Hivatalosan is lemondták a vitatott amerikai rapper, Kanye West szentpétervári koncertjeit."
+    },
+    "article": {
+      "kor": "미국 출신의 유명 래퍼 칸예 웨스트(예)의 러시아 공연이 결국 취소되었습니다. 당초 웨스트는 10월 상트페테르부르크의 가즈프롬 아레나에서 대규모 공연을 열 예정이었습니다. 하지만 공연 장소를 제공할 예정이었던 경기장 측과 주최 측 사이에 갈등이 생기면서 행사는 큰 혼란을 겪었습니다.\n\n경기장 측은 지난 8월 주최 측과 정식 계약을 맺지 않았다고 밝혔으며, 웨스트의 과거 발언에 대한 항의 민원도 접수되었다고 전했습니다. 최근 웨스트는 과거에 했던 반유대주의적 발언과 나치 찬양 발언 등으로 여러 차례 논란을 빚은 바 있습니다. 특히 러시아 외무부 대변인도 그의 과거 행동을 지적하며 공연 계획에 공개적으로 비판의 목소리를 냈습니다.\n\n결국 모스크바에 기반을 둔 기획사인 세이 아거시는 텔레그램을 통해 공연 취소 소식을 공식화했습니다. 이들은 깊은 유감을 표명하며 프로젝트의 향후 계획에 대해 조만간 공식 입장을 발표하겠다고 밝혔습니다. 이번 취소로 인해 러시아에서 열릴 예정이었던 서구 아티스트의 대형 공연은 무산되었습니다.",
+      "eng": "Two scheduled concerts in Russia by the US rapper Ye, formerly known as Kanye West, have been officially cancelled following weeks of uncertainty. West was originally due to perform at the Gazprom Arena in St Petersburg on October 10 and 11, which would have marked the biggest show by a Western artist in the country since 2022. However, the venue announced in August that no rental agreement had been signed and acknowledged receiving public complaints regarding the rapper's past behavior.\n\nThe controversy largely stems from West's recent history of making antisemitic and pro-Nazi comments, which drew sharp criticism from figures including the Russian Foreign Ministry spokeswoman who condemned his past glorification of Hitler. Despite efforts by the Moscow-based organizers, Say Agency, to resolve the venue issues, they ultimately confirmed the cancellation on Telegram with sincere regret. The agency stated that an official statement regarding the future status of the project would be released in the near future.",
+      "hu": "Hivatalosan is lemondták a Kanye West néven is ismert amerikai rapper, Ye két tervezett oroszországi koncertjét hetek bizonytalansága után. West eredetileg október 10-én és 11-én lépett volna fel a szentpétervári Gazprom Arénában, ami a legnagyobb nyugati előadói koncert lett volna Oroszországban 2022 óta. A stadion azonban augusztusban közölte, hogy nem írt alá bérleti szerződést, és elismerte, hogy panaszokat kapott a rapper múltbeli botrányos megnyilvánulásai miatt.\n\nA helyzetet tovább bonyolította West múltbeli antiszemitizmus és náciellenes megjegyzései, amelyek miatt az orosz külügyminisztérium szóvivője is nyíltan bíráltá a terveket. Annak ellenére, hogy a szervezők, a Say Agency megpróbálta megoldani a problémákat a stadionnal, végül a Telegramon megerősítették a koncertek elmaradását. Az ügynökség közölte, hogy a közeljövőben hivatalos nyilatkozatot adnak ki a projekt jövőjéről."
+    },
+    "vocab": [
+      {
+        "word": "취소되다",
+        "meaning_en": "to be cancelled",
+        "meaning_hu": "lemondásra kerülni"
+      },
+      {
+        "word": "논란",
+        "meaning_en": "controversy, dispute",
+        "meaning_hu": "viták, botrány"
+      },
+      {
+        "word": "항의",
+        "meaning_en": "protest, complaint",
+        "meaning_hu": "tiltakozás, panasz"
+      },
+      {
+        "word": "유감",
+        "meaning_en": "regret",
+        "meaning_hu": "sajnálat"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "칸예 웨스트의 러시아 공연이 취소된 주된 이유는 무엇인가요?",
+        "eng": "What is the main reason why Kanye West's concerts in Russia were cancelled?",
+        "hu": "Mi a fő oka annak, hogy lemondták Kanye West oroszországi koncertjeit?"
+      },
+      {
+        "kor": "예술가의 과거 논란이나 정치적 발언이 그의 공연 활동에 어떤 영향을 미쳐야 한다고 생각하시나요?",
+        "eng": "How do you think an artist's past controversies or political statements should affect their performance activities?",
+        "hu": "Ön szerint hogyan kellene befolyásolniuk egy művész múltbeli vitáinak vagy politikai nyilatkozatainak a koncerttevékenységét?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-16",
+    "category": "Culture & Arts",
+    "date": "2026.10.02",
+    "level": "Advanced",
+    "levelNum": 7,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgvgd2jrgmo?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "투렛 증후군 활동가 존 데이비슨, 인종차별적 발언 논란 속 스코틀랜드 영화상 비디오 시청 요청",
+      "eng": "Tourette's campaigner Davidson asks to watch Scottish Baftas via video link after racial slur row",
+      "hu": "A Tourette-szindrómás aktivista, Davidson videókapcsolaton keresztül nézné meg a skót BAFTA-díjátadót egy korábbi rasszista incidens után"
+    },
+    "desc": {
+      "kor": "영화 시상식에서 의도치 않은 틱 증상으로 인종차별적 단어를 외쳐 논란이 된 존 데이비슨이 스코틀랜드 BAFTA 시상식에 별도 공간에서 비디오 링크로 참석하겠다고 요청했습니다.",
+      "eng": "John Davidson, who shouted a racial slur due to involuntary tics at the Bafta Film Awards, has asked to watch the upcoming Scottish Baftas via video link from a separate room.",
+      "hu": "John Davidson, aki akaratlan tikek miatt rasszista kifejezéstabút kiabált a BAFTA-gálán, arra kérte a szervezőket, hogy egy külön helyiségből, videókapcsolaton keresztül követhesse a skót BAFTA-díjátadót."
+    },
+    "article": {
+      "kor": "투렛 증후군 활동가인 존 데이비슨이 지난 2월 영국 영화 아카데미(BAFTA) 시상식 도중 발생한 인종차별적 발언 논란 이후, 스코틀랜드 BAFTA 시상식에 비디오 링크를 통해 참석하겠다는 의사를 밝혔다. 그의 성장 과정을 다룬 영화 '아이 스웨어(I Swear)'는 이번 스코틀랜드 BAFTA에서 7개 부문에 노미네이트되었다.\n\n데이비슨은 지난 2월 런던에서 열린 시상식 당시 불수의적 틱 증상으로 인해 시상자들에게 인종차별적 단어를 소리쳐 파장을 일으켰다. 당시 BBC 방송사는 해당 발언을 편집하지 않고 송출하여 사과했으며, 이후 BAFTA 스코틀랜드 측은 전문가들과의 논의를 통해 안전한 참여 방안을 모색해 왔다.\n\n이에 데이비슨은 가족 및 친구들과 함께 행사장 내의 별도 공간에서 화면을 통해 시상식을 관람하겠다고 제안했다. 그는 자신의 틱 증상이 고의성이 없으며 어떤 의미도 담고 있지 않다며 깊은 유감을 표명한 바 있다.\n\n스코틀랜드 BAFTA 측은 포용성과 안전을 최우선으로 고려하여 그의 제안을 수용하고 모든 참석자에게 안전한 환경을 제공하기 위해 협력하고 있다. 이번 시상식에는 영화 '아이 스웨어'의 주요 출연진을 비롯한 많은 배우들이 후보에 올랐다.",
+      "eng": "Tourette's campaigner John Davidson has requested to watch the upcoming Scottish Baftas via a video link at the venue following a controversy over a racial slur he shouted during the Bafta Film Awards in February. The film 'I Swear', which depicts his life, has received seven nominations for the Scottish Baftas.\n\nDuring the February ceremony in London, Davidson experienced involuntary tics that caused him to shout an offensive racial slur at the presenters. The BBC later apologized for failing to edit the remark out of its broadcast, and Bafta Scotland subsequently consulted with safeguarding experts to determine a safe way for him to participate.\n\nIn response, Davidson suggested watching the ceremony from a separate room within the venue alongside his family and friends. He previously expressed deep regret, emphasizing that his tics are entirely involuntary and carry no intentional meaning or malice.\n\nBafta Scotland stated that it worked with inclusion experts to accommodate his request safely for everyone involved. This year's event features several prominent nominees from the film industry, highlighting the ongoing conversation around accessibility and inclusion in the arts.",
+      "hu": "John Tourette-szindrómás aktivista a februári BAFTA-gálán történt rasszista kijelentése után arra kérte a skót BAFTA szervezőit, hogy videókapcsolaton keresztül, egy külön helyiségből nézhesse az eseményt. Az életéről szóló 'I Swear' című film hét kategóriában kapott jelölést a skót BAFTA-díjakért.\n\nA februári londoni ceremónián Davidson akaratlan tikjei miatt sértő kifejezést kiabált a díjátadóknak. A BBC később bocsánatot kért, amiért nem vágta ki a jelenetet a közvetítésből, a skót BAFTA szervezői pedig szakértőkkel konzultálva keresték a biztonságos részvétel módját.\n\nEnnek keretében Davidson azt javasolta, hogy családjával és barátaival együtt, a helyszín egy külön szobájából, kivetítőn keresztül kövesse az eseményeket. Korábban mély sajnálatát fejezte ki, hangsúlyozva, hogy akaratlan tikjei nem hordoznak szándékos jelentést.\n\nA skót BAFTA közölte, hogy a befogadás és a biztonság szem előtt tartásával alakították ki a megoldást az összes résztvevő számára. Az idei jelöltek között számos ismert művész szerepel a filmiparból."
+    },
+    "vocab": [
+      {
+        "word": "불수의적",
+        "meaning_en": "involuntary",
+        "meaning_hu": "akaratlan"
+      },
+      {
+        "word": "노미네이트",
+        "meaning_en": "nominated",
+        "meaning_hu": "jelölt"
+      },
+      {
+        "word": "포용성",
+        "meaning_en": "inclusion",
+        "meaning_hu": "befogadás"
+      },
+      {
+        "word": "유감을 표명하다",
+        "meaning_en": "to express regret",
+        "meaning_hu": "sajnálatát fejezi ki"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "예술적 성취와 대중 행사에서의 돌발 행동(틱 증상 등) 사이의 균형을 어떻게 맞추어야 한다고 생각하시나요?",
+        "eng": "How do you think a balance should be struck between artistic achievement and unexpected behaviors at public events?",
+        "hu": "Ön szerint hogyan lehet egyensúlyt teremteni a művészeti teljesítmény és a nyilvános eseményeken előforduló váratlan viselkedések között?"
+      },
+      {
+        "kor": "문화 예술 행사에서 장애를 가진 예술가나 참여자를 위한 포용성과 안전 장치는 왜 중요할까요?",
+        "eng": "Why are inclusion and safety measures important for artists and participants with disabilities at cultural and arts events?",
+        "hu": "Miért fontosak a befogadási és biztonsági intézkedések a fogyatékkal élő művészek és résztvevők számára a kulturális rendezvényeken?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-17",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Beginner",
+    "levelNum": 1,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/travel/2024/apr/26/austin-texas-three-day-travel-guide"
+    },
+    "title": {
+      "kor": "미국 오스틴 여행 하기",
+      "eng": "Traveling to Austin, USA",
+      "hu": "Utazás Austinba, USA"
+    },
+    "desc": {
+      "kor": "미국 오스틴에서 맛있는 음식을 먹고 즐겁게 놀 수 있는 방법입니다.",
+      "eng": "Ways to eat good food and have fun in Austin, USA.",
+      "hu": "Módok arra, hogy jókat együnk és szórakozzunk az amerikai Austinban."
+    },
+    "article": {
+      "kor": "미국 오스틴은 아주 인기 있는 여행지입니다. 오스틴에는 맛있는 음식과 멋진 음악이 많습니다. 사람들은 이곳에서 공원을 산책하고 맛있는 음식을 먹습니다. 여러분도 오스틴에서 즐거운 시간을 보낼 수 있습니다.",
+      "eng": "Austin in the US is a very popular travel destination. There is delicious food and great music in Austin. People take a walk in the park and eat good food here. You can also have a good time in Austin.",
+      "hu": "Az ausztini USA egy nagyon népszerű úti cél. Finom ételek és nagyszerű zene van Austinban. Az emberek sétálnak a parkban és jó ételeket esznek itt. Ön પણ jól érezheti magát Austinban."
+    },
+    "vocab": [
+      {
+        "word": "여행지",
+        "meaning_en": "travel destination",
+        "meaning_hu": "utazási célpont"
+      },
+      {
+        "word": "음식",
+        "meaning_en": "food",
+        "meaning_hu": "étel"
+      },
+      {
+        "word": "공원",
+        "meaning_en": "park",
+        "meaning_hu": "park"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분은 여행을 좋아합니까?",
+        "eng": "Do you like traveling?",
+        "hu": "Szeret utazni?"
+      },
+      {
+        "kor": "어느 나라에 가고 싶습니까?",
+        "eng": "Which country do you want to go to?",
+        "hu": "Melyik országba szeretne menni?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-18",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Beginner",
+    "levelNum": 2,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/travel/2024/mar/22/nyc-three-day-travel-guide"
+    },
+    "title": {
+      "kor": "뉴욕 여행 안내서: 삼 일 동안 먹고 보고 즐기는 법",
+      "eng": "A local’s travel guide to New York City: what to eat, see and do in three days",
+      "hu": "Helyi utazási útmutató New York Citybe: mit enni, látni és csinálni három nap alatt"
+    },
+    "desc": {
+      "kor": "뉴욕에서 배를 타고 구경하고 맛있는 음식을 먹는 여행 방법을 소개합니다.",
+      "eng": "A local guide shares the best things to do, eat, and see during a three-day trip to New York.",
+      "hu": "Egy helyi lakos megosztja a legjobb programokat, ételeket és látnivalókat egy háromnapos New York-i utazáshoz."
+    },
+    "article": {
+      "kor": "뉴욕에는 큰 건물을 구경하고 배를 타는 재미있는 일이 많습니다. 특히 배를 타고 바다와 다리를 구경하는 여행이 아주 인기가 좋습니다.\n\n맨해튼과 브루클린을 구경한 뒤에는 맛있는 음식도 먹을 수 있습니다. 차이나타운에 가서 구경하고 시장에서 재미있는 물건을 살 수도 있습니다.",
+      "eng": "There are many fun things to do in New York, like seeing big buildings and taking a ferry. Taking a boat to see the bridges and water is especially popular.\n\nAfter looking around Manhattan and Brooklyn, you can also eat delicious food. You can visit Chinatown and buy interesting things at the market.",
+      "hu": "Sok szórakoztató dolog van New Yorkban, például nagy épületek megnézése és hajózás. Különösen népszerű a hajózás, ahonnan láthatók a hidak és a víz.\n\nMiután körülnézett Manhattanben és Brooklynban, finom ételeket is ehet. Ellátogathat a Kínai negyedbe, és érdekes dolgokat vásárolhat a piacon."
+    },
+    "vocab": [
+      {
+        "word": "여행",
+        "meaning_en": "travel, trip",
+        "meaning_hu": "utazás"
+      },
+      {
+        "word": "배",
+        "meaning_en": "boat, ship",
+        "meaning_hu": "hajó"
+      },
+      {
+        "word": "구경하다",
+        "meaning_en": "to sightsee, to look around",
+        "meaning_hu": "megnézni, körülnézni"
+      },
+      {
+        "word": "음식",
+        "meaning_en": "food",
+        "meaning_hu": "étel"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분은 뉴욕에 가면 무엇을 하고 싶습니까?",
+        "eng": "What do you want to do if you go to New York?",
+        "hu": "Mit szeretne csinálni, if eljut New Yorkba?"
+      },
+      {
+        "kor": "배를 타고 여행하는 것을 좋아합니까?",
+        "eng": "Do you like traveling by boat?",
+        "hu": "Szeret hajóval utazni?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-19",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Elementary",
+    "levelNum": 3,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/travel/2024/mar/16/washington-dc-three-day-travel-guide"
+    },
+    "title": {
+      "kor": "워싱턴 D.C. 여행 가이드: 먹고 보고 즐기는 방법",
+      "eng": "A local's travel guide to Washington DC: what to eat, see and do",
+      "hu": "Helyi utazási útmutató Washington DC-be: mit kell enni, látni és csinálni"
+    },
+    "desc": {
+      "kor": "현지인이 추천하는 미국의 수도 워싱턴 D.C.의 맛집과 명소 여행 안내서입니다.",
+      "eng": "A local resident shares great places to eat, see, and visit in Washington D.C.",
+      "hu": "Egy helyi lakos megosztja Washington D.C. legjobb éttermeit és látnivalóit."
+    },
+    "article": {
+      "kor": "미국의 수도 워싱턴 D.C.는 정치인들이 많기로 유명하지만, 아주 매력적인 도시입니다. 이곳에는 멋진 공원과 무료 박물관, 그리고 맛있는 식당들이 많이 있습니다. 그래서 여행을 즐기기에 아주 좋은 곳입니다.\n\n여행 중에 맛있는 음식을 먹는 것은 아주 중요합니다. 그리스 음식점인 조르바스 카페에서 맛있는 지중해 요리를 먹을 수 있습니다. 그리고 필립스 컬렉션 미술관에 가서 아름다운 그림을 구경할 수 있습니다.\n\n오후에는 록 크릭 공원을 산책하며 여유를 즐길 수 있습니다. 저녁에는 유명한 식당에서 필리핀 요리를 맛보는 것도 좋습니다. 워싱턴 D.C.에서 즐거운 추억을 만들어 보세요.",
+      "eng": "Washington D.C., the capital of the United States, is famous for politicians, but it is a charming city. There are many wonderful parks, free museums, and great restaurants here. Therefore, it is a very good place to enjoy traveling.\n\nEating delicious food during a trip is very important. You can eat delicious Mediterranean food at Zorba's Cafe, a Greek restaurant. Then you can visit the Phillips Collection art museum to look at beautiful paintings.\n\nIn the afternoon, you can take a walk in Rock Creek Park and enjoy your leisure time. In the evening, it is also good to try Filipino food at a famous restaurant. Make wonderful memories in Washington D.C.",
+      "hu": "Az Amerikai Egyesült Államok fővárosa, Washington D.C. híres a politikusokról, de ez egy bájos város. Számos csodálatos park, ingyenes múzeum és nagyszerű étterem található itt. Ezért ez egy nagyon jó hely az utazás élvezetére.\n\nAz utazás során a finom ételek fogyasztása nagyon fontos. Finom mediterrán ételeket ehet a Zorba's Cafe nevű görög étteremben. Ezután meglátogathatja a Phillips Collection művészeti múzeumot, hogy gyönyörű festményeket nézzen meg.\n\nDélután sétálhat a Rock Creek Parkban, és élvezheti a szabadidejét. Este jó ötlet kipróbálni a Fülöp-szigeteki ételeket egy híres étteremben. Szerezzen csodálatos emlékeket Washington D.C.-ben."
+    },
+    "vocab": [
+      {
+        "word": "수도",
+        "meaning_en": "capital city",
+        "meaning_hu": "főváros"
+      },
+      {
+        "word": "박물관",
+        "meaning_en": "museum",
+        "meaning_hu": "múzeum"
+      },
+      {
+        "word": "산책하다",
+        "meaning_en": "to take a walk",
+        "meaning_hu": "sétálni"
+      },
+      {
+        "word": "추억",
+        "meaning_en": "memory",
+        "meaning_hu": "emlék"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분은 여행을 갈 때 무엇을 구경하는 것을 가장 좋아하나요?",
+        "eng": "What do you like to see most when you go on a trip?",
+        "hu": "Mit szeretsz a legjobban megnézni, amikor utazni mész?"
+      },
+      {
+        "kor": "워싱턴 D.C.에 간다면 가장 가고 싶은 곳은 어디인가요?",
+        "eng": "Where is the place you want to visit most if you go to Washington D.C.?",
+        "hu": "Hová szeretnél a leginkább elmenni, ha Washington D.C.-be utaznál?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-20",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Intermediate",
+    "levelNum": 4,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/travel/2025/jan/15/a-break-from-the-accommodation-mega-sites-the-best-alternative-booking-platforms"
+    },
+    "title": {
+      "kor": "유명 숙소 예약 사이트 대신 이용할 수 있는 새로운 대안 플랫폼들",
+      "eng": "A break from the accommodation mega-sites: the best alternative booking platforms",
+      "hu": "Alternatív szállásfoglalási platformok a nagy óriások helyett"
+    },
+    "desc": {
+      "kor": "지역 사회를 돕고 환경을 생각하는 새로운 대안 숙소 예약 플랫폼들을 소개합니다.",
+      "eng": "Discovering new alternative accommodation booking platforms that help local communities and the environment.",
+      "hu": "Olyan új alternatív szállásfoglalási platformok bemutatása, amelyek segítik a helyi közösségeket és a környezetet."
+    },
+    "article": {
+      "kor": "에어비앤비와 부킹닷컴 같은 큰 숙소 예약 사이트들은 여행을 아주 편리하게 만들어 주었습니다. 하지만 세계의 많은 인기 여행지에서는 이러한 플랫폼 때문에 집값이 오르고 지역 주민들이 살기 어려워지는 문제가 생기고 있습니다.\n\n이러한 문제를 해결하기 위해 작고 독립적인 새로운 숙소 예약 사이트들이 인기를 끌고 있습니다. 예를 들어 '페어비앤비(Fairbnb)'라는 플랫폼은 지역 주민이 실제로 사는 집만 빌려주고, 수익의 절반을 지역 사회 프로젝트에 기부합니다.\n\n또한 '소셜비앤비(Socialbnb)'는 여행자와 전 세계의 사회적, 생태적 프로젝트를 연결해 줍니다. '에코비앤비(Ecobnb)'는 환경을 보호하는 친환경 숙소만 모아서 소개하고 있습니다.\n\n집을 서로 바꾸어 빌려 쓰는 '킨드레드(Kindred)' 같은 새로운 방식도 사람들에게 인기가 많습니다. 이러한 대안 플랫폼들을 이용하면 현지인들에게 도움을 주면서 더욱 의미 있는 여행을 할 수 있습니다.",
+      "eng": "Large accommodation booking sites like Airbnb and Booking.com have made travel very convenient. However, in many popular destinations around the world, these platforms are causing problems such as rising house prices and making it difficult for local residents to live.\n\nTo solve these problems, new smaller and independent accommodation booking websites are gaining popularity. For example, a platform called 'Fairbnb' only lists homes actually lived in by local residents and donates half of its profits to local community projects.\n\nIn addition, 'Socialbnb' connects travelers with social and ecological projects around the world. 'Ecobnb' collects and introduces only eco-friendly accommodations that protect the environment.\n\nNew methods like 'Kindred', where people exchange and rent homes with each other, are also very popular. Using these alternative platforms allows you to travel more meaningfully while helping locals.",
+      "hu": "Az olyan nagy szállásfoglalási oldalak, mint az Airbnb és a Booking.com, nagyon kényelmessé tették az utazást. A világ számos népszerű úti célján azonban ezek a platformok olyan problémákat okoznak, mint az emelkedő lakásárak, és megnehezítik a helyi lakosok életét.\n\nE problémák megoldására egyre népszerűbbek az új, kisebb és független szállásfoglalási weboldalak. Például a 'Fairbnb' nevű platform csak olyan otthonokat listáz, amelyekben helyi lakosok élnek, és a nyereségük felét helyi közösségi projekteknek adományozzák.\n\nEmellett a 'Socialbnb' összeköti utazókat a világ minden tájáról származó szociális és ökológiai projektekkel. Az 'Ecobnb' pedig csak olyan környezetbarát szállásokat gyűjt össze és mutat be, amelyek védik a környezetet.\n\nAz olyan új módszerek is nagyon népszerűek, mint a 'Kindred', ahol az emberek cserélik és bérbe adják egymás otthonait. Ezen alternatív platformok használatával tartalmasabban utazhatunk, miközben segítünk a helyieknek."
+    },
+    "vocab": [
+      {
+        "word": "숙소",
+        "meaning_en": "accommodation",
+        "meaning_hu": "szállás"
+      },
+      {
+        "word": "플랫폼",
+        "meaning_en": "platform",
+        "meaning_hu": "platform"
+      },
+      {
+        "word": "주민",
+        "meaning_en": "resident",
+        "meaning_hu": "helyi lakos"
+      },
+      {
+        "word": "기부하다",
+        "meaning_en": "to donate",
+        "meaning_hu": "adományozni"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분은 여행을 할 때 어떤 숙소 예약 사이트를 주로 사용하나요?",
+        "eng": "What accommodation booking sites do you usually use when traveling?",
+        "hu": "Milyen szállásfoglalási oldalakat szokott használni utazás során?"
+      },
+      {
+        "kor": "지역 사회에 도움이 되는 친환경 숙소를 이용해 보고 싶나요?",
+        "eng": "Would you like to use eco-friendly accommodations that help local communities?",
+        "hu": "Szeretne olyan környezetbarát szállásokat használni, amelyek segítik a helyi közösségeket?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-21",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Intermediate",
+    "levelNum": 5,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/news/article/2024/aug/19/the-good-tourist-can-we-learn-to-travel-without-absolutely-infuriating-the-locals"
+    },
+    "title": {
+      "kor": "좋은 관광객이 되기: 현지인들을 화나게 하지 않고 여행할 수 있을까?",
+      "eng": "The good tourist: can we learn to travel without absolutely infuriating the locals?",
+      "hu": "A jó turista: megtanulhatunk-e úgy utazni, hogy ne dühítsük fel a helyieket?"
+    },
+    "desc": {
+      "kor": "세계적으로 오버투어리즘 문제가 심각해진 가운데, 새로운 여행 방식을 제안하는 책이 주목받고 있다.",
+      "eng": "Amid growing overtourism issues worldwide, a new book proposes better ways to travel.",
+      "hu": "A túrizmus globális növekedése közepette egy új könyv a fenntarthatóbb utazási módokat szorgalmazza."
+    },
+    "article": {
+      "kor": "최근 전 세계적으로 관광객이 너무 많이 몰려오면서 현지 주민들이 고통을 겪고 있습니다. 바르셀로나와 암스테르담 같은 유명 도시에서는 관광객을 반대하는 시위가 일어나거나 특별한 규칙이 생겼습니다. 비행기 값이 싸지고 인터넷으로 여행 예약을 하기 쉬워지면서 2023년에는 해외를 찾은 관광객이 13억 명을 넘었습니다.\n\n하지만 이러한 관광 붐은 환경 오염과 집값 상승 등 많은 문제를 일으키고 있습니다. 일부 도시에서는 관광객들의 무례한 행동을 막기 위해 벌금을 물리거나 새로운 규정을 만들기도 했습니다. 이처럼 여행이 환경과 현지 주민들에게 큰 부담을 주면서, 여행이 과연 좋은 것인지 의문이 커지고 있습니다.\n\n여행 저널리스트 페이지 맥클라나한은 저서 '새로운 관광객'에서 우리가 여행하는 방식을 바꿔야 한다고 말합니다. 그녀는 더 적은 곳을 방문하고 한곳에 오래 머물며 현지 문화를 존중하는 태도가 필요하다고 강조합니다. 여행은 세상을 이해하는 중요한 방법이지만, 이제는 현지인들에게 피해를 주지 않는 현명한 여행이 필요합니다.",
+      "eng": "Recently, local residents around the world are suffering as too many tourists visit popular destinations. Famous cities like Barcelona and Amsterdam are seeing protests against tourism and new regulations. As flights became cheaper and online booking easier, international tourists exceeded 1.3 billion in 2023.\n\nHowever, this tourism boom causes many problems such as environmental pollution and rising housing costs. Some cities have introduced fines and new rules to stop rude behaviors by tourists. As tourism places a heavy burden on the environment and locals, doubts are growing about whether travel is still a good thing.\n\nTravel journalist Paige McClanahan argues in her book 'The New Tourist' that we need to change the way we travel. She emphasizes the importance of visiting fewer places, staying longer, and respecting local cultures. While travel is an important way to understand the world, we now need smart travel that does not harm locals.",
+      "hu": "A világ számos pontján a túlzott turizmus nehézseket okoz a helyi lakosok számára. Olyan városokban, mint Barcelona vagy Amszterdam, tüntetések törtek ki, és új korlátozásokat vezettek be. A olcsóbb repülőjegyeknek és az online foglalásnak köszönhetően 2023-ban a nemzetközi turisták száma meghaladta az 1,3 milliárdot.\n\nEz a turisztikai boom azonban komoly problémákat okoz, például környezetszennyezést és az ingatlanárak emelkedését. Néhány város bírságokat és új szabályokat vezetett be a turisták helytelen viselkedése ellen. Mivel a turizmus nagy terhet ró a helyiekre, egyre többen kérdőjelezik meg az utazás értelmét.\n\nPaige McClanahan utazási újságíró 'Az új turista' című könyvében arról ír, hogy meg kell változtatnunk az utazási szokásainkat. Kiemeli, hogy kevesebb helyre kell utazni, hosszabb időt kell eltölteni egy-egy helyen, és tisztelni kell a helyi kultúrát. Az utazás fontos eszköz a világ megismeréséhez, de mostantól olyan okos utazásra van szükség, amely nem árt a helyieknek."
+    },
+    "vocab": [
+      {
+        "word": "관광객",
+        "meaning_en": "tourist",
+        "meaning_hu": "turista"
+      },
+      {
+        "word": "주민",
+        "meaning_en": "resident / local",
+        "meaning_hu": "helyi lakos"
+      },
+      {
+        "word": "환경 오염",
+        "meaning_en": "environmental pollution",
+        "meaning_hu": "környezetszennyezés"
+      },
+      {
+        "word": "규정",
+        "meaning_en": "regulation / rule",
+        "meaning_hu": "szabályozás"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분이 사는 도시에 관광객이 너무 많이 온다면 어떤 문제가 생길까요?",
+        "eng": "What problems might occur if too many tourists visited your city?",
+        "hu": "Milyen problémák merülnének fel, ha túl sok turista látogatna el a városába?"
+      },
+      {
+        "kor": "좋은 관광객이 되기 위해 어떤 행동을 해야 할까요?",
+        "eng": "What actions should we take to become a good tourist?",
+        "hu": "Milyen lépéseket kell tennünk ahhoz, hogy jó turisták legyünk?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-22",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.02",
+    "level": "Intermediate",
+    "levelNum": 6,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2024/dec/09/best-travel-gifts-presents-christmas"
+    },
+    "title": {
+      "kor": "여행을 사랑하는 사람들을 위한 크리스마스 선물 추천",
+      "eng": "Christmas gift ideas for travel lovers",
+      "hu": "Karácsonyi ajándékötletek az utazás szerelmeseinek"
+    },
+    "desc": {
+      "kor": "영국 가디언지가 여행을 좋아하는 사람들을 위한 다양한 크리스마스 선물 아이디어를 소개했다.",
+      "eng": "The Guardian has introduced various Christmas gift ideas for people who love traveling.",
+      "hu": "A The Guardian különböző karácsonyi ajándékötleteket mutatott be az utazást kedvelők számára."
+    },
+    "article": {
+      "kor": "크리스마스를 맞아 여행을 좋아하는 가족이나 친구를 위한 선물 고민이 깊어지는 시기이다. 영국의 언론사 가디언은 실용적인 용품부터 특별한 경험을 선물할 수 있는 다양한 아이디어를 공개했다. 이번에 추천된 선물들은 직접 여행을 떠나는 사람뿐만 아니라 집에서 세계를 간접적으로 즐기는 사람들에게도 모두 유용하다.\n\n여행 관련 도서들은 바쁜 일상 속에서도 세계 곳곳을 상상하게 만드는 훌륭한 선물이다. 외딴곳으로의 평화로운 여행지를 담은 책부터 세계의 아름다운 나무를 소개하는 책, 그리고 작가들의 여행 경험과 요리법을 담은 책까지 다양하다. 또한 인기 드라마의 배경이 된 장소를 찾아갈 수 있는 특별한 지도와 안내서도 큰 관심을 받고 있다.\n\n물리적인 물건 외에도 특별한 추억을 만들 수 있는 체험형 상품들이 인기를 끌고 있다. 영국의 유적지를 방문할 수 있는 이용권이나 아름다운 포도밭에서의 와인 시음 행사, 그리고 아늑한 숙박 시설을 이용할 수 있는 상품권 등이 포함된다. 이러한 선물들은 받는 이에게 소중한 휴식과 잊지 못할 추억을 선사한다.",
+      "eng": "It is a time when people worry about choosing Christmas gifts for family or friends who love traveling. The UK media outlet The Guardian has released various ideas ranging from practical items to special experiences. These recommended gifts are useful both for those who travel in person and those who enjoy the world from home.\n\nTravel-related books are great gifts that make people imagine various parts of the world even in busy daily lives. They range from books featuring peaceful travel destinations to those introducing beautiful trees and authors' travel experiences and recipes. Special maps and guides leading to places featured in popular shows are also receiving great attention.\n\nIn addition to physical items, experiential products that create special memories are gaining popularity. These include vouchers to visit historical sites in the UK, wine-tasting events at beautiful vineyards, and gift cards for cozy accommodations. These gifts provide recipients with precious relaxation and unforgettable memories.",
+      "hu": "Itt a karácsony, és sokan gondolkodnak azon, milyen ajándékot válasszanak az utazást kedvelő családtagoknak vagy barátoknak. A brit The Guardian sajtótermék különböző ajándékötleteket mutatott be a praktikus tárgyaktól a különleges élményekig. Ezek az ajánlott ajándékok hasznosak mind mereka számára, akik személyesen utaznak, mind pedig azoknak, akik otthonról élvezik a világot.\n\nAz utazással kapcsolatos könyvek nagyszerű ajándékok, amelyek a sűrű mindennapok közepette is a világ különböző tájainak képzeletbeli felfedezésére ösztönöznek. Különböző könyvek szerepelnek a választékban a békés úti céloktól kezdve a csodálatos fákat bemutató köteteken át az írók utazási élményeit és receptjeit tartalmazó művekig. Nagy figyelmet kapnak a népszerű sorozatok helyszíneire kalauzoló különleges térképek és útmutatók is.\n\nA fizikai tárgyak mellett egyre népszerűbbek az élményalapú termékek is, amelyek különleges emlékeket teremtnek. Ide tartoznak az egyes brit történelmi helyszínek meglátogatására jogosító utalványok, a gyönyörű szőlőskertekben szervezett borkóstolók, valamint a kényelmes szálláshelyekre szóló ajándékkártyák. Ezek az ajándékok értékes pihenést és felejthetetlen emlékeket nyújtanak a megajándékozottaknak."
+    },
+    "vocab": [
+      {
+        "word": "선물",
+        "meaning_en": "gift, present",
+        "meaning_hu": "ajándék"
+      },
+      {
+        "word": "실용적이다",
+        "meaning_en": "to be practical",
+        "meaning_hu": "praktikus"
+      },
+      {
+        "word": "추억",
+        "meaning_en": "memory",
+        "meaning_hu": "emlék"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "당신은 여행 선물로 물건을 받는 것을 좋아하나요, 아니면 체험이나 경험을 선물받는 것을 좋아하나요?",
+        "eng": "Do you prefer receiving physical items or experiences as travel gifts?",
+        "hu": "Jobban szereti a tárgyi ajándékokat vagy az élményeket utazási ajándékként?"
+      },
+      {
+        "kor": "책을 통해 다른 나라를 간접적으로 여행해 본 경험이 있나요?",
+        "eng": "Have you ever experienced traveling indirectly to another country through a book?",
+        "hu": "Volt már olyan élménye, hogy könyv révén utazott közvetve egy másik országba?"
+      }
+    ]
   }
 ]
