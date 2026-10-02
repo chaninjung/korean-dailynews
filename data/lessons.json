@@ -1,5 +1,1330 @@
 {
-  "featured": [],
+  "featured": [
+    {
+      "id": "news-20261002-1",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cwdr777n6m7no?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "해리 왕자, 미국 생활 6년 만에 영국 복귀",
+        "eng": "Prince Harry returns to the UK after 6 years in the US",
+        "hu": "Harry herceg 6 év amerikai élet után visszatér az Egyesült Királyságba"
+      },
+      "desc": {
+        "kor": "미국에서 생활하던 해리 왕자 가족이 6년 만에 영국으로 돌아왔습니다.",
+        "eng": "Prince Harry's family has returned to the UK after living in the US for 6 years.",
+        "hu": "Harry herceg családja 6 év Amerikában töltött idő után visszatért az Egyesült Királyságba."
+      },
+      "article": {
+        "kor": "영국의 해리 왕자가 미국에서 6년 동안 살다가 다시 영국으로 돌아왔습니다. 해리 왕자는 영국 땅으로 돌아와서 정말 좋다고 말했습니다.\n\n해리 왕자의 가족은 런던 근처에 새로운 집을 마련했습니다. 아이들은 새로운 학교에 다니기 시작했고, 해리 왕자는 내년에 열리는 대회를 준비하고 있습니다.\n\n그동안 해리 왕자와 가족들은 미국에서 새로운 삶을 살았습니다. 하지만 최근에 다시 영국으로 돌아오면서 새로운 생활을 시작하게 되었습니다.",
+        "eng": "Prince Harry of the UK has returned to the UK after living in the US for 6 years. Prince Harry said that it is really good to be back on British soil.\n\nPrince Harry's family has prepared a new home near London. The children have started attending a new school, and Prince Harry is preparing for a competition to be held next year.\n\nMeanwhile, Prince Harry and his family lived a new life in the US. However, they have recently returned to the UK and started a new life.",
+        "hu": "Harry herceg 6 év amerikai élés után visszatért az Egyesült Királyságba. Harry herceg azt mondta, hogy nagyon jó újra brit földön lenni.\n\nHarry herceg családja új otthont teremtett London közelében. A gyerekek új iskolába kezdtek járni, Harry herceg pedig a jövő évi versenyre készül.\n\nKözben Harry herceg és családja új életet élt az Egyesült Államokban. Azonban a közelmúltban visszatértek az Egyesült Királyságba, és új életet kezdtek."
+      },
+      "vocab": [
+        {
+          "word": "복귀",
+          "meaning_en": "return",
+          "meaning_hu": "visszatérés"
+        },
+        {
+          "word": "가족",
+          "meaning_en": "family",
+          "meaning_hu": "család"
+        },
+        {
+          "word": "학교",
+          "meaning_en": "school",
+          "meaning_hu": "iskola"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "해리 왕자는 어디에서 살다가 영국으로 돌아왔나요?",
+          "eng": "Where did Prince Harry live before returning to the UK?",
+          "hu": "Hol élt Harry herceg, mielőtt visszatért az Egyesült Királyságba?"
+        },
+        {
+          "kor": "여러분은 외국에서 살다가 고향으로 돌아간 경험이 있나요?",
+          "eng": "Have you ever lived abroad and returned to your hometown?",
+          "hu": "Élt már valaha külföldön, és visszatért a szülővárosába?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-2",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c38xkwx7yw2lo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "한국의 미국 투자, 첫 번째 사업은 텍사스 발전소",
+        "eng": "South Korea's First US Investment Project: Texas Power Plant",
+        "hu": "Dél-Korea első egyesült államokbeli befektetési projektje: texasi erőmű"
+      },
+      "desc": {
+        "kor": "한국 정부가 미국과의 대미 투자 합의에 따라 텍사스주 가스발전소 건설을 첫 사업으로 결정했습니다.",
+        "eng": "The South Korean government has selected the construction of a gas power plant in Texas as its first project under the US-Korea investment agreement.",
+        "hu": "A dél-koreai kormány egy texasi gázerőmű építését választotta ki első projektként az USA-val kötött befektetési megállapodás keretében."
+      },
+      "article": {
+        "kor": "한국 정부가 미국과 합의한 대규모 투자 가운데 첫 번째 사업으로 텍사스주 가스발전소 건설을 선정했다. 최근 텍사스에는 반도체 공장과 인공지능 데이터센터가 늘어나면서 전력 수요가 빠르게 증가하고 있다. 이번에 추진하는 발전소는 이러한 전력 수요에 대응하기 위한 것이다.\n\n정부는 텍사스 발전소 사업 외에도 미국 내 원자력발전소 건설과 알래스카 액화천연가스 개발 사업을 후속 투자 대상으로 검토하고 있다. 하지만 원전 사업의 경우 미국 기업의 지분 확보 문제와 원자로 모델 선정 등을 두고 아직 협상이 진행 중이다.\n\n이번 발표는 한미 정상 간 투자 합의 이후 구체적인 사업이 처음 결정되었다는 점에서 의미가 크다. 다만 일부 사업은 아직 개발 단계에 있어 앞으로의 경제성과 상업적 안정성을 신중하게 지켜봐야 한다는 의견도 나오고 있다.",
+        "eng": "The South Korean government has selected the construction of a gas power plant in Texas as the first project among its large-scale investments agreed upon with the US. Recently, electricity demand is rapidly increasing in Texas due to the expansion of semiconductor factories and AI data centers. The newly promoted power plant aims to respond to this growing electricity demand.\n\nIn addition to the Texas power plant project, the government is considering nuclear power plant construction in the US and Alaska LNG development projects as subsequent investments. However, negotiations are still ongoing regarding issues such as securing stakes in US companies and selecting reactor models for the nuclear project.\n\nThis announcement is significant as it is the first time a specific project has been decided following the investment agreement between the leaders of South Korea and the US. However, since some projects are still in the development stage, opinions suggest that future economic feasibility and commercial stability must be monitored cautiously.",
+        "hu": "A dél-koreai kormány a Texasban található gázerőmű építését választotta ki az USA-val megállapodott nagyszabású befektetések első projekteként. Az utóbbi időben a félvezetőgyárak és a mesterséges intelligencia adatközpontjainak bővülése miatt gyorsan nő az áramigény Texasban. Az újonnan támogatott erőmű erre a növekvő villamosenergia-igényre hivatott válaszolni.\n\nA texasi erőműprojekten kívül a kormány az egyesült államokbeli atomerőmű-építést és az alaszkai cseppfolyósított földgáz fejlesztési projekteket is vizsgálja későbbi befektetésként. A nukleáris projekt esetében azonban még mindig folynak a tárgyalások olyan kérdésekben, mint az amerikai vállalatokban szerzett részesedések biztosítása és a reaktormodellek kiválasztása.\n\nEz a bejelentés azért jelentős, mert ez az első alkalom, hogy konkrét projektről döntöttek a dél-koreai és az amerikai vezetők közötti befektetési megállapodást követően. Mivel azonban egyes projektek még fejlesztési szakaszban vannak, olyan vélemények is napvilágot láttak, hogy a jövőbeli gazdaságosságot és a kereskedelmi stabilitást óvatosan kell figyelemmel kísérni."
+      },
+      "vocab": [
+        {
+          "word": "투자",
+          "meaning_en": "investment",
+          "meaning_hu": "befektetés"
+        },
+        {
+          "word": "발전소",
+          "meaning_en": "power plant",
+          "meaning_hu": "erőmű"
+        },
+        {
+          "word": "수요",
+          "meaning_en": "demand",
+          "meaning_hu": "kereslet"
+        },
+        {
+          "word": "협상",
+          "meaning_en": "negotiation",
+          "meaning_hu": "tárgyalás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "한국 정부가 텍사스에 가스발전소를 짓기로 한 이유는 무엇인가요?",
+          "eng": "Why did the South Korean government decide to build a gas power plant in Texas?",
+          "hu": "Miért döntött úgy a dél-koreai kormány, hogy gázerőművet épít Texasban?"
+        },
+        {
+          "kor": "원자력발전소 건설 사업에서 아직 해결되지 않은 문제는 무엇인가요?",
+          "eng": "What issues remain unresolved in the nuclear power plant construction project?",
+          "hu": "Milyen kérdések maradtak még tisztázatlanak az atomerőmű-építési projektben?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-3",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "도널드 트럼프의 인공지능 이름 변경 때문에 슬로베니아 인터넷 주소가 인기를 얻고 있습니다",
+        "eng": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+        "hu": "Trump AI-névváltoztatása példátlan keresletet teremtett a szlovén webcímek iránt"
+      },
+      "desc": {
+        "kor": "트럼프 미국 대통령이 인공지능(AI)을 '슈퍼 지능(SI)'으로 부르자, 슬로베니아 인터넷 주소 등록이 엄청나게 늘었습니다.",
+        "eng": "Donald Trump's push to rename AI to 'Super Intelligence' has led to a massive increase in web domain registrations in Slovenia.",
+        "hu": "Donald Trump azon törekvése, hogy az AI-t 'Szuper Intelligenciának' nevezze el, hatalmas növekedést eredményezett a szlovén domainregisztrációk terén."
+      },
+      "article": {
+        "kor": "도널드 트럼프 미국 대통령은 인공지능(AI)이라는 단어 대신에 '슈퍼 지능(SI)'이라는 단어를 사용하자고 말했습니다. 그 이유는 '인공'이라는 말이 가짜처럼 들리기 때문입니다. 트럼프 대통령은 미국 정부가 앞으로 AI 대신 SI라는 단어를 공식적으로 사용하라고 명령했습니다.\n\n이렇게 인공지능의 영어 약자가 SI가 되면서 슬로베니아의 인터넷 주소인 '.si'를 사는 사람들이 갑자기 아주 많아졌습니다. 슬로베니아의 인터넷 주소 등록 기관에 따르면, 9월 한 달 동안 4만 4천 개의 주소가 등록되었습니다. 이것은 8월에 등록된 2천 개보다 2,100퍼센트 이상 늘어난 것입니다.\n\n전문가들은 사람들이 나중에 인터넷 주소를 비싸게 팔아서 이익을 얻으려고 미리 주소를 샀을 가능성이 있다고 생각합니다. 다만, 이 모든 증가가 트럼프 대통령의 말 때문인지는 확실하지 않습니다. 그렇지만 9월 말에 인터넷 주소 등록이 매우 급격하게 늘어난 것은 사실입니다.",
+        "eng": "US President Donald Trump said that we should use the term 'Super Intelligence' (SI) instead of Artificial Intelligence (AI) because the word 'artificial' sounds fake. He signed an order instructing US government departments to use 'SI' in official documents instead of AI.\n\nAs the abbreviation for super intelligence became SI, many people started buying internet website addresses ending with '.si', which belongs to Slovenia. According to Slovenia's official registry, 44,000 web addresses with the .si suffix were registered in September, which is a huge increase compared to less than 2,000 in August.\n\nExperts think people might be buying these domain names as an investment so they can sell them for a profit later. While it is not completely certain if Trump's comments caused the entire increase, the sudden rise in late September was unprecedented compared to the previous year.",
+        "hu": "Donald Trump amerikai elnök azt javasolta, hogy az 'mesterséges' szó helyett a 'szuper intelligencia' (SI) kifejezést használják, mert az előbbi hamisnak hangzik. Emiatt aláírt egy rendeletet, amely arra utasítja az amerikai kormányzati szerveket, hogy hivatalos irataikban az AI helyett az SI-t használják.\n\nMivel az SI lett az új rövidítés, sokan kezdték el vásárolni a Szlovéniához tartozó '.si' végződésű webcímeket. A szlovén hivatalos regiszter adatai szerint szeptemberben 44 000 webcímet regisztráltak ezzel a végződéssel, ami hatalmas növekedés augusztushoz képest.\n\nSzakértők szerint az emberek azért vásárolhatják ezeket a domaineket, hogy később drágábban eladják őket. Bár nem teljesen biztos, hogy a növekedést csak Trump szavai okozták, a szeptember végi hirtelen ugrás példátlan volt a korábbi hónapokhoz képest."
+      },
+      "vocab": [
+        {
+          "word": "인공지능",
+          "meaning_en": "Artificial Intelligence (AI)",
+          "meaning_hu": "Mesterséges intelligencia"
+        },
+        {
+          "word": "인터넷 주소",
+          "meaning_en": "Internet domain / web address",
+          "meaning_hu": "Webcím / domain"
+        },
+        {
+          "word": "등록",
+          "meaning_en": "Registration",
+          "meaning_hu": "Regisztráció"
+        },
+        {
+          "word": "이익",
+          "meaning_en": "Profit / gain",
+          "meaning_hu": "Haszon / profit"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "트럼프 대통령이 인공지능의 이름을 바꾸고 싶어 하는 이유는 무엇인가요?",
+          "eng": "Why does President Trump want to change the name of AI?",
+          "hu": "Miért akarja Trump elnök megváltoztatni az AI nevét?"
+        },
+        {
+          "kor": "사람들이 왜 슬로베니아의 인터넷 주소를 많이 샀다고 생각하나요?",
+          "eng": "Why do you think people bought many Slovenian web addresses?",
+          "hu": "Mit gondol, miért vásároltak sok szlovén webcímet az emberek?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-4",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국 중앙은행 총재, \"인공지능 붐이 금융 시장에 충격을 줄 수 있다\"",
+        "eng": "AI boom could trigger market shocks, Bank of England boss warns",
+        "hu": "A Bank of England vezetője szerint az MI-lufi piaci sokkot okozhat"
+      },
+      "desc": {
+        "kor": "영국 중앙은행 총재가 인공지능 산업에 대한 과도한 투자가 금융 시장에 위험을 줄 수 있다고 경고했다.",
+        "eng": "The governor of the Bank of England warned that heavy investments in artificial intelligence could trigger financial market shocks.",
+        "hu": "A Bank of England kormányzója arra figyelmeztetett, hogy a mesterséges intelligenciába áramló hatalmas összegek piaci sokkot okozhatnak."
+      },
+      "article": {
+        "kor": "영국 중앙은행의 앤드루 베일리 총재는 인공지능(AI) 산업에 대한 막대한 투자가 금융 시장에 충격을 줄 수 있다고 경고했다. 그는 중앙은행이 AI 분야에 들어가는 엄청난 돈을 매우 주의 깊게 지켜보고 있다고 밝혔다. 또한 모든 사람이 항상 승자가 되는 것은 아니라고 강조했다.\n\n최근 몇 년 동안 많은 돈이 AI 기업에 투자되면서 일부 기업의 가치가 엄청나게 높아졌다. 베일리 총재는 AI 거품이 터질 수 있는지에 대한 질문에 언젠가 자산 가격의 조정을 볼 수 있을 것이라고 답했다. 그는 AI가 경제 성장을 강화할 큰 잠재력이 있지만 상당한 위험도 함께 가져온다고 설명했다.\n\n현재 엔비디아를 비롯한 세계적인 기술 기업들은 AI 기술에 수천억 달러를 투자하고 있다. 베일리 총재는 과거의 인터넷 시대처럼 모든 기업이 성공하는 것은 아니라고 지적했다. 따라서 시장의 충격에 대비하여 금융 시스템을 튼튼하게 만들어야 한다고 덧붙였다.",
+        "eng": "Andrew Bailey, the governor of the Bank of England, has warned that heavy investments in artificial intelligence (AI) could trigger financial market shocks. He stated that the central bank is watching the huge amounts of money flowing into AI very carefully. He also emphasized that not everyone always wins.\n\nOver recent years, massive amounts of money have been invested in AI firms, driving up the value of some companies significantly. When asked if an AI bubble could burst, Bailey said that some correction of asset prices could happen at some point. He explained that while AI has great potential to strengthen economic growth, it also brings substantial risks.\n\nCurrently, global tech companies including Nvidia are spending hundreds of billions of dollars on AI technology. Bailey pointed out that, much like the internet era in the past, not every company succeeds. Therefore, he added, the financial system must be resilient to deal with potential market shocks.",
+        "hu": "Andrew Bailey, a Bank of England kormányzója arra figyelmeztetett, hogy a mesterséges intelligenciába (MI) irányuló hatalmas befektetések pénzügyi piaci sokkokat okozhatnak. Kijelentette, hogy a központi bank nagyon figyelemmel kíséri az MI-be áramló hatalmas pénzösszegeket. Hangsúlyozta azt is, hogy nem mindenki nyer mindig.\n\nAz elmúlt években hatalmas összegeket fektettek be MI-vállalatokba, ami jelentősen megnövelte egyes cégek értékét. Amikor arról kérdezték, hogy kipukkadhat-e egy MI-lufi, Bailey azt mondta, hogy egy ponton az eszközök árcsökkenése bekövetkezhet. Elmagyarázta, hogy bár az MI nagy potenciállal rejt a gazdasági növekedés erősítésére, jelentős kockázatokat is hordoz magában.\n\nJelenleg a globális technológiai óriások, beleértve az Nvidiát is, több száz milliárd dollárt költnek az MI-technológiára. Bailey rámutatott, hogy a múltbeli internetes korszakhoz hasonlóan nem minden vállalat éri el a sikert. Hozzátette, hogy a pénzügyi rendszernek rugalmasnak kell lennie a lehetséges piaci sokkok kezeléséhez."
+      },
+      "vocab": [
+        {
+          "word": "중앙은행",
+          "meaning_en": "central bank",
+          "meaning_hu": ""
+        },
+        {
+          "word": "투자",
+          "meaning_en": "investment",
+          "meaning_hu": "befektetés"
+        },
+        {
+          "word": "거품",
+          "meaning_en": "bubble (economic)",
+          "meaning_hu": "gazdasági buborék"
+        },
+        {
+          "word": "위험",
+          "meaning_en": "risk",
+          "meaning_hu": "kockázat"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "인공지능 산업에 대한 투자가 왜 금융 시장에 위험이 될 수 있습니까?",
+          "eng": "Why can investments in the AI industry become a risk to the financial market?",
+          "hu": "Miért jelenthetnek kockázatot a pénzügyi piacra az MI-iparba irányuló befektetések?"
+        },
+        {
+          "kor": "과거 인터넷 시대의 역사와 비교할 때, 모든 AI 기업이 성공할 수 있을까요?",
+          "eng": "Compared to the history of the past internet era, will every AI company succeed?",
+          "hu": "A múltbeli internetes korszak történetéhez képest minden MI-vállalat sikeres lesz?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-5",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "니콘 현미경 사진 공모전에서 인공지능 사용 논란이 발생하다",
+        "eng": "Tiny image sparks big backlash in Nikon photo contest",
+        "hu": "Vitát váltott ki egy apró kép a Nikon fotópályázatán"
+      },
+      "desc": {
+        "kor": "유명한 과학 사진 공모전의 우승작이 인공지능 생성 여부를 두고 조사를 받고 있습니다.",
+        "eng": "The winning entry of a prestigious scientific photography contest is being re-evaluated due to AI concerns.",
+        "hu": "Újraértékelik egy rangos tudományos fotópályázat győztes művét mesterséges intelligenciával kapcsolatos aggályok miatt."
+      },
+      "article": {
+        "kor": "세계적인 카메라 기업 니콘이 주최하는 과학 사진 공모전에서 우승한 영상이 인공지능 사용 여부로 논란에 휘말렸습니다. 중국 칭화대학교의 연구원이 출품한 이 영상은 희귀 질환을 앓는 아이의 기도에 있는 섬모의 움직임을 담았다고 주장하며 우승을 차지했습니다.\n\n하지만 다른 과학자들은 영상 속 세포의 모양과 움직임이 자연스럽지 않고, 인공지능을 사용했을 때 나타나는 특징들이 보인다고 지적했습니다. 일부 전문가들은 영상의 구조물이 갑자기 나타났다가 사라지는 등의 이상한 점들을 발견했다고 밝혔습니다.\n\n이에 대해 수상자인 징 쉬는 인공지능이 실험 영상이나 섬모 자체를 만드는 데 쓰이지는 않았으며 대회 규칙을 위반하지 않았다고 해명했습니다. 다만 흑백 이미지를 처리하고 특징을 시각화하는 과정에서 인공지능을 일부 사용했다고 인정했습니다.\n\n니콘 측은 현재 이와 관련해 조사를 진행하고 있으며, 수상자가 조사에 성실히 협조하며 추가 기술 문서를 제출했다고 밝혔습니다. 다른 참가자들은 만약 인공지능이 부당하게 사용되었다면 정직하게 경쟁한 다른 참가자들에게 공평하지 않다고 우려를 표명했습니다.",
+        "eng": "The winning entry of a prestigious scientific photography competition hosted by Nikon is facing controversy over the potential use of artificial intelligence. The winning video, submitted by a researcher from Tsinghua University in China, claimed to show cilia moving inside the airways of a child with a rare disease.\n\nHowever, other scientists raised concerns that the cell structures and movements in the video did not look natural and showed signs of AI generation. Some experts pointed out that certain structures in the video appeared and disappeared strangely.\n\nIn response, the winner, Ning Xu, denied that AI was used to generate the experimental video or the cilia themselves, stating that he followed the competition rules. However, he admitted that AI was used to help visualize features in the grayscale images.\n\nNikon stated that it is currently investigating the issue and that the winner is cooperating respectfully by providing additional technical documents. Other contestants expressed concern that it would be unfair if AI was improperly used in the competition.",
+        "hu": "Viták övezik a Nikon által rendezett rangos tudományos fotópályázat győztes videóját a mesterséges intelligencia esetleges használata miatt. A kínai Csinghua Egyetem kutatója által benyújtott győztes videó állítólag egy ritka betegséggel küzdő gyermek légútjaiban mozgó csillószőröket mutat be.\n\nMás tudósok azonban aggodalmukat fejezték ki amiatt, hogy a videóban látható sejtszerkezetek és mozgások nem tűnnek természetesnek, és a mesterséges intelligencia használatának jeleit mutatják. Egyes szakértők rámutattak, hogy a videó bizonyos struktúrái furcsán jelennek meg és tűnnek el.\n\nErre reagálva a győztes, Ning Xu tagadta, hogy a mesterséges intelligenciát használták volna a kísérleti videó vagy maguk a csillószőrök előállítására, és kijelentette, hogy betartotta a verseny szabályait. Ugyanakkor elismerte, hogy mesterséges intelligenciát használtak a szürkeárnyalatos képek részleteinek megjelenítéséhez.\n\nA Nikon közölte, hogy jelenleg vizsgálja az ügyet, és a győztes tisztelettel együttműködik a vizsgálatban további műszaki dokumentumok benyújtásával. Más versenyzők aggodalmukat fejezték ki amiatt, hogy tisztességtelen lenne, ha a mesterséges intelligenciát nem megfelelően használták volna a versenyen."
+      },
+      "vocab": [
+        {
+          "word": "공모전",
+          "meaning_en": "competition / contest",
+          "meaning_hu": "pályázat / verseny"
+        },
+        {
+          "word": "인공지능",
+          "meaning_en": "artificial intelligence (AI)",
+          "meaning_hu": "mesterséges intelligencia (MI)"
+        },
+        {
+          "word": "규칙",
+          "meaning_en": "rule",
+          "meaning_hu": "szabály"
+        },
+        {
+          "word": "조사",
+          "meaning_en": "investigation",
+          "meaning_hu": "vizsgálat"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "과학 사진이나 영상 공모전에서 인공지능을 사용하는 것에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about using AI in scientific photography or video competitions?",
+          "hu": "Mit gondol a mesterséges intelligencia használatáról tudományos fotó- vagy videópályázatokon?"
+        },
+        {
+          "kor": "기술이 발전하면서 예술과 과학의 경계가 모호해지는 현상에 대해 이야기해 주세요.",
+          "eng": "Discuss how the boundary between art and science is becoming blurred as technology advances.",
+          "hu": "Beszéljen arról, hogyan mosódik el a művészet és a tudomány közötti határ a technológia fejlődésével."
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-6",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "인공지능이 농부들에게 수확 시기를 알려준다",
+        "eng": "The AI telling farmers when to harvest",
+        "hu": "A mesterséges intelligencia, amely megmondja a gazdáknak, mikor kell betakarítani"
+      },
+      "desc": {
+        "kor": "농업 분야에서 기후 변화와 생산성 극복을 위해 인공지능을 활용한 수확 시기 예측 기술이 도입되고 있다.",
+        "eng": "Agricultural sectors are adopting AI-based harvest prediction technologies to overcome climate change and maximize productivity.",
+        "hu": "A mezőgazdasági szektor MI-alapú betakarítás-előrejelzési technológiákat alkalmaz az éghajlatváltozás leküzdésére és a termelékenység maximalizálására."
+      },
+      "article": {
+        "kor": "농업 현장에서 정확한 수확 시기를 결정하는 일은 농장의 수익성과 직결되는 매우 중요한 과제이다. 그러나 최근 전 세계적으로 심화되는 이상 기후와 폭염은 전통적인 농업 방식을 위협하고 있으며, 농부들이 안전하고 효율적으로 수확 작업을 진행하는 것을 방해하고 있다. 이에 따라 미국 워싱턴주의 사과 농장 운영사인 오카나간 스페셜티 프루츠(Okanagan Specialty Fruits)를 비롯한 여러 농업 기업들은 인공지능(AI) 기술을 도입하여 수확 시기를 정교하게 예측하고 있다.\n\n이러한 인공지능 시스템은 트랙터나 드론에 장착된 카메라를 통해 과일 나무의 싹, 꽃, 그리고 과일의 생장 상태를 촬영하고 분석한다. 시스템은 사람의 육안으로 식별하기 어려운 아주 작은 꽃봉오리까지 정확하게 인식하여 수확량을 추정하고 최적의 수확 날짜를 계산해 낸다. 다만 이 예측 기술의 정확도는 농장이 축적해 온 과거의 데이터와 기상 조건, 관개 시설 상태 등 개별 농장의 맞춤형 정보에 크게 의존하는 특성을 지닌다.\n\n특히 딸기나 블루베리 같은 고부가가치 베류 과일은 수확할 수 있는 기간이 며칠에 불과할 정도로 매우 짧기 때문에 세밀한 일정 관리가 필수적이다. 영국의 과일 예측 기업인 프루트캐스트(FruitCast)는 대규모 농지 전체의 작물 상태를 대량으로 분석하여 농부들이 놓칠 수 있는 부분까지 보완하고 있다. 전문가들은 현재의 인공지능 수확 예측 기술이 아직 완벽한 단계는 아니라고 평가하면서도, 기후 위기 시대에 농업의 생산성을 극복하고 효율성을 높이는 중요한 대안으로 주목하고 있다.",
+        "eng": "Determining the right time to harvest is a critical task directly linked to a farm's profitability. However, recent climate changes and extreme heat threaten traditional farming and hinder safe harvesting. Consequently, agricultural companies like Okanagan Specialty Fruits are adopting artificial intelligence to precisely predict harvest dates.\n\nThese AI systems capture and analyze the growth status of fruit trees using cameras mounted on tractors or drones. The system accurately identifies tiny flower buds that are difficult to see with the naked eye to estimate yields and calculate optimal dates. However, the accuracy largely depends on customized data from individual farms, such as historical information and weather conditions.\n\nHigh-value berries like strawberries have very short harvest windows, making meticulous scheduling essential. UK-based FruitCast analyzes crop conditions across large farmlands to compensate for what farmers might miss. Experts note that while current AI forecasting is not yet a finished solution, it is gaining attention as a vital alternative to enhance agricultural efficiency.",
+        "hu": "A megfelelő betakarítási időpont meghatározása kulcsfontosságú feladat, amely közvetlenül összefügg a gazdaság jövedelmezőségével. A közelmúlt éghajlatváltozása és a szélsőséges hőség azonban veszélyezteti a hagyományos gazdálkodást. Ennek következtében a mezőgazdasági vállalatok mesterséges intelligenciát alkalmaznak a betakarítási dátumok pontos előrejelzésére.\n\nEzek az MI-rendszerek traktorokra vagy drónokra szerelt kamerák segítségével rögzítik és elemzik a gyümölcsfák növekedési állapotát. A rendszer pontosan azonosítja a pici virágbimbókat a hozam becsléséhez. A pontosság azonban nagymértékben függ az egyes gazdaságok egyedi adataitól.\n\nA nagy értékű bogyós gyümölcsök betakarítási ablaka nagyon rövid, így a részletes ütemezés elengedhetetlen. A brit FruitCast elemzi a termésállapotot a nagyméretű szántóföldeken. A szakértők megjegyzik, hogy bár a technológia még nem teljesen kész megoldás, fontos alternatívává válik a mezőgazdasági hatékonyság növelésében."
+      },
+      "vocab": [
+        {
+          "word": "인공지능",
+          "meaning_en": "artificial intelligence",
+          "meaning_hu": "mesterséges intelligencia"
+        },
+        {
+          "word": "수확",
+          "meaning_en": "harvest",
+          "meaning_hu": "betakarítás"
+        },
+        {
+          "word": "예측",
+          "meaning_en": "prediction, forecast",
+          "meaning_hu": "előrejelzés"
+        },
+        {
+          "word": "생산성",
+          "meaning_en": "productivity",
+          "meaning_hu": "termelékenység"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "인공지능 기술이 농업 분야에서 어떻게 활용될 수 있는지 설명해 보세요.",
+          "eng": "Explain how artificial intelligence technology can be utilized in the agricultural sector.",
+          "hu": "Magyarázza el, hogyan használható fel a mesterséges intelligencia a mezőgazdasági szektorban."
+        },
+        {
+          "kor": "과일 수확 시기를 정확하게 맞추는 것이 왜 그렇게 중요한가요?",
+          "eng": "Why is it so important to get the fruit harvest date exactly right?",
+          "hu": "Miért olyan fontos a gyümölcsbetakarítás pontos időpontjának eltalálása?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-7",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "사람들이 모인 곳이 무서울 때가 있습니다",
+        "eng": "Hidden habits that make your social anxiety worse - and how to break them",
+        "hu": "Rejtett szokások, amelyek súlyosbítják a szociális szorongást"
+      },
+      "desc": {
+        "kor": "많은 사람이 사람들 앞에서 불안을 느낍니다.",
+        "eng": "Many people feel anxious in social situations.",
+        "hu": "Sokan szoronganak társas helyzetekben."
+      },
+      "article": {
+        "kor": "새로운 사람을 만날 때 걱정이 생기는 것은 자연스러운 일입니다. 하지만 이 마음이 너무 크면 학교나 모임에 가기 어렵습니다. 전문가들은 이런 불안을 이겨내는 방법을 알려 줍니다. 혼자서 걱정하지 말고 도움을 받을 수 있습니다.",
+        "eng": "Természetes, hogy aggódunk új emberek megismerésekor. Ha azonban ez az érzés túl erős, nehéz iskolába vagy közösségbe menni. A szakértők megosztják a szorongás leküzdésének módjait.",
+        "hu": "Természetes, hogy aggódunk új emberek megismerésekor. Ha azonban ez az érzés túl erős, nehéz iskolába vagy közösségbe menni. A szakértők megosztják a szorongás leküzdésének módjait."
+      },
+      "vocab": [
+        {
+          "word": "불안",
+          "meaning_en": "anxiety",
+          "meaning_hu": "szorongás"
+        },
+        {
+          "word": "전문가",
+          "meaning_en": "expert",
+          "meaning_hu": "szakértő"
+        },
+        {
+          "word": "도움",
+          "meaning_en": "help",
+          "meaning_hu": "segítség"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "새로운 사람을 만날 때 떨린 적이 있습니까?",
+          "eng": "Have you ever felt nervous when meeting new people?",
+          "hu": "Érezte magát már idegesnek új emberek megismerésekor?"
+        },
+        {
+          "kor": "걱정이 있을 때 누구에게 이야기합니까?",
+          "eng": "Who do you talk to when you have worries?",
+          "hu": "Kivel beszél, amikor aggodalmai vannak?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-8",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "노인 연금 제도를 바꾸는 것에 대한 논란",
+        "eng": "Debate Over Changes to Pension System",
+        "hu": "Vita a nyugdíjrendszer megváltoztatásáról"
+      },
+      "desc": {
+        "kor": "영국에서 노인 연금 제도를 없애는 것을 두고 서로 다른 이야기가 나오고 있습니다.",
+        "eng": "There are different opinions in the UK about scrapping the state pension triple lock.",
+        "hu": "Különböző vélemények vannak az Egyesült Királyságban az állami nyugdíjrendszer esetleges eltörléséről."
+      },
+      "article": {
+        "kor": "최근 영국의 한 노동조합 대표가 노인 연금 제도를 없애는 것은 옳지 않다고 말했습니다. 이 제도는 매년 물가나 소득에 맞춰 노인들의 연금을 올려주는 중요한 제도입니다.\n\n정부의 새로운 복지 제도를 만들 때 돈이 많이 필요합니다. 그래서 이 연금 제도를 없애고 그 돈을 복지 비용으로 쓰자는 이야기가 나오고 있습니다.\n\n하지만 많은 사람들은 이 제도를 없애면 노인들이 큰 어려움을 겪는다고 생각합니다. 정부는 아직 이 제도를 계속 유지하겠다고 약속하고 있습니다.",
+        "eng": "Recently, a UK union leader said that scrapping the pension triple lock is wrong. This system increases pensions every year based on prices or earnings.\n\nCreating a new welfare system requires a lot of money. Therefore, there are talks about removing this pension system and using the money for care costs.\n\nHowever, many people think that removing this system would cause big problems for elderly people. The government promises to keep the system for now.",
+        "hu": "Nemrégiben az Egyesült Királyság egyik szakszervezeti vezetője azt mondta, hogy helytelen lenne eltörölni a nyugdíjvédelmi rendszert. Ez a rendszer minden évben az árakhoz vagy a keresetekhez igazítva növeli a nyugdíjakat.\n\nEgy új jóléti rendszer létrehozása sok pénzbe kerül. Ezért olyan hírek szólnak arról, hogy ezt a nyugdíjrendszert megszüntethetik, és a pénzt gondozási költségekre fordíthatják.\n\nSokan azonban úgy gondolják, hogy e rendszer eltörlése nagy nehézségeket okozna az időseknek. A kormány egyelőre megígérte, hogy megtartja a rendszert."
+      },
+      "vocab": [
+        {
+          "word": "연금",
+          "meaning_en": "pension",
+          "meaning_hu": "nyugdíj"
+        },
+        {
+          "word": "제도",
+          "meaning_en": "system",
+          "meaning_hu": "rendszer"
+        },
+        {
+          "word": "복지",
+          "meaning_en": "welfare",
+          "meaning_hu": "jólét"
+        },
+        {
+          "word": "정부",
+          "meaning_en": "government",
+          "meaning_hu": "kormány"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분의 나라는 노인을 위한 연금 제도가 있습니까?",
+          "eng": "Does your country have a pension system for the elderly?",
+          "hu": "Van az ön országában nyugdíjrendszer az idősek számára?"
+        },
+        {
+          "kor": "노인들을 위한 복지 제도가 왜 중요하다고 생각합니까?",
+          "eng": "Why do you think welfare systems for the elderly are important?",
+          "hu": "Ön szerint miért fontosak az idősekért tett jóléti intézkedések?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-9",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c83v4qe70r0ko?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국 새로운 돌봄 제도 도입에 오랜 시간이 걸릴 수 있습니다",
+        "eng": "New NHS-style social care system could take decades, Dilnot says",
+        "hu": "Egy új, NHS-stílusú szociális ellátórendszer bevezetése évtizedekig tarthat"
+      },
+      "desc": {
+        "kor": "영국의 새로운 복지 제도 도입에 많은 시간과 돈이 필요할 것이라는 전문가의 의견입니다.",
+        "eng": "An expert says a new social care system in England could take a long time and cost a lot.",
+        "hu": "Egy szakértő szerint egy új szociális ellátórendszer bevezetése Angliában sok idejébe és pénzébe kerülhet."
+      },
+      "article": {
+        "kor": "영국의 전문가 앤드루 딜노트 씨는 새로운 복지 제도를 만드는 데 수십 년이 걸릴 수 있다고 말했습니다. 이 제도는 영국의 건강보험처럼 사람들이 돈을 내지 않고 이용할 수 있는 복지 제도를 말합니다.\n\n하지만 이 제도를 시작하려면 아주 많은 돈이 필요합니다. 그래서 전문가들은 세금을 더 내거나 다른 복지 예산을 바꿔야 할 수도 있다고 이야기합니다. 총리는 다음 선거에서 이 계획을 국민들에게 이야기할 예정입니다. 하지만 변화를 실제로 시작하기까지는 아직 많은 시간이 필요합니다.",
+        "eng": "British economist Sir Andrew Dilnot told the BBC that a new NHS-style social care system for England could take decades to be implemented. He said the cost of such a scheme would be very substantial.\n\nPrime Minister Andy Burnham suggested his proposals would mean everyone contributes and is covered. However, experts say that making social care completely free will need tax rises or major changes, so the real change is still far away.",
+        "hu": "Egy brit szakértő, Sir Andrew Dilnot a BBC-nek elmondta, hogy egy új, NHS-stílusú szociális ellátórendszer bevezetése Angliában évtizedekig tarthat. Hozzátette, hogy egy ilyen rendszer költsége nagyon jelentős lenne.\n\nAndy Burnham miniszterelnök azt javasolta, hogy a rendszerben mindenki hozzájáruljon a költségekhez, és mindenki védelmet kapjon. A szakértők szerint azonban a szociális ellátás ingyenessé tétele adóemelést vagy nagy változásokat igényel, ezért a valódi változás még messze van."
+      },
+      "vocab": [
+        {
+          "word": "제도",
+          "meaning_en": "system",
+          "meaning_hu": "rendszer"
+        },
+        {
+          "word": "비용",
+          "meaning_en": "cost",
+          "meaning_hu": "költség"
+        },
+        {
+          "word": "세금",
+          "meaning_en": "tax",
+          "meaning_hu": "adó"
+        },
+        {
+          "word": "선거",
+          "meaning_en": "election",
+          "meaning_hu": "választás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 사는 나라에는 무료 건강 복지 제도가 있습니까?",
+          "eng": "Is there a free health care system in your country?",
+          "hu": "Van-e ingyenes egészségügyi ellátórendszer az ön országában?"
+        },
+        {
+          "kor": "모든 복지 서비스를 무료로 만드는 것에 대해 어떻게 생각합니까?",
+          "eng": "What do you think about making all social care services completely free?",
+          "hu": "Mit gondol arról, hogy minden szociális ellátási szolgáltatást teljesen ingyenessé tegyenek?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-10",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "앤디 번햄 정치인이 새로운 국가 돌봄 서비스를 제안했습니다",
+        "eng": "Andy Burnham proposes a new national care service",
+        "hu": "Andy Burnham új országos gondozási szolgáltatást javasol"
+      },
+      "desc": {
+        "kor": "영국의 앤디 번햄이 문제가 있는 복지 제도를 고치기 위해 새로운 국가 돌봄 서비스를 만들겠다고 말했습니다.",
+        "eng": "Andy Burnham in the UK said he will create a new national care service to fix broken welfare systems.",
+        "hu": "Az egyesült királyságbeli Andy Burnham azt mondta, hogy új országos gondozási szolgáltatást hoz létre."
+      },
+      "article": {
+        "kor": "영국의 앤디 번햄 정치인이 영국의 어려운 사회복지 서비스를 해결하기 위해 새로운 국가 돌봄 제도를 제안했습니다. 그는 인터뷰에서 망가진 사회복지 서비스가 결국 영국의 의료 제도까지 망가뜨릴 것이라고 경고했습니다. 그래서 그는 다른 곳을 보지 않고 이 문제를 해결하겠다고 말했습니다.\n\n그는 다음 선거에서 국민들에게 보여 줄 명확한 국가 돌봄 서비스 계획을 만들 예정입니다. 하지만 야당인 보수당의 크리스 필프 의원은 이 제도를 운영하려면 세금이 더 오를 것이라고 걱정했습니다. 이것은 보수당에게 절대 양보할 수 없는 중요한 문제라고 강조했습니다.",
+        "eng": "UK politician Andy Burnham has proposed a new national care service to tackle difficult social care services in England. In an interview, he warned that broken social care will in the end break the NHS. Therefore, he stated that he would not look in the other direction and will solve this problem.\n\nHe plans to develop a clear plan for a new national care service to present to the public at the next election. However, opposition Conservative MP Chris Philp worried that more taxes would likely rise to fund this scheme. He emphasized that this is a red line for the Conservatives.",
+        "hu": "Az egyesült királyságbeli politikus, Andy Burnham új nemzeti gondozási szolgáltatást javasolt Anglia nehéz szociális ellátási szolgáltatásainak kezelésére. Egy interjúban arra figyelmeztetett, hogy a tönkrement szociális ellátás végül az egészségügyi rendszert is tönkreteszi. Ezért kijelentette, hogy nem néz félre, hanem megoldja ezt a problémát.\n\nAzt tervezi, hogy egyértelmű tervet dolgoz ki egy új nemzeti gondozási szolgáltatásról, amelyet a következő választásokon a nyilvánosság elé terjeszt. Az ellenzéki Konzervatív Párt egyik politikusa azonban attól tartott, hogy a rendszer finanszírozásához további adóemelésekre lesz szükség. Hangsúlyozta, hogy ez vörös vonalat jelent a konzervatívok számára."
+      },
+      "vocab": [
+        {
+          "word": "사회복지",
+          "meaning_en": "social welfare",
+          "meaning_hu": "szociális jólét"
+        },
+        {
+          "word": "의료 제도",
+          "meaning_en": "healthcare system",
+          "meaning_hu": "egészségügyi rendszer"
+        },
+        {
+          "word": "세금",
+          "meaning_en": "tax",
+          "meaning_hu": "adó"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 살고 있는 나라의 사회복지 제도는 어떤가요?",
+          "eng": "How is the social welfare system in the country where you live?",
+          "hu": "Milyen a szociális jóléti rendszer abban az országban, ahol él?"
+        },
+        {
+          "kor": "좋은 복지 서비스를 위해 세금을 더 내는 것에 대해 어떻게 생각하나요?",
+          "eng": "What do you think about paying more taxes for better welfare services?",
+          "hu": "Mit gondol arról, hogy több adót fizessen a jobb jóléti szolgáltatásokért?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-11",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "유명인들이 나오는 재미있는 방송이 시작되었습니다",
+        "eng": "A fun celebrity TV show has started",
+        "hu": "Elkezdődött egy szórakoztató hírességek szereplésével készült tévéműsor"
+      },
+      "desc": {
+        "kor": "영국의 유명한 방송 프로그램 '더 셀러브리티 트레이터스'가 시작되었습니다.",
+        "eng": "The popular British TV show 'The Celebrity Traitors' has begun.",
+        "hu": "Elkezdődött a népszerű brit tévéműsor, a 'The Celebrity Traitors'."
+      },
+      "article": {
+        "kor": "영국의 방송 프로그램인 '더 셀러브리티 트레이터스' 두 번째 이야기가 시작되었습니다. 진행자 클로디아 윙클먼은 관을 타고 멋지게 등장했습니다. 출연자들은 그 모습을 보고 깜짝 놀랐습니다. 출연자인 리처드 E. 그랜트는 방송에서 큰 실수를 했습니다. 그는 자신이 거짓말을 하는 사람이라고 다른 사람들에게 바로 말해 버렸습니다.",
+        "eng": "The second series of the British TV show 'The Celebrity Traitors' has started. The host, Claudia Winkleman, arrived in a coffin in a dramatic way. The celebrities were very surprised to see this. A contestant, Richard E. Grant, made a big mistake on the show. He accidentally told other people right away that he was a traitor.",
+        "hu": "Elkezdődött a brit 'The Celebrity Traitors' tévéműsor második évada. A műsorvezető, Claudia Winkleman egy koporsóban érkezett meg drámai módon. A hírességek nagyon meglepődtek ezen. Az egyik szereplő, Richard E. Grant nagy hibát vétett a műsorban. Véletlenül azonnal elmondta másoknak, hogy ő egy áruló."
+      },
+      "vocab": [
+        {
+          "word": "방송",
+          "meaning_en": "broadcast / television show",
+          "meaning_hu": ""
+        },
+        {
+          "word": "등장",
+          "meaning_en": "appearance",
+          "meaning_hu": "megjelenés"
+        },
+        {
+          "word": "실수",
+          "meaning_en": "mistake",
+          "meaning_hu": "hiba"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "당신은 텔레비전 프로그램 보는 것을 좋아합니까?",
+          "eng": "Do you like watching television programs?",
+          "hu": "Szeretsz tévéműsorokat nézni?"
+        },
+        {
+          "kor": "비밀을 다른 사람에게 말한 적이 있습니까?",
+          "eng": "Have you ever told a secret to someone else?",
+          "hu": "Mondtál már el titkot másnak?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-12",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c90klkz8j06vo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "모델 나오미 캠벨, 자선 단체 운영 금지 처분에 대한 항소에서 승소했습니다",
+        "eng": "Naomi Campbell wins appeal over charity ban",
+        "hu": "Naomi Campbell fellebbezést nyert a jótékonysági eltiltás ellen"
+      },
+      "desc": {
+        "kor": "유명 모델 나오미 캠벨이 자선 단체 운영 금지 처분을 취소해 달라는 항소에서 이겼습니다.",
+        "eng": "Supermodel Naomi Campbell has won her appeal against a ban on being a charity trustee.",
+        "hu": "A szupermodell Naomi Campbell megnyerte a fellebbezését a jótékonysági alapítványi tisztségtől való eltiltás ellen."
+      },
+      "article": {
+        "kor": "유명 모델 나오미 캠벨이 자선 단체 운영 금지 처분에 대한 항소에서 이겼습니다. 재판소는 캠벨이 단체의 잘못된 행동에 대해 전혀 몰랐다고 밝혔습니다.\n\n캠벨이 만든 단체의 돈이 호텔과 마사지 등에 잘못 사용되었습니다. 하지만 다른 사람이 캠벨 몰래 이 일을 꾸민 것으로 밝혀졌습니다.",
+        "eng": "Model Naomi Campbell has won her appeal against a ban on being a charity trustee. A tribunal ruled that she was unaware of misconduct at her charity.\n\nCharity funds were spent on hotels and spa treatments. However, the tribunal said the misconduct was concealed from Campbell by a fellow trustee.",
+        "hu": "Naomi Campbell modell megnyerte a fellebbezését a jótékonysági tisztségtől való eltiltás ellen. A bíróság úgy döntött, hogy nem tudott a jótékonysági szervezetnél történt helytelen viselkedésről.\n\nA szervezet pénzét szállodákra és spa kezelésekre költötték. A bíróság azonban közölte, hogy a helytelen viselkedést eltitkolták Campbell elől."
+      },
+      "vocab": [
+        {
+          "word": "모델",
+          "meaning_en": "model",
+          "meaning_hu": "modell"
+        },
+        {
+          "word": "자선 단체",
+          "meaning_en": "charity",
+          "meaning_hu": "jótékonysági szervezet"
+        },
+        {
+          "word": "항소",
+          "meaning_en": "appeal",
+          "meaning_hu": "fellebbezés"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "나오미 캠벨은 자선 단체 문제에 대해 알고 있었나요?",
+          "eng": "Did Naomi Campbell know about the charity's problems?",
+          "hu": "Tudott Naomi Campbell a jótékonysági szervezet problémáiról?"
+        },
+        {
+          "kor": "당신은 다른 사람을 쉽게 믿는 편인가요?",
+          "eng": "Do you easily trust other people?",
+          "hu": "Könnyen megbízik másokban?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-13",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "방송인 에스더 랜첸과 닉콜라스 윈턴의 감동적인 이야기",
+        "eng": "The touching story of broadcaster Esther Rantzen and Nicholas Winton",
+        "hu": "Esther Rantzen műsorvezető és Nicholas Winton megható története"
+      },
+      "desc": {
+        "kor": "과거 TV 프로그램에서 전쟁 중 아이들을 구한 영웅을 만난 감동적인 순간을 소개합니다.",
+        "eng": "Introducing a touching moment from a past TV show meeting a hero who saved children during the war.",
+        "hu": "Egy korábbi tévéműsor megható pillanatát mutatja be, amikor találkoztak a háború alatt gyermekeket mentő hőssel."
+      },
+      "article": {
+        "kor": "영국의 유명한 방송인 에스더 랜첸이 86세의 나이로 세상을 떠났습니다. 그녀는 과거에 '댓츠 라이프!'라는 아주 인기 있는 텔레비전 프로그램을 진행했습니다. 이 프로그램은 많은 사람들에게 사랑을 받았습니다.\n\n그중에서 1988년에 방송된 특별한 이야기가 아주 유명합니다. 니콜라스 윈턴이라는 남성은 과거에 위험한 전쟁 속에서 어린이 669명을 구했습니다. 그는 아이들을 안전한 영국으로 보내기 위해 집을 찾아주고 필요한 돈을 모았습니다.\n\n하지만 그는 자신의 대단한 일을 다른 사람들에게 알리지 않았습니다. 아내가 우연히 그의 기록을 찾으면서 이 이야기가 세상에 알려지게 되었습니다. 그는 1988년 이 방송에 출연해 자신이 구한 아이들과 감동적인 만남을 가졌습니다.",
+        "eng": "Famous British broadcaster Esther Rantzen has passed away at the age of 86. She hosted a very popular television program called 'That's Life!' in the past. This program was loved by many people.\n\nAmong them, a special story broadcast in 1988 is very famous. A man named Nicholas Winton rescued 669 children during a dangerous war in the past. He found homes and raised necessary money to send the children to safe Britain.\n\nHowever, he did not tell other people about his great work. This story became known to the world when his wife accidentally found his records. He appeared on this broadcast in 1988 and had a touching reunion with the children he rescued.",
+        "hu": "Elhunyt Esther Rantzen híres brit műsorvezető 86 éves korában. A múltban a 'That's Life!' nevű nagyon népszerű televíziós műsort vezette. Ezt a műsort sokan szerették.\n\nKözülük nagyon híres az 1988-ban sugárzott különleges történet. Egy Nicholas Winton nevű férfi a múltban 669 gyermeket mentett meg egy veszélyes háború idején. Otthonokat talált és pénzt gyűjtött, hogy a gyerekeket biztonságos Britanniába küldje.\n\nAzonban nem mesélt másoknak a nagyszerű munkájáról. Ez a történet akkor vált ismertté a világ számára, amikor a felesége véletlenül megtalálta a feljegyzéseit. 1988-ban szerepelt ebben a műsorban, és megható találkozása volt az általa megmentett gyermekekkel."
+      },
+      "vocab": [
+        {
+          "word": "방송인",
+          "meaning_en": "broadcaster",
+          "meaning_hu": "műsorvezető"
+        },
+        {
+          "word": "프로그램",
+          "meaning_en": "program",
+          "meaning_hu": "műsor"
+        },
+        {
+          "word": "어린이",
+          "meaning_en": "child",
+          "meaning_hu": "gyermek"
+        },
+        {
+          "word": "이야기",
+          "meaning_en": "story",
+          "meaning_hu": "történet"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "당신은 니콜라스 윈턴처럼 다른 사람을 도와준 경험이 있습니까?",
+          "eng": "Have you ever helped someone like Nicholas Winton did?",
+          "hu": "Segített már valaha valakinek úgy, ahogy Nicholas Winton tette?"
+        },
+        {
+          "kor": "텔레비전 프로그램에서 감동적인 이야기를 본 적이 있습니까?",
+          "eng": "Have you ever seen a touching story on a television program?",
+          "hu": "Látott már megható történetet egy televíziós műsorban?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-14",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cv62kp9enz08o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국의 유명 음악 축제 글래스턴베리 2027년 티켓 빠르게 매진",
+        "eng": "First Glastonbury 2027 tickets sell out",
+        "hu": "Elkeltek az első Glastonbury 2027 jegyek"
+      },
+      "desc": {
+        "kor": "영국의 글래스턴베리 음악 축제 2027년 행사 티켓이 30분 만에 다 팔렸다.",
+        "eng": "The first batch of tickets for the 2027 Glastonbury Festival sold out in under 30 minutes.",
+        "hu": "Kevesebb mint 30 perc alatt elfogytak az első jegyek a 2027-es Glastonbury Fesztiválra."
+      },
+      "article": {
+        "kor": "영국의 유명 음악 축제인 글래스턴베리 페스티벌이 2026년 휴식기를 거쳐 2027년에 다시 열린다. 주최 측에 따르면 2027년 행사의 첫 번째 티켓이 판매 시작 후 30분도 되지 않아 모두 팔렸다.\n\n이번 축제는 2027년 6월 23일부터 27일까지 영국 서머셋의 워시 파크에서 진행된다. 목요일 저녁에 판매된 버스 패키지 티켓이 빠르게 매진되었으며, 일반 입장권은 일요일 아침에 판매될 예정이다.\n\n2027년 일반 입장권 가격은 408파운드로 올랐다. 축제 관계자는 티켓 가격이 비싸졌지만 그만큼 특별한 경험을 할 수 있다고 전했다.",
+        "eng": "The Glastonbury Festival will return in 2027 after taking a break in 2026. According to the organisers, the first batch of tickets for the 2027 event sold out in less than 30 minutes.\n\nThe festival will take place from June 23 to 27, 2027, in Somerset, UK. Coach tickets sold out quickly after going on sale, and general admission tickets will be sold on Sunday morning.\n\nThe general admission tickets for 2027 cost 408 pounds. Fans and organizers note that while the price is higher, the festival offers a magical experience.",
+        "hu": "A Glastonbury Fesztivál 2026-os szünet után 2027-ben tér vissza. A szervezők szerint a 2027-es esemény első jegycsoportja kevesebb mint 30 perc alatt elfogyott.\n\nA fesztivált 2027. június 23. és 27. között rendezik meg az egyesült királyságbeli Somersetben. A buszos jegyek gyorsan elkeltek, az általános jegyek árusítása pedig vasárnap reggel kezdődik.\n\nA 2027-es általános jegyek ára 408 font. A rajongók és a szervezők megjegyzik, hogy bár az ár magasabb, a fesztivál varázslatos élményt nyújt."
+      },
+      "vocab": [
+        {
+          "word": "축제",
+          "meaning_en": "festival",
+          "meaning_hu": "fesztivál"
+        },
+        {
+          "word": "매진",
+          "meaning_en": "sold out",
+          "meaning_hu": "elfogyott / minden jegy elkelt"
+        },
+        {
+          "word": "가격",
+          "meaning_en": "price",
+          "meaning_hu": "ár"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 좋아하는 공연이나 축제 티켓을 사기 위해 기다려 본 적이 있습니까?",
+          "eng": "Have you ever waited in line to buy tickets for a concert or festival you like?",
+          "hu": "Vártál már sorban, hogy jegyet vegyél egy kedvenc koncertedre vagy fesztiválodra?"
+        },
+        {
+          "kor": "티켓 가격이 비싸져도 유명한 축제에 가고 싶습니까?",
+          "eng": "Would you still want to go to a famous festival even if the ticket prices increase?",
+          "hu": "Akkor is el akarsz menni egy híres fesztiválra, ha a jegyárak emelkednek?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-15",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "미국 래퍼 칸예 웨스트의 러시아 공연이 공식적으로 취소되었습니다",
+        "eng": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
+        "hu": "Hivatalosan is lemondták Kanye West oroszországi koncertjeit hetek bizonytalansága után"
+      },
+      "desc": {
+        "kor": "논란에 휩싸인 미국 래퍼 칸예 웨스트의 러시아 상트페테르부르크 콘서트가 최종 취소되었습니다.",
+        "eng": "Controversial US rapper Kanye West's scheduled concerts in St Petersburg, Russia, have been officially cancelled.",
+        "hu": "Hivatalosan is lemondták a vitatott amerikai rapper, Kanye West szentpétervári koncertjeit."
+      },
+      "article": {
+        "kor": "미국 출신의 유명 래퍼 칸예 웨스트(예)의 러시아 공연이 결국 취소되었습니다. 당초 웨스트는 10월 상트페테르부르크의 가즈프롬 아레나에서 대규모 공연을 열 예정이었습니다. 하지만 공연 장소를 제공할 예정이었던 경기장 측과 주최 측 사이에 갈등이 생기면서 행사는 큰 혼란을 겪었습니다.\n\n경기장 측은 지난 8월 주최 측과 정식 계약을 맺지 않았다고 밝혔으며, 웨스트의 과거 발언에 대한 항의 민원도 접수되었다고 전했습니다. 최근 웨스트는 과거에 했던 반유대주의적 발언과 나치 찬양 발언 등으로 여러 차례 논란을 빚은 바 있습니다. 특히 러시아 외무부 대변인도 그의 과거 행동을 지적하며 공연 계획에 공개적으로 비판의 목소리를 냈습니다.\n\n결국 모스크바에 기반을 둔 기획사인 세이 아거시는 텔레그램을 통해 공연 취소 소식을 공식화했습니다. 이들은 깊은 유감을 표명하며 프로젝트의 향후 계획에 대해 조만간 공식 입장을 발표하겠다고 밝혔습니다. 이번 취소로 인해 러시아에서 열릴 예정이었던 서구 아티스트의 대형 공연은 무산되었습니다.",
+        "eng": "Two scheduled concerts in Russia by the US rapper Ye, formerly known as Kanye West, have been officially cancelled following weeks of uncertainty. West was originally due to perform at the Gazprom Arena in St Petersburg on October 10 and 11, which would have marked the biggest show by a Western artist in the country since 2022. However, the venue announced in August that no rental agreement had been signed and acknowledged receiving public complaints regarding the rapper's past behavior.\n\nThe controversy largely stems from West's recent history of making antisemitic and pro-Nazi comments, which drew sharp criticism from figures including the Russian Foreign Ministry spokeswoman who condemned his past glorification of Hitler. Despite efforts by the Moscow-based organizers, Say Agency, to resolve the venue issues, they ultimately confirmed the cancellation on Telegram with sincere regret. The agency stated that an official statement regarding the future status of the project would be released in the near future.",
+        "hu": "Hivatalosan is lemondták a Kanye West néven is ismert amerikai rapper, Ye két tervezett oroszországi koncertjét hetek bizonytalansága után. West eredetileg október 10-én és 11-én lépett volna fel a szentpétervári Gazprom Arénában, ami a legnagyobb nyugati előadói koncert lett volna Oroszországban 2022 óta. A stadion azonban augusztusban közölte, hogy nem írt alá bérleti szerződést, és elismerte, hogy panaszokat kapott a rapper múltbeli botrányos megnyilvánulásai miatt.\n\nA helyzetet tovább bonyolította West múltbeli antiszemitizmus és náciellenes megjegyzései, amelyek miatt az orosz külügyminisztérium szóvivője is nyíltan bíráltá a terveket. Annak ellenére, hogy a szervezők, a Say Agency megpróbálta megoldani a problémákat a stadionnal, végül a Telegramon megerősítették a koncertek elmaradását. Az ügynökség közölte, hogy a közeljövőben hivatalos nyilatkozatot adnak ki a projekt jövőjéről."
+      },
+      "vocab": [
+        {
+          "word": "취소되다",
+          "meaning_en": "to be cancelled",
+          "meaning_hu": "lemondásra kerülni"
+        },
+        {
+          "word": "논란",
+          "meaning_en": "controversy, dispute",
+          "meaning_hu": "viták, botrány"
+        },
+        {
+          "word": "항의",
+          "meaning_en": "protest, complaint",
+          "meaning_hu": "tiltakozás, panasz"
+        },
+        {
+          "word": "유감",
+          "meaning_en": "regret",
+          "meaning_hu": "sajnálat"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "칸예 웨스트의 러시아 공연이 취소된 주된 이유는 무엇인가요?",
+          "eng": "What is the main reason why Kanye West's concerts in Russia were cancelled?",
+          "hu": "Mi a fő oka annak, hogy lemondták Kanye West oroszországi koncertjeit?"
+        },
+        {
+          "kor": "예술가의 과거 논란이나 정치적 발언이 그의 공연 활동에 어떤 영향을 미쳐야 한다고 생각하시나요?",
+          "eng": "How do you think an artist's past controversies or political statements should affect their performance activities?",
+          "hu": "Ön szerint hogyan kellene befolyásolniuk egy művész múltbeli vitáinak vagy politikai nyilatkozatainak a koncerttevékenységét?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-16",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgvgd2jrgmo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "투렛 증후군 활동가 존 데이비슨, 인종차별적 발언 논란 속 스코틀랜드 영화상 비디오 시청 요청",
+        "eng": "Tourette's campaigner Davidson asks to watch Scottish Baftas via video link after racial slur row",
+        "hu": "A Tourette-szindrómás aktivista, Davidson videókapcsolaton keresztül nézné meg a skót BAFTA-díjátadót egy korábbi rasszista incidens után"
+      },
+      "desc": {
+        "kor": "영화 시상식에서 의도치 않은 틱 증상으로 인종차별적 단어를 외쳐 논란이 된 존 데이비슨이 스코틀랜드 BAFTA 시상식에 별도 공간에서 비디오 링크로 참석하겠다고 요청했습니다.",
+        "eng": "John Davidson, who shouted a racial slur due to involuntary tics at the Bafta Film Awards, has asked to watch the upcoming Scottish Baftas via video link from a separate room.",
+        "hu": "John Davidson, aki akaratlan tikek miatt rasszista kifejezéstabút kiabált a BAFTA-gálán, arra kérte a szervezőket, hogy egy külön helyiségből, videókapcsolaton keresztül követhesse a skót BAFTA-díjátadót."
+      },
+      "article": {
+        "kor": "투렛 증후군 활동가인 존 데이비슨이 지난 2월 영국 영화 아카데미(BAFTA) 시상식 도중 발생한 인종차별적 발언 논란 이후, 스코틀랜드 BAFTA 시상식에 비디오 링크를 통해 참석하겠다는 의사를 밝혔다. 그의 성장 과정을 다룬 영화 '아이 스웨어(I Swear)'는 이번 스코틀랜드 BAFTA에서 7개 부문에 노미네이트되었다.\n\n데이비슨은 지난 2월 런던에서 열린 시상식 당시 불수의적 틱 증상으로 인해 시상자들에게 인종차별적 단어를 소리쳐 파장을 일으켰다. 당시 BBC 방송사는 해당 발언을 편집하지 않고 송출하여 사과했으며, 이후 BAFTA 스코틀랜드 측은 전문가들과의 논의를 통해 안전한 참여 방안을 모색해 왔다.\n\n이에 데이비슨은 가족 및 친구들과 함께 행사장 내의 별도 공간에서 화면을 통해 시상식을 관람하겠다고 제안했다. 그는 자신의 틱 증상이 고의성이 없으며 어떤 의미도 담고 있지 않다며 깊은 유감을 표명한 바 있다.\n\n스코틀랜드 BAFTA 측은 포용성과 안전을 최우선으로 고려하여 그의 제안을 수용하고 모든 참석자에게 안전한 환경을 제공하기 위해 협력하고 있다. 이번 시상식에는 영화 '아이 스웨어'의 주요 출연진을 비롯한 많은 배우들이 후보에 올랐다.",
+        "eng": "Tourette's campaigner John Davidson has requested to watch the upcoming Scottish Baftas via a video link at the venue following a controversy over a racial slur he shouted during the Bafta Film Awards in February. The film 'I Swear', which depicts his life, has received seven nominations for the Scottish Baftas.\n\nDuring the February ceremony in London, Davidson experienced involuntary tics that caused him to shout an offensive racial slur at the presenters. The BBC later apologized for failing to edit the remark out of its broadcast, and Bafta Scotland subsequently consulted with safeguarding experts to determine a safe way for him to participate.\n\nIn response, Davidson suggested watching the ceremony from a separate room within the venue alongside his family and friends. He previously expressed deep regret, emphasizing that his tics are entirely involuntary and carry no intentional meaning or malice.\n\nBafta Scotland stated that it worked with inclusion experts to accommodate his request safely for everyone involved. This year's event features several prominent nominees from the film industry, highlighting the ongoing conversation around accessibility and inclusion in the arts.",
+        "hu": "John Tourette-szindrómás aktivista a februári BAFTA-gálán történt rasszista kijelentése után arra kérte a skót BAFTA szervezőit, hogy videókapcsolaton keresztül, egy külön helyiségből nézhesse az eseményt. Az életéről szóló 'I Swear' című film hét kategóriában kapott jelölést a skót BAFTA-díjakért.\n\nA februári londoni ceremónián Davidson akaratlan tikjei miatt sértő kifejezést kiabált a díjátadóknak. A BBC később bocsánatot kért, amiért nem vágta ki a jelenetet a közvetítésből, a skót BAFTA szervezői pedig szakértőkkel konzultálva keresték a biztonságos részvétel módját.\n\nEnnek keretében Davidson azt javasolta, hogy családjával és barátaival együtt, a helyszín egy külön szobájából, kivetítőn keresztül kövesse az eseményeket. Korábban mély sajnálatát fejezte ki, hangsúlyozva, hogy akaratlan tikjei nem hordoznak szándékos jelentést.\n\nA skót BAFTA közölte, hogy a befogadás és a biztonság szem előtt tartásával alakították ki a megoldást az összes résztvevő számára. Az idei jelöltek között számos ismert művész szerepel a filmiparból."
+      },
+      "vocab": [
+        {
+          "word": "불수의적",
+          "meaning_en": "involuntary",
+          "meaning_hu": "akaratlan"
+        },
+        {
+          "word": "노미네이트",
+          "meaning_en": "nominated",
+          "meaning_hu": "jelölt"
+        },
+        {
+          "word": "포용성",
+          "meaning_en": "inclusion",
+          "meaning_hu": "befogadás"
+        },
+        {
+          "word": "유감을 표명하다",
+          "meaning_en": "to express regret",
+          "meaning_hu": "sajnálatát fejezi ki"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "예술적 성취와 대중 행사에서의 돌발 행동(틱 증상 등) 사이의 균형을 어떻게 맞추어야 한다고 생각하시나요?",
+          "eng": "How do you think a balance should be struck between artistic achievement and unexpected behaviors at public events?",
+          "hu": "Ön szerint hogyan lehet egyensúlyt teremteni a művészeti teljesítmény és a nyilvános eseményeken előforduló váratlan viselkedések között?"
+        },
+        {
+          "kor": "문화 예술 행사에서 장애를 가진 예술가나 참여자를 위한 포용성과 안전 장치는 왜 중요할까요?",
+          "eng": "Why are inclusion and safety measures important for artists and participants with disabilities at cultural and arts events?",
+          "hu": "Miért fontosak a befogadási és biztonsági intézkedések a fogyatékkal élő művészek és résztvevők számára a kulturális rendezvényeken?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-17",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/travel/2024/apr/26/austin-texas-three-day-travel-guide"
+      },
+      "title": {
+        "kor": "미국 오스틴 여행 하기",
+        "eng": "Traveling to Austin, USA",
+        "hu": "Utazás Austinba, USA"
+      },
+      "desc": {
+        "kor": "미국 오스틴에서 맛있는 음식을 먹고 즐겁게 놀 수 있는 방법입니다.",
+        "eng": "Ways to eat good food and have fun in Austin, USA.",
+        "hu": "Módok arra, hogy jókat együnk és szórakozzunk az amerikai Austinban."
+      },
+      "article": {
+        "kor": "미국 오스틴은 아주 인기 있는 여행지입니다. 오스틴에는 맛있는 음식과 멋진 음악이 많습니다. 사람들은 이곳에서 공원을 산책하고 맛있는 음식을 먹습니다. 여러분도 오스틴에서 즐거운 시간을 보낼 수 있습니다.",
+        "eng": "Austin in the US is a very popular travel destination. There is delicious food and great music in Austin. People take a walk in the park and eat good food here. You can also have a good time in Austin.",
+        "hu": "Az ausztini USA egy nagyon népszerű úti cél. Finom ételek és nagyszerű zene van Austinban. Az emberek sétálnak a parkban és jó ételeket esznek itt. Ön પણ jól érezheti magát Austinban."
+      },
+      "vocab": [
+        {
+          "word": "여행지",
+          "meaning_en": "travel destination",
+          "meaning_hu": "utazási célpont"
+        },
+        {
+          "word": "음식",
+          "meaning_en": "food",
+          "meaning_hu": "étel"
+        },
+        {
+          "word": "공원",
+          "meaning_en": "park",
+          "meaning_hu": "park"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 여행을 좋아합니까?",
+          "eng": "Do you like traveling?",
+          "hu": "Szeret utazni?"
+        },
+        {
+          "kor": "어느 나라에 가고 싶습니까?",
+          "eng": "Which country do you want to go to?",
+          "hu": "Melyik országba szeretne menni?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-18",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/travel/2024/mar/22/nyc-three-day-travel-guide"
+      },
+      "title": {
+        "kor": "뉴욕 여행 안내서: 삼 일 동안 먹고 보고 즐기는 법",
+        "eng": "A local’s travel guide to New York City: what to eat, see and do in three days",
+        "hu": "Helyi utazási útmutató New York Citybe: mit enni, látni és csinálni három nap alatt"
+      },
+      "desc": {
+        "kor": "뉴욕에서 배를 타고 구경하고 맛있는 음식을 먹는 여행 방법을 소개합니다.",
+        "eng": "A local guide shares the best things to do, eat, and see during a three-day trip to New York.",
+        "hu": "Egy helyi lakos megosztja a legjobb programokat, ételeket és látnivalókat egy háromnapos New York-i utazáshoz."
+      },
+      "article": {
+        "kor": "뉴욕에는 큰 건물을 구경하고 배를 타는 재미있는 일이 많습니다. 특히 배를 타고 바다와 다리를 구경하는 여행이 아주 인기가 좋습니다.\n\n맨해튼과 브루클린을 구경한 뒤에는 맛있는 음식도 먹을 수 있습니다. 차이나타운에 가서 구경하고 시장에서 재미있는 물건을 살 수도 있습니다.",
+        "eng": "There are many fun things to do in New York, like seeing big buildings and taking a ferry. Taking a boat to see the bridges and water is especially popular.\n\nAfter looking around Manhattan and Brooklyn, you can also eat delicious food. You can visit Chinatown and buy interesting things at the market.",
+        "hu": "Sok szórakoztató dolog van New Yorkban, például nagy épületek megnézése és hajózás. Különösen népszerű a hajózás, ahonnan láthatók a hidak és a víz.\n\nMiután körülnézett Manhattanben és Brooklynban, finom ételeket is ehet. Ellátogathat a Kínai negyedbe, és érdekes dolgokat vásárolhat a piacon."
+      },
+      "vocab": [
+        {
+          "word": "여행",
+          "meaning_en": "travel, trip",
+          "meaning_hu": "utazás"
+        },
+        {
+          "word": "배",
+          "meaning_en": "boat, ship",
+          "meaning_hu": "hajó"
+        },
+        {
+          "word": "구경하다",
+          "meaning_en": "to sightsee, to look around",
+          "meaning_hu": "megnézni, körülnézni"
+        },
+        {
+          "word": "음식",
+          "meaning_en": "food",
+          "meaning_hu": "étel"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 뉴욕에 가면 무엇을 하고 싶습니까?",
+          "eng": "What do you want to do if you go to New York?",
+          "hu": "Mit szeretne csinálni, if eljut New Yorkba?"
+        },
+        {
+          "kor": "배를 타고 여행하는 것을 좋아합니까?",
+          "eng": "Do you like traveling by boat?",
+          "hu": "Szeret hajóval utazni?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-19",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/travel/2024/mar/16/washington-dc-three-day-travel-guide"
+      },
+      "title": {
+        "kor": "워싱턴 D.C. 여행 가이드: 먹고 보고 즐기는 방법",
+        "eng": "A local's travel guide to Washington DC: what to eat, see and do",
+        "hu": "Helyi utazási útmutató Washington DC-be: mit kell enni, látni és csinálni"
+      },
+      "desc": {
+        "kor": "현지인이 추천하는 미국의 수도 워싱턴 D.C.의 맛집과 명소 여행 안내서입니다.",
+        "eng": "A local resident shares great places to eat, see, and visit in Washington D.C.",
+        "hu": "Egy helyi lakos megosztja Washington D.C. legjobb éttermeit és látnivalóit."
+      },
+      "article": {
+        "kor": "미국의 수도 워싱턴 D.C.는 정치인들이 많기로 유명하지만, 아주 매력적인 도시입니다. 이곳에는 멋진 공원과 무료 박물관, 그리고 맛있는 식당들이 많이 있습니다. 그래서 여행을 즐기기에 아주 좋은 곳입니다.\n\n여행 중에 맛있는 음식을 먹는 것은 아주 중요합니다. 그리스 음식점인 조르바스 카페에서 맛있는 지중해 요리를 먹을 수 있습니다. 그리고 필립스 컬렉션 미술관에 가서 아름다운 그림을 구경할 수 있습니다.\n\n오후에는 록 크릭 공원을 산책하며 여유를 즐길 수 있습니다. 저녁에는 유명한 식당에서 필리핀 요리를 맛보는 것도 좋습니다. 워싱턴 D.C.에서 즐거운 추억을 만들어 보세요.",
+        "eng": "Washington D.C., the capital of the United States, is famous for politicians, but it is a charming city. There are many wonderful parks, free museums, and great restaurants here. Therefore, it is a very good place to enjoy traveling.\n\nEating delicious food during a trip is very important. You can eat delicious Mediterranean food at Zorba's Cafe, a Greek restaurant. Then you can visit the Phillips Collection art museum to look at beautiful paintings.\n\nIn the afternoon, you can take a walk in Rock Creek Park and enjoy your leisure time. In the evening, it is also good to try Filipino food at a famous restaurant. Make wonderful memories in Washington D.C.",
+        "hu": "Az Amerikai Egyesült Államok fővárosa, Washington D.C. híres a politikusokról, de ez egy bájos város. Számos csodálatos park, ingyenes múzeum és nagyszerű étterem található itt. Ezért ez egy nagyon jó hely az utazás élvezetére.\n\nAz utazás során a finom ételek fogyasztása nagyon fontos. Finom mediterrán ételeket ehet a Zorba's Cafe nevű görög étteremben. Ezután meglátogathatja a Phillips Collection művészeti múzeumot, hogy gyönyörű festményeket nézzen meg.\n\nDélután sétálhat a Rock Creek Parkban, és élvezheti a szabadidejét. Este jó ötlet kipróbálni a Fülöp-szigeteki ételeket egy híres étteremben. Szerezzen csodálatos emlékeket Washington D.C.-ben."
+      },
+      "vocab": [
+        {
+          "word": "수도",
+          "meaning_en": "capital city",
+          "meaning_hu": "főváros"
+        },
+        {
+          "word": "박물관",
+          "meaning_en": "museum",
+          "meaning_hu": "múzeum"
+        },
+        {
+          "word": "산책하다",
+          "meaning_en": "to take a walk",
+          "meaning_hu": "sétálni"
+        },
+        {
+          "word": "추억",
+          "meaning_en": "memory",
+          "meaning_hu": "emlék"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 여행을 갈 때 무엇을 구경하는 것을 가장 좋아하나요?",
+          "eng": "What do you like to see most when you go on a trip?",
+          "hu": "Mit szeretsz a legjobban megnézni, amikor utazni mész?"
+        },
+        {
+          "kor": "워싱턴 D.C.에 간다면 가장 가고 싶은 곳은 어디인가요?",
+          "eng": "Where is the place you want to visit most if you go to Washington D.C.?",
+          "hu": "Hová szeretnél a leginkább elmenni, ha Washington D.C.-be utaznál?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-20",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/travel/2025/jan/15/a-break-from-the-accommodation-mega-sites-the-best-alternative-booking-platforms"
+      },
+      "title": {
+        "kor": "유명 숙소 예약 사이트 대신 이용할 수 있는 새로운 대안 플랫폼들",
+        "eng": "A break from the accommodation mega-sites: the best alternative booking platforms",
+        "hu": "Alternatív szállásfoglalási platformok a nagy óriások helyett"
+      },
+      "desc": {
+        "kor": "지역 사회를 돕고 환경을 생각하는 새로운 대안 숙소 예약 플랫폼들을 소개합니다.",
+        "eng": "Discovering new alternative accommodation booking platforms that help local communities and the environment.",
+        "hu": "Olyan új alternatív szállásfoglalási platformok bemutatása, amelyek segítik a helyi közösségeket és a környezetet."
+      },
+      "article": {
+        "kor": "에어비앤비와 부킹닷컴 같은 큰 숙소 예약 사이트들은 여행을 아주 편리하게 만들어 주었습니다. 하지만 세계의 많은 인기 여행지에서는 이러한 플랫폼 때문에 집값이 오르고 지역 주민들이 살기 어려워지는 문제가 생기고 있습니다.\n\n이러한 문제를 해결하기 위해 작고 독립적인 새로운 숙소 예약 사이트들이 인기를 끌고 있습니다. 예를 들어 '페어비앤비(Fairbnb)'라는 플랫폼은 지역 주민이 실제로 사는 집만 빌려주고, 수익의 절반을 지역 사회 프로젝트에 기부합니다.\n\n또한 '소셜비앤비(Socialbnb)'는 여행자와 전 세계의 사회적, 생태적 프로젝트를 연결해 줍니다. '에코비앤비(Ecobnb)'는 환경을 보호하는 친환경 숙소만 모아서 소개하고 있습니다.\n\n집을 서로 바꾸어 빌려 쓰는 '킨드레드(Kindred)' 같은 새로운 방식도 사람들에게 인기가 많습니다. 이러한 대안 플랫폼들을 이용하면 현지인들에게 도움을 주면서 더욱 의미 있는 여행을 할 수 있습니다.",
+        "eng": "Large accommodation booking sites like Airbnb and Booking.com have made travel very convenient. However, in many popular destinations around the world, these platforms are causing problems such as rising house prices and making it difficult for local residents to live.\n\nTo solve these problems, new smaller and independent accommodation booking websites are gaining popularity. For example, a platform called 'Fairbnb' only lists homes actually lived in by local residents and donates half of its profits to local community projects.\n\nIn addition, 'Socialbnb' connects travelers with social and ecological projects around the world. 'Ecobnb' collects and introduces only eco-friendly accommodations that protect the environment.\n\nNew methods like 'Kindred', where people exchange and rent homes with each other, are also very popular. Using these alternative platforms allows you to travel more meaningfully while helping locals.",
+        "hu": "Az olyan nagy szállásfoglalási oldalak, mint az Airbnb és a Booking.com, nagyon kényelmessé tették az utazást. A világ számos népszerű úti célján azonban ezek a platformok olyan problémákat okoznak, mint az emelkedő lakásárak, és megnehezítik a helyi lakosok életét.\n\nE problémák megoldására egyre népszerűbbek az új, kisebb és független szállásfoglalási weboldalak. Például a 'Fairbnb' nevű platform csak olyan otthonokat listáz, amelyekben helyi lakosok élnek, és a nyereségük felét helyi közösségi projekteknek adományozzák.\n\nEmellett a 'Socialbnb' összeköti utazókat a világ minden tájáról származó szociális és ökológiai projektekkel. Az 'Ecobnb' pedig csak olyan környezetbarát szállásokat gyűjt össze és mutat be, amelyek védik a környezetet.\n\nAz olyan új módszerek is nagyon népszerűek, mint a 'Kindred', ahol az emberek cserélik és bérbe adják egymás otthonait. Ezen alternatív platformok használatával tartalmasabban utazhatunk, miközben segítünk a helyieknek."
+      },
+      "vocab": [
+        {
+          "word": "숙소",
+          "meaning_en": "accommodation",
+          "meaning_hu": "szállás"
+        },
+        {
+          "word": "플랫폼",
+          "meaning_en": "platform",
+          "meaning_hu": "platform"
+        },
+        {
+          "word": "주민",
+          "meaning_en": "resident",
+          "meaning_hu": "helyi lakos"
+        },
+        {
+          "word": "기부하다",
+          "meaning_en": "to donate",
+          "meaning_hu": "adományozni"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 여행을 할 때 어떤 숙소 예약 사이트를 주로 사용하나요?",
+          "eng": "What accommodation booking sites do you usually use when traveling?",
+          "hu": "Milyen szállásfoglalási oldalakat szokott használni utazás során?"
+        },
+        {
+          "kor": "지역 사회에 도움이 되는 친환경 숙소를 이용해 보고 싶나요?",
+          "eng": "Would you like to use eco-friendly accommodations that help local communities?",
+          "hu": "Szeretne olyan környezetbarát szállásokat használni, amelyek segítik a helyi közösségeket?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-21",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/news/article/2024/aug/19/the-good-tourist-can-we-learn-to-travel-without-absolutely-infuriating-the-locals"
+      },
+      "title": {
+        "kor": "좋은 관광객이 되기: 현지인들을 화나게 하지 않고 여행할 수 있을까?",
+        "eng": "The good tourist: can we learn to travel without absolutely infuriating the locals?",
+        "hu": "A jó turista: megtanulhatunk-e úgy utazni, hogy ne dühítsük fel a helyieket?"
+      },
+      "desc": {
+        "kor": "세계적으로 오버투어리즘 문제가 심각해진 가운데, 새로운 여행 방식을 제안하는 책이 주목받고 있다.",
+        "eng": "Amid growing overtourism issues worldwide, a new book proposes better ways to travel.",
+        "hu": "A túrizmus globális növekedése közepette egy új könyv a fenntarthatóbb utazási módokat szorgalmazza."
+      },
+      "article": {
+        "kor": "최근 전 세계적으로 관광객이 너무 많이 몰려오면서 현지 주민들이 고통을 겪고 있습니다. 바르셀로나와 암스테르담 같은 유명 도시에서는 관광객을 반대하는 시위가 일어나거나 특별한 규칙이 생겼습니다. 비행기 값이 싸지고 인터넷으로 여행 예약을 하기 쉬워지면서 2023년에는 해외를 찾은 관광객이 13억 명을 넘었습니다.\n\n하지만 이러한 관광 붐은 환경 오염과 집값 상승 등 많은 문제를 일으키고 있습니다. 일부 도시에서는 관광객들의 무례한 행동을 막기 위해 벌금을 물리거나 새로운 규정을 만들기도 했습니다. 이처럼 여행이 환경과 현지 주민들에게 큰 부담을 주면서, 여행이 과연 좋은 것인지 의문이 커지고 있습니다.\n\n여행 저널리스트 페이지 맥클라나한은 저서 '새로운 관광객'에서 우리가 여행하는 방식을 바꿔야 한다고 말합니다. 그녀는 더 적은 곳을 방문하고 한곳에 오래 머물며 현지 문화를 존중하는 태도가 필요하다고 강조합니다. 여행은 세상을 이해하는 중요한 방법이지만, 이제는 현지인들에게 피해를 주지 않는 현명한 여행이 필요합니다.",
+        "eng": "Recently, local residents around the world are suffering as too many tourists visit popular destinations. Famous cities like Barcelona and Amsterdam are seeing protests against tourism and new regulations. As flights became cheaper and online booking easier, international tourists exceeded 1.3 billion in 2023.\n\nHowever, this tourism boom causes many problems such as environmental pollution and rising housing costs. Some cities have introduced fines and new rules to stop rude behaviors by tourists. As tourism places a heavy burden on the environment and locals, doubts are growing about whether travel is still a good thing.\n\nTravel journalist Paige McClanahan argues in her book 'The New Tourist' that we need to change the way we travel. She emphasizes the importance of visiting fewer places, staying longer, and respecting local cultures. While travel is an important way to understand the world, we now need smart travel that does not harm locals.",
+        "hu": "A világ számos pontján a túlzott turizmus nehézseket okoz a helyi lakosok számára. Olyan városokban, mint Barcelona vagy Amszterdam, tüntetések törtek ki, és új korlátozásokat vezettek be. A olcsóbb repülőjegyeknek és az online foglalásnak köszönhetően 2023-ban a nemzetközi turisták száma meghaladta az 1,3 milliárdot.\n\nEz a turisztikai boom azonban komoly problémákat okoz, például környezetszennyezést és az ingatlanárak emelkedését. Néhány város bírságokat és új szabályokat vezetett be a turisták helytelen viselkedése ellen. Mivel a turizmus nagy terhet ró a helyiekre, egyre többen kérdőjelezik meg az utazás értelmét.\n\nPaige McClanahan utazási újságíró 'Az új turista' című könyvében arról ír, hogy meg kell változtatnunk az utazási szokásainkat. Kiemeli, hogy kevesebb helyre kell utazni, hosszabb időt kell eltölteni egy-egy helyen, és tisztelni kell a helyi kultúrát. Az utazás fontos eszköz a világ megismeréséhez, de mostantól olyan okos utazásra van szükség, amely nem árt a helyieknek."
+      },
+      "vocab": [
+        {
+          "word": "관광객",
+          "meaning_en": "tourist",
+          "meaning_hu": "turista"
+        },
+        {
+          "word": "주민",
+          "meaning_en": "resident / local",
+          "meaning_hu": "helyi lakos"
+        },
+        {
+          "word": "환경 오염",
+          "meaning_en": "environmental pollution",
+          "meaning_hu": "környezetszennyezés"
+        },
+        {
+          "word": "규정",
+          "meaning_en": "regulation / rule",
+          "meaning_hu": "szabályozás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 사는 도시에 관광객이 너무 많이 온다면 어떤 문제가 생길까요?",
+          "eng": "What problems might occur if too many tourists visited your city?",
+          "hu": "Milyen problémák merülnének fel, ha túl sok turista látogatna el a városába?"
+        },
+        {
+          "kor": "좋은 관광객이 되기 위해 어떤 행동을 해야 할까요?",
+          "eng": "What actions should we take to become a good tourist?",
+          "hu": "Milyen lépéseket kell tennünk ahhoz, hogy jó turisták legyünk?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-22",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/lifeandstyle/2024/dec/09/best-travel-gifts-presents-christmas"
+      },
+      "title": {
+        "kor": "여행을 사랑하는 사람들을 위한 크리스마스 선물 추천",
+        "eng": "Christmas gift ideas for travel lovers",
+        "hu": "Karácsonyi ajándékötletek az utazás szerelmeseinek"
+      },
+      "desc": {
+        "kor": "영국 가디언지가 여행을 좋아하는 사람들을 위한 다양한 크리스마스 선물 아이디어를 소개했다.",
+        "eng": "The Guardian has introduced various Christmas gift ideas for people who love traveling.",
+        "hu": "A The Guardian különböző karácsonyi ajándékötleteket mutatott be az utazást kedvelők számára."
+      },
+      "article": {
+        "kor": "크리스마스를 맞아 여행을 좋아하는 가족이나 친구를 위한 선물 고민이 깊어지는 시기이다. 영국의 언론사 가디언은 실용적인 용품부터 특별한 경험을 선물할 수 있는 다양한 아이디어를 공개했다. 이번에 추천된 선물들은 직접 여행을 떠나는 사람뿐만 아니라 집에서 세계를 간접적으로 즐기는 사람들에게도 모두 유용하다.\n\n여행 관련 도서들은 바쁜 일상 속에서도 세계 곳곳을 상상하게 만드는 훌륭한 선물이다. 외딴곳으로의 평화로운 여행지를 담은 책부터 세계의 아름다운 나무를 소개하는 책, 그리고 작가들의 여행 경험과 요리법을 담은 책까지 다양하다. 또한 인기 드라마의 배경이 된 장소를 찾아갈 수 있는 특별한 지도와 안내서도 큰 관심을 받고 있다.\n\n물리적인 물건 외에도 특별한 추억을 만들 수 있는 체험형 상품들이 인기를 끌고 있다. 영국의 유적지를 방문할 수 있는 이용권이나 아름다운 포도밭에서의 와인 시음 행사, 그리고 아늑한 숙박 시설을 이용할 수 있는 상품권 등이 포함된다. 이러한 선물들은 받는 이에게 소중한 휴식과 잊지 못할 추억을 선사한다.",
+        "eng": "It is a time when people worry about choosing Christmas gifts for family or friends who love traveling. The UK media outlet The Guardian has released various ideas ranging from practical items to special experiences. These recommended gifts are useful both for those who travel in person and those who enjoy the world from home.\n\nTravel-related books are great gifts that make people imagine various parts of the world even in busy daily lives. They range from books featuring peaceful travel destinations to those introducing beautiful trees and authors' travel experiences and recipes. Special maps and guides leading to places featured in popular shows are also receiving great attention.\n\nIn addition to physical items, experiential products that create special memories are gaining popularity. These include vouchers to visit historical sites in the UK, wine-tasting events at beautiful vineyards, and gift cards for cozy accommodations. These gifts provide recipients with precious relaxation and unforgettable memories.",
+        "hu": "Itt a karácsony, és sokan gondolkodnak azon, milyen ajándékot válasszanak az utazást kedvelő családtagoknak vagy barátoknak. A brit The Guardian sajtótermék különböző ajándékötleteket mutatott be a praktikus tárgyaktól a különleges élményekig. Ezek az ajánlott ajándékok hasznosak mind mereka számára, akik személyesen utaznak, mind pedig azoknak, akik otthonról élvezik a világot.\n\nAz utazással kapcsolatos könyvek nagyszerű ajándékok, amelyek a sűrű mindennapok közepette is a világ különböző tájainak képzeletbeli felfedezésére ösztönöznek. Különböző könyvek szerepelnek a választékban a békés úti céloktól kezdve a csodálatos fákat bemutató köteteken át az írók utazási élményeit és receptjeit tartalmazó művekig. Nagy figyelmet kapnak a népszerű sorozatok helyszíneire kalauzoló különleges térképek és útmutatók is.\n\nA fizikai tárgyak mellett egyre népszerűbbek az élményalapú termékek is, amelyek különleges emlékeket teremtnek. Ide tartoznak az egyes brit történelmi helyszínek meglátogatására jogosító utalványok, a gyönyörű szőlőskertekben szervezett borkóstolók, valamint a kényelmes szálláshelyekre szóló ajándékkártyák. Ezek az ajándékok értékes pihenést és felejthetetlen emlékeket nyújtanak a megajándékozottaknak."
+      },
+      "vocab": [
+        {
+          "word": "선물",
+          "meaning_en": "gift, present",
+          "meaning_hu": "ajándék"
+        },
+        {
+          "word": "실용적이다",
+          "meaning_en": "to be practical",
+          "meaning_hu": "praktikus"
+        },
+        {
+          "word": "추억",
+          "meaning_en": "memory",
+          "meaning_hu": "emlék"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "당신은 여행 선물로 물건을 받는 것을 좋아하나요, 아니면 체험이나 경험을 선물받는 것을 좋아하나요?",
+          "eng": "Do you prefer receiving physical items or experiences as travel gifts?",
+          "hu": "Jobban szereti a tárgyi ajándékokat vagy az élményeket utazási ajándékként?"
+        },
+        {
+          "kor": "책을 통해 다른 나라를 간접적으로 여행해 본 경험이 있나요?",
+          "eng": "Have you ever experienced traveling indirectly to another country through a book?",
+          "hu": "Volt már olyan élménye, hogy könyv révén utazott közvetve egy másik országba?"
+        }
+      ]
+    }
+  ],
   "categories": [
     "Global & Society",
     "Tech & Future",
