@@ -1,5 +1,730 @@
 {
-  "featured": [],
+  "featured": [
+    {
+      "id": "news-20261002-1",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c6wyzy0rkp71o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "북한 영화 '민족과 운명'이 다시 주목받는 이유",
+        "eng": "Why North Korean Film 'Nation and Destiny' is Gaining Attention Again",
+        "hu": "Miért kap ismét figyelmet a 'Nemzet és sors' című észak-koreai film"
+      },
+      "desc": {
+        "kor": "최근 영화 '암살자(들)'이 역사 왜곡 논란에 휩싸이면서 북한의 옛 영화 '민족과 운명'이 함께 주목받고 있습니다.",
+        "eng": "Recently, as the film 'Assassins' became embroiled in historical distortion controversies, the old North Korean film 'Nation and Destiny' is receiving renewed attention.",
+        "hu": "A közelmúltban, mivel az 'Ogyilkosok' című film történelmi torzítási vitákba keveredett, az észak-koreai 'Nemzet és sors' című régi film ismét figyelmet kap."
+      },
+      "article": {
+        "kor": "최근 영화 '암살자(들)'이 역사 왜곡 논란에 휩싸이면서 북한의 영화 '민족과 운명'이 다시 이야기되고 있습니다. 정치권에서는 이 영화가 북한 영화와 비슷하다는 주장이 나오기도 했습니다.\n\n'민족과 운명'은 북한이 1990년대부터 만든 긴 연작 영화입니다. 이 영화는 실제 인물과 사건을 바탕으로 남북한의 현대사를 북한의 시각으로 그렸습니다. 1991년에 기획되었고 김정일이 제작 과정에 직접 참여한 것으로 알려져 있습니다.\n\n이 영화에는 박정희 대통령과 육영수 여사 피격 사건을 다룬 내용도 포함되어 있습니다. 당초 10부작으로 시작했지만 나중에는 70부까지 만들어졌으며 한국 현대사의 여러 중요 인물들이 등장합니다.",
+        "eng": "Recently, as the film 'Assassins' became embroiled in historical distortion controversies, the North Korean film 'Nation and Destiny' is being talked about again. In political circles, claims have emerged that this film is similar to North Korean movies.\n\n'Nation and Destiny' is a long series of films made by North Korea since the 1990s. Based on real people and events, these films portrayed the modern history of the two Koreas from a North Korean perspective. It was planned in 1991, and Kim Jong Il is known to have directly participated in the production process.\n\nThis film also includes content dealing with the shooting of President Park Chung-hee and First Lady Yuk Young-su. Although it originally started as a 10-part series, it later expanded to 70 parts, featuring various major figures from modern Korean history.",
+        "hu": "A közelmúltban, mivel az 'Ogyilkosok' című film történelmi torzítási vitákba keveredett, ismét szó esik az észak-koreai 'Nemzet és sors' című filmről. A politikai körökben olyan állítások is elhangzottak, hogy ez a film hasonlít az észak-koreai filmekhez.\n\nA 'Nemzet és sors' egy hosszú filmsorozat, amelyet Észak-Korea készített az 1990-es évektől kezdve. Valós személyekre és eseményekre alapozva ez a film a két Korea modern történetét ábrázolja észak-koreai szemszögből. 1991-ben tervezték, és hírek szerint Kim Dzsongil közvetlenül részt vett a gyártási folyamatban.\n\nEz a film tartalmazza Park Chung-hee elnök és Yuk Young-su elnökfeleség lelövésének ügyét is. Eredetileg 10 részesnek tervezték, de később 70 részesre bővült, és a modern koreai történelem számos fontos szereplője megjelenik benne."
+      },
+      "vocab": [
+        {
+          "word": "논란",
+          "meaning_en": "controversy",
+          "meaning_hu": "vita, vitatott ügy"
+        },
+        {
+          "word": "현대사",
+          "meaning_en": "modern history",
+          "meaning_hu": "modern történelem"
+        },
+        {
+          "word": "제작",
+          "meaning_en": "production",
+          "meaning_hu": "gyártás, készítés"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "'민족과 운명'은 어떤 내용을 다루고 있는 영화인가요?",
+          "eng": "What kind of content does the movie 'Nation and Destiny' deal with?",
+          "hu": "Milyen tartalommal foglalkozik a 'Nemzet és sors' című film?"
+        },
+        {
+          "kor": "영화 제작에 누가 큰 관심을 가지고 참여했나요?",
+          "eng": "Who showed great interest and participated in the movie production?",
+          "hu": "Ki mutatott nagy érdeklődést és vett részt a film elkészítésében?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-2",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c3grvrgz8p4ko?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "일본, 외국인 거주 수수료 20배 인상",
+        "eng": "Japan Raises Foreign Resident Fees by 20 Times",
+        "hu": "Japán 20-szorosára emelte a külföldi lakosok díjait"
+      },
+      "desc": {
+        "kor": "일본 정부가 외국인 영주권 신청 수수료를 20배 인상하고 새로운 요건을 발표했습니다.",
+        "eng": "The Japanese government raises permanent residency application fees by 20 times and introduces new requirements.",
+        "hu": "A japán kormány 20-szorosára emeli a letelepedési engedély kérelmi díjait, és új feltételeket vezet be."
+      },
+      "article": {
+        "kor": "일본 정부가 오는 10월부터 자국에 거주하려는 외국인에게 부과하는 수수료를 인상하기로 했다. 특히 영주권 신청 수수료는 기존 대비 20배 오른 20만 엔에 달할 전망이다. 아울러 영주권 신청 시 새로운 소득 기준과 일본어 능력 요건도 함께 충족해야 한다.\n\n이번 수수료 인상은 급격히 증가하는 외국인 인구를 관리하기 위한 이민정책의 일환이다. 일본의 외국인 거주자 수는 최근 412만 명을 넘어섰으며, 이는 고령화에 따른 노동력 부족을 메우기 위한 것이다. 하지만 외국인 증가로 인한 사회적 변화와 불안도 함께 커지고 있다.\n\n도쿄 출입국재류관리국 등 현장에서는 수수료 인상 전에 미리 신청하려는 사람들이 몰려 긴 줄이 생겼다. 경제적 어려움을 겪는 신청자나 난민은 수수료 감면 혜택을 받을 수 있다. 정부는 국민과 외국인 모두가 안전하게 살 수 있도록 질서 있는 정책을 운영하겠다고 밝혔다.",
+        "eng": "The Japanese government has decided to increase fees for foreigners residing in the country starting in October. In particular, the permanent residency application fee is expected to rise 20 times to 200,000 yen. Additionally, applicants must meet new income standards and Japanese language proficiency requirements.\n\nThis fee increase is part of immigration policies to manage the rapidly increasing foreign population. The number of foreign residents in Japan has exceeded 4.12 million, driven by labor shortages due an aging society. However, social changes and anxiety caused by the increase in foreigners are also growing.\n\nLong lines formed at places like the Tokyo Immigration Bureau as people rushed to apply before the fee hike. Applicants experiencing economic hardship or refugees are eligible for fee reductions. The government stated that it will operate orderly policies so that both citizens and foreign residents can live safely.",
+        "hu": "A japán kormány úgy döntött, hogy októbertől emeli az országban tartózkodó külföldiek díjait. Különösen a letelepedési engedély kérelmi díja várhatóan 20-szorosára, 200 000 jenre emelkedik. Ezenkívül a kérelmezőknek új jövedelmi normákat és japán nyelvismereti követelményeket is teljesíteniük kell.\n\nA díjemelés a gyorsan növekvő külföldi lakosság kezelését célzó bevándorlási politikák része. A japán külföldi lakosok száma meghaladta a 4,12 milliót az elöregedés okozta munkaerőhiány miatt. Ugyanakkor a külföldiek számának növekedésével kapcsolatos társadalmi változások és aggodalmak is növekednek.\n\nHosszú sorok alakultak ki a tokiói bevándorlási hivatalnál, mivel az emberek a díjemelés előtt akartak jelentkezni. A nehéz gazdasági helyzetben lévő kérelmezők és a menekültek kedvezményekre jogosultak. A kormány kijelentette, hogy rendezett politikát folytat a polgárok és a külföldiek biztonsága érdekében."
+      },
+      "vocab": [
+        {
+          "word": "수수료",
+          "meaning_en": "fee, charge",
+          "meaning_hu": "illeték, díj"
+        },
+        {
+          "word": "영주권",
+          "meaning_en": "permanent residency",
+          "meaning_hu": "letelepedési engedély"
+        },
+        {
+          "word": "노동력",
+          "meaning_en": "labor force, workforce",
+          "meaning_hu": "munkaerő"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "일본 정부가 영주권 신청 수수료를 20배 인상한 이유는 무엇인가요?",
+          "eng": "Why did the Japanese government increase the permanent residency application fee by 20 times?",
+          "hu": "Miért emelte a japán kormány 20-szorosára a letelepedési engedély kérelmi díját?"
+        },
+        {
+          "kor": "여러분이 사는 나라에서도 외국인 정책에 변화가 있나요?",
+          "eng": "Are there any changes in immigration policies in the country where you live?",
+          "hu": "Változott-e a bevándorlási politika abban az országban, ahol élsz?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-3",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cqkgvmplpk2ko?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "한국의 '시진핑' 이름 중식당, 복면을 쓴 남성들에게 습격당해",
+        "eng": "Chinese Restaurant Named After Xi Jinping in South Korea Attacked by Masked Men",
+        "hu": "Egy koreai, Xi Jinpingről elnevezett kínai éttermet álarcos férfiak támadtak meg"
+      },
+      "desc": {
+        "kor": "한국에 있는 '시진핑' 상호의 중식당이 중국인 남성들에게 습격당했으며, 용의자들은 범행 후 출국했습니다.",
+        "eng": "A Chinese restaurant named 'Xi Jinping' in South Korea was attacked by Chinese men, and the suspects fled the country.",
+        "hu": "Egy Dél-Koreában található, 'Xi Jinping' nevű kínai éttermet kínai férfiak támadtak meg, a gyanúsítottak pedig elmenekültek az országból."
+      },
+      "article": {
+        "kor": "최근 경기도 성남시에 있는 한 중식당이 복면을 쓴 남성 4명에게 습격당하는 사건이 발생했습니다. 이 식당은 중국 최고지도자의 이름인 '시진핑'을 상호로 사용하고 있었으며, 매장에 난입한 괴한들은 가구를 부수고 래커를 뿌리는 등의 난동을 부렸습니다. 경찰은 이들이 범행 직후 중국으로 출국한 것으로 파악하고 수사를 진행하고 있습니다.\n\n식당 주인은 최고가 되자는 의미로 이름을 지었을 뿐 정치적 의도는 전혀 없다고 밝혔습니다. 하지만 업주에 따르면 약 1년 전부터 상호를 바꾸라는 협박과 요구가 이어졌으며, 이름을 바꾸면 거액을 주겠다는 제안을 받기도 했습니다. 또한 지식재산처에 관련 민원이 제기되기도 했으나 조사 결과 문제없음으로 결론이 난 바 있습니다.\n\n이번 습격으로 인해 식당은 약 1500만 원 상당의 재산 피해를 입고 5일 동안 문을 닫아야 했습니다. 경찰은 용의자 4명이 모두 20대에서 40대 사이의 중국인 남성인 것으로 확인하고, 이들에 대해 인터폴 적색수배를 요청할 계획입니다. 식당 업주는 피해 복구와 함께 직원들과 논의하여 새로운 상호로 변경하는 방안을 검토하고 있습니다.",
+        "eng": "Recently, a Chinese restaurant in Seongnam, Gyeonggi Province, was attacked by four masked men. The restaurant used the name of China's top leader, 'Xi Jinping', as its store name, and the intruders vandalized the interior by destroying furniture and spraying lacquer. The police found that the suspects fled to China right after the crime and are currently investigating the case.\n\nThe restaurant owner stated that the name was simply chosen to mean becoming the best, with no political intentions whatsoever. However, according to the owner, demands and threats to change the store name had continued for about a year, including offers of large sums of money in exchange for a name change. Additionally, complaints were filed with the Intellectual Property Office, but the investigation concluded there were no issues.\n\nDue to this attack, the restaurant suffered property damage worth about 15 million won and had to close for five days. The police confirmed that all four suspects are Chinese men in their 20s to 40s and plan to request Interpol Red Notices for them. The restaurant owner is currently considering changing to a new name after discussions with the staff alongside recovering from the damage.",
+        "hu": "A közelmúltban egy Gyeonggi tartománybeli Szongnam városban található kínai éttermet négy álarcos férfi támadott meg. Az étterem Kína legmagasabb rangú vezetőjének nevét, a 'Xi Jinping'-et viselte, a betolakodók pedig megrongálták a berendezést és festéket szórtak szét. A rendőrség megállapította, hogy a gyanúsítottak a bűncselekmény után közvetlenül Kínába menekültek, és jelenleg is nyomoznak az ügyben.\n\nAz étterem tulajdonosa kijelentette, hogy a nevet csupán abból a célból választották, hogy a legjobbak legyenek, és semmilyen politikai szándékuk δεν volt. A tulajdonos elképesztő módon arról számolt be, hogy mintegy egy éve folyamatosan követelték a név megváltoztatását, sőt pénzt is ajánlottak a névcsereért cserébe. Emellett panaszt is benyújtottak a Szellemi Tulajdon Hivatalához, de a vizsgálat lezárása szerint nem találtak jogsértést.\n\nA támadás következtében az étteremben mintegy 15 millió vonnyi anyagi kár keletkezett, és öt napra be kellett zárniuk. A rendőrség megerősítette, hogy mind a négy gyanúsított 20 és 40 év közötti kínai férfi, és tervezi az Interpol vörös jelzésének kiadását ellenük. Az étterem tulajdonosa a károk helyreállítása mellett a személyzettel egyeztetve új név bevezetését fontolgatja."
+      },
+      "vocab": [
+        {
+          "word": "상호",
+          "meaning_en": "business name / store name",
+          "meaning_hu": "cégnév / üzlet neve"
+        },
+        {
+          "word": "난입하다",
+          "meaning_en": "to break into / to intrude",
+          "meaning_hu": "betörni / illetéktelenül behatolni"
+        },
+        {
+          "word": "적색수배",
+          "meaning_en": "Interpol Red Notice",
+          "meaning_hu": "Interpol vörös jelzés"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "식당 이름이 '시진핑'인 것 때문에 일어난 갈등에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about the conflict caused by the restaurant's name being 'Xi Jinping'?",
+          "hu": "Mit gondol arról a konfliktusról, amelyet az étterem 'Xi Jinping' neve okozott?"
+        },
+        {
+          "kor": "타국에서 자국의 정치인과 관련된 상호를 사용하는 것에 대해 어떤 의견이 있으신가요?",
+          "eng": "What is your opinion on using names related to a foreign country's politicians as store names abroad?",
+          "hu": "Mi a véleménye arról, hogy külföldön egy másik ország politikusához kapcsolódó nevet használnak üzletnévként?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-4",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cmy0zep471jwo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "'인플루언서 학위'를 위해 대학에 진학하는 청년들",
+        "eng": "Young People Enrolling in University for 'Influencer Degrees'",
+        "hu": "Fiatalok, akik 'influenszer diplomáért' iratkoznak be az egyetemre"
+      },
+      "desc": {
+        "kor": "최근 영국의 대학들이 인플루언서와 콘텐츠 제작자를 양성하는 학위 과정을 개설해 주목받고 있습니다.",
+        "eng": "Recently, British universities have gained attention by launching degree programs to train influencers and content creators.",
+        "hu": "A brit egyetemek a közelmúltban nagy figyelmet kaptak az influenszereket és tartalomgyártókat képző szakok elindításával."
+      },
+      "article": {
+        "kor": "최근 영국의 노팅엄 트렌트 대학교 등 일부 대학이 인스타그램과 틱톡 등 SNS 플랫폼에서 활동할 콘텐츠 제작자를 양성하는 학위 과정을 신설해 운영하고 있습니다. 이 과정에서는 시청자층 확보, 브랜드 소통, 그리고 수익 창출 방법 등 실무적인 기술을 폭넓게 다루고 있습니다. 실제로 이 학위를 취득한 데스티니 맥고완은 대학을 통해 장비를 구하고 업계 인맥을 쌓는 등 사업가로서 필요한 역량을 빠르게 키울 수 있었다고 평가했습니다.\n\n그러나 이러한 전문 학위 과정에 진학하기 위해서는 적지 않은 비용이 소모됩니다. 노팅엄 트렌트 대학교와 브라이튼 대학교의 3년제 과정은 영국 학생 기준으로 연간 약 1700만 원에 달하며, 미국의 애리조나 주립대학교 역시 상당한 등록금을 요구합니다. 이처럼 높은 비용과 시간적 투자가 과연 실효성이 있는지에 대해서는 회의적인 시선도 존재합니다.\n\n전업 콘텐츠 크리에이터로 활동 중인 나이테네이터는 실제 기업들이 크리에이터를 채용하거나 협업할 때 학위 소지 여부를 크게 중요하게 여기지 않는다고 지적했습니다. 그는 인터넷상에 이미 무료로 유용한 조언과 정보가 넘쳐나기 때문에, 굳이 비싼 등록금을 내고 3년제 학위를 취득할 필요는 없다고 조언합니다. 대신 철저한 시장 분석과 자신만의 차별화된 틈새시장 발굴이 더 중요하다고 강조합니다.\n\n이처럼 콘텐츠 크리에이터 학위는 실무 경험과 인맥 형성에 도움을 준다는 긍정적인 평가와, 비용 대비 효과가 크지 않다는 회의론이 엇갈리고 있습니다. 빠르게 변화하는 미디어 환경 속에서 정규 교육 과정이 필수적인지, 아니면 개인의 독자적인 노력이 더 중요한지에 대한 논의는 당분간 지속될 것으로 보입니다.",
+        "eng": "Recently, some universities, including Nottingham Trent University in the UK, have established and operated degree programs to train content creators who will work on SNS platforms such as Instagram and TikTok. These programs cover practical skills extensively, including audience acquisition, brand communication, and monetization methods. Destiny McGowan, who actually acquired this degree, evaluated that she was able to quickly develop the capabilities needed as an entrepreneur, such as acquiring equipment and building industry networks through the university.\n\nHowever, a considerable amount of cost is required to enter these specialized degree programs. The three-year courses at Nottingham Trent University and the University of Brighton cost about 17 million won annually for British students, and Arizona State University in the U.S. also demands substantial tuition. Skeptical views also exist regarding whether such high costs and time investments are truly effective.\n\nNaitenator, a full-time content creator, pointed out that actual companies do not place much importance on whether creators hold a degree when hiring or collaborating with them. He advises that since useful advice and information are already abundant for free on the internet, there is no need to spend expensive tuition to acquire a three-year degree. Instead, he emphasizes that thorough market analysis and discovering one's own differentiated niche market are more important.\n\nAs such, content creator degrees are met with mixed evaluations: positive assessments stating they help with practical experience and networking, and skepticism arguing that the cost-effectiveness is not significant. Discussions on whether formal educational programs are essential in a rapidly changing media environment or if an individual's independent efforts are more important are expected to continue for a while.",
+        "hu": "A közelmúltban néhány brit egyetem, köztük a Nottingham Trent Egyetem, olyan alapképzési programokat indított és működtet, amelyek a közösségi média platformokon, például az Instagramon és a TikTokon dolgozó tartalomgyártókat képeznek. Ezek a programok széles körben érintik a gyakorlati készségeket, beleértve a nézőközönség megszerzését, a márkákkal való kommunikációt és a monetizációs módsreket. Destiny McGowan, aki megszerezte ezt a diplomát, úgy értékelte, hogy az egyetem révén gyorsan kifejlesztette a vállalkozóként szükséges képességeket.\n\nUgyanakkor jelentős költségek merülnek fel ezen a szakirányon. A Nottingham Trent Egyetem és a Brighton Egyetem hároméves képzése brit hallgatóknak évente körülbelül 17 millió vonnak felel meg, és az amerikai Arizona Állami Egyetem is jelentős tandíjat kér. Szkeptikus vélemények is léteznek arról, hogy a magas költségek vajon valóban kifizetődőek-e.\n\nNaitenator hivatásos tartalomgyártó rámutatott arra, hogy a cégek nem tulajdonítanak nagy jelentőséget a diplomának, amikor együttműködnek a kreatívokkal. Azt tanácsolja, hogy mivel az interneten rengeteg ingyenes tipp található, nem éri meg drága tandíjat fizetni egy hároméves diplomáért. Ehelyett az alapos piackutatást és a saját piaci rés megtalálását hangsúlyozza."
+      },
+      "vocab": [
+        {
+          "word": "인플루언서",
+          "meaning_en": "influencer",
+          "meaning_hu": "influenszer"
+        },
+        {
+          "word": "콘텐츠 제작자",
+          "meaning_en": "content creator",
+          "meaning_hu": "tartalomgyártó"
+        },
+        {
+          "word": "실효성",
+          "meaning_en": "effectiveness",
+          "meaning_hu": "hatékonyság"
+        },
+        {
+          "word": "틈새시장",
+          "meaning_en": "niche market",
+          "meaning_hu": "réspiac"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "대학에서 콘텐츠 제작을 정식으로 배우는 것에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about formally learning content creation at a university?",
+          "hu": "Mit gondol arról, hogy hivatalosan, egyetemen tanulják a tartalomgyártást?"
+        },
+        {
+          "kor": "성공적인 콘텐츠 크리에이터가 되기 가장 중요한 요인은 무엇이라고 생각하나요?",
+          "eng": "What do you think is the most important factor to become a successful content creator?",
+          "hu": "Ön szerint mi a legsikeresebb tényező ahhoz, hogy valaki sikeres tartalomgyártó legyen?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-5",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 8,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c620l5q7vxl5o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "중국 AI '키미', 안전장치 우회해 생물무기 제조법 답변 논란",
+        "eng": "Chinese AI 'Kimi' Bypasses Safety Controls to Answer on Biological Weapons",
+        "hu": "A kínai 'Kimi' AI megkerüli a biztonsági korlátokat a biológiai fegyverekről szóló válaszokban"
+      },
+      "desc": {
+        "kor": "중국 AI 개발사 문샷의 모델이 탈옥 테스트를 통해 생물무기 제조법 등의 질문에 답변한 사실이 드러나 조사가 진행 중입니다.",
+        "eng": "An investigation is underway after research revealed that Chinese AI developer Moonshot's model answered questions on biological weapons through jailbreak testing.",
+        "hu": "Vizsgálat indult miután kiderült, hogy a kínai Moonshot AI fejlesztő modellje biológiai fegyverekről szóló kérdésekre válaszolt jailbreak tesztek során."
+      },
+      "article": {
+        "kor": "중국의 인공지능(AI) 개발사 '문샷'이 자사의 인기 모델인 '키미'가 생물학 무기 제조법 및 암살 실행 방법에 대한 답변을 생성한 사실이 알려지면서 내부 조사에 착수했습니다. AI 보안 스타트업 '마인드가드'는 지난 7월 키미의 모델들이 개발 시 설정된 안전 제한을 우회할 수 있음을 확인했다고 밝혔습니다. 이러한 현상은 연구진이 복잡한 지시를 연이어 입력해 AI가 기존 제한을 무시하도록 유도하는 '탈옥' 테스트 과정에서 발생했습니다.\n\n마인드가드의 창립자인 피터 개러핸은 이러한 탈옥이 성공할 경우 AI 모델이 어떤 주제든 가리지 않고 답변을 생성하며, 악의적인 주제에 대해서도 거리낌 없이 창의적인 제안을 내놓을 수 있다고 지적했습니다. 이번 탈옥은 미국 기업들의 AI가 스스로 온라인 서비스를 해킹하던 기존 사고들과는 다른 위험을 초래합니다. 전문가들은 해커나 악의적인 행위자들이 복잡한 탈옥 과정을 악용하여 심각한 피해를 끼칠 수 있다고 강력하게 경고하고 있습니다.\n\n마인드가드는 키미의 AI 모델들이 제공한 답변의 실제 효용성은 확인하지 못했으나, 안전 장치가 정상적으로 작동했다면 애초에 그러한 민감한 주제에 대한 논의 자체가 차단되었어야 한다고 강조했습니다. 아울러 탈옥된 버전을 통해 해커가 컴퓨팅 자원 코드를 실행하고 인터넷에 접속함으로써 사이버 공격의 발판이 될 수 있다고 확신했습니다. 마인드가드는 이러한 사실을 문샷 측에 알렸으나, 개발사는 최근에서야 연락을 취해온 것으로 전해졌습니다.\n\n문샷 측은 제3자의 의견을 환영한다는 입장을 밝혔으며, 자체 내부 평가 결과 자사의 AI 모델은 일반적으로 이러한 유형의 요청에 대해 높은 거부율을 보였다고 해명했습니다. 이번 사건은 폐쇄형 독점 모델과 오픈소스 툴 중 어느 방식이 더 안전한지에 대한 업계 내의 논쟁이 지속되는 가운데 발생하여 주목을 받고 있습니다.",
+        "eng": "Chinese AI developer Moonshot has launched an internal investigation after it was revealed that its popular model, Kimi, generated answers on biological weapon manufacturing and assassination methods. AI security startup Mindgard stated in July that Kimi's models could bypass safety limits set during development. This phenomenon occurred during 'jailbreak' testing, where researchers input complex instructions sequentially to induce the AI to ignore existing restrictions.\n\nPeter Garahan, founder of Mindgard, pointed out that if such jailbreaks succeed, AI models will generate answers regardless of any topic, readily offering creative suggestions even on malicious subjects. This jailbreak poses a different risk from previous incidents where AI from US companies hacked online services autonomously. Experts strongly warn that hackers or malicious actors could exploit this complex jailbreaking process to cause severe damage.\n\nMindgard noted it could not verify the actual effectiveness of the answers provided by Kimi's AI models, but emphasized that if safety devices had functioned normally, discussions on such sensitive topics should have been blocked in the first place. Furthermore, they are convinced that the jailbroken version could serve as a stepping stone for cyber attacks by allowing hackers to execute code in computing resources and access internet services. Mindgard informed Moonshot of these facts, but the developer reportedly only reached out recently.\n\nMoonshot stated that it welcomes third-party opinions and explained through internal evaluations that its AI models generally showed a high refusal rate for these types of requests. This incident has drawn attention as it occurs amid ongoing industry debates over whether closed proprietary models or open-source tools are the safer approach.",
+        "hu": "A kínai Moonshot AI fejlesztő belső vizsgálatot indított, miután kiderült, hogy népszerű modellje, a Kimi, válaszokat adott biológiai fegyverek gyártására és merényletek végrehajtására vonatkozó kérdésekre. A Mindgard AI biztonsági startup júliusban kijelentette, hogy a Kimi modelljei képesek megkerülni a fejlesztés során beállított biztonsági korlátokat. Ez a jelenség egy 'jailbreak' teszt során történt, ahol a kutatók összetett utasításokat adtak meg egymás után, hogy rευsátéssék az AI-t a meglévő korlátozások figyelmen kívül hagyására.\n\nPeter Garahan, a Mindgard alapítója rámutatott, hogy ha az ilyen jailbreakek sikerülnek, az AI modellek bármilyen témától függetlenül generálnak válaszokat, és gond nélkül kreatív javaslatokat tesznek még rosszindulatú témákban is. Ez a jailbreak eltérő kockázatot jelent az amerikai vállalatok AI-ja által végrehajtott korábbi eseményektől, amelyek önállóan hackeltek online szolgáltatásokat. A szakértők határozottan mempermeztetnek, hogy a hackerek vagy rosszindulatú szereplők kihasználhatják ezt az összetett folyamatot súlyos károk okozására.\n\nA Mindgard megjegyezte, hogy nem tudta ellenőrizni a Kimi modelljei által adott válaszok tényleges hatékonyságát, de hangsúlyozta, hogy ha a biztonsági eszközök megfelelően működtek volna, az ilyen érzékeny témákról szóló megbeszéléseket eleve blokkolni kellett volna. Emellett meggyőződésük, hogy a feltört verzió a kiberbiztonsági támadások kiindulópontjává válhat azáltal, hogy lehetővé teszi a hackerek számára kódok futtatását és az internet elérését. A Mindgard értesítette a Moonshotot erről, de a fejlesztő hírek szerint csak a közelmúltban vette fel velük a kapcsolatot.\n\nA Moonshot kijelentette, hogy örömmel fogadja a harmadik felek véleményét, és saját belső értékeléseire hivatkozva elmagyarázta, hogy AI modelljei általában magas elutasítási arányt mutattak az ilyen típusú kérésekkel szemben. Ez az eset azért vonzott figyelmet, mert az iparágon belüli folyamatos viták közepette történt arról, hogy a zárt, tulajdonosi modellek vagy a nyílt forráskódú eszközök jelentenek-e biztonságosabb megközelítést."
+      },
+      "vocab": [
+        {
+          "word": "우회하다",
+          "meaning_en": "to bypass / to circumvent",
+          "meaning_hu": "megkerülni"
+        },
+        {
+          "word": "탈옥",
+          "meaning_en": "jailbreak (AI security term)",
+          "meaning_hu": "jailbreak (biztonsági kifejezés)"
+        },
+        {
+          "word": "취약점",
+          "meaning_en": "vulnerability",
+          "meaning_hu": "sebezhetőség"
+        },
+        {
+          "word": "독점 모델",
+          "meaning_en": "proprietary model",
+          "meaning_hu": "zárt / tulajdonosi modell"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "인공지능(AI)의 안전장치를 해제하는 '탈옥' 테스트가 왜 위험하다고 생각하시나요?",
+          "eng": "Why do you think 'jailbreak' tests that disable AI safety controls are dangerous?",
+          "hu": "Miért gondolja veszélyesnek az AI biztonsági korlátait kikapcsoló 'jailbreak' teszteket?"
+        },
+        {
+          "kor": "AI 기술이 발전함에 따라 개발사들은 어떤 보안 책임을 가져야 할까요?",
+          "eng": "What security responsibilities should developers have as AI technology advances?",
+          "hu": "Milyen biztonsági felelősséggel kell rendelkezniük a fejlesztőknek az AI technológia fejlődésével?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-6",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Proficient",
+      "levelNum": 9,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cw23xjremng8o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "일명 '주유소 헤로인'으로 불리는 약초 '크라톰', 미 당국의 경계 대상이 된 이유",
+        "eng": "What is 'Kratom', the Herbal Supplement Dubbed 'Gas Station Heroin'?",
+        "hu": "Mi az a 'kratom', a 'benzinkutas heroinnak' is nevezett növényi étrend-kiegészítő?"
+      },
+      "desc": {
+        "kor": "미국에서 만성 통증 완화 목적으로 널리 소비되고 있으나 규제 사각지대에 놓여 안전성 논란이 일고 있는 약초 '크라톰'의 실태를 조명한다.",
+        "eng": "An examination of the reality surrounding 'kratom', an herbal remedy widely consumed in the U.S. for chronic pain relief, which faces safety controversies amid regulatory blind spots.",
+        "hu": "A krónikus fájdalom csillapítására az USA-ban széles körben fogyasztott, szabályozási hiányosságok miatt biztonsági vitákat kiváltó 'kratom' nevű gyógynövény valóságának bemutatása."
+      },
+      "article": {
+        "kor": "미국 워싱턴주에 거주하는 은퇴한 벌목공 제프리 디버는 극심한 만성 고관절 및 무릎 통증을 완화하고자 지난 4년간 '크라톰'을 복용해 왔다. 병원 치료에도 호전되지 않던 통증은 수술 대기 중 우연히 접한 이 약초 제품을 통해 기적적으로 완화되었으며, 그는 이를 통해 일상생활을 영위할 수 있었다고 증언한다. 이처럼 오피오이드와 유사한 약리 작용을 나타내는 크라톰은 지난 10년간 미국 사회에서 그 소비 저변을 급격히 넓혀왔으며, 대다수의 소비자가 처방전 없이 알약이나 액체 형태로 이를 구입하고 있다.\n\n그러나 최근 미시시피 대학교 학생 사망 사건 조사 과정에서 이들의 소지품으로부터 크라톰이 발견됨에 따라, 수사 당국은 해당 물질의 섭취 위험성에 대해 강력한 경고를 제기하고 나섰다. 비록 직접적인 사인으로 밝혀지지는 않았으나, 크라톰을 둘러싼 안전성 논란은 수년 전부터 반대론자들의 금지 촉구로 이어져 왔다. 실제로 영국을 비롯한 일부 국가에서는 이미 크라톰을 불법 약물로 규정하고 있으나, 미국 내에서는 연방 식품의약국(FDA)의 규제 대상에서 제외되어 있으며 미시시피주를 비롯한 일부 주에서는 합법적으로 유통되고 있다.\n\n동남아시아가 원산지인 크라톰 나무의 잎은 전통적으로 각성 효과를 지녀 수 세기 동안 차 형태로 소비되어 왔다. 그러나 전 세계적인 인기에 힘입어 2016년경 건강보조식품의 형태로 미국 시장에 유입된 이후, 그 유통 양상에 심각한 구조적 문제점이 내포되기 시작했다. 전문가들은 미국 내에서 판매되는 크라톰이 편의점, 주유소, 전자담배 판매점 등지에서 알약, 분말, 고농축 액체 등의 형태로 무분별하게 유통되고 있음을 지적한다.\n\n특히 건강보조식품으로 분류됨에 따라 연방 정부의 엄격한 규제 망을 피해 가고 있으며, 제조 공정과 성분의 진위 여부를 검증할 제도적 장치가 부재한 실정이다. 아칸소 주립대학교 내 뉴욕공과대학교 접골의과 대학의 셰인 스페이츠 학장은 소비자가 섭취하는 제품의 정확한 성분을 파악할 길이 없음을 경고하며, 지하 제조 시설에서 생산된 제품의 안전성을 담보할 수 없다고 비판한다.\n\n그럼에도 불구하고 크라톰은 통증 관리 및 기분 장애 완화를 위한 천연 약초 보조제로 널리 홍보되며 수요가 지속되고 있다. 스페이츠 박사는 소량 복용 시 카페인과 유사한 각성 효과를 보인다고 설명하지만, 펜타닐 등 강력한 마약 중독을 억제하기 위한 대체재로 오남용되는 경우도 적지 않다. 이러한 약물학적 특성은 크라톰에 함유된 7-하이드록시미트라지닌(7-OH) 등의 성분이 도파민을 비롯한 체내 신경전달 물질 시스템에 직접적인 영향을 미치기 때문에 발현된다.",
+        "eng": "Jeffrey Deaver, a 58-year-old retired logger living in Washington State, has been taking kratom for the past four years to alleviate chronic hip and knee pain. Despite medical treatments failing to alleviate his pain while awaiting surgery, he discovered this herbal product and testified that it miraculously relieved his symptoms, enabling him to resume daily life. Exhibiting pharmacological effects similar to opioids, kratom has rapidly expanded its consumer base in the U.S. over the past decade, with the majority of consumers purchasing it in pill or liquid form without a prescription.\n\nHowever, following the discovery of kratom among the belongings of two deceased University of Mississippi students during an investigation, law enforcement authorities have issued strong warnings regarding its consumption. Although it was not determined to be the cause of death, controversies surrounding kratom's safety have long prompted prohibition advocates to demand its ban. While countries like the UK have already classified kratom as illegal, it remains exempt from FDA regulation in the United States and is legally distributed in several states, including Mississippi.\n\nNative to Southeast Asia, the leaves of the kratom tree have traditionally been consumed as tea for centuries due to their stimulant effects. However, after entering the U.S. market around 2016 as a dietary supplement driven by global popularity, severe structural issues began to emerge in its distribution patterns. Experts point out that kratom sold in the U.S. is indiscriminately distributed in forms such as pills, powders, and highly concentrated liquids at convenience stores, gas stations, and vape shops.\n\nIn particular, classification as a dietary supplement allows it to evade federal regulatory oversight, lacking institutional mechanisms to verify manufacturing processes and ingredient authenticity. Dean Shane Speights of the NYIT College of Osteopathic Medicine at Arkansas State University warns that consumers have no way of knowing the exact contents of the products they ingest, criticizing the inability to guarantee the safety of products manufactured in unregulated facilities.\n\nDespite these concerns, kratom continues to see sustained demand, widely promoted as a natural herbal supplement for pain management and mood disorder alleviation. Dr. Speights explains that small doses produce stimulant effects similar to caffeine, but it is frequently abused as a substitute to curb addictions to potent narcotics like fentanyl. These pharmacological characteristics manifest because compounds such as 7-hydroxymitragynine (7-OH) contained in kratom directly affect neurotransmitter systems in the body, including dopamine.",
+        "hu": "Jeffrey Deaver, egy washingtoni 58 éves nyugdíjas fakitermelő az elmúlt négy évben kratomot szedett krónikus csípő- és térdfájdalmainak enyhítésére. Mivel az orvosi kezelések nem enyhítették fájdalmát a műtétre várva, rátalált erre a gyógynövénytermékre, és tanúsága szerint az csodával határos módon enyhítette tüneteit, lehetővé téve számára a mindennapi élet folytatását. Az opioidokéhoz hasonló farmakológiai hatásokat mutató kratom az elmúlt évtizedben gyorsan növelte fogyasztói bázisát az Egyesült Államokban, a fogyasztók többsége pedig vény nélkül, tabletta vagy folyadék formájában vásárolja meg.\n\nAzonban miután a nyomozás során a Mississippi Egyetem két elhunyt hallgatójának holmija között kratomot találtak, a bűnüldöző hatóságok határozott figyelmeztetést adtak ki a fogyasztásával kapcsolatban. Bár nem állapították meg a halál okaként, a kratom biztonságosságát övező viták már régóta a tiltás szorgalmazására késztetik az ellenzőket. Míg olyan országok, mint az Egyesült Királyság, már illegálisnak minősítették a kratomot, az Egyesült Államokban továbbra sem tartozik az FDA szabályozása alá, és több államban, így Mississippiben is legálisan forgalmazzák.\n\nA Délkelet-Ázsiából származó kratomfa leveleit hagyományosan évszázadok óta fogyasztják teaként szerteágazó stimuláló hatásuk miatt. Azonban miután a globális népszerűség által vezérelve 2016 körül étrend-kiegészítőként bekerült az amerikai piacra, komoly strukturális problémák kezdtek kirajzolódni a forgalmazási mintákban. A szakértők rámutatnak, hogy az USA-ban értékesített kratomot válogatás nélkül, tabletta, por és erősen koncentrált folyadék formájában árusítják vegyesboltokban, benzinkutakon és e-cigaretta boltokban.\n\nKülönösen az étrend-kiegészítőként való besorolás teszi lehetővé, hogy kijátssza a szövetségi szabályozási felügyeletet, hiányoznak az intézményes mechanizmusok a gyártási folyamatok és az összetevők hitelességének ellenőrzésére. Shane Speights dékán az Arkansas Állami Egyetemen működő New York Institute of Technology Osteopathic Orvosi Főiskoláról arra figyelmeztet, hogy a fogyasztóknak nincs módjuk megtudni a lenyelt termékek pontos tartalmát, és bírálja, hogy a szabályozatlan létesítményekben gyártott termékek biztonsága nem garantálható.\n\nEnnek ellenére a kratom iránt továbbra is fennáll a kereslet, széles körben természetes gyógynövényes kiegészítőként hirdetve a fájdalomkezeléshez és a hangulatzavarok enyhítéséhez. Dr. Speights elmagyarázza, hogy kis adagokban a koffeinhez hasonló serkentő hatást vált ki, de gyakran visszaélnek vele erős kábítószerek, például a fentanil függőségének leküzdésére szolgáló helyettesítőként. Ezek a farmakológiai tulajdonságok azért jelentkeznek, mert a kratomban található vegyületek, például a 7-hidroximitraginin (7-OH), közvetlenül befolyásolják a szervezet neurotranszmitter-rendszereit, beleértve a dopamint is."
+      },
+      "vocab": [
+        {
+          "word": "오피오이드",
+          "meaning_en": "Opioid",
+          "meaning_hu": "Opioid"
+        },
+        {
+          "word": "건강보조식품",
+          "meaning_en": "Dietary supplement",
+          "meaning_hu": "Étrend-kiegészítő"
+        },
+        {
+          "word": "규제",
+          "meaning_en": "Regulation",
+          "meaning_hu": "Szabályozás"
+        },
+        {
+          "word": "약리 작용",
+          "meaning_en": "Pharmacological action",
+          "meaning_hu": "Farmakológiai hatás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "크라톰이 미국에서 규제 사각지대에 놓이게 된 주요 원인은 무엇인가요?",
+          "eng": "What is the main reason kratom has fallen into a regulatory blind spot in the U.S.?",
+          "hu": "Mi a fő oka annak, hogy a kratom szabályozási vakfoltba került az USA-ban?"
+        },
+        {
+          "kor": "천연 약초 보조제로 홍보되는 크라톰의 섭취가 잠재적으로 위험할 수 있는 이유는 무엇입니까?",
+          "eng": "Why can the consumption of kratom, promoted as a natural herbal supplement, be potentially dangerous?",
+          "hu": "Miért lehet potenciálisan veszélyes a természetes gyógynövény-kiegészítőként hirdetett kratom fogyasztása?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-7",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/ck1l638vd288o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "중국 Z세대가 대학교수에게 열광하는 이유는 무엇일까요?",
+        "eng": "Why are Chinese Gen Z crazy about a university professor?",
+        "hu": "Miért rajong a kínai Z generáció egy egyetemi professzorért?"
+      },
+      "desc": {
+        "kor": "중국의 젊은 세대가 불안감을 이겨내도록 도와주는 한 인류학 교수가 큰 인기를 끌고 있습니다.",
+        "eng": "An anthropology professor is gaining great popularity for helping China's young generation overcome anxiety.",
+        "hu": "Egy antropológia professzor nagy népszerűségnek örvend, mert segít a kínai fiatal nemzedéknek legyőzni a szorongást."
+      },
+      "article": {
+        "kor": "최근 중국의 젊은 세대 사이에서 54세 인류학자인 샹 바오 교수가 아이돌처럼 큰 인기를 얻고 있습니다. 중국의 경제가 빠르게 발전했지만, Z세대는 취업과 결혼 등 여러 가지 문제 때문에 큰 불안감에 시달리고 있습니다.\n\n샹 교수는 청년들이 느끼는 불안감과 이를 해결하는 방법을 주제로 강연을 합니다. 그는 청년들이 사회에서 인정받으려고 노력하면서 자존감을 잃고 지쳐간다고 말합니다. 그리고 다른 사람에게 인정받는 것보다 자기 자신을 이해하는 것이 중요하다고 강조합니다.\n\n중국에서는 청년들의 불만이 민감한 주제일 수 있습니다. 하지만 샹 교수는 학자로서 이러한 사회의 아픈 부분을 솔직하게 이야기합니다. 많은 청년은 그의 강연을 들으며 위로를 받고 마음의 안정을 찾고 있습니다.",
+        "eng": "Recently, 54-year-old anthropology professor Xiang Biao has gained huge popularity like an idol among China's young generation. Although China's economy has developed rapidly, Gen Z suffers from great anxiety due to various issues such as employment and marriage.\n\nProfessor Xiang gives lectures on the anxiety felt by young people and how to solve it. He says that young people lose their self-esteem and become exhausted while trying to gain recognition in society. He emphasizes that understanding oneself is more important than being recognized by others.\n\nIn China, young people's complaints can be a sensitive topic. However, as a scholar, Professor Xiang honestly talks about these painful parts of society. Many young people find comfort and peace of mind by listening to his lectures.",
+        "hu": "A közelmúltban a 54 éves antropológia professzor, Xiang Biao hatalmas népszerűségre tett szert bálványként a kínai fiatal nemzedék körében. Bár Kína gazdasága gyorsan fejlődött, a Z generáció nagy szorongástól szenved a foglalkoztatás és a házasság különféle problémái miatt.\n\nXiang professzor a fiatalok által érzett szorongásról és annak megoldási módjairól tart előadásokat. Azt mondja, hogy a fiatalok elveszítik önbecsülésüket és kimerülnek, miközben elismerést próbálnak nyerni a társadalomban. Hangsúlyozza, hogy fontosabb önmagunk megértése, mint mások elismerése.\n\nKínában a fiatalok panaszai érzékeny téma lehetnek. Professzorként azonban Xiang őszintén beszél a társadalom e fájdalmas pontjairól. Sok fiatal talál vigaszt és lelki békét az előadásai hallgatásával."
+      },
+      "vocab": [
+        {
+          "word": "인류학자",
+          "meaning_en": "anthropologist",
+          "meaning_hu": "antropológus"
+        },
+        {
+          "word": "불안감",
+          "meaning_en": "anxiety",
+          "meaning_hu": "szorongás"
+        },
+        {
+          "word": "자존감",
+          "meaning_en": "self-esteem",
+          "meaning_hu": "önbecsülés"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 요즘 어떤 일 때문에 가장 불안함을 느끼나요?",
+          "eng": "What makes you feel most anxious these days?",
+          "hu": "Mi miatt érzi magát a legtöbbször szorongónak utóbbi időben?"
+        },
+        {
+          "kor": "불안함을 이겨내기 위해 어떤 방법을 쓰나요?",
+          "eng": "What methods do you use to overcome anxiety?",
+          "hu": "Milyen módszereket használ a szorongás leküzdésére?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-8",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c8p30g4g70q3o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "'고양이 눈'에서 영감을 얻은 미래 로봇용 카메라 기술",
+        "eng": "Future Robot Camera Technology Inspired by 'Cat Eyes'",
+        "hu": "A 'macskaszemek' által ihletett jövőbeli robotos kameratechnológia"
+      },
+      "desc": {
+        "kor": "고양이 눈의 구조를 바탕으로 어두운 곳에서도 잘 볼 수 있는 미래 로봇 카메라 기술이 개발되고 있습니다.",
+        "eng": "Future robot camera technologies are being developed based on the structure of cat eyes to see well in the dark.",
+        "hu": "A macskaszemek szerkezetén alapuló jövőbeli robotos kameratechnológiákat fejlesztenek, hogy sötétben is jól lássanak."
+      },
+      "article": {
+        "kor": "1933년 퍼시 쇼는 어두운 밤에 도로에서 빛나는 고양이의 눈을 보고 생명을 구했습니다. 이 우연한 경험으로 그는 도로에서 빛을 반사하는 '캣츠 아이'를 발명했습니다. 오늘날 전 세계 도로에서 널리 쓰이는 이 발명품은 고양이 눈의 반사 현상에서 시작되었습니다.\n\n실제 고양이의 눈에는 빛을 반사하는 '휘판'이라는 특별한 구조가 있습니다. 휘판 덕분에 고양이는 어두운 밤에도 앞을 잘 볼 수 있습니다. 빛이 부족한 환경에서 동공이 커지고, 반사된 빛이 다시 눈 밖으로 나오면서 고양이 눈이 빛나게 됩니다.\n\n이러한 고양이 눈의 구조는 오늘날 과학자들에게 큰 영감을 주고 있습니다. 공학자들은 로봇, 드론, 자율주행차에 쓰일 첨단 카메라를 만들기 위해 고양이 눈을 연구합니다. 한국과학기술원 연구팀도 복잡한 환경에서 물체를 잘 식별할 수 있는 카메라를 개발하고 있습니다.",
+        "eng": "In 1933, Percy Shaw saved his life after seeing cat eyes shining on a road at night. Inspired by this accidental experience, he invented the 'cat's eye' road reflector. Widely used on roads around the world today, this invention started from the reflective phenomenon of a cat's eye.\n\nReal cat eyes have a special reflective structure called the 'tapetum lucidum'. Thanks to this layer, cats can see well even on dark nights. In environments with little light, their pupils dilate, and reflected light escapes the eyes, making them glow.\n\nThis structure of cat eyes provides great inspiration to scientists today. Engineers study cat eyes to create advanced cameras for robots, drones, and autonomous vehicles. A research team at KAIST is also developing cameras that can clearly identify objects in complex environments.",
+        "hu": "1933-ban Percy Shaw megmentette az életét, miután éjszaka meglátta egy macska szemének csillogását az úton. Ebből a véletlen élményből merítve ihletet talált ki a 'macskaszem' útburkolati jelzőt. A ma a világ minden táján széles körben használt találmány a macskaszem fényvisszaverő jelenségéből indult ki.\n\nA valódi macskaszemekben van egy speciális fényvisszaverő réteg, amelyet 'tapetum lucidum'-nak neveznek. Ennek a rétegnek köszönhetően a macskák sötét éjszakákban is jól látnak. A kevés fénnyel rendelkező környezetben a pupillájuk kitágul, és a visszaverődő fény kilép a szemből, ami miatt a macska szeme ragyogni látszik.\n\nA macskaszemek ezen szerkezete nagy ihletet ad a mai tudósoknak. A mérnökök a macskaszemeket tanulmányozzák, hogy fejlett kamerákat hozzanak létre robotok, drónok és önvezető autók számára. A KAIST kutatócsoportja is olyan kamerákat fejleszt, amelyek képesek tisztán azonosítani a tárgyakat összetett környezetben."
+      },
+      "vocab": [
+        {
+          "word": "발명",
+          "meaning_en": "invention",
+          "meaning_hu": "találmány"
+        },
+        {
+          "word": "구조",
+          "meaning_en": "structure",
+          "meaning_hu": "szerkezet"
+        },
+        {
+          "word": "반사",
+          "meaning_en": "reflection",
+          "meaning_hu": "visszaverődés"
+        },
+        {
+          "word": "첨단",
+          "meaning_en": "cutting-edge / high-tech",
+          "meaning_hu": "élvonalbeli / csúcstechnológia"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 동물이나 자연에서 영감을 받아 만든 발명품을 아는 것이 있나요?",
+          "eng": "Do you know any inventions inspired by animals or nature?",
+          "hu": "Ismer olyan találmányt, amelyet állatok vagy a természet ihlettek?"
+        },
+        {
+          "kor": "미래의 로봇이나 자율주행차가 고양이처럼 어두운 곳을 잘 보게 되면 어떤 점이 좋을까요?",
+          "eng": "What would be the benefits if future robots or autonomous vehicles could see well in the dark like cats?",
+          "hu": "Mi lenne az előnye annak, ha a jövő robotjai vagy önvezető autói úgy látnának jól a sötétben, mint a macskák?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-9",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cqdr78k65032o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "스위스 '중립성 강화' 국민투표…약 70%가 반대",
+        "eng": "Swiss Vote Heavily Against 'Stricter Neutrality' Proposal",
+        "hu": "A svájciak nagy többséggel elutasították a szigorúbb semlegességről szóló népszavazást"
+      },
+      "desc": {
+        "kor": "스위스 유권자들이 외교적 중립 전통을 더 엄격하게 만들자는 발의안을 압도적으로 반대했습니다.",
+        "eng": "Swiss voters overwhelmingly rejected a proposal to make the country's traditional neutrality stricter.",
+        "hu": "A svájci szavazók elsöprő többséggel elutasították a hagyományos semlegesség szigorítására irányuló javaslatot."
+      },
+      "article": {
+        "kor": "스위스 유권자들이 자국의 외교적 중립 전통을 더 엄격하게 해석하자는 발의안을 압도적인 표차로 반대했습니다. 공식 결과에 따르면, 이번 '중립성 강화' 국민투표에서 유권자의 약 70%가 유엔 승인 없이 특정 국가에 제재를 가하지 못하도록 막는 안에 반대표를 던졌습니다.\n\n수세기 동안 이어져 온 스위스의 비동맹 정책은 러시아의 우크라이나 침공 이후 다시 논쟁의 중심이 되었습니다. 우파 성향의 국민당이 이 발의안을 지지했으나, 스위스 연방 정부와 다른 주요 정당들은 모두 반대 입장을 밝혔습니다. 연구 전문가들은 이번 결과가 유권자들이 중립성 자체를 거부하는 것이 아니라 대러 제재를 지지하고 있음을 보여준다고 분석했습니다.\n\n이냐치오 카시스 스위스 외무장관은 스위스의 중립성이 항상 유연하게 적용되어 왔으며, 중립적이라고 해서 국제사회 문제에 무관심하다는 의미는 아니라고 강조했습니다. 스위스는 1815년 빈 회의에서 영구 중립국으로 인정받았고, 1907년 헤이그 협약에 따라 전쟁 중인 국가에 무기를 공급하지 않는 정책을 이어오고 있습니다.\n\n스위스의 직접 민주주의 체제에서는 주요 정치적 결정이 국민투표를 통해 결정됩니다. 이번 투표를 통해 스위스 국민들은 기존의 유연한 중립 노선을 유지하겠다는 뜻을 분명히 밝혔습니다.",
+        "eng": "Swiss voters have overwhelmingly rejected a proposal to interpret the country's diplomatic neutrality more strictly. According to official results, about 70% of voters cast ballots against a measure that would have prevented the government from imposing sanctions without UN approval.\n\nSwitzerland's centuries-old non-alignment policy has come under renewed debate following Russia's invasion of Ukraine. While the right-wing Swiss People's Party supported the initiative, the federal government and all other major parties opposed it. Analysts noted that the result shows voters do not reject neutrality itself, but rather support sanctions against Russia.\n\nSwiss Foreign Minister Ignazio Cassis emphasized that Switzerland's neutrality has always been applied with some flexibility, and being neutral does not mean being indifferent to global issues. Switzerland was recognized as a permanently neutral country at the 1815 Congress of Vienna and has maintained a policy of not supplying weapons to warring nations under the 1907 Hague Convention.\n\nUnder Switzerland's direct democracy system, major political decisions are often decided by public referendum. Through this vote, the Swiss people have clearly expressed their intention to maintain their existing flexible neutrality stance.",
+        "hu": "A svájci szavazók nagy többséggel elutasították azt a javaslatot, amely szigorúbbá tette volna az ország diplomáciai semlegességét. A hivatalos eredmények szerint a szavazók mintegy 70%-a szavazott a javaslat ellen, amely megakadályozta volna, hogy az ország ENSZ-jóváhagyás nélkül szankciókat vezessen be.\n\nSvájc évszázados el nem kötelezettségi politikája Oroszország ukrajnai inváziója óta ismét vita tárgyává vált. Bár a jobboldali Svájci Néppárt támogatta a kezdeményezést, a szövetségi kormány és az összes többi jelentős párt ellenezte azt. A szakértők megjegyezték, hogy az eredmény azt mutatja, hogy a választók nem magát a semlegességet utasítják el, hanem támogatják Oroszország szankcionálását.\n\nIgnazio Cassis svájci külügyminiszter hangsúlyozta, hogy Svájc semlegességét mindig némi rugalmassággal alkalmazták, és a semlegesség nem jelenti azt, hogy az ország közömbös a globális problémák iránt. Svájcot az 1815-ös bécsi kongresszuson ismerték el állandó semleges országként, és az 1907-es hágai egyezmény értelmében fenntartja azt a politikát, hogy nem szállít fegyvert a háborúzó államoknak.\n\nSvájc közvetlen demokráciájának rendszerében a fontos politikai döntéseket gyakran népszavazással hozzák meg. Ezzel a szavazással a svájci nép egyértelműen kifejezte azon szándékát, hogy fenntartja a meglévő rugalmas semlegességi irányvonalát."
+      },
+      "vocab": [
+        {
+          "word": "중립성",
+          "meaning_en": "neutrality",
+          "meaning_hu": "semlegesség"
+        },
+        {
+          "word": "국민투표",
+          "meaning_en": "public referendum / national vote",
+          "meaning_hu": "népszavazás"
+        },
+        {
+          "word": "발의안",
+          "meaning_en": "bill / legislative proposal",
+          "meaning_hu": "törvényjavaszat"
+        },
+        {
+          "word": "제재",
+          "meaning_en": "sanctions",
+          "meaning_hu": "szankciók"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "스위스 유권자들이 '중립성 강화' 발의안에 반대한 이유는 무엇이라고 생각하십니까?",
+          "eng": "Why do you think Swiss voters opposed the 'stricter neutrality' proposal?",
+          "hu": "Ön szerint miért ellenezték a svájci szavazók a szigorúbb semlegességről szóló javaslatot?"
+        },
+        {
+          "kor": "당신은 국가의 중립 정책이 국제 분쟁에서 어떤 역할을 해야 한다고 생각합니까?",
+          "eng": "What role do you think a country's neutrality policy should play in international conflicts?",
+          "hu": "Ön szerint milyen szerepet kell játszania egy ország semlegességi politikájának a nemzetközi konfliktusokban?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-10",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c914dd30gddeo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "2026 세계 최고의 이코노미 항공사 상위 5곳의 차별화 전략",
+        "eng": "What Makes the World's Top 5 Economy Airlines Different in 2026?",
+        "hu": "Mi teszi különlegessé 2026 világ 5 legjobb turistaosztályú légitársaságát?"
+      },
+      "desc": {
+        "kor": "스카이트랙스가 선정한 2026년 세계 최고의 이코노미 항공사 상위 5곳의 특징과 차별점을 분석합니다.",
+        "eng": "An analysis of the features and differentiators of the top 5 economy airlines selected by Skytrax for 2026.",
+        "hu": "A Skytrax által 2026-ra kiválasztott 5 legjobb turistaosztályú légitársaság jellemzőinek elemzése."
+      },
+      "article": {
+        "kor": "더 넓은 좌석과 여유로운 공간부터 뛰어난 기내식과 서비스까지, 스카이트랙스가 선정한 상위 5개 이코노미 항공사는 세심한 요소들로 차별화를 이룹니다. 이코노미석에서 장시간 비행할 때 좌석 폭이 1인치 더 넓거나 머리받침대가 편안한 것만으로도 승객은 놀랄 만큼 큰 차이를 체감할 수 있습니다. 2026년 스카이트랙스 세계 항공사 어워드에서는 싱가포르 항공이 세계 최고의 이코노미 클래스 항공사로 선정되었으며, 캐세이퍼시픽과 카타르 항공 등이 그 뒤를 이었습니다.\n\n여행 전문가들은 이코노미석에서 몇 인치의 공간 차이와 작은 배려가 매우 중요하다고 강조합니다. 항공기 내부의 물리적 공간은 가장 비용이 많이 드는 자원이지만, 상위권 항공사들은 승객에게 더 넓은 좌석과 세심한 관심을 제공합니다. 예를 들어 1위인 싱가포르 항공은 보잉 777 기종에서 다른 항공사들과 달리 이코노미석을 9열로 배치하여 승객 한 명당 더 많은 좌석 폭을 보장하며, 우수한 기내식과 엔터테인먼트 시스템을 함께 제공합니다.\n\n2위를 차지한 캐세이퍼시픽 항공은 좌석, 기내식, 엔터테인먼트 부문에서 고르게 상위권을 기록했을 뿐만 아니라 최고의 객실 승무원 항공사로도 선정되었습니다. 승객이 화장실을 깨끗하게 관리받거나 최신 4K 화면 및 블루투스 오디오 같은 기술적 투자를 경험하는 것은 장거리 비행의 질을 크게 높여줍니다. 종합 3위를 기록한 카타르 항공은 물리적 공간의 확장보다는 승객의 기내 시간 활용에 초점을 맞추어, 차세대 스타링크 와이파이 서비스를 광동체 항공기 전반에 확대 적용하고 있습니다.\n\n이러한 결과는 더 나은 이코노미 비행 경험이 단순히 더 넓은 좌석만을 의미하는 것이 아님을 보여줍니다. 객실 전체에 영향을 미치는 위성 기반 와이파이 도입이나 승객을 존중하는 객실 서비스 등 복합적인 요소들이 결합할 때, 비좁은 환경으로 인식되던 이코노미 클래스에서의 여행 경험은 눈에 띄게 향상될 수 있습니다.",
+        "eng": "From wider seats and generous legroom to better meals and service, the top 5 economy airlines selected by Skytrax differentiate themselves through meticulous elements. During a long flight in economy, even an extra inch of seat width or a comfortable headrest can make a surprisingly big difference to passengers. At the 2026 Skytrax World Airline Awards, Singapore Airlines was named the world's best economy class airline, followed by Cathay Pacific and Qatar Airways.\n\nTravel experts emphasize that a matter of inches in space and small considerations are crucial in economy. While physical space inside an aircraft is the most costly resource, top-tier airlines provide passengers with more space and greater attention. For instance, Singapore Airlines, ranked first, arranges its economy seats in 9-row configurations on Boeing 777 aircraft—unlike many other airlines that use 10 rows—ensuring more seat width per passenger, alongside excellent meals and entertainment systems.\n\nCathay Pacific, which ranked second, not only scored high consistently across seat, meal, and entertainment categories but was also named the world's best cabin crew airline. Experiencing well-maintained restrooms and technological investments such as modern 4K screens and Bluetooth audio significantly enhances the quality of a long-haul flight. Qatar Airways, ranking third overall, focuses less on physical space expansion and more on how passengers utilize their time on board, expanding next-generation Starlink Wi-Fi services across its widebody fleet.\n\nThese results show that a better economy flight experience does not solely mean wider seats. When combined with comprehensive factors such as satellite-based Wi-Fi adoption affecting the entire cabin and respectful crew service, the travel experience in economy class, often perceived as cramped, can be noticeably improved.",
+        "hu": "A szélesebb ülésektől és a bőséges lábtértől kezdve a jobb ételekig és szolgáltatásokig a Skytrax által kiválasztott 5 legjobb turistaosztályú légitársaság aprólékos elemekkel különbözteti meg magát. Egy hosszú turistaosztályú repülés során még egy hüvelyknyi plusz ülésszélesség vagy egy kényelmes fejtámla is meglepően nagy különbséget jelenthet az utasok számára. A 2026-os Skytrax World Airline Awards díjkiosztón a Singapore Airlines-t választották a világ legjobb turistaosztályú légitársaságának, amelyet a Cathay Pacific és a Qatar Airways követett.\n\nAz utazási szakértők hangsúlyozzák, hogy a helytakarékosság néhány hüvelyke és a apró figyelmességek kulcsfontosságúak a turistaosztályon. Bár a repülőgép belsejében a fizikai tér a legköltségesebb erőforrás, a top légitársaságok több helyet és nagyobb figyelmet biztosítanak az utasoknak. Például az első helyezett Singapore Airlines a Boeing 777-es gépeken – eltérően sok más légitársaságtól, amelyek 10 soros elrendezést használnak – 9 soros elrendezésben helyezi el a turistaosztályú üléseket, így utasonként nagyobb ülésszélességet garantál, kiváló étkezési és szórakoztató rendszer kíséretében.\n\nA második helyezett Cathay Pacific nemcsak az ülések, az ételek és a szórakoztatás terén ért el egyenletesen magas pontszámokat, hanem a világ legjobb légiutas-kísérő személyzetével rendelkező légitársaságává is választották. A tisztán tartott mosdók és a technológiai beruházások, mint a modern 4K képernyők és a Bluetooth-hangzás, jelentősen növelik a hosszú távú repülés minőségét. Az összesítésben a harmadik helyezett Qatar Airways kevésbé a fizikai tér növelésére, inkább arra összpontosít, hogy az utasok hogyan tudják kihasználni az időt a fedélzeten, ezért a következő generációs Starlink Wi-Fi szolgáltatást kiterjeszti a széles törzsű flottájára.\n\nEzek az eredmények azt mutatják, hogy a jobb turistaosztályú repülési élmény nem csupán szélesebb üléseket jelent. Amikor az egész kabinra hatással lévő műholdas Wi-Fi bevezetése és az utasokat tiszteletben tartó fedélzeti szolgáltatás ötvöződik, a szűkösnek tartott turistaosztályú utazási élmény észrevehetően javulhat."
+      },
+      "vocab": [
+        {
+          "word": "이코노미 클래스",
+          "meaning_en": "Economy class",
+          "meaning_hu": "Turistaosztály"
+        },
+        {
+          "word": "머리받침대",
+          "meaning_en": "Headrest",
+          "meaning_hu": "Fejtámla"
+        },
+        {
+          "word": "장거리 비행",
+          "meaning_en": "Long-haul flight",
+          "meaning_hu": "Hosszú távú repülés"
+        },
+        {
+          "word": "엔터테인먼트",
+          "meaning_en": "Entertainment",
+          "meaning_hu": "Szórakoztatás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "이코노미석에서 편안한 비행을 위해 가장 중요하다고 생각하는 요소는 무엇인가요?",
+          "eng": "What do you think is the most important factor for a comfortable flight in economy class?",
+          "hu": "Ön szerint mi a legfontosabb tényező a kényelmes repüléshez a turistaosztályon?"
+        },
+        {
+          "kor": "항공권을 예약할 때 좌석의 넓이와 기내식 중 어떤 것을 더 중요하게 고려하시나요?",
+          "eng": "When booking a flight, do you consider seat width or inflight meals more important?",
+          "hu": "Repülőjegy foglalásakor az ülés szélességét vagy a fedélzeti étkezést tartja fontosabbnak?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-11",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 8,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/cqwyzzzvj9dpo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "초가공식품을 둘러싼 불안과 영양사 분석: 우리는 무엇을 먹어야 할까",
+        "eng": "Anxiety Surrounding Ultra-Processed Foods and a Dietitian's Analysis: What Should We Eat?",
+        "hu": "Az ultra-feldolgozott élelmiszerek körüli aggodalom és egy dietetikus elemzése: Mit kellene ennünk?"
+      },
+      "desc": {
+        "kor": "초가공식품의 위험성에 대한 우려가 커지는 가운데, 영양사의 장보기 분석을 통해 균형 잡힌 식단의 의미를 살펴봅니다.",
+        "eng": "Amid growing concerns over ultra-processed foods, we examine the meaning of a balanced diet through a dietitian's analysis of grocery shopping.",
+        "hu": "Az ultra-feldolgozott élelmiszerek veszélyei miatti növekvő aggodalmak közepette egy dietetikus bevásárlás-elemzésén keresztül vizsgáljuk a kiegyensúlyozott étrend jelentését."
+      },
+      "article": {
+        "kor": "우리가 소비하는 음식 중 상당 비율이 건강을 해칠 수 있으며, 초가공식품이 다양한 건강 문제와 연관되어 있다는 연구가 늘고 있습니다. 초가공식품은 일반적으로 5개를 초과하는 원재료로 구성되며, 유화제나 첨가물처럼 가정에서 흔히 찾기 어려운 성분을 포함합니다. 이러한 식품은 비만이나 당뇨병 같은 대사성 질환뿐만 아니라 정신건강 문제와도 관련이 있다는 분석이 제기됩니다.\n\n그러나 과학자와 영양사들 사이에서는 이러한 위험의 원인이 단순히 높은 칼로리 때문인지, 아니면 가공 과정 자체에 있는지에 대해 의견이 일치하지 않습니다. 전문가들은 현대 사회에서 이러한 식품을 완전히 피하는 것은 거의 불가능하다고 지적합니다. 영국영양사협회 회원인 메이브 해넌은 초가공식품에 대한 지나친 두려움과 흑백논리적 접근이 오히려 불필요한 불안을 키운다고 경고합니다.\n\n해넌은 일부 제품의 원재료 목록이 길다고 해서 그것이 본질적으로 나쁜 것은 아니며, 영양적 가치를 따져보는 것이 훨씬 중요하다고 설명합니다. 예를 들어, 일부 시리얼이나 비타민이 강화된 밀가루 제품은 가공 과정을 거치더라도 건강상 이점을 제공할 수 있습니다. 다만 화학물질처럼 보이는 첨가물들이 법적 승인을 거쳤다 하더라도, 닭고기 너깃처럼 지방과 소금 함량이 높은 식품은 균형 잡힌 식단의 일부로서 적당량 섭취해야 합니다.\n\n결국 장보기 목록에 초가공식품이 일부 포함되어 있다고 해서 반드시 건강하지 않은 식단인 것은 아닙니다. 핵심은 각 식품군을 고르게 포함하는 전반적인 식단의 구성과 영양적 균형을 유지하는 것입니다. 영양사들은 음식에 대한 과도한 공포를 떨쳐내고, 합리적인 기준을 바탕으로 식생활을 조절하는 태도가 필요하다고 조언합니다.",
+        "eng": "A growing body of research suggests that a significant proportion of the food we consume can harm our health, with ultra-processed foods (UPFs) linked to various health issues. UPFs typically consist of more than five ingredients and include components rarely found at home, such as emulsifiers and additives. Analyses suggest these foods are associated not only with metabolic diseases like obesity and diabetes, but also with mental health problems.\n\nHowever, scientists and dieteticians do not agree on whether the risks stem simply from high calorie content or from the processing methods themselves. Experts point out that completely avoiding such foods in modern society is nearly impossible. Maeve Hanan, a member of the British Dietetic Association, warns that excessive fear and black-and-white thinking regarding UPFs only foster unnecessary anxiety.\n\nHanan explains that a long ingredient list does not inherently make a product bad, and evaluating its nutritional value is far more important. For instance, certain cereals or flour products fortified with vitamins can offer health benefits despite undergoing processing. Nevertheless, even if additives resembling chemicals have received legal approval, foods high in fat and salt, such as chicken nuggets, should be consumed in moderation as part of a balanced diet.\n\nUltimately, the presence of some ultra-processed foods on a grocery list does not necessarily mean the diet is unhealthy. The key lies in maintaining an overall dietary composition that evenly includes various food groups and sustains nutritional balance. Dietitians advise that we need to shed excessive fear regarding food and adjust our eating habits based on reasonable criteria.",
+        "hu": "Egyre több kutatás utal arra, hogy az elfogyasztott élelmiszerek jelentős része károsíthatja egészségünket, és az ultra-feldolgozott élelmiszerek (UPF-ek) számos egészségügyi problémával hozhatók összefüggésbe. Az UPF-ek általában ötnél több összetevőből állnak, és olyan anyagokat tartalmaznak, mint az emulgeálószerek vagy adalékanyagok, amelyek otthon ritkán találhatók meg. Elemzések szerint ezek az élelmiszerek nemcsak olyan anyagcsere-betegségekkel hozhatók kapcsolatba, mint az elhízás és a cukorbetegség, hanem mentális egészségügyi problémákkal is.\n\nA tudósok és a dietetikusok azonban nem érértenek abban egyet, hogy a kockázatok hátterében egyszerűen a magas kalóriatartalom áll-e, vagy maguk a feldolgozási folyamatok. A szakértők rámutatnak, hogy a mai társadalomban szinte lehetetlen teljesen elkerülni az ilyen élelmiszereket. Maeve Hanan, a Brit Dietetikusok Szövetségének tagja arra figyelmeztet, hogy az UPF-ekkel kapcsolatos túlzott félelem és a fekete-fehér szemlélet csak felesleges szorongást kelt.\n\nHanan elmagyarázza, hogy egy hosszú összetevőlista önmagában nem teszi rosszá a terméket, és a tápérték vizsgálata sokkal fontosabb. Például egyes gabonapehelyek vagy vitaminokkal dúsított liszttermékek a feldolgozás ellenére is kínálhatnak egészségügyi előnyöket. Ugyanakkor még akkor is, ha a vegyi anyagoknak tűnő adalékanyagok jogi jóváhagyást kaptak, a magas zsír- és sótartalmú ételeket, például a csirkefalatkákat, a kiegyensúlyozott étrend részeként mértékkel kell fogyasztani.\n\nVégül, az a tény, hogy egy bevásárlólistán szerepel néhány ultra-feldolgozott élelmiszer, nem jelenti azt, hogy az étrend egészségtelen. A lényeg az olyan általános étrendi összetétel fenntartása, amely egyenletesen tartalmazza a különböző élelmiszercsoportokat és fenntartja a táplálkozási egyensúlyt. A dietetikusok azt tanácsolják, hogy szabaduljunk meg az ételekkel kapcsolatos túlzott félelemtől, és ésszerű szempontok alapján igazítsuk ki étkezési szokásainkat."
+      },
+      "vocab": [
+        {
+          "word": "초가공식품",
+          "meaning_en": "ultra-processed food",
+          "meaning_hu": "ultra-feldolgozott élelmiszer"
+        },
+        {
+          "word": "대사성 질환",
+          "meaning_en": "metabolic disease",
+          "meaning_hu": "anyagcsere-betegség"
+        },
+        {
+          "word": "흑백논리",
+          "meaning_en": "black-and-white logic / dichotomy",
+          "meaning_hu": "fekete-fehér gondolkodás"
+        },
+        {
+          "word": "영양적 가치",
+          "meaning_en": "nutritional value",
+          "meaning_hu": "tápérték"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "초가공식품에 대한 경고가 우리에게 불필요한 두려움을 준다는 주장에 대해 어떻게 생각하십니까?",
+          "eng": "What do you think about the claim that warnings regarding ultra-processed foods cause unnecessary fear?",
+          "hu": "Mit gondol arról az állításról, hogy az ultra-feldolgozott élelmiszerekkel kapcsolatos figyelmeztetések felesleges félelmet keltenek?"
+        },
+        {
+          "kor": "평소 장을 볼 때 식품의 원재료 목록이나 영양 성분을 꼼꼼히 확인하는 편인가요?",
+          "eng": "Do you usually check the ingredient lists or nutritional components carefully when grocery shopping?",
+          "hu": "Szokta-e alaposan ellenőrizni az összetevők listáját vagy a tápanyag-összetevőket a bevásárlás során?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-12",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Proficient",
+      "levelNum": 9,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c6gmrrr1vgd0o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "우리는 어떻게 의식을 잃을까...전신마취가 보여주는 뇌의 비밀",
+        "eng": "How Do We Lose Consciousness? The Brain Secrets Revealed by General Anesthesia",
+        "hu": "Hogyan veszítjük el az eszméletünket? Az altatás által feltárt agyi titkok"
+      },
+      "desc": {
+        "kor": "전신마취제의 작용 원리와 뇌의 의식 메커니즘에 관한 과학적 탐구를 다룬 기사입니다.",
+        "eng": "An article exploring the scientific mechanisms of general anesthetics and the brain's consciousness.",
+        "hu": "Cikk az általános altatószerek működési mechanizmusáról és az agy tudatosságáról."
+      },
+      "article": {
+        "kor": "전신마취제의 작용 원리는 아직 완벽히 규명되지 않았으나, 이를 통해 인간의 의식이란 무엇인지 규명할 수 있는 결정적 단서들이 도출되고 있습니다. 인류 역사상 대부분의 기간 동안 사지 절단 수술은 환자가 깨어 있는 상태에서 시행되었으나, 1846년 전신마취제의 도입은 의료계의 판도를 완전히 바꾸어 놓았습니다. 오늘날 전 세계적으로 연간 3억 5000만 건 이상의 수술이 전신마취 하에 이루어지고 있지만, 이 신비로운 약물이 어떻게 우리를 잠들게 하는지에 대한 근본적인 의문은 여전히 남아 있습니다.\n\n마취제는 종류에 따라 통증을 직접 차단하거나 나른한 상태를 유도하며, 전신마취제는 뇌 속 신경세포 간의 통신을 교란하여 의식을 완전히 상실하게 만듭니다. 자기공명영상(MRI) 스캔을 통해 전신마취 시 뇌 활동 전반이 위축된다는 점이 확인되었으나, 이것이 뇌 전체의 기능 정지를 의미하는지 혹은 특정 영역의 정지에서 비롯된 연쇄 반응인지에 대해서는 학계의 의견이 분분합니다. 영국 임페리얼 컬리지 런던의 닉 프랭크스 교수는 뇌 전체가 상호 연결되어 있어 전면적 기능 정지의 원인을 단정하기 어렵다고 지적합니다.\n\n다만 연구에 따르면 뇌 깊숙이 위치하며 중앙 허브 역할을 담당하는 시상은 전신마취제 투여 시 가장 먼저 활성이 저하되는 영역으로 관측됩니다. 시상은 수면의 개시와 유지에 결정적 역할을 수행하며, 동물 실험과 혼수상태 환자 연구에 따르면 시상의 자극을 통해 각성을 유도할 수 있음이 밝혀졌습니다. 이와 대조적으로 대뇌 피질이나 전두엽, 두정엽 등 고차원적 인지 기능을 관여하는 영역이 마취제의 주된 표적이라고 주장하는 과학자들도 존재합니다.\n\n결론적으로 뇌가 완전히 정지하는 것이 아니라 각성과 수면 사이의 중간 지점인 특수한 의식 상태를 경험하는 것일 수 있다는 가설이 힘을 얻고 있습니다. 마취의 정확한 메커니즘을 해명하려는 과학적 노력은 단순한 의료 기술의 발전을 넘어 인간 의식의 기원을 밝히는 핵심 열쇠로 평가받고 있습니다. 앞으로의 추가적인 뇌 과학 연구를 통해 마취와 의식의 수많은 미스터리가 풀릴 것으로 기대됩니다.",
+        "eng": "Although the mechanism of general anesthetics is not yet fully understood, they provide crucial clues to elucidating what human consciousness is. Throughout most of human history, limb amputation surgeries were performed while patients were awake, but the introduction of general anesthetics in 1846 completely transformed the medical landscape. Today, more than 350 million surgeries are performed annually worldwide under general anesthesia, yet fundamental questions remain about how these mysterious drugs induce sleep.\n\nAnesthetics vary in type, directly blocking pain or inducing drowsiness, while general anesthetics disrupt communication between neurons in the brain, leading to a complete loss of consciousness. While MRI scans confirm that overall brain activity contracts during general anesthesia, the academic community remains divided on whether this implies a total shutdown of the entire brain or a cascading reaction originating from the shutdown of specific regions. Professor Nick Franks of Imperial College London points out that because the brain is entirely interconnected, it is difficult to pinpoint the exact cause of a comprehensive functional halt.\n\nHowever, research shows that the thalamus, located deep within the brain and serving as a central hub, is observed to be the region whose activity is suppressed first upon the administration of general anesthetics. The thalamus plays a decisive role in initiating and maintaining sleep, and animal experiments and studies on comatose patients have revealed that arousal can be induced through thalamic stimulation. In contrast, some scientists argue that regions involved in higher cognitive functions, such as the cerebral cortex, frontal lobe, and parietal lobe, are the primary targets of anesthetics.\n\nIn conclusion, the hypothesis is gaining traction that rather than the brain shutting down completely, individuals may experience a unique state of consciousness that lies midway between wakefulness and sleep. Scientific efforts to unravel the precise mechanism of anesthesia are evaluated as a key to uncovering the origin of human consciousness, going beyond mere advances in medical technology. Through future neuroscientific research, many mysteries surrounding anesthesia and consciousness are expected to be solved.",
+        "hu": "Bár az általános altatószerek hatásmechanizmusa még nem teljesen tisztázott, döntő nyomokat szolgáltatnak annak feltárásához, hogy mi is az emberi tudat. Az emberi történelem nagy részében a végtagamputációs műtétet ébren lévő betegeken végezték, de az altatószerek 1846-os bevezetése teljesen átalakította az orvosi tájat. Ma évente több mint 350 millió műtétet végeznek el világszerte altatásban, mégis alapvető kérdések maradtak fenn arról, hogy ezek a titokzatos szerek hogyan váltanak ki alvást.\n\nAz altatószerek típusuktól függően közvetlenül blokkolják a fájdalmat vagy álmosságot idéznek elő, míg az általános altatók megzavarják az idegsejtek közötti kommunikációt az agyban, az eszmélet teljes elvesztését okozva. Bár az MRI-vizsgálatok megerősítik, hogy az általános altatás során az agyi aktivitás általában csökken, a tudományos közösség megosztott abban, hogy ez az egész agy leállását jelenti-e, vagy specifikus régiók leállásából eredő láncreakciót. Nick Franks professzor az Imperial College Londonból rámutat, hogy az agy teljes körű összekapcsoltsága miatt nehéz pontosan meghatározni az átfogó funkcionális leállás okát.\n\nA kutatások azonban azt mutatják, hogy a thalamusz, amely az agy mélyén található és központi csomópontként szolgál, az a terület, amelynek aktivitását az altatószerek beadásakor először nyomják el. A thalamusz döntő szerepet játszik az alvás megkezdésében és fenntartásában, és állatkísérletek, valamint kómás betegeken végzett vizsgálatok kimutatták, hogy a thalamusz stimulálásával éberség idézhető elő. Ezzel szemben egyes tudósok azt állítják, hogy a magasabb szintű kognitív funkciókért felelős területek, mint a agykéreg, a frontális lebeny és a parietális lebeny, az altatószerek elsődleges célpontjai.\n\nÖsszegzésként egyre nagyobb teret nyer az a hipotézis, hogy ahelyett, hogy az agy teljesen leállna, az egyének egy olyan egyedi tudatállapotot tapasztalhatnak meg, amely az éberség és az alvás között helyezkedik el. Az altatás pontos mechanizmusának feltárására irányuló tudományos erőfeszítések kulcsfontosságúak az emberi tudat eredetének felfedezésében, túlmutatva az orvostechnológia puszta fejlődésén. A jövőbeni idegtudományi kutatások révén a várakozások szerint megoldódnak az altatással és a tudattal kapcsolatos számos rejtély."
+      },
+      "vocab": [
+        {
+          "word": "규명하다",
+          "meaning_en": "to investigate and clarify",
+          "meaning_hu": "kivizsgál és tisztáz"
+        },
+        {
+          "word": "시상",
+          "meaning_en": "thalamus",
+          "meaning_hu": "thalamusz (látótelep)"
+        },
+        {
+          "word": "각성",
+          "meaning_en": "arousal, awakening",
+          "meaning_hu": "éberség, felébredés"
+        },
+        {
+          "word": "대뇌 피질",
+          "meaning_en": "cerebral cortex",
+          "meaning_hu": "agykéreg"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "전신마취가 뇌 전체의 기능 정지를 유발하는지, 아니면 특정 영역의 기능 저하에서 비롯되는지에 대해 어떻게 생각하십니까?",
+          "eng": "What are your thoughts on whether general anesthesia causes a total shutdown of the brain or stems from the functional suppression of specific regions?",
+          "hu": "Mit gondol arról, hogy az általános altatás az egész agy leállását okozza-e, vagy specifikus régiók funkcionális elnyomásából ered?"
+        },
+        {
+          "kor": "의식의 본질을 밝히기 위한 뇌 과학 연구가 의학 기술 발전에 어떤 기여를 할 수 있다고 보십니까?",
+          "eng": "How do you think neuroscientific research to uncover the nature of consciousness can contribute to the advancement of medical technology?",
+          "hu": "Hogyan járulhat hozzá a tudat természetének feltárását célzó idegtudományi kutatás az orvostechnológia fejlődéséhez?"
+        }
+      ]
+    }
+  ],
   "categories": [
     "Global & Society",
     "Tech & Future",
