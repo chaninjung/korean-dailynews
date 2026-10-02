@@ -19,10 +19,10 @@ CATEGORIES = [
 CATEGORY_RSS_FEEDS = {
     "Global & Society": [
         "https://feeds.bbci.co.uk/korean/rss.xml",
-        "http://feeds.bbci.co.uk/news/world/rss.xml",
-        "https://www.theguardian.com/society/rss",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
         "https://www.theguardian.com/environment/rss",
         "https://www.theguardian.com/global-development/rss",
+        "https://www.positive.news/feed/",
     ],
     "Tech & Future": [
         "https://feeds.bbci.co.uk/korean/rss.xml",
