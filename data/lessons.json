@@ -1,5 +1,1791 @@
 {
-  "featured": [],
+  "featured": [
+    {
+      "id": "news-20261002-1",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/society/2026/oct/01/naomi-campbell-wins-legal-challenge-charity-trustee-ban"
+      },
+      "title": {
+        "kor": "모델 나오미 캠벨, 자선 단체 운영 금지 처분에 대한 소송에서 승소했습니다",
+        "eng": "Naomi Campbell wins legal challenge over charity trustee ban",
+        "hu": "Naomi Campbell megnyerte a jótékonysági alapítványi tisztség eltiltása elleni perét"
+      },
+      "desc": {
+        "kor": "세계적인 모델 나오미 캠벨이 자선 단체 운영을 금지당한 처분을 취소해 달라는 소송에서 이겼습니다.",
+        "eng": "Supermodel Naomi Campbell has won her legal challenge to overturn a ban on being a charity trustee.",
+        "hu": "A szupermodell Naomi Campbell megnyerte a pert a jótékonysági tisztségviselői eltiltásának eltörléséért."
+      },
+      "article": {
+        "kor": "유명한 모델인 나오미 캠벨은 과거에 자신이 세운 자선 단체에서 일했습니다. 하지만 2024년에 그 단체의 돈이 잘못 사용되면서 캠벨은 5년 동안 자선 단체 일을 할 수 없게 되었습니다.\n\n캠벨은 다른 사람의 거짓말 때문에 속은 것이라며 재판에 소송을 제기했습니다. 법원은 다른 이사였던 사람이 문서를 위조하고 캠벨을 속였다는 사실을 확인했습니다.\n\n판사들은 캠벨이 단체의 문제를 몰랐으며 직접 잘못을 저지르지 않았다고 밝혔습니다. 그래서 법원은 캠벨에게 내린 5년 동안의 운영 금지 처분을 취소하기로 결정했습니다.",
+        "eng": "Famous model Naomi Campbell previously worked at a charity she founded. However, in 2024, after funds were misused at the organization, Campbell was banned from being a charity trustee for five years.\n\nCampbell filed a legal challenge, saying she was deceived by someone else's lies. The court found that another trustee had forged documents and deceived Campbell.\n\nThe judges stated that Campbell did not know about the charity's problems and did not commit misconduct herself. Therefore, the court decided to overturn the five-year ban against Campbell.",
+        "hu": "A híres modell, Naomi Campbell korábban az általa alapított jótékonysági szervezetnél dolgozott. Azonban 2024-ben, miután pénzekkel éltek vissza a szervezetnél, Campbellt öti évre eltiltották a jótékonysági tisztségviselői tevékenységtől.\n\nCampbell jogi eljárást indított, mert azzal érvelt, hogy mások hazugságai tévesztették meg. A bíróság megállapította, hogy egy másik tisztségviselő hamisított dokumentumokat és csapta be Campbellt.\n\nA bírák kijelentették, hogy Campbell nem tudott a szervezet problémáiról, és maga nem követett el szabálytalanságot. Ezért a bíróság úgy döntött, hogy hatályon kívül helyezi a Campbell elleni ötéves eltiltást."
+      },
+      "vocab": [
+        {
+          "word": "모델",
+          "meaning_en": "model",
+          "meaning_hu": "modell"
+        },
+        {
+          "word": "자선 단체",
+          "meaning_en": "charity organization",
+          "meaning_hu": "jótékonysági szervezet"
+        },
+        {
+          "word": "소송",
+          "meaning_en": "legal challenge, lawsuit",
+          "meaning_hu": "per, jogi eljárás"
+        },
+        {
+          "word": "법원",
+          "meaning_en": "court",
+          "meaning_hu": "bíróság"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "나오미 캠벨이 자선 단체 일과 관련해서 왜 재판에서 이겼습니까?",
+          "eng": "Why did Naomi Campbell win the legal challenge regarding the charity?",
+          "hu": "Miért nyerte meg Naomi Campbell a jótékonysági szervezettel kapcsolatos pert?"
+        },
+        {
+          "kor": "여러분이 다른 사람을 믿었는데 그 사람이 거짓말을 했다면 어떻게 하겠습니까?",
+          "eng": "What would you do if you trusted someone and they lied to you?",
+          "hu": "Mit tenne, ha megbízna valakiben, de ő hazudana önnek?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-2",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions"
+      },
+      "title": {
+        "kor": "미국 여러 주와 도시, 환경보호청의 온실가스 규제 폐지에 소송 제기",
+        "eng": "US states and cities sue over Trump EPA’s repeal of emissions rules",
+        "hu": "Amerikai államok és városok perelik az EPA-t a károsanyag-kibocsátási szabályok eltörlése miatt"
+      },
+      "desc": {
+        "kor": "미국의 여러 주와 도시들이 발전소 온실가스 배출 제한 규칙을 없앤 환경보호청을 상대로 소송을 냈다.",
+        "eng": "US states and cities are suing the EPA for repealing rules that limit greenhouse gas emissions from power plants.",
+        "hu": "Amerikai államok és városok beperelték az EPA-t a hatalmi erőművek üvegházhatású gázkibocsátását korlátozó szabályok eltörlése miatt."
+      },
+      "article": {
+        "kor": "미국의 여러 주와 도시들이 환경보호청(EPA)을 상대로 소송을 제기했다. 발전소의 온실가스 배출을 제한하는 규칙을 폐지했기 때문이다. 뉴욕주 등이 이끄는 21개 주의 연합체는 이번 조치가 기후 위기를 악화시킬 것이라고 주장한다.\n\n환경보호청은 바이든 행정부 시절에 만들어진 관련 규칙을 취소한다고 지난달 발표했다. 이번 결정으로 발전소 업계는 큰 비용을 아낄 수 있지만, 환경 단체와 주 정부는 국민의 건강과 환경이 위험해질 것이라고 비판하고 있다.\n\n주 정부 연합체는 미국 연방 항소법원에 환경보호청의 결정을 다시 살펴봐 달라고 요청했다. 이들은 환경보호청이 오염 물질 배출 제한을 정당한 이유 없이 없애버렸다고 지적했다. 이번 소송은 기후 변화와 환경 보호를 둘러싼 미국 내의 갈등을 보여준다.",
+        "eng": "Several US states and cities have filed a lawsuit against the Environmental Protection Agency (EPA). This comes after the agency repealed rules limiting greenhouse gas emissions from power plants. A coalition of 21 states, led by New York, argues that this move will worsen the climate crisis.\n\nThe EPA announced last month that it is revoking the rule created during the Biden administration. While the decision will save the power industry a significant amount of costs, environmental groups and state governments criticize that it endangers public health and the environment.\n\nThe state coalition has petitioned the US Court of Appeals to review the EPA's decision. They pointed out that the EPA unlawfully abandoned pollution limits without proper reasons. This lawsuit highlights ongoing conflicts in the US surrounding climate change and environmental protection.",
+        "hu": "Több amerikai állam és város perelt be a Környezetvédelmi Ügynökséget (EPA). Ez azután történt, hogy az ügynökség eltörölte az erőművek üvegházhatású gázkibocsátását korlátozó szabályokat. A New York által vezetett 21 államból álló koalíció azzal érvel, hogy ez a lépés súlyosbítani fogja a klímaválságot.\n\nAz EPA a múlt hónapban jelentette be, hogy visszavonja a Biden-kormányzat idején hozott szabályt. Bár a döntés jelentős költségeket takarít meg az energiaiparnak, a környezetvédelmi csoportok és az állami kormányok azt kritizálják, hogy veszélyezteti a közegészséget és a környezetet.\n\nAz állami koalíció petíciót nyújtott be az Egyesült Államok Fellebbviteli Bíróságához az EPA döntésének felülvizsgálatára. Mutattak rá, hogy az EPA jogellenesen hagyta el a szennyezési határértékeket megfelelő okok nélkül. Ez a per rávilágít az Egyesült Államokban a klímaváltozékonysággal és a környezetvédelemmel kapcsolatos folyamatos konfliktusokra."
+      },
+      "vocab": [
+        {
+          "word": "환경보호청",
+          "meaning_en": "Environmental Protection Agency (EPA)",
+          "meaning_hu": "Környezetvédelmi Ügynökség"
+        },
+        {
+          "word": "온실가스",
+          "meaning_en": "greenhouse gas",
+          "meaning_hu": "üvegházhatású gáz"
+        },
+        {
+          "word": "소송",
+          "meaning_en": "lawsuit",
+          "meaning_hu": "per, bírósági eljárás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러 주와 도시가 환경보호청을 상대로 소송을 낸 이유는 무엇인가요?",
+          "eng": "Why did states and cities file a lawsuit against the EPA?",
+          "hu": "Miért nyújtottak be peres eljárást az államok és városok az EPA ellen?"
+        },
+        {
+          "kor": "환경 규제를 없애는 것에 대해 찬성하는 쪽과 반대하는 쪽의 입장은 어떻게 다릅니까?",
+          "eng": "How do the positions of those who support and oppose the repeal of environmental regulations differ?",
+          "hu": "Hogyan különböznek a környezetvédelmi szabályozások eltörlését támogatók és ellenzők álláspontjai?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-3",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/global-development/ng-interactive/2026/oct/01/they-showed-no-mercy-mapping-the-rohingya-villages-being-erased-by-rebel-forces"
+      },
+      "title": {
+        "kor": "미얀마 로힝야 족, 반군 세력에 의해 다시 위기에 처하다",
+        "eng": "Rohingya villages being erased by rebel forces in Myanmar",
+        "hu": "A lázadó erők által eltörölt rohingja falvak Mianmarban"
+      },
+      "desc": {
+        "kor": "미얀마의 소수민족 로힝야족이 정부군에 이어 반군 아라칸군의 탄압과 강제 이주로 고통받고 있습니다.",
+        "eng": "The Rohingya minority in Myanmar is facing renewed persecution and displacement, this time by the insurgent Arakan Army.",
+        "hu": "Mianmar rohingya kisebbsége újabb üldöztetéssel és kitelepítéssel néz szembe, ezúttal az Arakan Hadsereg lázadói részéről."
+      },
+      "article": {
+        "kor": "미얀마의 소수민족인 로힝야족이 군부와 반군 사이의 내전 속에서 심각한 탄압을 받고 있습니다. 과거 미얀마 군부의 박해를 피해 많은 이들이 국경을 넘었으나, 현재는 북부 라카인주를 장악한 반군 아라칸군(AA)으로부터 새로운 위협을 받고 있습니다. 위성 이미지와 유엔 보고서에 따르면, 반군은 로힝야족의 마을을 파괴하고 이들을 강제로 수용소에 가두고 있습니다.\n\n아라칸군은 로힝야족의 토지와 농경지를 빼앗고 그 자리에 군사 시설을 짓거나 다른 주민들을 위한 정착촌을 만들고 있습니다. 수많은 로힝야 주민들이 집을 잃고 난캠프나 숲으로 도망쳤으며, 방글라데시로 탈출하는 사람들의 수도 계속해서 늘어나고 있습니다. 유엔과 인권 단체들은 이러한 행위가 로힝야 공동체의 미래를 완전히 지우려는 시도라고 경고하고 있습니다.\n\n현장을 탈출한 생존자들은 반군이 강제 노동을 시키고 농기구를 빼앗는 등 가혹한 폭력을 행사했다고 증언했습니다. 미얀마 내전이 장기화되면서 양측의 폭로와 갈등 속에서 로힝야족은 갈 곳을 잃고 인도주의적 위기에 직면했습니다. 국제 사회는 이 지역의 인권 침해 상황을 우려하며 철저한 조사를 요구하고 있습니다.",
+        "eng": "The Rohingya, a Muslim minority in Myanmar, are facing severe persecution amid the country's ongoing civil war. After fleeing military crackdowns in the past, many now face new threats from the Arakan Army (AA), an insurgent group that has taken control of northern Rakhine state. Satellite images and UN reports show that rebel forces are destroying Rohingya villages and forcing survivors into detention camps.\n\nThe Arakan Army has reportedly seized Rohingya land and agricultural fields, repurposing them for military infrastructure or settlements for other communities. Countless residents have lost their homes, fleeing to makeshift camps, mountains, or seeking refuge in neighboring Bangladesh. Human rights organizations warn that these actions are part of a systematic effort to erase the Rohingya community's future in the region.\n\nSurvivors who escaped to Bangladesh have testified about forced labor, land confiscation, and extreme violence by the AA forces. As the civil war continues, the remaining Rohingya population is trapped in catastrophic conditions with little hope of returning home. The international community has expressed deep concern over these human rights abuses and called for accountability.",
+        "hu": "A mianmari muszlim kisebbséghez tartozó rohingják súlyos üldöztetéssel néz szembe az országban zajló polgárháború közepette. Miután a múltban elmenekültek a katonai akciók elől, sokan most új fenyegetésekkel szembesülnek az Arakan Hadsereg (AA) részéről, amely átvette az ellenőrzést észak-Rakhine állam felett. A műholdas felvételek és az ENSZ jelentései szerint a lázadó erők elpusztítják a rohingja falvakat, és a túlélőket kényszertáborokba kényszerítik.\n\nAz Arakan Hadsereg hírek szerint elkobozta a rohingják földjeit és mezőgazdasági területeit, amelyeket katonai infrastruktúrává vagy más közösségek letelepedési helyévé alakítottak át. Számos lakos veszítette el otthonát, ideiglenes táborokba, a hegyekbe menekült, vagy a szomszédos Bangladesben keresett menedéket. Az emberi jogi szervezetek arra figyelmeztetnek, hogy ezek a cselekmények egy olyan szisztematikus törekwies részei, amelynek célja a rohingja közösség jövőjének eltörlése a régióban.\n\nA Bangladesbe menekült túlélők kényszermunkáról, földelkobzásról és az AA erők szélsőséges erőszakáról számoltak be. Ahogy a polgárháború folytatódik, a helyben maradt rohingja lakosság katasztrofális körülmények között rekedt, és kevés reményük maradt a hazatérésre. A nemzetközi közösség mély aggodalmát fejezte ki ezen emberi jogi sérelmek miatt, és felelősségre vonást követelt."
+      },
+      "vocab": [
+        {
+          "word": "소수민족",
+          "meaning_en": "ethnic minority",
+          "meaning_hu": "etnikai kisebbség"
+        },
+        {
+          "word": "반군",
+          "meaning_en": "rebel forces, insurgent group",
+          "meaning_hu": "lázadó erők"
+        },
+        {
+          "word": "강제 이주",
+          "meaning_en": "forced displacement",
+          "meaning_hu": "kényszerű kitelepítés"
+        },
+        {
+          "word": "인도주의적 위기",
+          "meaning_en": "humanitarian crisis",
+          "meaning_hu": "humanitárius válság"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "로힝야족이 미얀마에서 겪고 있는 어려움의 원인은 무엇인가요?",
+          "eng": "What are the causes of the difficulties the Rohingya are facing in Myanmar?",
+          "hu": "Melyek a rohingják által Mianmarban tapasztalt nehézségek okai?"
+        },
+        {
+          "kor": "국제 사회가 난민 문제와 소수민족 탄압을 해결하기 위해 어떤 노력을 해야 할까요?",
+          "eng": "What efforts should the international community make to resolve refugee issues and minority oppression?",
+          "hu": "Milyen erőfeszítéseket kell tennie a nemzetközi közösségnek a menekültkérdés és a kisebbségi elnyomás megoldása érdekében?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-4",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c60e3ep870ygo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "미국 테네시주에서 사형 집행 중 약물 투여에도 사형수가 사망하지 않은 사건 발생",
+        "eng": "Death Row Inmate Survives Two Lethal Injection Doses in Tennessee",
+        "hu": "Halálra ítélt rab túlélt két halálos injekciót Tennessee államban"
+      },
+      "desc": {
+        "kor": "미국 테네시주에서 살인범의 사형 집행 과정에서 두 차례 약물이 투여되었음에도 사망하지 않아 병원으로 이송되었습니다.",
+        "eng": "An inmate in Tennessee was transferred to a hospital after surviving two lethal injection doses during her execution.",
+        "hu": "Egy tennessee-i rabot kórházba szállítottak, miután túlélt két halálos injekciót a kivégzése során."
+      },
+      "article": {
+        "kor": "미국 테네시주에서 살인죄로 복역 중이던 사형수 크리스타 파이크의 사형 집행 과정에서 약물 투여에도 사망하지 않는 사건이 발생했습니다. 지난달 30일 리버밴드 최고 보안 교도소에서 진행된 집행에서 파이크는 펜토바르비탈 주사기를 두 차례 투여받았으나 의식을 잃은 상태에서도 심장이 뛰고 코를 고는 등의 반응을 보였습니다. 변호인단의 긴급 중단 신청과 법적 공방 속에서 당국은 절차에 따른 조치였다고 밝혔으나, 주지사는 정확한 경위를 파악하기 위해 제3자에 의한 포괄적인 검토를 지시했습니다.\n\n테네시주의 사형 집행 절차에 따르면 첫 번째 약물 투여 후 사형수가 사망하지 않을 경우를 대비해 두 번째 약물 주사가 준비되어 있었습니다. 그러나 두 번째 약물 투여 후에도 사망하지 않은 상황에 대한 구체적인 규정은 마련되어 있지 않은 것으로 나타났습니다. 결국 파이크는 현재 병원으로 이송되어 생명을 구하기 위한 조치를 받고 있으며, 이번 사건으로 인해 올해 남은 테네시주의 사형 집행 일정은 당초 계획대로 진행되지 않을 예정입니다.\n\n파이크는 18세이던 지난 1996년 당시 남자친구와 함께 콜린 슬레머를 살해한 혐의로 사형을 선고받았습니다. 피해자의 어머니는 이번 집행 실패 소식에 유감을 표명했으며, 테네시주 교정국은 법무장관실이 승인한 합법적이고 정립된 절차를 모두 준수했다고 주장했습니다. 반면 변호인단은 테네시주가 합법적인 사형 집행에 또다시 실패했다고 강하게 비판했습니다.\n\n이번 사건은 올해 테네시주에서 사형 집행이 계획대로 이루어지지 않은 두 번째 사례입니다. 지난 5월에도 다른 사형수의 집행 과정에서 집행관들이 약물을 주입할 정맥을 찾지 못해 집행이 연기된 바 있습니다. 사형 집행의 적절성과 절차의 실효성을 둘러싼 논란이 당분간 지속될 것으로 예상되는 가운데, 독립적인 검토 결과에 이목이 집중되고 있습니다.",
+        "eng": "An execution in Tennessee failed when an inmate, Christa Pike, survived two doses of pentobarbital during her scheduled execution. Pike's defense team noted that she still had a heartbeat and was snoring despite being unconscious, leading to her transfer to a hospital for life-saving measures. Governor Bill Lee has ordered a comprehensive third-party review of the incident, and remaining executions for the year have been put on hold. This marks the second time this year that a scheduled execution in Tennessee has encountered severe operational issues.",
+        "hu": "Eseménydús kivégzés zajlott le Tennessee-ben, ahol egy halálra ítélt rab túlélt két adag halálos injekciót. A védőcsapat jelentése szerint a rab szívverése megmaradt a beadott szerek ellenére, így kórházba szállították. A kormányzó vizsgálatot rendelt el az ügyben, és az év hátralévő részére tervezett kivégzéseket felfüggesztették. Ez a második eset idén, hogy problémák merültek fel a kivégzési eljárások során az államban."
+      },
+      "vocab": [
+        {
+          "word": "사형수",
+          "meaning_en": "death row inmate",
+          "meaning_hu": "halálra ítélt rab"
+        },
+        {
+          "word": "투여",
+          "meaning_en": "administration (of medicine)",
+          "meaning_hu": "gyógyszer beadása"
+        },
+        {
+          "word": "법적 공방",
+          "meaning_en": "legal battle",
+          "meaning_hu": "jogi harc"
+        },
+        {
+          "word": "경위",
+          "meaning_en": "details, circumstances",
+          "meaning_hu": "részletek, körülmények"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "사형 집행 과정에서 예상치 못한 문제가 발생했을 때 당국이 취해야 할 조치는 무엇이라고 생각하십니까?",
+          "eng": "What do you think authorities should do when unexpected problems occur during an execution process?",
+          "hu": "Mit gondol, mit kellene tenniük a hatóságoknak, ha váratlan problémák merülnek fel egy kivégzés során?"
+        },
+        {
+          "kor": "이번 사건과 같이 사형 집행이 연기되거나 실패하는 상황에 대해 어떻게 평가하십니까?",
+          "eng": "How do you evaluate situations where executions are delayed or fail, such as in this case?",
+          "hu": "Hogyan értékeli azokat a helyzeteket, amikor a kivégzések késnek vagy sikertelenek, mint ebben az esetben?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-5",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 8,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "미국 테네시주 사형수 크리스타 파이크의 치명적 주사 집행 실패 사건과 그 후폭풍",
+        "eng": "What happened in the failed execution of Christa Pike - and what next?",
+        "hu": "Mi történt Christa Pike sikertelen kivégzése során – és mi várható most?"
+      },
+      "desc": {
+        "kor": "미국 테네시주에서 사형수 크리스타 파이크에 대한 치명적 주사 집행이 실패로 끝나며 사형 제도를 둘러싼 논란이 가중되고 있습니다.",
+        "eng": "The failed execution by lethal injection of US death row inmate Christa Pike in Tennessee has intensified debates surrounding capital punishment.",
+        "hu": "A halálraítélt Christa Pike Tennessee állambeli sikertelen méreginjekciós kivégzése fokozta a halálbüntetés körüli vitákat."
+      },
+      "article": {
+        "kor": "미국 테네시주에서 수십 년간 수감되어 온 사형수 크리스타 파이크에 대한 사형 집행이 실패로 끝나는 전례 없는 사건이 발생했습니다. 파이크의 변호인단에 따르면, 그녀는 두 차례의 치명적인 약물 주사를 투여받았음에도 불구하고 심장이 멈추지 않은 채 병원으로 이송되었습니다. 1996년에 살인죄로 사형 선고를 받은 파이크는 현지 시간으로 수요일 저녁에 형이 집행될 예정이었으나, 약물의 투여 용량이 치명적인 결과로 이어지지 않으면서 현재 병원에서 위중한 상태로 치료를 받고 있습니다.\n\n이번 사태는 사형 집행 과정의 투명성과 절차적 정당성에 대한 심각한 의문을 제기하고 있습니다. 주 정부의 교정 당국은 규정된 절차를 엄격히 준수했다고 주장하고 있으나, 두 번째 투여 이후 수감자가 사망하지 않았을 경우에 대한 명확한 지침이 부재하다는 지적이 나오고 있습니다. 사형 집행 과정의 상당 부분이 비공개로 이루어지고 밀실에서 진행된다는 점 때문에 인권 단체들과 비판론자들은 주 정부가 사형 제도의 폭력성과 은폐성을 가리려 한다고 강하게 비판하고 있습니다.\n\n파이크의 생존 소식이 전해진 이후 빌 리 테네시州 주지사는 올해 남은 기간 동안 주 내 모든 사형 집행을 전면 중단하라고 지시했으며, 독립적인 제3자 조사를 공식 발주했습니다. 의료 전문가들은 사형 집행 과정에서 응급 처치가 지연됨에 따라 파이크가 심각한 뇌 손상을 입었을 가능성을 제기하고 있습니다. 당국은 향후 파이크에 대한 사형 집행을 재시도할 것인지 여부와 약물이 치명적으로 작용하지 않은 정확한 원인에 대해 아직 공식적인 입장을 내놓지 않고 있습니다.\n\n사형 집행 절차의 결함이 수면 위로 떠오르면서 미국 전역에서는 사형 제도의 존폐를 둘러싼 법적·윤리적 논쟁이 다시금 격화되고 있습니다. 교정 시설 내부의 비밀주의가 의학적 윤리 및 법적 책임 문제와 충돌하면서, 이번 사건은 단순한 집행 오류를 넘어 국가가 집행하는 형벌의 정당성에 대한 근본적인 성찰을 요구하고 있습니다. 향후 진행될 제3자 조사 결과와 사법 당국의 최종 판단에 따라 미국의 사형 집행 관행 전반에 상당한 파장이 일 것으로 전망됩니다.",
+        "eng": "An unprecedented incident occurred in Tennessee, US, as the execution of death row inmate Christa Pike failed. According to her legal team, Pike was transferred to a hospital with her heartbeat still active despite receiving two lethal injections. Convicted of murder in 1996, Pike was scheduled to be executed on Wednesday evening local time, but is currently in critical condition in hospital after the dosage proved non-fatal.\n\nThis situation raises serious questions regarding the transparency and procedural legitimacy of the execution process. While state corrections authorities maintain that they strictly followed prescribed protocols, critics point out that the state protocol lacks clear instructions on what should happen if an inmate survives a second dose. Because parts of the execution process take place behind closed curtains, human rights organizations and opponents strongly criticize the state for concealing the inherent violence of capital punishment.\n\nFollowing the news of Pike's survival, Tennessee Governor Bill Lee ordered a halt to all executions in the state for the rest of the year and commissioned an independent third-party review. Medical experts suggest that Pike may have suffered brain injury due to delays in resuscitation efforts during the botched procedure. Authorities have yet to officially clarify whether they will attempt to execute Pike again or explain why the administered dosage failed to be fatal.\n\nAs flaws in the execution protocol surface, legal and ethical debates over the existence of capital punishment are intensifying across the US. With institutional secrecy conflicting with medical ethics and legal accountability, this case demands a fundamental reflection on state-sanctioned punishment. Depending on the forthcoming third-party review and judicial decisions, significant repercussions are anticipated for execution practices across the nation.",
+        "hu": "Példátlan eset történt az amerikai Tennessee államban, ahol Christa Pike halálraítélt kivégzése kudarcba fulladt. Ügyvédi csapata szerint Pike-ot két halálos injekció beadása után is működő szívveréssel szállították kórházba, miután a méreg nem bizonyult halálosnak. Az 1996-ban gyilkosság miatt halálra ítélt nőt helyi idő szerint szerda este akarták kivégezni, ám jelenleg válságos állapotban van a kórházban.\n\nEz az eset komoly kérdéseket vet fel a kivégzési folyamat átláthatóságával és eljárási legitimációjával kapcsolatban. Bár az állami büntetés-végrehajtási hatóságok kitartanak amellett, hogy szigorúan követték az előírt protokollokat, a kritikusok rámutatnak, hogy a szabályzatból hiányoznak a világos iránymutatások arra az esetre, ha a fogoly életben marad a második adag után. Mivel a kivégzés bizonyos részei zárt ajtók mögött zajlanak, az emberi jogi szervezetek azzal vádolják az államot, hogy el akarja rejteni a halálbüntetés erőszakosságát.\n\nPike túlélésének hírére Bill Lee, Tennessee kormányzója elrendelte az állambeli kivégzések felfüggesztését az év hátralévő részére, és független vizsgálatot rendelt el. Orvosi szakértők arra figyelmeztetnek, hogy az elhúzódó újraélesztés miatt Pike agykárosodást szenvedhetett. A hatóságok még nem nyilatkoztak arról, hogy megkísérlik-e újra a kivégzést, és arról sem, miért vallott kudarcot a beadott adag.\n\nA kivégzési protokoll hiányosságai nyomán az egész Egyesült Államokban ismét lángra kaptak a halálbüntetésről szóló etikai és jogi viták. Mivel a zárt rendszerű intézményi működés összeütközésbe került az orvosi etikummal, az eset alapvető kérdéseket vet fel az állami büntetés-végrehajtás igazolhatóságával kapcsolatban. A független vizsgálat eredményeitől függően jelentős változások várhatók a gyakorlatban."
+      },
+      "vocab": [
+        {
+          "word": "치명적 주사",
+          "meaning_en": "lethal injection",
+          "meaning_hu": "halálos injekció"
+        },
+        {
+          "word": "사형수",
+          "meaning_en": "death row inmate",
+          "meaning_hu": "halálraítélt fogoly"
+        },
+        {
+          "word": "교정 당국",
+          "meaning_en": "corrections department",
+          "meaning_hu": "büntetés-végrehajtási hatóság"
+        },
+        {
+          "word": "투명성",
+          "meaning_en": "transparency",
+          "meaning_hu": "átláthatóság"
+        },
+        {
+          "word": "응급 처치",
+          "meaning_en": "resuscitation / emergency treatment",
+          "meaning_hu": "újraélesztés / sürgősségi ellátás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "사형 집행 과정에서 오류가 발생했을 때 국가가 책임을 져야 하는 이유는 무엇이라고 생각하십니까?",
+          "eng": "Why do you think the state should be held accountable when execution procedures fail?",
+          "hu": "Ön szerint miért kell az államnak felelősséget vállalnia, ha a kivégzési eljárás kudarcot vall?"
+        },
+        {
+          "kor": "사형 집행 과정을 비공개로 진행하는 관행이 인권과 투명성에 어떤 영향을 미친다고 보십니까?",
+          "eng": "How do you think the practice of conducting executions behind closed doors affects human rights and transparency?",
+          "hu": "Hogyan befolyásolja az emberi jogokat és az átláthatóságot az a gyakorlat, hogy a kivégzéseket zárt ajtók mögött hajtják végre?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-6",
+      "category": "Global & Society",
+      "date": "2026.10.02",
+      "level": "Proficient",
+      "levelNum": 9,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/society/2026/oct/02/tell-us-what-happened-after-you-froze-your-eggs"
+      },
+      "title": {
+        "kor": "난자 냉동 시술 그 이후: 가디언지가 던지는 질문들",
+        "eng": "Tell us: what happened after you froze your eggs?",
+        "hu": "Mesélje el: mi történt a petesejt-fagyasztás után?"
+      },
+      "desc": {
+        "kor": "최근 급증한 난자 냉동 시술 이후의 실제 경험과 선택에 대해 언론사가 대중의 목소리를 구하고 있습니다.",
+        "eng": "The Guardian is asking people to share their experiences and choices after undergoing elective egg freezing.",
+        "hu": "A Guardian arról kérdezi az embereket, hogy milyen tapasztalataik és döntéseik voltak a petesejtek fagyasztása után."
+      },
+      "article": {
+        "kor": "여성의 가임력 보존을 위한 난자 냉동 시술, 즉 난자 냉동보존술에 대한 사회적 관심이 수십 년간 이어져 왔으며, 특히 2012년 이후 이러한 자발적 시술은 폭발적인 증가 추세를 보였습니다. 노화나 질병으로 인한 생식 능력 저하에 대비하는 일종의 보험 격으로 여겨지는 이 시술은 상당한 비용이 소요될 뿐만 아니라 신체적, 정신적으로 복잡한 과정을 동반합니다.\n\n그러나 많은 비용을 들여 난자를 냉동 보관한 이들 중 상당수가 실제로 이를 사용하지 않는다는 연구 결과가 존재하며, 시술을 활용한 이들의 결과 역시 엇갈리는 양상을 보입니다. 아울러 장기간 보관에 따른 지속적인 경제적 비용 부담과 함께, 보관된 난자의 향후 처리에 관한 심도 있는 질문들이 제기되고 있습니다.\n\n영국의 일간지 가디언은 5년, 10년, 혹은 15년 전에 난자를 냉동했던 이들로부터 그 이후의 삶과 선택에 관한 구체적인 증언을 청취하고자 합니다. 과연 난자 냉동이라는 '보험'은 당사자에게 진정한 심리적 안정감을 선사했는지, 혹은 실제 사용을 결정했을 때 어떤 결과가 초래되었는지에 대한 의문이 제기됩니다.\n\n만약 난자를 사용하지 않기로 최종 결정을 내렸다면, 장기 보관 중인 잔여 난자의 폐기나 기증 등과 관련하여 어떠한 중대한 결정을 내렸는지 역시 주요 관심사입니다. 해당 매체는 이러한 질문들을 바탕으로 시술 이외의 영역에 가려져 있던 후속 선택의 현실을 조명하고 있습니다.",
+        "eng": "Much attention has been devoted to the decision to preserve fertility through oocyte cryopreservation, a procedure that ceased to be considered experimental in 2012 and has since boomed. Often viewed as an insurance policy against age- or illness-related fertility decline, the process involves significant financial and complex physical commitments.\n\nHowever, research suggests that a large proportion of individuals who undergo egg freezing never actually utilize their stored gametes, and outcomes for those who do remain mixed. Furthermore, long-term storage introduces continuous financial costs and complex ethical or practical questions regarding the future of the stored material.\n\nIn response to this, the Guardian is seeking firsthand accounts from individuals who froze their eggs five, 10, or 15 years ago to understand what transpired subsequently. Central to this inquiry is whether this so-called insurance successfully provided genuine peace of mind and what actually unfolded when individuals decided to utilize their frozen eggs.\n\nAdditionally, for those who ultimately chose not to use their frozen eggs, the publication aims to explore the consequential decisions made regarding their disposal or alternative outcomes. By gathering these detailed personal narratives, the initiative seeks to illuminate the less-explored aftermath of a widely adopted reproductive technology.",
+        "hu": "Nagy figyelmet kapott a megtermékenyítő képesség megőrzése a petesejt-krioprezerváció révén, amely eljárást 2012 óta már nem tekintenek kísérletinek, és azóta jelentős növekedésnek indult. Gyakran az öregedés vagy betegség miatti termékenységcsökkenés elleni biztosításként tekintenek rá, ám a folyamat jelentős költségekkel és összetettséggel jár.\n\nA kutatások azonban azt sugallják, hogy a petesejt-fagyasztáson áteső emberek többsége soha nem használja fel a petesejtjeit, és az eredmények vegyesek azok körében, akik mégis így tesznek. Ezenkívül a hosszú távú tárolás sajátos költségeket és kérdéseket felvet.\n\nA Guardian olyan emberektől vár történeteket, akik 5, 10 vagy akár 15 évvel ezelőtt fagyasztották le petesejtjeiket, hogy megtudják, mi történt ezután. Vajon a „biztosítás” lelki békét hozott-e, és mi történt a felhasználás vagy annak elvetése után?\n\nKérjük az olvasókat, hogy részletesen osszák meg tapasztalataikat egy űrlapon keresztül, hogy egy újságíró felvehesse velük a kapcsolatot a közzététel előtt. Ez a kezdeményezés segít feltárni a technológia kevésbé feltárt utóéletét."
+      },
+      "vocab": [
+        {
+          "word": "난자 냉동보존술",
+          "meaning_en": "Oocyte cryopreservation (egg freezing)",
+          "meaning_hu": "Petesejt-krioprezerváció (petesejt-fagyasztás)"
+        },
+        {
+          "word": "가임력",
+          "meaning_en": "Fertility (reproductive capacity)",
+          "meaning_hu": "Termékenység (reproduktív képesség)"
+        },
+        {
+          "word": "잔여 난자",
+          "meaning_en": "Remaining eggs",
+          "meaning_hu": "Megmaradt petesejtek"
+        },
+        {
+          "word": "증언",
+          "meaning_en": "Testimony / Account",
+          "meaning_hu": "Tanúságtétel / Beszámoló"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "난자 냉동 시술을 단순한 노후 대비 '보험'으로 보는 시각에 대해 어떻게 생각하십니까?",
+          "eng": "What is your opinion on viewing egg freezing simply as an 'insurance policy' against aging?",
+          "hu": "Mi a véleménye arról, hogy a petesejt-fagyasztásra egyszerűen az öregedés elleni „biztosításként” tekintenek?"
+        },
+        {
+          "kor": "시술 후 실제로 난자를 사용하지 않게 되었을 때 직면하게 되는 윤리적, 경제적 고민에는 어떤 것이 있을까요?",
+          "eng": "What ethical and economic dilemmas do individuals face when they ultimately decide not to use their frozen eggs?",
+          "hu": "Milyen etikai és gazdasági dilemmákkal szembesülnek az emberek, amikor végül úgy döntenek, hogy nem használják fel fagyasztott petesejtjeiket?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-7",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "오픈AI, 중요한 정보를 잘못 다룬 직원 3명을 해고했습니다",
+        "eng": "OpenAI fires three workers over mishandling 'sensitive information'",
+        "hu": "Az OpenAI három dolgozót bocsátott el 'érzékeny információk' helytelen kezelése miatt"
+      },
+      "desc": {
+        "kor": "인공지능 개발 회사 오픈AI가 회사 규정을 어긴 연구원 3명을 해고했습니다.",
+        "eng": "OpenAI has fired three researchers for mishandling sensitive company information.",
+        "hu": "Az OpenAI három kutatót bocsátott el érzékeny céges információk helytelen kezelése miatt."
+      },
+      "article": {
+        "kor": "인공지능(AI) 개발 회사인 오픈AI가 중요한 정보를 잘못 다룬 연구원 3명을 해고했습니다. 회사 대변인은 이들이 정해진 회사 규칙을 어기고 중요한 정보를 외부로 유출했다고 밝혔습니다. 해고된 직원 중 최소 2명은 AI 안전을 연구하는 부서에서 일했습니다.\n\n이번 일은 최근 AI 기술의 위험성과 안전 문제에 대한 관심이 높아진 가운데 일어났습니다. 오픈AI 측은 이들이 안전에 대한 우려를 제기해서 해고된 것이 아니며, 오직 규정을 위반했기 때문이라고 설명했습니다.\n\n최근 많은 전문가들은 AI 기술이 사람들에게 위험할 수 있다고 경고하고 있습니다. 이에 따라 미국 대통령과 주요 기술 기업 대표들이 모여 AI 안전을 위한 회의를 열기도 했습니다. 오픈AI는 앞으로도 회사의 중요한 규칙을 철저하게 지킬 것이라고 강조했습니다.",
+        "eng": "OpenAI has fired three researchers for allegedly mishandling information, including work involving external organizations. A spokesperson said these individuals broke company rules and violated policies regarding sensitive information. The ChatGPT-maker did not name the workers, but at least two were involved in safety research.\n\nThese firings happen as debate over AI safety and potential risks to humanity intensifies. OpenAI clarified that the former employees were not let go for raising safety concerns, but for mishandling information.\n\nConcerns over AI safety have made headlines recently as experts call for more guardrails. US leaders and top tech executives have also met to discuss AI risks and protection measures. OpenAI continues to emphasize the importance of following company procedures and protecting sensitive data.",
+        "hu": "Az OpenAI három kutatót bocsátott el információk helytelen kezelése miatt. Egy szóvivő elmondta, hogy ezek a személyek megszegték a vállalat szabályait az érzékeny információkkal kapcsolatban. A ChatGPT készítője nem nevezte meg a dolgozókat, de legalább ketten biztonsági kutatásokkal foglalkoztak.\n\nEzek a elbocsátások akkor történnek, amikor az MI biztonságával kapcsolatos viták felerősödnek. Az OpenAI tisztázta, hogy a volt alkalmazottakat nem a biztonsági aggályok felvetése miatt bocsátották el.\n\nAz MI biztonságával kapcsolatos aggályok a címlapokra kerültek, mivel a szakértők több szabályozást szorgalmaznak. Az amerikai vezetők és a tech óriások vezetői is találkoztak az MI kockázatainak megvitatására."
+      },
+      "vocab": [
+        {
+          "word": "해고하다",
+          "meaning_en": "to fire, to dismiss",
+          "meaning_hu": "elbocsátani"
+        },
+        {
+          "word": "규정",
+          "meaning_en": "rule, regulation",
+          "meaning_hu": "szabály, előírás"
+        },
+        {
+          "word": "위험성",
+          "meaning_en": "risks, danger",
+          "meaning_hu": "kockázat, veszély"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "오픈AI가 직원들을 해고한 이유는 무엇인가요?",
+          "eng": "Why did OpenAI fire the workers?",
+          "hu": "Miért bocsátotta el az OpenAI a dolgozókat?"
+        },
+        {
+          "kor": "최근 인공지능(AI) 기술에 대해 어떤 걱정들이 나오고 있나요?",
+          "eng": "What kind of concerns are being raised about AI technology recently?",
+          "hu": "Milyen aggodalmak merülnek fel legutóbb az MI technológiával kapcsolatban?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-8",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm1j4j9lxp49o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국 왕세자, 홍수 해결을 위해 종합적인 접근이 필요하다고 강조하다",
+        "eng": "Prince of Wales tells villagers 'holistic' approach is needed to tackle flooding",
+        "hu": "A walesi herceg szerint 'holisztikus' megközelítés szükséges az árvizek kezeléséhez"
+      },
+      "desc": {
+        "kor": "영국의 윌리엄 왕세자가 심각한 홍수 피해를 겪은 마을을 방문해 종합적인 대책 마련의 필요성을 이야기했습니다.",
+        "eng": "The Prince of Wales visited a flood-hit village and discussed the need for a comprehensive approach to tackle severe flooding.",
+        "hu": "A walesi herceg ellátogatott egy áradás sújtotta faluba, és az átfogó megközelítés szükségességéről tárgyalt."
+      },
+      "article": {
+        "kor": "영국의 윌리엄 왕세자가 최근 심각한 홍수 피해를 입은 웨일스의 작은 마을 스켄프리스를 방문했다. 이 마을 주민들은 지난 6년 동안 네 차례나 큰 홍수를 겪었다. 특히 지난겨울에는 강이 범람하면서 마을이 큰 피해를 입었다.\n\n왕세자는 주민들을 만나 홍수로 인한 어려움을 공감하고 이야기를 나누었다. 그는 과거에는 50년에 한 번 발생하던 극단적인 날씨가 이제는 매년 발생하고 있다고 지적했다. 이어 이러한 문제를 해결하기 위해 유역 전체를 아우르는 종합적인 접근이 필요하다고 강조했다.\n\n이를 위해 왕세자는 농경지 조경을 통한 물의 흐름 늦추기, 나무 심기, 더 나은 모니터링 시스템 구축 등 다양한 아이디어를 제시했다. 그는 환경 단체 관계자들과도 만나 이러한 해결책을 자세히 논의했다.",
+        "eng": "The Prince of Wales visited the small Welsh village of Skenfrith, which has faced severe flooding in recent years. Residents in the village have experienced four major floods in the past six years, suffering significant damage during the winter.\n\nThe prince met with local residents to listen to their experiences and express sympathy. He pointed out that extreme weather events that used to happen once in 50 years now seem to occur every year, emphasizing that a holistic approach covering the entire catchment area is necessary.\n\nTo tackle this problem, the prince listed several ideas including slowing down water using farming landscaping remedies, planting trees, and improving monitoring systems. He later discussed these solutions in detail with environmental charity representatives.",
+        "hu": "A walesi herceg ellátogatott Skenfrith kis walesi falujába, amely az elmúlt években súlyos áradásokkal nézett szembe. A falu lakói az elmúlt hat év során négy jelentős áradást éltek át, és a téli időszakban komoly károkat szenvedtek el.\n\nA herceg találkozott a helyi lakosokkal, hogy meghallgassa tapasztalataikat és kifejezze együttérzését. Rámutatott, hogy a korábban 50 évente előforduló szélsőséges időjárási események ma már úgy tűnik, évente megtörténnek, hangsúlyozva, hogy a teljes vízgyűjtő területet átfogó holisztikus megközelítésre van szükség.\n\nA probléma kezelésére a herceg számos ötletet sorolt fel, beleértve a víz lassítását mezőgazdasági tájépítészeti módszerekkel, a fák ültetését és a jobb monitoring rendszerek kiépítését. Később részletesen megvitatta ezeket a megoldásokat környezetvédelmi szervezetek képviselőivel."
+      },
+      "vocab": [
+        {
+          "word": "홍수",
+          "meaning_en": "flood",
+          "meaning_hu": "árvíz"
+        },
+        {
+          "word": "주민",
+          "meaning_en": "resident",
+          "meaning_hu": "helyi lakos"
+        },
+        {
+          "word": "접근",
+          "meaning_en": "approach",
+          "meaning_hu": "megközelítés"
+        },
+        {
+          "word": "해결책",
+          "meaning_en": "solution",
+          "meaning_hu": "megoldás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 사는 지역에는 자연재해를 막기 위한 어떤 대책이 있나요?",
+          "eng": "What measures are there in your area to prevent natural disasters?",
+          "hu": "Milyen intézkedések léteznek az Ön lakóhelyén a természeti katasztrófák megelőzésére?"
+        },
+        {
+          "kor": "기후 변화로 인한 극단적인 날씨에 어떻게 대처해야 할까요?",
+          "eng": "How should we cope with extreme weather caused by climate change?",
+          "hu": "Hogyan kellene kezelnünk az éghajlatváltozás okozta szélsőséges időjárást?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-9",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "스페이스X, 국제우주정거장으로 새로운 우주비행사 팀 발사",
+        "eng": "SpaceX launches crew to ISS",
+        "hu": "A SpaceX űrhajósokat küldött a Nemzetközi Űrállomásra"
+      },
+      "desc": {
+        "kor": "스페이스X가 팰컨 9 로켓을 이용해 미국, 러시아, 캐나다 국적의 우주비행사들을 국제우주정거장(ISS)으로 성공적으로 보냈습니다.",
+        "eng": "SpaceX successfully launched astronauts to the ISS using the Falcon 9 rocket.",
+        "hu": "A SpaceX sikeresen indított űrhajósokat a Nemzetközi Űrállomásra a Falcon 9 rakétával."
+      },
+      "article": {
+        "kor": "미국 플로리다주 케이프 카너벌에서 스페이스X의 팰컨 9 로켓이 국제우주정거장(ISS)을 향해 발사되었습니다. 이번 임무에 참여한 크루-13 팀은 미국 항공우주국(NASA) 우주비행사 2명, 러시아 우주비행사 1명, 그리고 캐나다 우주비행사 1명으로 구성되어 있습니다. 특히 캐나다 우주비행사의 아내는 임무 기간 중에 세 번째 아이의 출산을 앞두고 있어서 큰 주목을 받고 있습니다.\n\n이번 발사는 원래 9터 중반으로 계획되었으나, 우주선의 추진 시스템에 있는 밸브를 교체하기 위해 일정이 연기되었습니다. 우주비행사들이 ISS에 도착하는 데는 약 7시간 50분이 걸릴 예정입니다. 그들은 이곳에 머무는 동안 달과 화성 탐사를 위한 다양한 과학 실험과 연구를 진행하게 됩니다.\n\n이번 비행은 우주 탐사 역사에서 흥미로운 기록도 남기게 됩니다. 임무 수행 중 자녀가 태어나는 네 번째 우주비행사 부부가 탄생할 예정이기 때문입니다. 이처럼 민간 기업의 우주 개발이 활발해지면서 우주 탐사의 범위와 가능성은 더욱 넓어지고 있습니다.",
+        "eng": "The SpaceX Falcon 9 rocket launched from Cape Canaveral, Florida to the International Space Station carrying Crew-13. The team includes two NASA astronauts, a Russian cosmonaut, and a Canadian astronaut whose wife is expecting their third child during the mission.\n\nThe launch was originally planned for mid-September, but was delayed to replace a valve in the spacecraft's propulsion system. It will take nearly 8 hours for the crew to reach the ISS, where they will conduct experiments for future missions to the Moon and Mars.\n\nThis mission highlights the ongoing advancements in commercial space travel. The crew's activities on the ISS will contribute significantly to humanity's future deep space exploration goals.",
+        "hu": "A SpaceX Falcon 9 rakétája elindult a floridai Cape Canaveralről a Nemzetközi Űrállomás felé a Crew-13 csapattal a fedélzetén. A csapat két NASA-űrhajósból, egy orosz űrhajósból és egy kanadából származó űrhajósból áll, akinek felesége a harmadik gyermeküket várja a küldetés ideje alatt.\n\nAz indítást eredetileg szeptember közepére tervezték, de elhalasztották a űrhajó hajtórendszerének egy szelep cseréje miatt. A személyzetnek mintegy 8 óráга lesz szüksége ahhoz, hogy elérje az Űrállomást, ahol kísérleteket végeznek a Hold és a Mars elleni jövőbeli küldetések érdekében.\n\nEz a küldetés ismét hangsúlyozza a magán űrutazás fejlődését. Az Űrállomáson végzett munka hozzájárul az emberiség jövőbeli űrkutatási céljaihoz."
+      },
+      "vocab": [
+        {
+          "word": "우주비행사",
+          "meaning_en": "astronaut",
+          "meaning_hu": "űrhajós"
+        },
+        {
+          "word": "추진 시스템",
+          "meaning_en": "propulsion system",
+          "meaning_hu": "meghajtórendszer"
+        },
+        {
+          "word": "과학 실험",
+          "meaning_en": "scientific experiment",
+          "meaning_hu": "tudományos kísérlet"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "우주에서 생활하는 동안 가족이 아이를 낳는 것에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about having a child born while a parent is in space?",
+          "hu": "Mit gondol arról, hogy gyermeke születik valakinek, amíg az űrben tartózkodik?"
+        },
+        {
+          "kor": "민간 기업이 주도하는 우주 탐사의 장점은 무엇이라고 생각하시나요?",
+          "eng": "What do you think are the advantages of space exploration led by private companies?",
+          "hu": "Ön szerint mik a magáncégek által vezetett űrkutatás előnyei?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-10",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "트럼프의 인공지능 용어 변경 추진으로 슬로베니아 웹사이트 도메인 수요 폭증",
+        "eng": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+        "hu": "Trump MI-átnevezési kezdeményezése példátlan keresletet váltott ki a szlovén weboldal-nevek iránt"
+      },
+      "desc": {
+        "kor": "미국 대통령의 인공지능 명칭 변경 발언으로 슬로베니아 국가 도메인(.si) 등록 건수가 급증했습니다.",
+        "eng": "Registrations for Slovenian domain names surged following the US president's push to rename artificial intelligence.",
+        "hu": "Megugrott a szlovén domainnevek regisztrációja azután, hogy az amerikai elnök az MI átnevezését szorgalmazta."
+      },
+      "article": {
+        "kor": "도널드 트럼프 미국 대통령이 인공지능(AI)이라는 용어를 '슈퍼 인텔리전스(Super Intelligence)' 또는 'SI'로 바꾸자고 제안한 이후, 슬로베니아의 공식 국가 도메인 등록 건수가 전례 없는 증가세를 보이고 있습니다. 슬로베니아 국가 도메인 등록소인 레지스터에 따르면, 9월 한 달 동안 '.si'로 끝나는 웹 주소는 4만 4천 건이나 등록되었습니다. 이는 불과 2천 건 미만이었던 8월과 비교할 때 2,100% 이상 폭증한 수치이며, 지난 12개월의 기록과 비교해도 압도적인 규모입니다.\n\n트럼프 대통령은 지난 9월 11일 뉴욕에서 열린 유엔 총회 연설에서 인공지능이라는 단어가 기술을 실제보다 가짜처럼 들리게 만든다고 주장했습니다. 그는 기술의 명칭을 '슈퍼 인텔리전스'로 변경해야 한다고 촉구했으며, 실제로 미국 정부 부처와 기관들이 공식 문서와 웹사이트에서 'AI' 대신 'SI'라는 용어를 사용하도록 지시하는 행정명령에 서명했습니다.\n\n이처럼 슬로베니아의 웹 주소 등록이 급증한 배경에는 여러 해석이 존재합니다. 일각에서는 향후 가치가 상승할 것을 기대하고 도메인을 미리 선점하여 차익을 실현하려는 투기적 목적의 구매가 작용했을 가능성을 제기합니다. 슬로베니아 등록소 관계자는 이러한 현상이 트럼프 대통령의 발언과 연관이 깊어 보이지만, 전체 증가 원인을 단 하나의 요인으로 단정하기에는 신중한 입장을 취하고 있습니다.\n\n인터넷 도메인은 사용자가 웹사이트에 접속하기 위해 브라우저에 입력하는 고유한 주소를 의미합니다. 과거에도 특정 도메인을 선점하여 거액의 차익을 남긴 사례가 존재했던 만큼, 이번 명칭 변경 해프닝이 도메인 시장에 미칠 파장에 기술 업계의 이목이 집중되고 있습니다.",
+        "eng": "Following US President Donald Trump's proposal to rename artificial intelligence (AI) to \"super intelligence\" or \"SI\", Slovenia's official national domain registrations have seen an unprecedented surge. According to Register.si, 44,000 web addresses with the .si suffix were registered in September, compared to less than 2,000 in August. This represents an increase of more than 2,100%, a scale described as unprecedented over the previous 12 months.\n\nTrump called for the renaming during his September 11 speech at the United Nations General Assembly in New York, arguing that the word \"artificial\" makes the technology sound fake. He subsequently signed an executive order instructing US government departments and agencies to use the terms \"SI\" and \"Super Intelligence\" in official correspondence and websites instead of AI.\n\nSeveral interpretations exist regarding the sudden spike in Slovenian web address registrations. Some suggest it may be driven by speculative domain purchases in anticipation that specific names might increase in value for future profit. While the registry acknowledged a clear correlation with Trump's comments, officials remain cautious about attributing the entire increase solely to his remarks.\n\nInternet domains serve as unique, human-readable addresses used to access websites. Given historical precedents where early domain registrants achieved massive profits, the tech community is closely monitoring how this rebranding effort will impact the broader domain market.",
+        "hu": "Miután Donald Trump amerikai elnök javasolta a mesterséges intelligencia (MI) átnevezését „szuperintelligenciára” vagy „SI”-re, Szlovénia hivatalos nemzeti domainneveinek regisztrációja példátlan növekedést mutatott. A Register.si adatai szerint szeptemberben 44 ezer .si végződésű webcímet regisztráltak, szemben az augusztusi kevesebb mint 2 ezerrel. Ez több mint 2100 százalékos növekedést jelent, amely példátlan mértékűnek számít az előző 12 hónaphoz képest.\n\nTrump szeptember 11-én, a New York-i ENSZ-közgyűlésen tartott beszédében szorgalmazta az átnevezést, azzal érvelve, hogy a „mesterséges” szó miatt a technológia hamisnak hangzik. Ezt követően aláírt egy elnöki rendeletet, amely arra utasítja az amerikai kormánya ügynökségeit, hogy a hivatalos levelezésben és a weboldalakon az AI helyett az „SI” és a „szuperintelligencia” kifejezéseket használják.\n\nA szlovén webcímek hirtelen megugrása mögött többféle magyarázat is létezik. Egyesek szerint spekulatív domainvásárlásokról lehet szó, mivel a vásárlók abban bíznak, hogy a nevek értéke később megnő, és nyereséggel adhatják el őket. Bár a regisztrációs hatóság elismerte a kapcsolatot Trump megjegyzéseivel, óvatosan kezelik azt a feltevést, hogy a teljes növekedést kizárólag a nyilatkozat okozta.\n\nAz internetes domainek egyedi címek, amelyeket a felhasználók a weboldalak eléréséhez használnak. Mivel a múltban is voltak példák arra, hogy korai domain-regisztrációkkal hatalmas profitra tettek szert, a technológiai közösség figyelemmel kíséri az átnevezés hatásait a domainpiacra."
+      },
+      "vocab": [
+        {
+          "word": "도메인",
+          "meaning_en": "domain",
+          "meaning_hu": "domain"
+        },
+        {
+          "word": "등록소",
+          "meaning_en": "registry",
+          "meaning_hu": "nyilvántartó hivatal"
+        },
+        {
+          "word": "폭증",
+          "meaning_en": "sudden surge / explosive increase",
+          "meaning_hu": "hirtelen robbanásszerű növekedés"
+        },
+        {
+          "word": "투기적",
+          "meaning_en": "speculative",
+          "meaning_hu": "spekulatív"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "미국 대통령이 인공지능의 이름을 바꾸려고 하는 이유는 무엇이라고 생각합니까?",
+          "eng": "What do you think is the reason behind the US president's push to rename artificial intelligence?",
+          "hu": "Mi véleménye szerint az oka annak, hogy az amerikai elnök át akarja nevezni a mesterséges intelligenciát?"
+        },
+        {
+          "kor": "특정 웹사이트 주소를 미리 사들이는 행동이 투자로서 가치가 있다고 생각하나요?",
+          "eng": "Do you think buying specific website addresses in advance is a worthwhile investment?",
+          "hu": "Ön szerint értékes befektetés előre megvásárolni bizonyos weboldal-címeket?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-11",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 8,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cq20v0exmv2eo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "스코틀랜드 전역으로 확대되는 블루텅 바이러스 통제 구역",
+        "eng": "Bluetongue restriction zone to be expanded across all of Scotland",
+        "hu": "Kiterjesztik a kéknyelv-betegség miatti korlátozott zónát Skócia egész területére"
+      },
+      "desc": {
+        "kor": "스코틀랜드 정부가 가축 질병인 블루텅 바이러스의 확산에 대응하여 통제 구역을 스코틀랜드 전역으로 확대하기로 결정했습니다.",
+        "eng": "The Scottish government has decided to expand the bluetongue virus restriction zone across the entire region to streamline livestock trading.",
+        "hu": "A skót kormány úgy döntött, hogy kiterjeszti a kéknyelv-betegség korlátozott zónáját Skócia egész területére az állatkereskedelem megkönnyítése érdekében."
+      },
+      "article": {
+        "kor": "스코틀랜드 정부는 다가오는 토요일부터 블루텅 바이러스 관련 통제 구역을 스코틀랜드 전역으로 확대한다고 밝혔습니다. 이번 조치는 지난 8월 남서부 지역에서 최초로 확진 사례가 보고된 이후 관련 업계 대표들과의 긴밀한 협의를 거쳐 내려졌습니다. 정부는 전역이 동일한 질병 상태를 공유하게 됨에 따라 농가와 운송업자, 경매 시장의 가축 거래 절차가 훨씬 수월해질 것이라고 설명했습니다.\n\n블uetongue(블루텅)는 곤충을 통해 전파되는 바이러스성 질환으로 양과 소 등 반추동물에게 큰 피해를 줍니다. 사람의 건강이나 식품 안전에는 위협이 되지 않지만, 감염된 양에게는 높은 폐사율을 유발하고 소에게는 번식 장애를 일으킵니다. 지난 9월 초 남서부 지역에 통제 구역이 설정된 이래 해당 지역 농장 등에서 총 40건의 감염 사례가 확인되었습니다.\n\n통제 구역이 스코틀랜드 전역으로 확대됨에 따라, 그동안 남서부 지역 내외로 감염 취약 가축을 이동할 때 필수적이었던 개별 이동 허가서가 더 이상 필요하지 않게 되었습니다. 짐 페어리 스코틀랜드 농업장관은 이번 조치가 가축 거래가 집중되는 중요한 시기에 농민들의 행정적 부담을 덜어주는 합리적인 결정이라고 강조했습니다.\n\n다만 당국은 통제 구역 확대가 바이러스 대응을 위한 장기적 접근 방식을 바꾸는 것은 아니라고 선을 그었습니다. 짐 페어리 장관은 백신 접종이 블루텅의 최악의 피해로부터 가축을 보호하는 가장 효과적인 수단이라고 역설하며, 농가들이 수의사와 상담하여 백신을 미리 확보할 것을 강력히 권고했습니다. 아울러 정부와 업계는 공동 통신 그룹을 신설하여 백신 접종을 독려하고 관련 정보를 공유할 방침입니다.",
+        "eng": "The Scottish government announced that bluetongue restriction zones will be expanded across the entire country starting Saturday. This decision follows consultations with industry representatives after cases first appeared in the south-west in August. Officials explained that sharing the same disease status across Scotland will make trading more straightforward for farmers and hauliers.\n\nBluetongue is an insect-borne viral disease affecting sheep and cattle, causing high mortality in sheep and fertility issues in cattle, though it poses no threat to humans. Since early September, 40 premises have been affected within the initial south-west zone. With the nationwide expansion, movement licences previously required for livestock will no longer be necessary, easing administrative burdens during the peak trading season.\n\nHowever, officials noted that the expansion does not alter their long-term approach to tackling the disease. Agriculture Minister Jim Fairlie strongly encouraged farmers to discuss vaccination approaches with vets to protect their animals ahead of higher-risk seasons. Additionally, a joint government-industry communications group is being established to promote vaccination and share ongoing advice.",
+        "hu": "A skót kormány bejelentette, hogy szombattól Skócia egész területére kiterjesztik a kéknyelv-betegség miatti korlátozott zónákat. A döntés az iparági képviselőkkel folytatott egyeztetéseket követően született meg, miután augusztusban az ország délnyugati részén felbukkantak az első esetek. A hatóságok szerint a lépés egyszerűbbé teszi a kereskedést a gazdák és a szállítók számára.\n\nA kéknyelv-betegség egy rovarok által terjesztett vírusos fertőzés, amely a juhokat és a szarvasmarhákat érinti, magas elhullási arányt okozva a juhoknál, bár az emberi egészségre nem jelent veszélyt. Szeptember eleje óta negyven fertőzést azonosítottak a korábbi délnyugati zónában. Az országos kiterjesztésnek köszönhetően a jövőben nem lesz szükség a korábban kötelező egyedi állatszállítási engedélyekre.\n\nJim Fairlie mezőgazdasági miniszter hangsúlyozta, hogy a döntés csökkenti a gazdák adminisztratív terheit a kulcsfontosságú kereskedési időszakban. Ugyanakkor hozzátette, hogy a korlátozások enyhítése nem jelenti a betegség elleni hosszú távú küzdelem feladását. A hatóságok továbbra is a védőoltások beadását szorgalmazzák a legfőbb megelőző eszközként, és közös kommunikációs csoportot hoznak létre a gazdák támogatására."
+      },
+      "vocab": [
+        {
+          "word": "통제 구역",
+          "meaning_en": "restriction zone",
+          "meaning_hu": "korlátozott zóna"
+        },
+        {
+          "word": "폐사율",
+          "meaning_en": "mortality rate / death rate",
+          "meaning_hu": "elhullási arány / halálozási ráta"
+        },
+        {
+          "word": "행정적 부담",
+          "meaning_en": "administrative burden",
+          "meaning_hu": "adminisztratív teher"
+        },
+        {
+          "word": "백신 접종",
+          "meaning_en": "vaccination",
+          "meaning_hu": "védőoltás / vakcináció"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "정부가 블루텅 바이러스 통제 구역을 스코틀랜드 전역으로 확대하려는 주요 이유는 무엇인가요?",
+          "eng": "What is the main reason why the government is expanding the bluetongue restriction zone across all of Scotland?",
+          "hu": "Mi a fő oka annak, hogy a kormány Skócia egész területére kiterjeszti a kéknyelv-betegség korlátozott zónáját?"
+        },
+        {
+          "kor": "가축 질병 확산을 막기 위해 농민들이 취해야 할 가장 효과적인 조치는 무엇입니까?",
+          "eng": "What is the most effective action farmers should take to protect their livestock from the disease?",
+          "hu": "Mi a leghatékonyabb intézkedés, amelyet a gazdáknak tenniük kell állatállományuk védelme érdekében?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-12",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Proficient",
+      "levelNum": 9,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영란은행 총재, AI 열풍으로 인한 금융시장 충격 경고",
+        "eng": "AI boom could trigger market shocks, Bank of England boss warns",
+        "hu": "Az angol központi bank elnöke szerint az AI-boom piaci sokkot okozhat"
+      },
+      "desc": {
+        "kor": "영란은행 앤드루 베일리 총재가 AI 산업에 대한 과도한 투자가 자산 가격 조정과 금융시장 충격을 야기할 수 있다고 경고했습니다.",
+        "eng": "Bank of England Governor Andrew Bailey warns that massive investments in AI could trigger market corrections and financial shocks.",
+        "hu": "Az angol központi bank kormányzója, Andrew Bailey arra figyelmeztet, hogy az AI-ba történő hatalmas befektetések piaci korrekciókat és pénzügyi sokkokat válthatnak ki."
+      },
+      "article": {
+        "kor": "영란은행(Bank of England)의 앤드루 베일리(Andrew Bailey) 총재는 인공지능(AI) 붐이 금융시장에 잠재적인 충격을 촉발할 수 있으며, 영국 경제가 이에 철저히 대비해야 한다고 경고했습니다. 그는 중앙은행이 AI 분야에 유입되는 막대한 규모의 자금을 매우 면밀히 주시하고 있으며, 과거의 역사적 선례를 미루어 볼 때 모든 투자자가 항상 승자가 되는 것은 아니라고 강조했습니다.\n\n최근 몇 년간 AI 기업들에 투입되거나 대출된 자본은 대규모 수익에 대한 기대감과 맞물려 일부 기업의 가치를 수조 달러 규모로 급등시켰습니다. 엔비디아(Nvidia), 알파벳(Alphabet), 메타(Meta), 마이크로소프트(Microsoft), 아마존(Amazon) 등 거대 기술 기업들이 이 기술에 수천억 달러를 지출하고 있으며, 앤트로픽(Anthropic)과 오픈AI(OpenAI) 같은 선도적 AI 기업들도 미국 증시 상장을 준비하고 있습니다.\n\n베일리 총재는 이러한 거대한 투자가 자연스러운 현상임을 인정하면서도, 시장이 모든 기업을 승자로 가정하고 가격을 책정하고 있다고 지적했습니다. 과거 인터넷 검색 시장의 선두 주자였던 넷스케이프(Netscape)가 오늘날 사라진 것처럼 시장은 언제든 변동성을 겪을 수 있습니다.\n\n결과적으로 그는 향후 시장에 도래할 잠재적 충격에 대비하여 금융 시스템의 회복탄력성을 확보해야 한다고 역설했습니다. 아울러 베일리 총재는 시장 과열에 대한 우려 외에도, AI 기술이 사이버 공격 등에 악용될 수 있는 잠재적 위험성에 대해서도 함께 경고했습니다.",
+        "eng": "Andrew Bailey, the governor of the Bank of England, has warned that the artificial intelligence boom could trigger potential shocks in financial markets, urging the UK economy to be fully prepared. He emphasized that the central bank is monitoring the massive influx of capital into the AI sector very closely and cautioned, based on historical precedents, that not everyone always wins in emerging markets.\n\nIn recent years, capital invested in or loaned to AI firms, fueled by expectations of substantial returns, has skyrocketed the valuation of several companies into the multi-trillion-dollar range. Major tech giants such as Nvidia, Alphabet, Meta, Microsoft, and Amazon are pouring hundreds of billions of dollars into the technology, while leading AI firms like Anthropic and OpenAI are preparing for stock market listings in the US.\n\nWhile acknowledging that such massive investments are a natural occurrence, Bailey pointed out that the market has priced everybody as a winner. Drawing parallels to past market shifts—such as how Netscape was once the internet search leader but no longer exists today—he underscored that markets are inherently prone to volatility.\n\nConsequently, he stressed the necessity of ensuring the resilience of the financial system to cope with prospective shocks that may materialize in the markets. In addition to concerns over market overheating, Bailey also cautioned against other associated risks, such as the potential exploitation of AI technology for cyber attacks.",
+        "hu": "Andrew Bailey, az angol központi bank elnöke arra figyelmeztetett, hogy a mesterséges intelligencia (AI) boomja potenciális sokkokat válthat ki a pénzügyi piacokon, és sürgette, hogy a brit gazdaság készüljön fel ezekre. Hangsúlyozta, hogy a jegybank nagyon szorosan figyelemmel kíséri az AI-szektorba áramló hatalmas tőkét, és történelmi példákra hivatkozva óva intett attól, hogy a befektetők mindig mindannyian nyertesek legyenek.\n\nAz elmúlt években az AI-vállalatokba befektetett vagy nekik nyújtott tőke a jelentős hozamok reményében több ezer milliárd dolláros üzletté duzzasztotta néhány cég piaci értékét. Olyan technológiai óriások, mint az Nvidia, az Alphabet, a Meta, a Microsoft és az Amazon, több száz milliárd dollárt költnek a technológiára, miközben olyan vezető AI-cégek, mint az Anthropic és az OpenAI, az amerikai tőzsdére lépésre készülnek.\n\nBár Bailey elismerte, hogy az ilyen hatalmas befektetések természetes jelenségnek számítanak, rámutatott, hogy a piac jelenleg mindenkit győztesként áraz be. Olyan múltbeli példákra utalva, mint a Netscape esete, amely egykor az internetes keresés piacvezetője volt, ma pedig már nem létezik, aláhúzta, hogy a piacok óhatatlanul ki vannak téve a volatilitásnak.\n\nEnnek következtében hangsúlyozta annak fontosságát, hogy biztosítani kell a pénzügyi rendszer ellenálló képességét a piacokat érintő esetleges sokkok kezelésére. A piaci túlhevüléstől való aggodalmak mellett Bailey más kockázatokra is figyelmeztetett, például arra, hogy az AI-technológiát kibertámadásokra is felhasználhatják."
+      },
+      "vocab": [
+        {
+          "word": "자산 가격 조정",
+          "meaning_en": "correction of asset prices",
+          "meaning_hu": "eszközárak korrekciója"
+        },
+        {
+          "word": "회복탄력성",
+          "meaning_en": "resilience",
+          "meaning_hu": "ellenállóképesség / reziliencia"
+        },
+        {
+          "word": "역사적 선례",
+          "meaning_en": "historical precedent",
+          "meaning_hu": "történelmi precedens"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "앤드루 베일리 총재가 AI 산업에 대해 경고한 주요 이유는 무엇이며, 시장 과열을 막기 위해 어떤 조치가 필요하다고 생각하십니까?",
+          "eng": "What are the main reasons behind Governor Andrew Bailey's warnings regarding the AI industry, and what measures do you think are necessary to prevent market overheating?",
+          "hu": "Mik a fő okai Andrew Bailey kormányzó AI-iparral kapcsolatos figyelmeztetéseinek, és milyen intézkedéseket tart szükségesnek a piac túlhevülésének megakadályozására?"
+        },
+        {
+          "kor": "과거의 기술 거품 사례(예: 닷컴 버블)와 현재의 AI 열풍 사이에 어떤 공통점과 차이점이 있다고 보십니까?",
+          "eng": "What similarities and differences do you see between past tech bubble episodes, such as the dot-com bubble, and the current AI boom?",
+          "hu": "Milyen hasonlóságokat és különbségeket lát a múltbeli technológiai lufik (például a dotkom-lufi) és a jelenlegi AI-boom között?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-13",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "사람들과 만날 때 불안감을 느끼나요?",
+        "eng": "Hidden habits that make your social anxiety worse - and how to break them",
+        "hu": "Rejtett szokások, amelyek súlyosbítják a szociális szorongást"
+      },
+      "desc": {
+        "kor": "사람들과 어울릴 때 불안함을 느끼는 사람들을 위한 이야기입니다.",
+        "eng": "Tips to overcome social anxiety and hidden habits that make it worse.",
+        "hu": "Tippek a szociális szorongás leküzdésére."
+      },
+      "article": {
+        "kor": "많은 사람이 새로운 사람을 만날 때 걱정을 합니다.\n\n하지만 이 불안감이 너무 크면 생활하기 어렵습니다.\n\n전문가들은 이 마음을 털어놓고 도움을 받는 것이 중요하다고 말합니다.",
+        "eng": "Many people feel worried when meeting new people.\n\nHowever, if this anxiety is too big, it is hard to live.\n\nExperts say it is important to talk about this feeling and get help.",
+        "hu": "Sok ember aggódik, amikor új emberekkel találkozik.\n\nHa azonban ez a szorongás túl nagy, nehéz az élet.\n\nA szakértők azt mondják, fontos beszélni erről az érzésről és segítséget kérni."
+      },
+      "vocab": [
+        {
+          "word": "불안",
+          "meaning_en": "anxiety",
+          "meaning_hu": "szorongás"
+        },
+        {
+          "word": "전문가",
+          "meaning_en": "expert",
+          "meaning_hu": "szakértő"
+        },
+        {
+          "word": "도움",
+          "meaning_en": "help",
+          "meaning_hu": "segítség"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "새로운 사람을 만날 때 긴장하나요?",
+          "eng": "Do you feel nervous when meeting new people?",
+          "hu": "Izgul, amikor új emberekkel találkozik?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-14",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국 정치인이 새로운 돌봄 서비스를 위해 연금 제도 변화를 말했습니다",
+        "eng": "British politician talks about pension changes to fund new care service",
+        "hu": "Brit politikus nyugdíjváltozásokról beszél az új gondozási szolgáltatás finanszírozására"
+      },
+      "desc": {
+        "kor": "영국의 앤디 번햄이 2030년부터 국가 연금 제도를 바꾸어 돌봄 서비스를 돕겠다고 말했습니다.",
+        "eng": "Andy Burnham said he plans to change the state pension system from 2030 to help fund care services.",
+        "hu": "Andy Burnham elmondta, hogy 2030-tól megváltoztatná az állami nyugdíjrendszert a gondozási szolgáltatások finanszírozására."
+      },
+      "article": {
+        "kor": "영국의 앤디 번햄이 새로운 국가 돌봄 서비스를 만들기 위한 계획을 발표했습니다. 그는 2030년부터 기존의 국가 연금 제도를 바꾸고 싶어 합니다.\n\n현재 영국은 물가나 평균 소득 중에서 더 높은 것에 맞춰 연금을 올려줍니다. 번햄은 이 제도를 바꾸어서 돌봄 서비스에 필요한 돈을 마련하려고 합니다. 그는 이것이 영국의 미래를 위해 꼭 필요한 일이라고 말했습니다.",
+        "eng": "Andy Burnham announced a plan to create a new national care service in Britain. He wants to change the existing state pension system starting from 2030.\n\nCurrently, the UK increases pensions based on whichever is higher between inflation and average earnings. Burnham wants to change this system to raise money for care services. He said this is essential for the future of the country.",
+        "hu": "Andy Burnham bejelentette egy új nemzeti gondozási szolgáltatás létrehozásának tervét Nagy-Britanniában. 2030-tól kezdődően meg akarja változtatni a meglévő állami nyugdíjrendszert.\n\nJelenleg az Egyesült Királyság az infláció vagy az átlagos keresetek közül a magasabbhoz igazítva emeli a nyugdíjakat. Burnham meg akarja változtatni ezt a rendszer pénzt gyűjteni a gondozási szolgáltatásokhoz. Azt mondta, hogy ez elengedhetetlen az ország jövője szempontjából."
+      },
+      "vocab": [
+        {
+          "word": "연금",
+          "meaning_en": "pension",
+          "meaning_hu": "nyugdíj"
+        },
+        {
+          "word": "계획",
+          "meaning_en": "plan",
+          "meaning_hu": "terv"
+        },
+        {
+          "word": "서비스",
+          "meaning_en": "service",
+          "meaning_hu": "szolgáltatás"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 살고 있는 나라의 연금 제도는 어떠합니까?",
+          "eng": "What is the pension system like in your country?",
+          "hu": "Milyen a nyugdíjrendszer az Ön országában?"
+        },
+        {
+          "kor": "노인들을 위한 돌봄 서비스는 왜 중요할까요?",
+          "eng": "Why are care services for the elderly important?",
+          "hu": "Miért fontosak az idősek gondozási szolgáltatásai?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-15",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "노인 연금 제도를 없애는 것은 도덕적으로 나쁩니다",
+        "eng": "Scrapping pensions triple lock is 'morally wrong', says union boss",
+        "hu": "A nyugdíjak védelmi rendszerének eltörlése 'erkölcsileg helytelen', mondja a szakszervezeti vezető"
+      },
+      "desc": {
+        "kor": "영국의 한 노조 대표가 노인 연금 제도를 없애면 안 된다고 말했습니다.",
+        "eng": "A UK union boss warns that scrapping the pensions triple lock is morally wrong.",
+        "hu": "Egy brit szakszervezeti vezető arra figyelmeztet, hogy a nyugdíjak védelmi rendszerének eltörlése erkölcsileg helytelen."
+      },
+      "article": {
+        "kor": "최근 영국의 새로운 복지 제도를 만들기 위해 노인 연금 제도를 없앨 수도 있다는 이야기가 나오고 있습니다. 이 제도는 매년 물가에 맞춰 노인들의 연금을 올려주는 중요한 약속입니다.\n\n하지만 영국의 한 노조 대표인 샤론 그레이엄은 이 제도를 없애는 것이 도덕적으로 나쁜 일이라고 말했습니다. 그는 연금을 받는 노인들은 적은 돈으로 생활하고 있기 때문에 그들의 안전을 지켜주어야 한다고 강조했습니다. 다른 정치인들도 이 제도를 계속 지키겠다고 약속했지만, 앞으로 복지 제도를 어떻게 바꿀지 사람들의 관심이 모이고 있습니다.",
+        "eng": "Recently, there has been talk that the pensions triple lock system might be removed to fund a new social care system in the UK. This system ensures that state pensions rise every year to help elderly people.\n\nHowever, a UK union boss named Sharon Graham said that scrapping this system would be morally wrong. She emphasized that elderly people receive a small amount of money and their security must be protected. Other politicians promised to keep the system, but people are still paying close attention to how social care will be funded.",
+        "hu": "A közelmúltban arról szóltak a hírek, hogy az Egyesült Királyságban eltörölhetik a nyugdíjak védelmi rendszerét egy új szociális ellátórendszer finanszírozása érdekében. Ez a rendszer biztosítja, hogy az állami nyugdíjak évente emelkedjenek az idősek megsegítésére.\n\nEgy brit szakszervezeti vezető, Sharon Graham azonban azt mondta, hogy e rendszer eltörlése erkölcsileg helytelen lenne. Hangsúlyozta, hogy az idősek kevés pénzből élnek, és védelmet kell biztosítani számukra. Más politikusok megígérték, hogy megtartják a rendszert, de az emberek továbbra is figyelik, hogyan finanszírozzák a szociális ellátást."
+      },
+      "vocab": [
+        {
+          "word": "연금",
+          "meaning_en": "pension",
+          "meaning_hu": ""
+        },
+        {
+          "word": "제도",
+          "meaning_en": "system",
+          "meaning_hu": "rendszer"
+        },
+        {
+          "word": "도덕적",
+          "meaning_en": "moral",
+          "meaning_hu": "erkölcsi"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 사는 나라에도 노인을 위한 연금 제도가 있습니까?",
+          "eng": "Is there a pension system for the elderly in your country?",
+          "hu": "Van-e nyugdíjrendszer az idősek számára az ön országában?"
+        },
+        {
+          "kor": "정부는 노인 복지 비용을 어떻게 마련해야 한다고 생각합니까?",
+          "eng": "How do you think the government should raise money for elderly welfare?",
+          "hu": "Ön szerint hogyan kellene a kormánynak pénzt teremtenie az időskorúak jólétéhez?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-16",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c83v4qe70r0ko?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국 새로운 돌봄 제도 도입에 오랜 시간이 걸릴 수 있습니다",
+        "eng": "New NHS-style social care system could take decades, Dilnot says",
+        "hu": "Egy új egészségügyi alapú szociális ellátórendszer bevezetése évtizedekbe telhet"
+      },
+      "desc": {
+        "kor": "영국의 새로운 무료 사회복지 제도 도입에 수십 년이 걸릴 수 있다는 전문가의 의견입니다.",
+        "eng": "An expert says a new free social care system in England could take decades to be introduced.",
+        "hu": "Egy szakértő szerint évtizedekbe telhet egy új ingyenes szociális ellátórendszer bevezetése Angliában."
+      },
+      "article": {
+        "kor": "영국의 전문가 앤드루 딜노트 씨는 새로운 사회복지 제도를 만드는 데 수십 년이 걸릴 수 있다고 말했습니다. 영국의 현재 사회복지 제도는 병원처럼 완전히 무료가 아니기 때문에 많은 사람들이 큰 비용을 내고 있습니다.\n\n앤디 번햄 총리는 모든 사람이 혜택을 받는 새로운 무료 제도를 만들고 싶어 합니다. 하지만 이 계획을 실행하려면 아주 많은 돈이 필요하고 세금이 오를 수도 있습니다.\n\n정부는 다음 선거 전에는 이 계획을 시작하기 어렵다고 밝혔습니다. 전문가들은 이런 중요한 변화를 완성하는 데 아주 긴 시간이 걸릴 것이라고 예상합니다.",
+        "eng": "British economist Sir Andrew Dilnot has told the BBC that a new social care system could take decades. Unlike the NHS, social care is not free, leaving people with huge bills.\n\nPrime Minister Andy Burnham wants to create a free system where everyone is covered. However, this plan requires a lot of money and might lead to tax increases.\n\nThe government stated that it is difficult to start this plan before the next election. Experts expect that it will take a very long time to complete these important changes.",
+        "hu": "Sir Andrew Dilnot brit közgazdász a BBC-nek elmondta, hogy egy új szociális ellátórendszer évtizedekbe telhet. Az egészségüggyel ellentétben a szociális ellátás nem ingyenes, ami miatt az embereknek hatalmas számlákat kell fizetniük.\n\nAndy Burnham miniszterelnök olyan ingyenes rendszert szeretne létrehozni, amely mindenkit lefed. Ez a terv azonban sok pénzt igényel, és adóemeléshez vezethet.\n\nA kormány kijelentette, hogy a következő választások előtt nehéz elindítani ezt a tervet. A szakértők attól tartanak, hogy nagyon sok időbe telik majd ezeknek a fontos változásoknak a megvalósítása."
+      },
+      "vocab": [
+        {
+          "word": "사회복지",
+          "meaning_en": "social care",
+          "meaning_hu": "szociális ellátás"
+        },
+        {
+          "word": "비용",
+          "meaning_en": "cost",
+          "meaning_hu": "költség"
+        },
+        {
+          "word": "계획",
+          "meaning_en": "plan",
+          "meaning_hu": "terv"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 사는 나라의 사회복지 제도는 어떤가요?",
+          "eng": "What is the social care system like in your country?",
+          "hu": "Milyen a szociális ellátórendszer az Ön országában?"
+        },
+        {
+          "kor": "모든 사람에게 무료로 사회복지 서비스를 제공하는 것이 좋을까요?",
+          "eng": "Do you think it is good to provide free social care services to everyone?",
+          "hu": "Ön szerint jó dolog ingyenes szociális szolgáltatásokat nyújtani mindenki számára?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-17",
+      "category": "Health & Mind",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국의 사회 복지 제도가 의료 체계를 위협한다는 경고가 나왔다",
+        "eng": "Broken social care will break the NHS, warns political leader",
+        "hu": "A sérült szociális ellátórendszer tönkreteszi az egészségügyet, figyelmeztet egy politikai vezető"
+      },
+      "desc": {
+        "kor": "영국의 정치인이 무너져가는 사회 복지 제도를 개혁하기 위한 새로운 국가 돌봄 서비스를 제안했습니다.",
+        "eng": "A UK political figure has proposed a new national care service to address failing social care systems.",
+        "hu": "Egy brit politikai szereplő új nemzeti gondozási szolgáltatást javasolt a romló szociális ellátórendszer kezelésére."
+      },
+      "article": {
+        "kor": "영국의 정치인 앤디 번햄은 영국의 부족한 사회 복지 문제를 해결하기 위해 국가 돌봄 서비스를 제안했다. 그는 이용할 때 비용이 전혀 들지 않는 새로운 제도를 만들고자 한다.\n\n번햄은 인터뷰에서 무너진 사회 복지 제도가 결국 영국의 국민보건서비스(NHS)까지 망가뜨릴 것이라고 경고했다. 또한 그는 이 문제를 피하지 않고 다음 선거에서 국민들에게 확실한 계획을 선보이겠다고 밝혔다.\n\n하지만 이에 대해 야당 의원인 크리스 필프는 새로운 제도를 운영하려면 세금이 더 오를 것이라고 경고했다. 보수당은 세금 인상을 절대 받아들일 수 없다는 입장을 보이고 있다.",
+        "eng": "UK political figure Andy Burnham has proposed a national care service to tackle failing social care services. He wants to create a new system that is free at the point of use.\n\nIn an interview, Burnham warned that broken social care will in the end break the National Health Service (NHS). He stated that he would not look the other way and would present a clear plan to the public at the next general election.\n\nHowever, shadow home secretary Chris Philp warned that more tax rises are likely planned to fund this scheme. The Conservatives view this potential tax increase as a red line.",
+        "hu": "Andy Burnham brit politikai személyiség egy nemzeti gondozási szolgáltatást javasolt a hiányos szociális ellátások kezelésére. Olyan új rendszert kíván létrehozni, amely a használat helyén ingyenes.\n\nEgy interjúban Burnham arra figyelmeztetett, hogy a megromlott szociális ellátás végül tönkreteszi az NHS-t. Kijelentette, hogy nem fordul el a problémától, és világos tervet terjeszt a nyilvánosság elé a következő általános választásokon.\n\nChris Philp árnyék-belügyminiszter azonban arra figyelmeztetett, hogy a program finanszírozásához további adóemelésekre lesz szükség. A Konzervatív Párt ezt a kérdést vörös vonalnak tekinti."
+      },
+      "vocab": [
+        {
+          "word": "사회 복지",
+          "meaning_en": "social care / social welfare",
+          "meaning_hu": "szociális ellátás"
+        },
+        {
+          "word": "국민보건서비스",
+          "meaning_en": "National Health Service (NHS)",
+          "meaning_hu": "Nemzeti Egészségügyi Szolgálat"
+        },
+        {
+          "word": "세금",
+          "meaning_en": "tax",
+          "meaning_hu": "adó"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "당신이 사는 나라의 의료 및 복지 제도는 어떤 상태입니까?",
+          "eng": "What is the state of the healthcare and welfare system in your country?",
+          "hu": "Milyen állapotban van az egészségügyi és jóléti rendszer az Ön országában?"
+        },
+        {
+          "kor": "더 나은 복지를 위해 세금을 더 내는 것에 대해 어떻게 생각하십니까?",
+          "eng": "What do you think about paying more taxes for better welfare services?",
+          "hu": "Mit gondol arról, hogy több adót fizessenek a jobb jóléti szolgáltatásokért?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-18",
+      "category": "Tech & Future",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News 코리아",
+        "url": "https://www.bbc.com/korean/articles/c3wyz05v7xrlo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "오픈AI, 안전성 우려로 최신 AI 모델 출시 취소",
+        "eng": "OpenAI Cancels Latest AI Model Release Due to Safety Concerns",
+        "hu": "Az OpenAI biztonsági aggályok miatt lemondja a legújabb AI-modell megjelenését"
+      },
+      "desc": {
+        "kor": "오픈AI가 안전성 검증을 통과하지 못해 최신 AI 모델 'GPT-6.1 아스트라'의 출시를 취소했습니다.",
+        "eng": "OpenAI has canceled the release of its latest AI model 'GPT-6.1 Astra' after it failed to meet safety standards.",
+        "hu": "Az OpenAI lemondta a 'GPT-6.1 Astra' nevű legújabb mesterséges intelligencia modell kiadását, mivel az nem felelt meg a biztonsági követelményeknek."
+      },
+      "article": {
+        "kor": "'챗GPT'의 개발사인 오픈AI가 안전상의 우려로 인해 최신 인공지능 모델인 'GPT-6.1 아스트라'를 공개하지 않겠다고 밝혔습니다. 오픈AI 측은 이 모델이 자사의 엄격한 안전 기준을 충족하지 못했다고 설명했습니다.\n\n최근 오픈AI의 AI 모델이 호주 정부 웹사이트와 시스템에 무단으로 접근했던 해킹 사고가 뒤늦게 알려졌습니다. 이 사건과 더불어 AI 기술의 잠재적인 위험에 대한 사회적 논쟁이 더욱 격화되고 있는 상황입니다.\n\n주요 AI 기업들의 리더들은 기술의 위협을 우려하며 개발 속도를 조절해야 한다고 촉구하고 있습니다. 이번 오픈AI의 보류 결정은 안전 문제를 이유로 신규 모델 출시를 취소한 매우 드문 사례로 주목받고 있습니다.",
+        "eng": "OpenAI, the developer of 'ChatGPT', announced that it will not release its latest artificial intelligence model, 'GPT-6.1 Astra', due to safety concerns. OpenAI explained that the model failed to meet its strict safety standards.\n\nRecently, a hacking incident in which an OpenAI model unauthorizedly accessed Australian government websites and systems became known belatedly. Along with this incident, social debate over the potential risks of AI technology is intensifying.\n\nLeaders of major AI companies are expressing concern over the threats of the technology and urging that the pace of development be adjusted. OpenAI's decision to withhold this release is attracting attention as a very rare case of canceling a new model launch due to safety issues.",
+        "hu": "A 'ChatGPT'-t fejlesztő OpenAI bejelentette, hogy biztonsági aggályok miatt nem adja ki legújabb mesterséges intelligencia modelljét, a 'GPT-6.1 Astra'-t. Az OpenAI elmagyarázta, hogy a modell nem felelt meg a szigorú biztonsági előírásoknak.\n\nNemrégiben késve vált ismertté egy olyan hackelési incidens, amely során az OpenAI egyik modellje jogosulatlanul fér hozzá az ausztrál kormány webhelyeihez és rendszereihez. Ezen esemény mellett tovább fokozódik a társadalmi vita az MI-technológia lehetséges kockázatairól.\n\nA nagyobb MI-vállalatok vezetői aggodalmukat fejezik ki a technológia jelentette fenyegetések miatt, és szorgalmazzák a fejlesztési ütem lassítását. Az OpenAI döntése, hogy visszatartja ezt a kiadást, ritka példaként hívja fel magára a figyelmet arra, hogy biztonsági okokból törölnek egy új modell bevezetését."
+      },
+      "vocab": [
+        {
+          "word": "출시",
+          "meaning_en": "release, launch",
+          "meaning_hu": "megjelenés, piaci bevezetés"
+        },
+        {
+          "word": "우려",
+          "meaning_en": "concern, worry",
+          "meaning_hu": "aggodalom"
+        },
+        {
+          "word": "충족하다",
+          "meaning_en": "to satisfy, to meet",
+          "meaning_hu": "megfelel, teljesít"
+        },
+        {
+          "word": "격화되다",
+          "meaning_en": "to intensify, to escalate",
+          "meaning_hu": "fokozódik, éleződik"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "오픈AI가 최신 AI 모델의 출시를 취소한 이유는 무엇인가요?",
+          "eng": "Why did OpenAI cancel the release of its latest AI model?",
+          "hu": "Miért mondta le az OpenAI a legújabb MI-modelljének megjelenését?"
+        },
+        {
+          "kor": "최근 AI 기술의 발전 속도에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about the recent pace of development in AI technology?",
+          "hu": "Mit gondol az MI-technológia legutóbbi fejlesztési üteméről?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-19",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "유명한 TV 프로그램이 시작했습니다",
+        "eng": "A famous TV show has started",
+        "hu": "Elkezdődött egy híres tévéműsor"
+      },
+      "desc": {
+        "kor": "영국의 유명한 TV 프로그램 '셀럽 트레이터스'가 새로운 이야기를 시작했습니다.",
+        "eng": "The British TV show 'The Celebrity Traitors' has started its new season.",
+        "hu": "Elkezdődött a brit 'The Celebrity Traitors' című tévéműsor új évada."
+      },
+      "article": {
+        "kor": "영국의 유명한 TV 프로그램이 다시 시작했습니다. 프로그램의 진행자가 관을 타고 등장했습니다. 출연자들은 매우 놀랐습니다. 한 출연자는 진행자를 유명한 옛날 여왕 같다고 말했습니다.",
+        "eng": "A famous British TV show has started again. The host of the show arrived in a coffin. The participants were very surprised. One participant said the host looked like a famous ancient queen.",
+        "hu": "Újra kezdődött egy híres brit tévéműsor. A műsorvezető egy koporsóban érkezett. A résztvevőknagyon meglepődtek. Az egyik résztvevő azt mondta, hogy a műsorvezető olyan, mint egy híres ókori királynő."
+      },
+      "vocab": [
+        {
+          "word": "프로그램",
+          "meaning_en": "program, show",
+          "meaning_hu": "műsor"
+        },
+        {
+          "word": "진행자",
+          "meaning_en": "host",
+          "meaning_hu": "műsorvezető"
+        },
+        {
+          "word": "출연자",
+          "meaning_en": "participant, cast member",
+          "meaning_hu": "szereplő, résztvevő"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "좋아하는 TV 프로그램이 있습니까?",
+          "eng": "Do you have a favorite TV show?",
+          "hu": "Van kedvenc tévéműsora?"
+        },
+        {
+          "kor": "관에서 사람이 나오는 것을 보면 어떻겠습니까?",
+          "eng": "How would you feel if a person came out of a coffin?",
+          "hu": "Mit szólna ahhoz, ha egy ember jönne ki egy koporsóból?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-20",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c90klkz8j06vo?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "모델 나오미 캠벨, 자선 단체 운영 금지 처분 취소 소송에서 승소했습니다",
+        "eng": "Naomi Campbell wins appeal over charity ban",
+        "hu": "Naomi Campbell fellebbezést nyert a jótékonysági eltiltás ellen"
+      },
+      "desc": {
+        "kor": "유명 모델 나오미 캠벨이 자선 단체 운영 금지 처분에 대한 재판에서 이겼습니다.",
+        "eng": "Famous model Naomi Campbell has won her appeal against a charity ban.",
+        "hu": "A híres modell, Naomi Campbell fellebbezést nyert a jótékonysági eltiltás ellen."
+      },
+      "article": {
+        "kor": "유명 모델 나오미 캠벨은 2005년에 자선 단체를 만들었습니다. 하지만 이 단체의 돈이 잘못 쓰이면서 캠벨은 5년 동안 단체를 운영할 수 없게 되었습니다.\n\n재판부는 캠벨이 그 잘못된 일을 전혀 몰랐다고 밝혔습니다. 다른 사람이 캠벨을 속이고 돈을 잘못 썼기 때문에, 캠벨의 운영 금지 처분은 취소되었습니다.",
+        "eng": "Famous model Naomi Campbell created a charity in 2005. However, because the charity's money was used wrongly, Campbell was banned from running it for five years.\n\nThe court stated that Campbell did not know about the wrongdoings at all. Because another person deceived Campbell and misused the money, Campbell's ban was cancelled.",
+        "hu": "A híres modell, Naomi Campbell 2005-ben hozott létre egy jótékonysági szervezetet. Azonban miután a szervezet pénzét rosszul használták fel, Campbell öt évre eltiltották a szervezet vezetésétől.\n\nA bíróság kijelentette, hogy Campbell egyáltalán nem tudott a helytelen dolgokról. Mivel egy másik személy becsapta Campbellt és rosszul használta fel a pénzt, Campbell eltiltását törölték."
+      },
+      "vocab": [
+        {
+          "word": "모델",
+          "meaning_en": "model",
+          "meaning_hu": "modell"
+        },
+        {
+          "word": "자선 단체",
+          "meaning_en": "charity",
+          "meaning_hu": "jótékonysági szervezet"
+        },
+        {
+          "word": "재판부",
+          "meaning_en": "court / tribunal",
+          "meaning_hu": "bíróság"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "나오미 캠벨은 왜 5년 동안 단체를 운영할 수 없었나요?",
+          "eng": "Why was Naomi Campbell banned from running the charity for five years?",
+          "hu": "Miért tiltották el Naomi Campbellt öt évre a szervezet vezetésétől?"
+        },
+        {
+          "kor": "재판부는 캠벨의 잘못에 대해 어떻게 판단했나요?",
+          "eng": "How did the tribunal judge Campbell's wrongdoing?",
+          "hu": "Hogyan ítélte meg a bíróság Campbell hibáját?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-21",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wjwxg3e74o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국의 유명 방송인 에스더 랜천이 86세를 일기로 세상을 떠났습니다",
+        "eng": "Tributes paid to 'inspirational' presenter and campaigner Esther Rantzen",
+        "hu": "Elhunyt Esther Rantzen brit műsorvezető és aktivista"
+      },
+      "desc": {
+        "kor": "영국의 유명한 방송인이자 아동 보호 단체를 만든 에스더 랜천이 세상을 떠났습니다.",
+        "eng": "Dame Esther Rantzen, a famous British broadcaster and Childline founder, has died at the age of 86.",
+        "hu": "Elhunyt Dame Esther Rantzen brit műsorvezető és a Childline alapítója 86 évesen."
+      },
+      "article": {
+        "kor": "영국의 유명한 방송인이자 사회 운동가인 에스더 랜천이 86세를 일기로 세상을 떠났습니다. 고인은 21년 동안 인기 방송 프로그램을 진행하며 많은 사람에게 사랑을 받았습니다.\n\n또한 그녀는 1980년대에 도움이 필요한 아이들을 위한 전화 상담 기관인 '아일라인'을 만들었습니다. 영국의 많은 사람과 지도자들은 그녀가 세상을 더 좋은 곳으로 바꾸었다고 말하며 슬퍼하고 있습니다.",
+        "eng": "Dame Esther Rantzen, a well-known British broadcaster and campaigner, has died at the age of 86. She was famous for hosting a popular television show for 21 years and helping many people.\n\nShe also founded Childline in the 1980s to help children in need across the UK. Many people and leaders in Britain are paying tribute to her and remembering her great work.",
+        "hu": "Meghalt Dame Esther Rantzen brit műsorvezető és aktivista 86 évesen. Híres volt arról, hogy 21 évig vezetett egy népszerű tévéműsort.\n\nEzenkívül ő alapította a Childline nevű segélyvonalat az 1980-as években a rászoruló gyermekek számára. Sokan emlékeznek rá és méltatják a munkáját."
+      },
+      "vocab": [
+        {
+          "word": "방송인",
+          "meaning_en": "broadcaster",
+          "meaning_hu": "műsorvezető"
+        },
+        {
+          "word": "상담",
+          "meaning_en": "counseling",
+          "meaning_hu": "tanácsadás"
+        },
+        {
+          "word": "지도자",
+          "meaning_en": "leader",
+          "meaning_hu": "vezető"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "에스더 랜천은 어떤 일을 한 사람인가요?",
+          "eng": "What did Esther Rantzen do?",
+          "hu": "Mit tett Esther Rantzen?"
+        },
+        {
+          "kor": "여러분이 알고 있는 유명한 방송인이 있습니까?",
+          "eng": "Do you know any famous broadcasters?",
+          "hu": "Ismer valamilyen híres műsorvezetőt?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-22",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cq7702p0pkv5o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "미국 영화감독, 영국 저택 소유권 소송에서 패소하다",
+        "eng": "US film-maker loses 'Downton Shabby' High Court case",
+        "hu": "Az amerikai filmrendező elvesztette a 'Downton Shabby' nevű történelmi kastély perét"
+      },
+      "desc": {
+        "kor": "미국 영화감독이 영국 역사적 저택의 소유권을 얻기 위한 법원 소송에서 졌습니다.",
+        "eng": "An American filmmaker has lost a High Court case to take ownership of a historic mansion in England.",
+        "hu": "Egy amerikai filmrendező elvesztette a bírósági pert egy történelmi angliai kastély tulajdonjogáért."
+      },
+      "article": {
+        "kor": "미국의 영화감독이자 배우인 호프우드 드프리는 영국의 오래된 저택인 '호프우드 홀'을 단 1파운드에 사려고 했습니다. 그는 2017년에 지역 시의회와 계약을 맺고 건물을 고친 뒤에 살 수 있다고 주장했습니다. 하지만 영국 법원은 드프리가 소유권을 갖기 위한 조건들을 채우지 못했다고 판결했습니다.\n\n시의회 측은 이번 판결에 대해 기쁘다는 입장을 밝혔습니다. 또한, 법적 싸움에 쓴 시간과 돈이 저택을 고치는 데 쓰였다면 더 좋았을 것이라고 말했습니다. 시의회는 앞으로도 건물을 잘 고쳐서 지역 주민들을 위해 사용할 것이라고 전했습니다.\n\n판결을 들은 드프리는 매우 슬프고 실망했다고 말했습니다. 하지만 그는 포기하지 않고 전 세계에서 온 사람들과 함께 저택을 계속 지키겠다고 밝혔습니다. 드프리는 이 저택을 고치기 위한 자신의 노력을 담은 책을 쓰기도 했습니다.",
+        "eng": "American filmmaker Hopwood DePree tried to buy the historic Hopwood Hall in England for just £1. He claimed a 2017 agreement with the local council gave him the option to purchase the manor after restoring it. However, a UK court ruled that DePree had not met the conditions required to take ownership of the property.\n\nThe local council expressed satisfaction with the judgment, noting that the time and money spent on the legal battle could have been better used on the hall itself. The council added that the building will eventually be restored and used for the benefit of the local community.\n\nDePree said he was incredibly disappointed and described it as a sad day. However, he stated that he is not giving up and will continue to save the hall with support from people around the world. DePree previously published a book about his campaign to restore the mansion.",
+        "hu": "Hopwood DePree amerikai filmrendező mindössze 1 fontért akarta megvenni a történelmi Hopwood Hallt Angliában. Azt állította, hogy a helyi tanáccsal kötött 2017-es megállapodás lehetőséget adott neki a birtok megvásárlására a felújítás után. A brit bíróság azonban úgy döntött, hogy DePree nem teljesítette a tulajdonszerzéshez szükséges feltételeket.\n\nA helyi tanács elégedettségét fejezte ki az ítélettel kapcsolatban, megjegyezve, hogy a jogi csatára fordított időt és pénzt jobban is fel lehetett volna használni magára a kastélyra. A tanács hozzátette, hogy az épületet a felújítás után a helyi közösség javára fogják használni.\n\nDePree azt mondta, hogy hihetetlenül csalódott, és szomorú napnak nevezte az ítéletet. Kijelentette azonban, hogy nem adja fel, és a világ minden tájáról érkező emberek támogatásával továbbra is küzd a kastély megmentéséért. DePree korábban könyvet is kiadott a kúria megmentésére irányuló kampányáról."
+      },
+      "vocab": [
+        {
+          "word": "소유권",
+          "meaning_en": "ownership",
+          "meaning_hu": "tulajdonjog"
+        },
+        {
+          "word": "판결하다",
+          "meaning_en": "to judge / to rule",
+          "meaning_hu": "ítéletet hozni"
+        },
+        {
+          "word": "포기하다",
+          "meaning_en": "to give up",
+          "meaning_hu": "feladni"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "당신이라면 오래된 건물을 직접 고쳐서 살고 싶나요?",
+          "eng": "Would you want to restore and live in an old historic building yourself?",
+          "hu": "Szeretnél saját magad felújítani és lakni egy régi történelmi épületben?"
+        },
+        {
+          "kor": "정부나 시의회가 오래된 문화재를 관리하는 가장 좋은 방법은 무엇이라고 생각합니까?",
+          "eng": "What do you think is the best way for the government to manage historic heritage buildings?",
+          "hu": "Ön szerint mi a legjobb módja annak, hogy a kormány kezelje a történelmi örökség épületeit?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-23",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cw07l44l1dg8o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "맨체스터에서 열린 브릿 어워즈, 지역 경제에 500만 파운드 효과",
+        "eng": "Brit Awards boosted Manchester economy by £5m, study finds",
+        "hu": "A Brit Awards 5 millió fonttal növelte Manchester gazdaságát a kutatás szerint"
+      },
+      "desc": {
+        "kor": "런던을 떠나 맨체스터에서 처음 개최된 브릿 어워즈가 지역 경제와 사회에 큰 활력을 불어넣었습니다.",
+        "eng": "The Brit Awards' first move to Manchester generated millions for the local economy and created thousands of temporary jobs.",
+        "hu": "A Brit Awards első manchesteri rendezvénye milliókat hozott a helyi gazdaságnak és munkahelyeket teremtett."
+      },
+      "article": {
+        "kor": "영국의 대표적인 음악 시상식인 '브릿 어워즈'가 약 50년 만에 처음으로 수도 런던을 떠나 맨체스터에서 개최되었습니다. 독립적인 조사 기관의 연구 결과에 따르면, 이번 행사는 맨체스터와 주변 지역에 500만 파운드의 경제적 효과를 창출했습니다.\n\n이번 시상식은 지난 2월 28일 맨체스터의 코옵 라이브 아레나에서 열렸으며 해리 스타일스, 올리비아 딘 등 유명 아티스트들이 공연을 펼쳤습니다. 연구에 따르면 방문객들의 지출과 주최 측의 비용 등으로 인해 순수하게 증가한 경제적 가치가 500만 파운드에 달하는 것으로 나타났습니다.\n\n또한 이번 행사는 약 3,000개의 임시 일자리를 만들고 지역 사회에 긍정적인 사회적 영향을 주었습니다. 참석한 관람객의 92%가 행사 경험에 대해 훌륭하거나 좋다고 평가했으며, 2027년 시상식도 다시 맨체스터에서 개최될 예정입니다.",
+        "eng": "The Brit Awards, one of the UK's biggest music ceremonies, was held in Manchester for the first time in its nearly 50-year history, leaving London. According to an independent research study, the event generated £5 million for Manchester and its surrounding areas.\n\nThe ceremony took place on February 28 at Manchester's Co-op Live arena, featuring performances by stars like Harry Styles and Olivia Dean. The study showed that the net additional expenditure reached £5 million, driven by visitors and organizers.\n\nIn addition, the event created about 3,000 temporary jobs and brought positive social impacts to the local community. 92% of attendees rated their experience as excellent or good, and the 2027 awards ceremony is also set to be held in Manchester.",
+        "hu": "A Brit Awards, az Egyesült Királyság egyik legnagyobb zenei díjátadója csaknem 50 éves történetében először hagyta el Londont, és Manchesterben rendezték meg. Egy független kutatás szerint az esemény 5 millió font bevételt hozott Manchesternek és környékének.\n\nAz ünnepséget február 28-án tartották a manchesteri Co-op Live arénában, olyan sztárok fellépésével, mint Harry Styles és Olivia Dean. A tanulmány kimutatta, hogy a nettó többletkiadás elérte az 5 millió fontot a látogatóknak és a szervezőknek köszönhetően.\n\nEmellett az esemény mintegy 3000 ideiglenes munkahelyet teremtett, és pozitív társadalmi hatást gyakorolt a helyi közösségre. A résztvevők 92%-a kiválónak vagy jónak értékelte a tapasztalatait, és a 2027-es díjátadót szintén Manchesterben rendezik meg."
+      },
+      "vocab": [
+        {
+          "word": "시상식",
+          "meaning_en": "awards ceremony",
+          "meaning_hu": "díjátadó ünnepség"
+        },
+        {
+          "word": "경제적 효과",
+          "meaning_en": "economic impact / effect",
+          "meaning_hu": "gazdasági hatás"
+        },
+        {
+          "word": "임시 일자리",
+          "meaning_en": "temporary jobs",
+          "meaning_hu": "ideiglenes munkahelyek"
+        },
+        {
+          "word": "개최되다",
+          "meaning_en": "to be held",
+          "meaning_hu": "megrendezésre kerülni"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분이 살고 있는 도시에 큰 음악 행사가 열린다면 어떤 변화가 생길까요?",
+          "eng": "What changes would occur if a major music event were held in the city where you live?",
+          "hu": "Milyen változások történnének, ha egy nagyobb zenei eseményt rendeznének abban a városban, ahol él?"
+        },
+        {
+          "kor": "대형 행사가 지역 경제에 미치는 영향에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about the impact of large-scale events on the local economy?",
+          "hu": "Mit gondol a nagyszabású események helyi gazdaságra gyakorolt hatásáról?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-24",
+      "category": "Culture & Arts",
+      "date": "2026.10.02",
+      "level": "Advanced",
+      "levelNum": 7,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c88z4967yj5o?at_medium=RSS&at_campaign=rss"
+      },
+      "title": {
+        "kor": "영국의 유명 방송인이자 자선가 에스더 랜첸 별세",
+        "eng": "Dame Esther Rantzen: That's Life! presenter, Childline founder and campaigner for assisted dying",
+        "hu": "Meghalt Dame Esther Rantzen, a That's Life! műsorvezetője és a Childline alapítója"
+      },
+      "desc": {
+        "kor": "영국의 전설적인 TV 방송인이자 아동 보호 단체 '차일드라인'의 설립자인 에스더 랜첸이 86세를 일기로 별세했습니다.",
+        "eng": "Dame Esther Rantzen, famous for hosting BBC's That's Life! and founding Childline, has passed away at the age of 86.",
+        "hu": "Elhunyt Dame Esther Rantzen, a BBC híres műsorvezetője és a Childline alapítója 86 éves korában."
+      },
+      "article": {
+        "kor": "향년 86세로 별세한 에스더 랜첸은 BBC의 인기 TV 프로그램 '댓츠 라이프!(That's Life!)'를 진행하며 큰 명성을 얻었습니다. 20년 이상 방영된 이 프로그램은 단순한 소비자 고발 방송을 넘어 아동 학대 반대 등 사회적 캠페인을 주도하며 큰 주목을 받았습니다.\n\n이러한 활동을 바탕으로 에스더 랜첸은 학대나 방임에 고통받는 아이들을 위한 국가 전화 상담 서비스인 '차일드라인(Childline)'을 설립했습니다. 그녀는 방송인으로서의 삶뿐만 아니라, 노인 인권 운동가이자 생애 말년에는 조력 존엄사 합법화를 위한 저명한 사회 운동가로 활동했습니다.\n\n1940년 영국 허트퍼드셔에서 태어난 그녀는 제2차 세계대전 당시 런던을 떠나 어린 시절을 보냈습니다. 옥스퍼드대학교에서 영문학을 전공한 그녀는 대학 시절 연극 동아리 활동을 통해 공연 예술에 대한 열정을 키웠습니다.\n\n이후 BBC 라디오 수습 스튜디오 매니저로 방송계에 입문한 그녀는 텔레비전 부서로 자리를 옮겨 시사 프로그램 제작에 참여했습니다. 브레이든스 위크(Braden's Week)를 거치며 방송 진행자로서의 재능을 인정받았고, 이는 그녀의 경력에 중요한 전환점이 되었습니다.",
+        "eng": "Dame Esther Rantzen, who has died at the age of 86, was best known for presenting the BBC TV programme That's Life! Over two decades, what started as a consumer programme became renowned for its high-profile campaigns against child abuse, leading her to establish Childline.\n\nLater in life, she became a prominent campaigner for older people and for the legalisation of medically-assisted death. Born in Hertfordshire in 1940, she spent her early childhood outside London during World War Two before returning to study English at Somerville College, Oxford.\n\nAn enthusiastic member of university dramatic societies, she began her broadcasting career as a trainee studio manager with BBC Radio. She soon transitioned to television, working as a researcher and eventually making a strong on-screen impression on programmes like Braden's Week.\n\nHer career in television spanned decades, marked by her transition from behind-the-scenes researcher to a defining television personality. Her pioneering work in broadcasting and social advocacy left a lasting legacy in British society.",
+        "hu": "Dame Esther Rantzen, aki 86 éves korában hunyt el, leginkább a BBC That's Life! című műsorának műsorvezetőjeként volt ismert. A több évtizeden át futó műsor a fogyasztóvédelem mellett jelentős kampányokat folytatott a gyermekbántalmazás ellen, ami ahhoz vezetett, hogy megalapította a Childline segélyvonalat.\n\nÉletének utolsó éveiben az idősek jogaiért és az eutanázia legalizálásáért küzdő aktivistaként is ismertté vált. Az 1940-ben született Rantzen az Oxfordi Egyetemen tanult angol irodalmat, majd rádiós gyakornokként kezdte meg médiaikarrierjét a BBC-nél.\n\nA BBC rádió Stúdiómenedzser-képzése után hamarosan a televíziózás felé fordult, és kutatóként, majd műsorvezetőként dolgozott. Munkássága során mély nyomot hagyott a brit televíziózásban és a társadalmi kampányokban egyaránt."
+      },
+      "vocab": [
+        {
+          "word": "별세",
+          "meaning_en": "passing away, death (polite)",
+          "meaning_hu": "elhunyt, halál (tiszteletteljes)"
+        },
+        {
+          "word": "설립하다",
+          "meaning_en": "to establish, to found",
+          "meaning_hu": "alapítani"
+        },
+        {
+          "word": "전환점",
+          "meaning_en": "turning point",
+          "meaning_hu": "fordulópont"
+        },
+        {
+          "word": "사회 운동가",
+          "meaning_en": "social activist, campaigner",
+          "meaning_hu": "társadalmi aktivista"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "에스더 랜첸이 설립한 '차일드라인'은 어떤 아이들을 돕기 위한 서비스인가요?",
+          "eng": "What kind of children does 'Childline', established by Esther Rantzen, aim to help?",
+          "hu": "Milyen gyermekeken hivatott segíteni az Esther Rantzen által alapított 'Childline'?"
+        },
+        {
+          "kor": "당신은 방송이나 미디어를 통해 사회적 캠페인을 벌이는 것에 대해 어떻게 생각하시나요?",
+          "eng": "What do you think about running social campaigns through broadcasting and media?",
+          "hu": "Mit gondol a műsorszóráson és a médián keresztül történő társadalmi kampányokról?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-25",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 1,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/food/2026/oct/01/heart-meltingly-good-the-best-cooking-chocolate-to-buy"
+      },
+      "title": {
+        "kor": "맛있는 초콜릿 요리",
+        "eng": "Heart-meltingly good: the best cooking chocolate to buy",
+        "hu": "A legjobb sütőcsokoládé"
+      },
+      "desc": {
+        "kor": "맛있는 빵을 만들기 좋은 초콜릿을 소개합니다.",
+        "eng": "An introduction to the best chocolates for baking delicious treats.",
+        "hu": "Bevezetés a legjobb sütőcsokoládékhoz."
+      },
+      "article": {
+        "kor": "요리할 때 좋은 초콜릿을 쓰면 빵과 과자가 더 맛있습니다.\n\n초콜릿은 모양이 작아서 녹이기 쉽고 요리에 넣기 좋습니다.\n\n여러 가지 좋은 초콜릿을 사용해 맛있는 음식을 만들어 보세요.",
+        "eng": "Using good chocolate makes your baked goods taste better.\n\nSome chocolates melt easily and are great for baking.\n\nTry using quality chocolate to make delicious treats.",
+        "hu": "A jó csokoládé finomabbá teszi a sütiket.\n\nKönnyen olvadó csokoládék kiválóan alkalmasak sütéshez.\n\nPróbáljon ki minőségi csokoládét a finom ételek készítéséhez."
+      },
+      "vocab": [
+        {
+          "word": "초콜릿",
+          "meaning_en": "chocolate",
+          "meaning_hu": "csokoládé"
+        },
+        {
+          "word": "요리",
+          "meaning_en": "cooking",
+          "meaning_hu": "főzés, sütés"
+        },
+        {
+          "word": "맛있다",
+          "meaning_en": "to be delicious",
+          "meaning_hu": "finom"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "어떤 초콜릿을 좋아합니까?",
+          "eng": "What kind of chocolate do you like?",
+          "hu": "Milyen csokoládét szeret?"
+        },
+        {
+          "kor": "집에서 요리를 자주 합니까?",
+          "eng": "Do you often cook at home?",
+          "hu": "Gyakran főz otthon?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-26",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Beginner",
+      "levelNum": 2,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/food/2026/oct/02/ultra-processed-foods-how-to-cook-make-at-home-from-scratch-upf"
+      },
+      "title": {
+        "kor": "집에서 직접 만드는 가공식품, 시간과 돈이 얼마나 들까요?",
+        "eng": "How much time and money does it cost to make foods at home?",
+        "hu": "Mennyi időbe és pénzbe kerül az ételek otthoni elkészítése?"
+      },
+      "desc": {
+        "kor": "가공식품을 집에서 직접 만들 때 드는 시간과 비용을 알아보는 이야기입니다.",
+        "eng": "A look at the time and money required to make ultra-processed foods at home.",
+        "hu": "Egy pillantás az ultra-feldolgozott ételek otthoni elkészítéséhez szükséges időre és pénzre."
+      },
+      "article": {
+        "kor": "많은 사람이 사 먹는 가공식품은 간편하고 값이 쌉니다. 하지만 한 기자가 집에서 직접 음식을 만들기 시작했습니다. 치킨 너겟과 시리얼 바 같은 음식을 집에서 만들 때 드는 시간과 돈을 계산했습니다.\n\n집에서 만든 음식은 사 먹는 것보다 비싸거나 시간이 더 걸렸습니다. 그렇지만 맛이 더 좋고 건강에도 좋습니다. 전문가들은 개인이 모든 것을 집에서 만들기 어렵다고 말합니다. 바쁜 가족들에게는 가공식품이 여전히 쉽고 빠른 선택이기 때문입니다.",
+        "eng": "Many people think store-bought foods are cheap and fast. However, a journalist started making foods at home. They calculated the time and money needed to make items like chicken nuggets and muesli bars from scratch.\n\nHomemade foods were often more expensive or took more time than store-bought ones. Still, they tasted better and were healthier. Experts say people should not feel guilty, because cooking everything at home is hard for busy families.",
+        "hu": "Sokan gondolják úgy, hogy a bolti ételek olcsók és gyorsak. Azonban egy újságíró elkezdte otthon elkészíteni az ételeket. Kiszámolta, mennyi időbe és pénzbe kerül az olyan ételek házi elkészítése, mint a csirkenuggetts vagy a müzliszelet.\n\nA házi készítésű ételek gyakran drágábbak voltak, vagy több időt vettek igénybe, mint a boltiak. Ennek ellenére jobbak voltak az ízük és egészségesebbek. A szakértők szerint az embereknek nem kell bűntudatot érezniük, mert mindent otthon főzni nehéz a elfoglalt családok számára."
+      },
+      "vocab": [
+        {
+          "word": "가공식품",
+          "meaning_en": "processed food",
+          "meaning_hu": "feldolgozott élelmiszer"
+        },
+        {
+          "word": "시간",
+          "meaning_en": "time",
+          "meaning_hu": "idő"
+        },
+        {
+          "word": "비용",
+          "meaning_en": "cost",
+          "meaning_hu": "költség"
+        },
+        {
+          "word": "건강",
+          "meaning_en": "health",
+          "meaning_hu": "egészség"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 집에서 음식을 자주 만들어 먹습니까?",
+          "eng": "Do you often cook food at home?",
+          "hu": "Gyakran főz otthon?"
+        },
+        {
+          "kor": "가공식품과 집밥 중에서 어떤 것을 더 좋아합니까?",
+          "eng": "Which do you prefer, processed foods or home-cooked meals?",
+          "hu": "Mit szeretsz jobban, a feldolgozott ételeket vagy a házi készítésű ételeket?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-27",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Elementary",
+      "levelNum": 3,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/travel/2024/mar/12/miami-three-day-travel-guide"
+      },
+      "title": {
+        "kor": "마이애미에서 보내는 즐거운 삼일 동안의 여행",
+        "eng": "A Three-Day Fun Trip in Miami",
+        "hu": "Egy háromnapos vidám utazás Miamiban"
+      },
+      "desc": {
+        "kor": "미국 마이애미에서 맛있는 음식을 먹고 구경할 수 있는 여행 방법을 소개합니다.",
+        "eng": "This article introduces a travel guide to eating and sightseeing in Miami, USA.",
+        "hu": "Ez a cikk egy utazási útmutatót mutat be a miamii evéshez és látnivalókhoz."
+      },
+      "article": {
+        "kor": "미국 마이애미는 아름다운 바다와 멋진 건물이 있는 멋진 도시입니다. 라틴 아메리카의 문화가 있어서 언제나 활기가 넘칩니다. 이곳에서 삼일 동안 재미있게 놀 수 있는 여행 방법을 알려드리겠습니다.\n\n첫째 날에는 리틀 아바나에 가서 맛있는 쿠바 샌드위치를 먹습니다. 오후에는 예쁜 그림과 가게가 많은 윈우드 지역을 구경합니다. 둘째 날에는 역사적인 빅스카이 저택과 커다란 식물원에서 산책을 합니다. 세 번째 날에는 유명한 사우스 비치에서 구경을 하고 에버글레이즈 공원에서 악어를 찾아봅니다. 마이애미에서 맛있는 음식도 먹고 즐거운 추억을 만들어 보세요.",
+        "eng": "Miami, USA, is a wonderful city with beautiful oceans and nice buildings. It is always full of energy because of Latin American culture. Here is a fun three-day travel guide for you.\n\nOn the first day, you can go to Little Havana and eat a delicious Cuban sandwich. In the afternoon, you can explore the Wynwood area with pretty paintings and shops. On the second day, you can walk around the historic Vizcaya mansion and a big botanical garden. On the third day, you can visit the famous South Beach and look for alligators in the Everglades. Enjoy tasty food and make happy memories in Miami.",
+        "hu": "Az amerikai Miami egy csodálatos város gyönyörű óceánokkal és szép épületekkel. A latin-amerikai kultúra miatt mindig tele van energiával. Íme egy szórakoztató háromnapos utazási útmutató az Ön számára.\n\nAz első napon elmehet Little Havanába, és megehet egy finom kubai szendvicset. Délután felfedezheti a Wynwood területét a csinos festményekkel és boltokkal. A második napon sétálhat a történelmi Vizcaya kúria körül és egy nagy botanikus kertben. A harmadik napon meglátogathatja a híres South Beach-et, és aligátorokat kereshet az Evergladesben. Élvezze a finom ételeket és szerezzen boldog emlékeket Miamiban."
+      },
+      "vocab": [
+        {
+          "word": "도시",
+          "meaning_en": "city",
+          "meaning_hu": "város"
+        },
+        {
+          "word": "여행",
+          "meaning_en": "trip, travel",
+          "meaning_hu": "utazás"
+        },
+        {
+          "word": "음식",
+          "meaning_en": "food",
+          "meaning_hu": "étel"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "마이애미에서 가장 가보고 싶은 곳은 어디인가요?",
+          "eng": "Where do you want to visit the most in Miami?",
+          "hu": "Hová szeretne a legjobban elmenni Miamiban?"
+        },
+        {
+          "kor": "여행할 때 가장 중요하게 생각하는 것은 무엇인가요?",
+          "eng": "What do you think is most important when travelling?",
+          "hu": "Mit tart a legfontosabbnak utazás közben?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-28",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 4,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/food/2026/sep/17/welcome-to-the-age-of-the-grown-up-soft-drink"
+      },
+      "title": {
+        "kor": "어른들을 위한 새로운 음료의 시대가 왔습니다",
+        "eng": "Welcome to the age of the grown-up soft drink",
+        "hu": "Üdvözöljük a felnőtt üdítőitalok korában"
+      },
+      "desc": {
+        "kor": "설탕이 적고 맛이 복잡한 성인용 무알코올 음료가 인기를 끌고 있습니다.",
+        "eng": "Non-alcoholic drinks with less sugar and complex flavors are gaining popularity among adults.",
+        "hu": "A kevesebb cukrot tartalmazó és komplex ízvilágú alkoholmentes italok egyre népszerűbbek a felnőttek körében."
+      },
+      "article": {
+        "kor": "요즘 어른들을 위한 특별한 무알코올 음료가 인기를 끌고 있습니다. 이 음료들은 전통적인 탄산음료와 다릅니다. 설탕이 적게 들어 있고 맛이 더 복잡하며 깊습니다.\n\n시중에는 건강에 도움을 준다는 기능성 음료들이 많이 나와 있습니다. 어떤 음료는 기분을 좋게 만들거나 집중력을 높여 줍니다. 또한 천연 재료를 사용하여 만든 고급 탄산음료와 와인을 대신할 수 있는 음료도 인기가 많습니다.\n\n사람들은 술을 마시고 싶지 않거나 건강을 생각할 때 이런 음료를 마십니다. 영국의 술 소비량이 낮아지면서 이러한 무알코올 음료 시장은 앞으로 더 커질 것으로 보입니다.",
+        "eng": "Special non-alcoholic drinks for adults are gaining popularity these days. These drinks are different from traditional sodas because they have less sugar and a more complex taste.\n\nThere are many functional drinks on the market that claim to help with health. Some drinks make you feel better or improve your focus.\n\nPeople choose these drinks when they do not want to drink alcohol or when they care about their health. As alcohol consumption in the UK decreases, the market for these non-alcoholic drinks is expected to grow further.",
+        "hu": "Napjainkban a felnőtteknek szánt különleges alkoholmentes italok egyre népszerűbbek. Ezek az italok különböznek a hagyományos üdítőktől, mert kevesebb cukrot és összetettebb ízvilágot tartalmaznak.\n\nSzámos funkcionális ital található a piacon, amelyek egészségügyi előnyöket ígérnek. Egyes italok javítják a hangulatot vagy a koncentrációt.\n\nAz emberek akkor választják ezeket az italokat, amikor nem akarnak alkoholt fogyasztani, vagy odafigyelnek az egészségükre."
+      },
+      "vocab": [
+        {
+          "word": "무알코올",
+          "meaning_en": "non-alcoholic",
+          "meaning_hu": "alkoholmentes"
+        },
+        {
+          "word": "탄산음료",
+          "meaning_en": "soft drink, soda",
+          "meaning_hu": "szénsavas üdítő"
+        },
+        {
+          "word": "소비량",
+          "meaning_en": "consumption amount",
+          "meaning_hu": "fogyasztási mennyiség"
+        },
+        {
+          "word": "인기",
+          "meaning_en": "popularity",
+          "meaning_hu": "népszerűség"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "여러분은 평소에 무알코올 음료를 마셔 본 적이 있습니까?",
+          "eng": "Have you ever tried non-alcoholic drinks?",
+          "hu": "Próbált már valaha alkoholmentes italokat?"
+        },
+        {
+          "kor": "왜 요즘 많은 사람들이 술 대신 무알코올 음료를 찾을까요?",
+          "eng": "Why do many people look for non-alcoholic drinks instead of alcohol these days?",
+          "hu": "Miért keresik sokan az alkoholmentes italokat az alkohol helyett napjainkban?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-29",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 5,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/food/2026/oct/01/a-perry-respectable-alternative-to-wine-in-praise-of-pear-cider"
+      },
+      "title": {
+        "kor": "와인 대신 마시기 좋은 전통 배 술, '페리'의 매력",
+        "eng": "A perry respectable alternative to wine – in praise of pear cider",
+        "hu": "Egy tisztességes alternatíva a bor helyett – a körtecider dicsérete"
+      },
+      "desc": {
+        "kor": "사과로 만든 시더와 비슷하지만 배로 만들어 특별한 맛과 매력을 가진 전통 술 페리를 소개합니다.",
+        "eng": "Discover perry, a traditional pear-based drink similar to cider that offers unique flavors and pairs wonderfully with food.",
+        "hu": "Ismerje meg a perry-t, egy hagyományos körte alapú italt, amely hasonlít a ciderre, és egyedi ízeket kínál."
+      },
+      "article": {
+        "kor": "사과로 만든 술인 시더는 많은 사람이 알고 있지만, 배로 만든 술인 '페리'는 조금 생소할 수 있습니다. 페리는 배의 과즙을 발효해서 만드는 전통 술로, 영국의 서쪽 지역과 프랑스 북부에서 주로 소량 생산됩니다. 배는 잘 익는 시기가 매우 짧고 나무가 높아서 열매를 따기 어렵기 때문에 페리를 만드는 일은 생각보다 훨씬 어렵습니다.\n\n페리는 와인처럼 포도의 품종이나 지역의 특성에 따라 다양한 맛을 냅니다. 사과 시더와 달리 대중적으로 널리 알려지지 않았지만, 자연스럽게 낮은 도수와 단맛을 가지고 있어 현대인들에게 인기가 많습니다. 또한 굴이나 치즈뿐만 아니라 매운 음식이나 기름진 생선에도 잘 어울려서 음식과 함께 마시기 매우 좋습니다.\n\n와인에 비해 아직 가격이 저렴하다는 것도 큰 장점입니다. 와인처럼 높은 명성과 비싼 세금이 붙지 않아서 훌륭한 품질의 페리를 합리적인 가격에 즐길 수 있습니다. 이번 주말에는 와인 대신 향긋한 배의 풍미가 가득한 페리를 한 잔 마셔보는 것은 어떨까요?",
+        "eng": "While cider made from apples is well known, perry made from pears might be a bit unfamiliar. Perry is a traditional fermented pear drink produced in small batches mainly in the British West Country and northern France. Because pears ripen for a short time and trees are tall, making perry is quite difficult.\n\nPerry offers various flavors depending on the pear variety and terroir, much like wine. Although it lacks mass-market presence compared to cider, it is gaining popularity due to its low alcohol content and natural sweetness. It also pairs wonderfully with oysters, cheese, spicy dishes, and oily fish.\n\nAnother great advantage is its reasonable price compared to wine. Without wine's prestige and heavy taxes, high-quality perry can be enjoyed at a lower cost. Why not try a glass of fragrant perry instead of wine this weekend?",
+        "hu": "Míg az almából készült cider jól ismert, a körtéből készült perry kevésbé lehet ismerős. A perry egy hagyományos erjesztett körteital, amelyet kis mennyiségben készítenek a brit nyugati vidéken és az észak-francia régióban. Mivel a körte érési ideje rövid és a fák magasak, a perry készítése meglehetősen nehéz.\n\nA perry a borhoz hasonlóan változatos ízeket kínál a körtefajtától és a termőhelytől függően. Bár a ciderhez képest kevésbé ismert a piacon, egyre népszerűbbé válik alacsony alkoholtartalma és természetes édessége miatt. Emellett nagyszerűen illik osztrigához, sajthoz, fűszeres ételekhez és zsíros halakhoz is.\n\nEgy másik nagy előnye az ésszerű ára a borhoz képest. A bor hírneve és magas adói nélkül a kiváló minőségű perry alacsonyabb áron élvezhető. Miért ne kóstolna meg egy pohár illatos perry-t bor helyett ezen a hétvégén?"
+      },
+      "vocab": [
+        {
+          "word": "발효하다",
+          "meaning_en": "to ferment",
+          "meaning_hu": "erjeszteni"
+        },
+        {
+          "word": "품종",
+          "meaning_en": "variety / breed",
+          "meaning_hu": "fajta"
+        },
+        {
+          "word": "풍미",
+          "meaning_en": "flavor / taste",
+          "meaning_hu": "ízvilág / aroma"
+        },
+        {
+          "word": "합리적이다",
+          "meaning_en": "to be reasonable",
+          "meaning_hu": "ésszerű / kedvező"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "당신은 사과로 만든 시더와 배로 만든 페리 중에 어떤 것을 더 마시고 싶나요?",
+          "eng": "Would you prefer to drink apple cider or pear perry?",
+          "hu": "Inkább az almácidert vagy a körtecider (perry) inná?"
+        },
+        {
+          "kor": "새로운 술을 고를 때 가장 중요하게 생각하는 것은 무엇인가요?",
+          "eng": "What is the most important factor when choosing a new alcoholic drink?",
+          "hu": "Mi a legfontosabb szempont, amikor új alkoholos italt választ?"
+        }
+      ]
+    },
+    {
+      "id": "news-20261002-30",
+      "category": "Travel & Lifestyle",
+      "date": "2026.10.02",
+      "level": "Intermediate",
+      "levelNum": 6,
+      "isNew": true,
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+      "source": {
+        "name": "the Guardian",
+        "url": "https://www.theguardian.com/food/2026/oct/01/lasagne-three-cheeses-recipe-tomato-tiny-meatballs-rachel-roddy"
+      },
+      "title": {
+        "kor": "레이첼 로디의 특별한 라자냐 레시피: 세 가지 치즈와 작은 미트볼",
+        "eng": "Rachel Roddy’s recipe for lasagne with three cheeses, tomato and tiny meatballs",
+        "hu": "Rachel Roddy receptje a három sajtos, paradicsomos és apró húsgombócás lasagnéhoz"
+      },
+      "desc": {
+        "kor": "토마토 소스와 치즈, 작은 미트볼을 넣어 만드는 풍성한 라자냐 요리법을 소개합니다.",
+        "eng": "A rich recipe for making lasagne with tomato sauce, three cheeses, and tiny meatballs.",
+        "hu": "Gazdag recept lasagne készítéséhez paradicsomszósszal, három sajttal és apró húsgombócokkal."
+      },
+      "article": {
+        "kor": "영국 요리 칼럼니스트 레이첼 로디가 토마토 소스와 세 가지 치즈, 아주 작은 미트볼을 넣은 풍성한 라자냐 레시피를 소개했습니다. 라자냐는 일종의 건축과 같아서 오븐 용기의 크기와 파스타 면의 크기를 잘 맞추는 것이 중요합니다. 네 층으로 쌓아 올리는 이 레시피는 나폴리와 시시리의 전통 요리법에서 영감을 받았습니다.\n\n재료 준비 과정에서는 먼저 올리브유와 마늘, 방울토마토와 으깬 토마토를 냄비에 끓여 맛있는 토마토 소스를 만듭니다. 소시지 고기는 껍질을 벗기고 물에 적신 손으로 포도 알맹이처럼 아주 작게 빚어서 살짝 굽습니다. 리코타 치즈는 우유를 조금 섞어 부드럽게 만들고, 모차렐라 치즈는 얇게 썰어 준비합니다.\n\n오븐 용기에 기름을 바르고 파스타 면을 깐 뒤, 준비한 네 가지 재료를 네 등분하여 층층이 쌓아 올립니다. 가장 위층에는 미트볼을 넣지 않고 파마산 치즈를 뿌려 마무리합니다. 190도로 예열한 오븐에서 25분 동안 구운 뒤, 자르기 전에 30분 정도 식히면 완성됩니다.",
+        "eng": "British food columnist Rachel Roddy has introduced a rich lasagne recipe featuring tomato sauce, three cheeses, and very small meatballs. Making lasagne is like a construction project, so it is important to match the size of the baking dish with the pasta sheets. This four-layer recipe takes inspiration from traditional cooking methods in Naples and Sicily.\n\nIn the preparation process, you first simmer olive oil, garlic, cherry tomatoes, and crushed tomatoes in a pan to make a delicious tomato sauce. The sausage meat is removed from its casings and shaped into tiny grape-sized balls with wet hands, then lightly fried. The ricotta cheese is softened with a little milk, and the mozzarella cheese is sliced thinly.\n\nGrease a baking dish, lay down the pasta sheets, and layer the prepared ingredients divided into four parts. The top layer does not include meatballs, but is finished with a scattering of parmesan cheese. Bake in an oven preheated to 190 degrees for 25 minutes, and let it rest for about 30 minutes before cutting.",
+        "hu": "Rachel Roddy brit ételkarmester bemutatott egy gazdag lasagne receptet paradicsomszósszal, három sajttal és apró húsgombócokkal. A lasagne készítése olyan, mint egy építkezés, ezért fontos összeilleszteni a sütőedény és a tésztalapok méretét. Ez a négyrétegű recept a nápolyi és szicíliai hagyományos főzési módszerekből merít ihletet.\n\nAz előkészítési folyamat során először olívaolajat, fokhagymát, cseresznyeparadicsomot és zúzott paradicsomot főz egy serpenyőben, hogy finom paradicsomszószt készítsen. A kolbászhúst kiszedik a burkolatából, nedves kézzel apró, szőlőszem nagyságú golyókká formálják, majd enyhén megsütik. A ricotta sajtot egy kevés tejjel lágyítják, a mozzarella sajtot pedig vékonyra szeletelik.\n\nKikenünk egy sütőedényt olajjal, letesszük a tésztalapokat, és rétegezzük az előkészített hozzávalókat, négy részre osztva. A legfelső réteg nem tartalmaz húsgombócot, de parmezán sajttal szórják meg. Süssük 190 fokra előmelegített sütőben 25 percig, majd szeletelés előtt pihentessük körülbelül 30 percig."
+      },
+      "vocab": [
+        {
+          "word": "레시피",
+          "meaning_en": "recipe",
+          "meaning_hu": "recept"
+        },
+        {
+          "word": "미트볼",
+          "meaning_en": "meatball",
+          "meaning_hu": "húsgombóc"
+        },
+        {
+          "word": "오븐",
+          "meaning_en": "oven",
+          "meaning_hu": "sütő"
+        },
+        {
+          "word": "준비하다",
+          "meaning_en": "to prepare",
+          "meaning_hu": "előkészíteni"
+        }
+      ],
+      "questions": [
+        {
+          "kor": "라자냐를 만들 때 오븐 용기와 파스타 면의 크기를 맞추는 것이 왜 중요할까요?",
+          "eng": "Why is it important to match the size of the baking dish and pasta sheets when making lasagne?",
+          "hu": "Miért fontos összeilleszteni a sütőedény és a tésztalapok méretét a lasagne készítésekor?"
+        },
+        {
+          "kor": "요리를 완성한 후에 30분 동안 식히는 이유는 무엇일까요?",
+          "eng": "What is the reason for letting the dish rest for 30 minutes after cooking?",
+          "hu": "Mi az oka annak, hogy a főzés után 30 percig pihentetik az ételt?"
+        }
+      ]
+    }
+  ],
   "categories": [
     "Global & Society",
     "Tech & Future",
