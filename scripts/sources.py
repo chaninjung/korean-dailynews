@@ -10,16 +10,35 @@ CATEGORIES = [
     "Travel & Lifestyle",
 ]
 
-# ── 1. 글로벌 스탠다드 데스크 (BBC 코리아 전용) ─────────────────────────
-# 한국 국내 언론사(연합뉴스 등)를 완전히 배제하고, 외국인 학습자에게 가장 중립적이고
-# 정제된 한국어를 제공하는 BBC News 코리아 RSS 단일 소스로 통일합니다.
+# ── 1. 글로벌 스탠다드 데스크 (BBC 코리아 + BBC 카테고리 피드) ───────────
+# BBC 코리아 피드는 정치·범죄 기사가 대부분이라 5개 카테고리의 '후보 풀'이
+# 부족합니다. 그래서 한국어 학습 소재감을 위한 BBC 코리아 피드에 더해,
+# 카테고리별 주제에 맞는 BBC(영문) 피드를 병행 수집합니다.
+# (LLM이 원문 언어와 무관하게 한국어 학습 아티클로 다시 씁니다.)
 # 정치(Business & Politics) 카테고리는 폐지했습니다.
 CATEGORY_RSS_FEEDS = {
-    "Global & Society": ["https://feeds.bbci.co.uk/korean/rss.xml"],
-    "Tech & Future": ["https://feeds.bbci.co.uk/korean/rss.xml"],
-    "Health & Mind": ["https://feeds.bbci.co.uk/korean/rss.xml"],
-    "Culture & Arts": ["https://feeds.bbci.co.uk/korean/rss.xml"],
-    "Travel & Lifestyle": ["https://feeds.bbci.co.uk/korean/rss.xml"],
+    "Global & Society": [
+        "https://feeds.bbci.co.uk/korean/rss.xml",
+        "http://feeds.bbci.co.uk/news/world/rss.xml",
+    ],
+    "Tech & Future": [
+        "https://feeds.bbci.co.uk/korean/rss.xml",
+        "http://feeds.bbci.co.uk/news/technology/rss.xml",
+        "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    ],
+    "Health & Mind": [
+        "https://feeds.bbci.co.uk/korean/rss.xml",
+        "http://feeds.bbci.co.uk/news/health/rss.xml",
+    ],
+    "Culture & Arts": [
+        "https://feeds.bbci.co.uk/korean/rss.xml",
+        "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+    ],
+    "Travel & Lifestyle": [
+        "https://feeds.bbci.co.uk/korean/rss.xml",
+        "https://www.theguardian.com/travel/rss",
+        "https://www.theguardian.com/food/rss",
+    ],
 }
 
 # 본문을 읽을 수 없는 도메인 (Google 쿠키 동의/리다이렉트 페이지 등)
