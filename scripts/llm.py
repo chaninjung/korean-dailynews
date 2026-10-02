@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore", message=".*automatic function calling.*")
 # ── 모델 폴백: 메인 1개 + 경량 폴백 1개, 총 2단계만 사용합니다. ─────────────
 # GEMINI_MODEL 환경변수가 있으면 그 모델이 메인 자리를 대신합니다.
 GEMINI_DEFAULT_MODELS: List[str] = [
-    "gemini-2.5-flash",
+    "gemini-flash-latest",
     "gemini-flash-lite-latest",
 ]
 
@@ -131,7 +131,9 @@ def _call_gemini(prompt: str, api_key: str) -> str:
                         system_instruction=SYSTEM_PROMPT,
                         response_mime_type="application/json",
                         temperature=0.3,
-                        max_output_tokens=8000,
+                        # 3개 언어 본문 + vocab + questions 가 한 번에 나오므로
+                        # 잘림(Unterminated string) 방지를 위해 넉넉히 준다.
+                        max_output_tokens=16000,
                     ),
                 )
                 # 순수 텍스트만 보낸다. tools / function-calling 설정은 일절 넘기지 않는다.
@@ -169,7 +171,10 @@ def _call_gemini_legacy(prompt: str, api_key: str) -> str:
         # GEMINI_MODEL 이 빈 문자열로 넘어올 수 있어(미설정 시크릿) 목록에서 고릅니다.
         model_name=_gemini_model_candidates()[0],
         system_instruction=SYSTEM_PROMPT,
-        generation_config={"response_mime_type": "application/json"},
+        generation_config={
+            "response_mime_type": "application/json",
+            "max_output_tokens": 16000,
+        },
     )
     return model.generate_content(prompt).text
 
