@@ -15,7 +15,7 @@ from sources import (
 
 RSS_ITEMS_PER_FEED = 25     # 피드당 후보 개수 (하루 30건을 뽑으려면 넉넉해야 함)
 MAX_EXTRACT_ATTEMPTS = 24   # 카테고리당 원문 읽기 시도 횟수
-POOL_BUFFER = 3             # 목표 건수보다 여유 있게 모아 거절/실패에 대비
+POOL_BUFFER = 6             # 목표 건수보다 여유 있게 모아 거절/실패에 대비
 # 연합뉴스 피드들은 상단에 같은 인기 기사를 함께 올리므로,
 # 같은 기사가 여러 카테고리에 중복 저장되지 않도록 걸러냅니다.
 
@@ -66,12 +66,27 @@ def collect_pools(plan: Dict[str, List[int]], known_urls: set) -> Dict[str, List
 
 
 def _fetch_category(category: str) -> List[Dict[str, Any]]:
-    gathered: List[Dict[str, Any]] = []
+    """카테고리의 여러 RSS 피드를 '한 개씩 번갈아' 모은다.
+
+    피드를 그대로 이어붙이면 첫 번째 피드(BBC 코리아: 정치·범죄 위주)가
+    목표 인원을 먼저 채워 버려, 뒤의 주제 피드가 한 번도 읽히지 않습니다.
+    그래서 라운드로빈으로 섞어 모든 피드가 고르게 후보가 되게 합니다.
+    """
+    per_feed: List[List[Dict[str, Any]]] = []
     for rss in CATEGORY_RSS_FEEDS.get(category, []):
         try:
-            gathered.extend(fetch_rss_news(rss, count=RSS_ITEMS_PER_FEED))
+            items = fetch_rss_news(rss, count=RSS_ITEMS_PER_FEED)
+            if items:
+                per_feed.append(items)
         except Exception as e:
             print(f"  - RSS 수집 실패 ({category} - {rss}): {e}")
+
+    gathered: List[Dict[str, Any]] = []
+    max_len = max((len(items) for items in per_feed), default=0)
+    for i in range(max_len):
+        for items in per_feed:
+            if i < len(items):
+                gathered.append(items[i])
     return gathered
 
 
