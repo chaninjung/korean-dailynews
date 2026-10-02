@@ -2246,5 +2246,124 @@
         "hu": "Volt már olyan élménye, hogy könyv révén utazott közvetve egy másik országba?"
       }
     ]
+  },
+  {
+    "id": "news-20261002-13",
+    "category": "Culture & Arts",
+    "date": "2026.10.02",
+    "level": "Elementary",
+    "levelNum": 3,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "방송인 에스더 랜첸과 닉콜라스 윈턴의 감동적인 이야기",
+      "eng": "The touching story of broadcaster Esther Rantzen and Nicholas Winton",
+      "hu": "Esther Rantzen műsorvezető és Nicholas Winton megható története"
+    },
+    "desc": {
+      "kor": "과거 TV 프로그램에서 전쟁 중 아이들을 구한 영웅을 만난 감동적인 순간을 소개합니다.",
+      "eng": "Introducing a touching moment from a past TV show meeting a hero who saved children during the war.",
+      "hu": "Egy korábbi tévéműsor megható pillanatát mutatja be, amikor találkoztak a háború alatt gyermekeket mentő hőssel."
+    },
+    "article": {
+      "kor": "영국의 유명한 방송인 에스더 랜첸이 86세의 나이로 세상을 떠났습니다. 그녀는 과거에 '댓츠 라이프!'라는 아주 인기 있는 텔레비전 프로그램을 진행했습니다. 이 프로그램은 많은 사람들에게 사랑을 받았습니다.\n\n그중에서 1988년에 방송된 특별한 이야기가 아주 유명합니다. 니콜라스 윈턴이라는 남성은 과거에 위험한 전쟁 속에서 어린이 669명을 구했습니다. 그는 아이들을 안전한 영국으로 보내기 위해 집을 찾아주고 필요한 돈을 모았습니다.\n\n하지만 그는 자신의 대단한 일을 다른 사람들에게 알리지 않았습니다. 아내가 우연히 그의 기록을 찾으면서 이 이야기가 세상에 알려지게 되었습니다. 그는 1988년 이 방송에 출연해 자신이 구한 아이들과 감동적인 만남을 가졌습니다.",
+      "eng": "Famous British broadcaster Esther Rantzen has passed away at the age of 86. She hosted a very popular television program called 'That's Life!' in the past. This program was loved by many people.\n\nAmong them, a special story broadcast in 1988 is very famous. A man named Nicholas Winton rescued 669 children during a dangerous war in the past. He found homes and raised necessary money to send the children to safe Britain.\n\nHowever, he did not tell other people about his great work. This story became known to the world when his wife accidentally found his records. He appeared on this broadcast in 1988 and had a touching reunion with the children he rescued.",
+      "hu": "Elhunyt Esther Rantzen híres brit műsorvezető 86 éves korában. A múltban a 'That's Life!' nevű nagyon népszerű televíziós műsort vezette. Ezt a műsort sokan szerették.\n\nKözülük nagyon híres az 1988-ban sugárzott különleges történet. Egy Nicholas Winton nevű férfi a múltban 669 gyermeket mentett meg egy veszélyes háború idején. Otthonokat talált és pénzt gyűjtött, hogy a gyerekeket biztonságos Britanniába küldje.\n\nAzonban nem mesélt másoknak a nagyszerű munkájáról. Ez a történet akkor vált ismertté a világ számára, amikor a felesége véletlenül megtalálta a feljegyzéseit. 1988-ban szerepelt ebben a műsorban, és megható találkozása volt az általa megmentett gyermekekkel."
+    },
+    "vocab": [
+      {
+        "word": "방송인",
+        "meaning_en": "broadcaster",
+        "meaning_hu": "műsorvezető"
+      },
+      {
+        "word": "프로그램",
+        "meaning_en": "program",
+        "meaning_hu": "műsor"
+      },
+      {
+        "word": "어린이",
+        "meaning_en": "child",
+        "meaning_hu": "gyermek"
+      },
+      {
+        "word": "이야기",
+        "meaning_en": "story",
+        "meaning_hu": "történet"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "당신은 니콜라스 윈턴처럼 다른 사람을 도와준 경험이 있습니까?",
+        "eng": "Have you ever helped someone like Nicholas Winton did?",
+        "hu": "Segített már valaha valakinek úgy, ahogy Nicholas Winton tette?"
+      },
+      {
+        "kor": "텔레비전 프로그램에서 감동적인 이야기를 본 적이 있습니까?",
+        "eng": "Have you ever seen a touching story on a television program?",
+        "hu": "Látott már megható történetet egy televíziós műsorban?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261002-14",
+    "category": "Culture & Arts",
+    "date": "2026.10.02",
+    "level": "Intermediate",
+    "levelNum": 5,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv62kp9enz08o?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "영국의 유명 음악 축제 글래스턴베리 2027년 티켓 빠르게 매진",
+      "eng": "First Glastonbury 2027 tickets sell out",
+      "hu": "Elkeltek az első Glastonbury 2027 jegyek"
+    },
+    "desc": {
+      "kor": "영국의 글래스턴베리 음악 축제 2027년 행사 티켓이 30분 만에 다 팔렸다.",
+      "eng": "The first batch of tickets for the 2027 Glastonbury Festival sold out in under 30 minutes.",
+      "hu": "Kevesebb mint 30 perc alatt elfogytak az első jegyek a 2027-es Glastonbury Fesztiválra."
+    },
+    "article": {
+      "kor": "영국의 유명 음악 축제인 글래스턴베리 페스티벌이 2026년 휴식기를 거쳐 2027년에 다시 열린다. 주최 측에 따르면 2027년 행사의 첫 번째 티켓이 판매 시작 후 30분도 되지 않아 모두 팔렸다.\n\n이번 축제는 2027년 6월 23일부터 27일까지 영국 서머셋의 워시 파크에서 진행된다. 목요일 저녁에 판매된 버스 패키지 티켓이 빠르게 매진되었으며, 일반 입장권은 일요일 아침에 판매될 예정이다.\n\n2027년 일반 입장권 가격은 408파운드로 올랐다. 축제 관계자는 티켓 가격이 비싸졌지만 그만큼 특별한 경험을 할 수 있다고 전했다.",
+      "eng": "The Glastonbury Festival will return in 2027 after taking a break in 2026. According to the organisers, the first batch of tickets for the 2027 event sold out in less than 30 minutes.\n\nThe festival will take place from June 23 to 27, 2027, in Somerset, UK. Coach tickets sold out quickly after going on sale, and general admission tickets will be sold on Sunday morning.\n\nThe general admission tickets for 2027 cost 408 pounds. Fans and organizers note that while the price is higher, the festival offers a magical experience.",
+      "hu": "A Glastonbury Fesztivál 2026-os szünet után 2027-ben tér vissza. A szervezők szerint a 2027-es esemény első jegycsoportja kevesebb mint 30 perc alatt elfogyott.\n\nA fesztivált 2027. június 23. és 27. között rendezik meg az egyesült királyságbeli Somersetben. A buszos jegyek gyorsan elkeltek, az általános jegyek árusítása pedig vasárnap reggel kezdődik.\n\nA 2027-es általános jegyek ára 408 font. A rajongók és a szervezők megjegyzik, hogy bár az ár magasabb, a fesztivál varázslatos élményt nyújt."
+    },
+    "vocab": [
+      {
+        "word": "축제",
+        "meaning_en": "festival",
+        "meaning_hu": "fesztivál"
+      },
+      {
+        "word": "매진",
+        "meaning_en": "sold out",
+        "meaning_hu": "elfogyott / minden jegy elkelt"
+      },
+      {
+        "word": "가격",
+        "meaning_en": "price",
+        "meaning_hu": "ár"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분은 좋아하는 공연이나 축제 티켓을 사기 위해 기다려 본 적이 있습니까?",
+        "eng": "Have you ever waited in line to buy tickets for a concert or festival you like?",
+        "hu": "Vártál már sorban, hogy jegyet vegyél egy kedvenc koncertedre vagy fesztiválodra?"
+      },
+      {
+        "kor": "티켓 가격이 비싸져도 유명한 축제에 가고 싶습니까?",
+        "eng": "Would you still want to go to a famous festival even if the ticket prices increase?",
+        "hu": "Akkor is el akarsz menni egy híres fesztiválra, ha a jegyárak emelkednek?"
+      }
+    ]
   }
 ]
