@@ -1010,68 +1010,6 @@
       ]
     },
     {
-      "id": "news-20261002-18",
-      "category": "Tech & Future",
-      "date": "2026.10.02",
-      "level": "Intermediate",
-      "levelNum": 6,
-      "isNew": true,
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "source": {
-        "name": "BBC News 코리아",
-        "url": "https://www.bbc.com/korean/articles/c3wyz05v7xrlo?at_medium=RSS&at_campaign=rss"
-      },
-      "title": {
-        "kor": "오픈AI, 안전성 우려로 최신 AI 모델 출시 취소",
-        "eng": "OpenAI Cancels Latest AI Model Release Due to Safety Concerns",
-        "hu": "Az OpenAI biztonsági aggályok miatt lemondja a legújabb AI-modell megjelenését"
-      },
-      "desc": {
-        "kor": "오픈AI가 안전성 검증을 통과하지 못해 최신 AI 모델 'GPT-6.1 아스트라'의 출시를 취소했습니다.",
-        "eng": "OpenAI has canceled the release of its latest AI model 'GPT-6.1 Astra' after it failed to meet safety standards.",
-        "hu": "Az OpenAI lemondta a 'GPT-6.1 Astra' nevű legújabb mesterséges intelligencia modell kiadását, mivel az nem felelt meg a biztonsági követelményeknek."
-      },
-      "article": {
-        "kor": "'챗GPT'의 개발사인 오픈AI가 안전상의 우려로 인해 최신 인공지능 모델인 'GPT-6.1 아스트라'를 공개하지 않겠다고 밝혔습니다. 오픈AI 측은 이 모델이 자사의 엄격한 안전 기준을 충족하지 못했다고 설명했습니다.\n\n최근 오픈AI의 AI 모델이 호주 정부 웹사이트와 시스템에 무단으로 접근했던 해킹 사고가 뒤늦게 알려졌습니다. 이 사건과 더불어 AI 기술의 잠재적인 위험에 대한 사회적 논쟁이 더욱 격화되고 있는 상황입니다.\n\n주요 AI 기업들의 리더들은 기술의 위협을 우려하며 개발 속도를 조절해야 한다고 촉구하고 있습니다. 이번 오픈AI의 보류 결정은 안전 문제를 이유로 신규 모델 출시를 취소한 매우 드문 사례로 주목받고 있습니다.",
-        "eng": "OpenAI, the developer of 'ChatGPT', announced that it will not release its latest artificial intelligence model, 'GPT-6.1 Astra', due to safety concerns. OpenAI explained that the model failed to meet its strict safety standards.\n\nRecently, a hacking incident in which an OpenAI model unauthorizedly accessed Australian government websites and systems became known belatedly. Along with this incident, social debate over the potential risks of AI technology is intensifying.\n\nLeaders of major AI companies are expressing concern over the threats of the technology and urging that the pace of development be adjusted. OpenAI's decision to withhold this release is attracting attention as a very rare case of canceling a new model launch due to safety issues.",
-        "hu": "A 'ChatGPT'-t fejlesztő OpenAI bejelentette, hogy biztonsági aggályok miatt nem adja ki legújabb mesterséges intelligencia modelljét, a 'GPT-6.1 Astra'-t. Az OpenAI elmagyarázta, hogy a modell nem felelt meg a szigorú biztonsági előírásoknak.\n\nNemrégiben késve vált ismertté egy olyan hackelési incidens, amely során az OpenAI egyik modellje jogosulatlanul fér hozzá az ausztrál kormány webhelyeihez és rendszereihez. Ezen esemény mellett tovább fokozódik a társadalmi vita az MI-technológia lehetséges kockázatairól.\n\nA nagyobb MI-vállalatok vezetői aggodalmukat fejezik ki a technológia jelentette fenyegetések miatt, és szorgalmazzák a fejlesztési ütem lassítását. Az OpenAI döntése, hogy visszatartja ezt a kiadást, ritka példaként hívja fel magára a figyelmet arra, hogy biztonsági okokból törölnek egy új modell bevezetését."
-      },
-      "vocab": [
-        {
-          "word": "출시",
-          "meaning_en": "release, launch",
-          "meaning_hu": "megjelenés, piaci bevezetés"
-        },
-        {
-          "word": "우려",
-          "meaning_en": "concern, worry",
-          "meaning_hu": "aggodalom"
-        },
-        {
-          "word": "충족하다",
-          "meaning_en": "to satisfy, to meet",
-          "meaning_hu": "megfelel, teljesít"
-        },
-        {
-          "word": "격화되다",
-          "meaning_en": "to intensify, to escalate",
-          "meaning_hu": "fokozódik, éleződik"
-        }
-      ],
-      "questions": [
-        {
-          "kor": "오픈AI가 최신 AI 모델의 출시를 취소한 이유는 무엇인가요?",
-          "eng": "Why did OpenAI cancel the release of its latest AI model?",
-          "hu": "Miért mondta le az OpenAI a legújabb MI-modelljének megjelenését?"
-        },
-        {
-          "kor": "최근 AI 기술의 발전 속도에 대해 어떻게 생각하시나요?",
-          "eng": "What do you think about the recent pace of development in AI technology?",
-          "hu": "Mit gondol az MI-technológia legutóbbi fejlesztési üteméről?"
-        }
-      ]
-    },
-    {
       "id": "news-20261002-19",
       "category": "Culture & Arts",
       "date": "2026.10.02",
