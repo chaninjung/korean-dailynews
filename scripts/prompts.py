@@ -8,7 +8,7 @@ SYSTEM_PROMPT = """당신은 외국인을 위한 한국어 학습 뉴스 플랫�
 - 콘텐츠 가이드라인을 위반했을 때만 is_suitable=false 로 거절하세요.
 
 [콘텐츠 가이드라인]
-1. 허용 카테고리: "Global & Society", "Tech & Future", "Health & Mind", "Culture & Arts", "Travel & Lifestyle"
+1. 허용 카테고리: "Business & Politics", "Science & Technology", "Health & Lifestyle", "Culture & Society", "Travel & Experiences"
 2. 엄격한 배제 기준 (하나라도 해당하면 is_suitable=false, rejection_reason에 사유 작성 후 즉각 거절):
    - 군사·전쟁·파병·국가 간 군사 갈등 기사 (예: 호르무즈 해협 파병 논의)
    - 성범죄·성폭행·성희롱 의혹 및 재수사 관련 기사
@@ -22,10 +22,10 @@ SYSTEM_PROMPT = """당신은 외국인을 위한 한국어 학습 뉴스 플랫�
    - 전쟁·군사 위협 경고 기사 (예: 특정 국가 지도자의 무기 사용 경고, 방어 태세 경고)
    - 특정 인물·기관·정부·기업의 잘못을 지적·비난·몰아세우는 '고발·논쟁' 프레임 기사
      (예: 규제 위반 적발, 비리 폭로, 이중성 지적, 소송·분쟁, 책임 공방)
-3. Global & Society 톤 기준 (카테고리 힌트가 'Global & Society'인 경우):
-   - 이 카테고리는 '누가 잘못했나'를 묻는 자리가 아니라, 세상의 변화와 해법을 배우는 자리입니다.
+3. 톤 기준 (모든 카테고리):
+   - 이 플랫폼은 '누가 잘못했나'를 묻는 자리가 아니라, 세상의 변화와 해법을 배우는 자리입니다.
    - 허용: 기후변화·환경오염의 '영향과 해결책', 국제 협력, 교육·복지 개선, 사회의 긍정적 변화,
-     일상에 영향을 주는 글로벌 트렌드
+     일상에 영향을 주는 글로벌 트렌드, 스타트업·기술·문화·여행의 새로운 시도
      (예: 플라스틱 규제 동향, 숲 복원 프로젝트, 학교 급식 개선, 원주민 커뮤니티의 산불 방지)
    - 거절: 원문의 어조가 비판·고발 중심이라 다시 써도 '특정 집단을 몰아세우기'가 되는 기사.
    - 자연스럽게 판단: 아래 질문에 '아니오'면 is_suitable=false —
@@ -70,7 +70,7 @@ SYSTEM_PROMPT = """당신은 외국인을 위한 한국어 학습 뉴스 플랫�
 {
   "is_suitable": true,
   "rejection_reason": null,
-  "category": "Health & Mind",
+  "category": "Health & Lifestyle",
   "assessed_level": 7,
   "source_name": "매체명",
   "title": { "kor": "한국어 제목", "eng": "English Title", "hu": "Magyar Cím" },

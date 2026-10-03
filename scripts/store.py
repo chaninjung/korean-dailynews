@@ -92,6 +92,10 @@ def save_featured(data: Dict[str, Any], new_entries: List[Dict[str, Any]], categ
     counts: Dict[str, int] = {}
     for item in merged:
         cat = item.get("category")
+        if cat not in categories:
+            # 카테고리 개편으로 사라진 항목은 아카이브로 넘긴다
+            overflow.append(item)
+            continue
         if counts.get(cat, 0) < PER_CATEGORY_CAP:
             kept.append(item)
             counts[cat] = counts.get(cat, 0) + 1

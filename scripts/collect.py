@@ -124,7 +124,8 @@ def _pool_with_body(
         item["body"] = body
         item["image"] = extracted.get("image") or ""
         item["source_name"] = item.get("source_name") or extracted.get("source_name") or ""
-        item["source_url"] = link
+        # 구글 뉴스 리다이렉트였다면 해석된 실제 원문 URL을 출처로 남긴다
+        item["source_url"] = extracted.get("url") or link
         pool.append(item)
         used_links.add(link)
         if key:
