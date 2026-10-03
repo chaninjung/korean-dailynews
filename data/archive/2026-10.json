@@ -2851,5 +2851,1644 @@
         "hu": "Mi az oka annak, hogy a főzés után 30 percig pihentetik az ételt?"
       }
     ]
+  },
+  {
+    "id": "news-20261003-1",
+    "category": "Global & Society",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 4,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "영국 전문가, \"어린이들에게 일찍 직업을 알려주어야 합니다\"",
+      "eng": "Experts say children should learn about work early",
+      "hu": "Szakértők szerint a gyerekeknek korán meg kell ismerniük a munkát"
+    },
+    "desc": {
+      "kor": "영국의 전직 장관이 초등학교 학생들부터 다양한 직업에 대해 배우고 일일 체험을 해야 한다고 말했습니다.",
+      "eng": "A former UK minister says primary school children should learn about careers and work experience.",
+      "hu": "Egy volt brit miniszter szerint az általános iskolás gyerekeknek tanulniuk kell a karrierekről."
+    },
+    "article": {
+      "kor": "영국의 전직 장관인 앨런 밀벌린은 어린 학생들이 일찍부터 일하는 세계를 배워야 한다고 말했습니다. 그는 네 살짜리 어린아이들도 다양한 직업에 대해 알 수 있어야 한다고 주장했습니다.\n\n그의 조사에 따르면, 많은 청소년이 학교를 졸업한 뒤에 일이나 공부를 하지 못하는 어려움을 겪고 있습니다. 그래서 초등학교 때부터 기업인들이 학교에 와서 여러 가지 직업 이야기를 들려주는 것이 중요하다고 합니다.\n\n또한, 14살부터 16살 사이의 학생들에게는 실제 일터에서 일하는 경험을 필수로 만들어야 한다고 강조했습니다. 하지만 학교 선생님들은 이미 학교가 많은 부담을 겪고 있어서 현실적인 지원이 필요하다고 걱정하고 있습니다.",
+      "eng": "Former UK minister Alan Milburn says young students should learn about the working world early. He argues that children as young as four should know about different careers.\n\nAccording to his research, many young people face difficulties not working or studying after school. Therefore, he believes it is important for business people to visit primary schools and talk about various jobs.\n\nHe also emphasized that work experience should be mandatory for students aged 14 to 16. However, teachers worry that primary schools already face heavy pressure and need practical support.",
+      "hu": "Egy volt brit miniszter, Alan Milburn azt mondja, hogy a fiatal diákoknak korán meg kell ismerniük a munka világát. Azzal érvel, hogy már a négyéves gyerekeknek is ismerniük kell a különböző karriereket.\n\nKutatása szerint sok fiatal szembesül azzal a nehézséggel, hogy az iskola után nem dolgozik vagy tanul. Ezért fontosnak tartja, hogy üzletemberek látogassanak el az általános iskolákba.\n\nAzt is hangsúlyozta, hogy a 14-16 éves diákok számára kötelezővé kell tenni a munkatapasztalatot. A tanárok azonban attól tartanak, hogy az iskolákra nehezedő nyomás miatt gyakorlati támogatásra van szükség."
+    },
+    "vocab": [
+      {
+        "word": "직업",
+        "meaning_en": "job, career",
+        "meaning_hu": "munka, karrier"
+      },
+      {
+        "word": "초등학교",
+        "meaning_en": "primary school",
+        "meaning_hu": "általános iskola"
+      },
+      {
+        "word": "경험",
+        "meaning_en": "experience",
+        "meaning_hu": "tapasztalat"
+      },
+      {
+        "word": "필수",
+        "meaning_en": "mandatory, requirement",
+        "meaning_hu": "kötelező"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분이 초등학교 때 어떤 직업에 관심이 있었나요?",
+        "eng": "What jobs were you interested in when you were in primary school?",
+        "hu": "Milyen munkák érdekelték Önt az általános iskolában?"
+      },
+      {
+        "kor": "학생들에게 일찍 직업 경험을 주는 것이 왜 중요할까요?",
+        "eng": "Why is it important to give students work experience early?",
+        "hu": "Miért fontos, hogy a diákok korán munkatapasztalatot szerezzenek?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-2",
+    "category": "Global & Society",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 5,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "Positive News",
+      "url": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/"
+    },
+    "title": {
+      "kor": "이번 주 전해진 세계의 긍정적인 소식들",
+      "eng": "The good news that matters from around the world this week",
+      "hu": "A hét fontos jó hírei a világ minden tájáról"
+    },
+    "desc": {
+      "kor": "인권과 환경, 노인 복지를 위해 노력하는 사람들과 국제사회의 좋은 소식들을 소개합니다.",
+      "eng": "Introducing good news from around the world about human rights, the environment, and elderly care.",
+      "hu": "Jó hírek a világ minden tájáról az emberi jogok, a környezetvédelem és az idősek gondozása terén."
+    },
+    "article": {
+      "kor": "올해 '대안 노벨상'으로 불리는 라이블리후드 상의 수상자들이 발표되었습니다. 올해 수상자는 모두 여성과 여성 단체로 선정되었습니다. 이들은 인공지능 분야의 권력에 도전하고, 소외된 사람들을 위해 노력한 공로를 인정받았습니다.\n\n또한 UN 회원국들은 기후변화로 바다에 잠길 위기에 처한 섬나라들의 국가 지위를 유지하기로 합의했습니다. 이에 따라 국토가 사라지더라도 이 나라들은 기존의 바다 영토와 주권을 계속 유지할 수 있게 되었습니다.\n\n마지막으로 새로운 유엔 보고서에 따르면 전 세계적으로 노인 차별을 막기 위한 법률이 늘어났습니다. 노인을 위한 장기 돌봄 정책을 시행하는 국가가 증가하면서 노인 복지가 점차 개선되고 있습니다.",
+      "eng": "The recipients of the Right Livelihood Award, often called the 'alternative Nobel prize', have been announced. This year, all winners are women or female-led organizations. They were recognized for challenging power in artificial intelligence and working for marginalized people.\n\nAdditionally, UN member states agreed to maintain the state status of island nations at risk of sinking due to climate change. As a result, even if their land disappears, these nations will continue to retain their traditional maritime borders and sovereignty.\n\nFinally, according to a new UN report, countries legislating against ageism have increased worldwide. With a growing number of countries implementing long-term care policies for the elderly, elderly care is gradually improving.",
+      "hu": "Bejelentették a 'alternatív Nobel-díjként' is ismert Right Livelihood-díj díjazottjait. Az idei évben minden nyertes nő vagy női vezetésű szervezet. Elismerték őket a mesterséges intelligencia terén fennálló hatalom kihívásáért és a marginalizált emberekért végzett munkájukért.\n\nEmellett az ENSZ tagállamai megállapodtak abban, hogy fenntartják a klímaváltozás miatt süllyedéssel fenyegetett szigetországok állami státuszát. Ennek eredményeként még akkor is megtartják tengeri határaikat és szuverenitásukat, ha szárazföldjük eltűnik.\n\nVégül, egy új ENSZ-jelentés szerint világszerte nőtt az életkoron alapuló diszkrimináció ellen törvényt hozó országok száma. Az idősellátási politikákat bevezető országok növekvő számával az idősek ellátása fokozatosan javul."
+    },
+    "vocab": [
+      {
+        "word": "수상자",
+        "meaning_en": "winner, laureate",
+        "meaning_hu": "díjazott, nyertes"
+      },
+      {
+        "word": "주권",
+        "meaning_en": "sovereignty",
+        "meaning_hu": "szuverenitás"
+      },
+      {
+        "word": "차별",
+        "meaning_en": "discrimination",
+        "meaning_hu": "diszkrimináció"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "당신은 기후변화로 국토가 사라질 위기에 처한 나라들을 돕기 위해 어떤 국제적 노력이 더 필요하다고 생각하십니까?",
+        "eng": "What additional international efforts do you think are needed to help countries facing the disappearance of their land due to climate change?",
+        "hu": "Milyen további nemzetközi erőfeszítésekre van szükség az Ön véleménye szerint a klímaváltozás miatt területeik eltűnésével fenyegetett országok segítésére?"
+      },
+      {
+        "kor": "노인 복지를 향상하기 위해 국가가 해야 할 가장 중요한 일은 무엇이라고 생각하십니까?",
+        "eng": "What do you think is the most important thing a government should do to improve elderly care?",
+        "hu": "Ön szerint mi a legfontosabb feladat, amit a kormánynak meg kell tennie az idősek ellátásának javítása érdekében?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-3",
+    "category": "Global & Society",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 6,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "Positive News",
+      "url": "https://www.positive.news/lifestyle/why-good-leaders-listen/"
+    },
+    "title": {
+      "kor": "좋은 리더십에서 듣기의 중요성",
+      "eng": "Why Good Leaders Listen",
+      "hu": "Miért hallgatnak a jó vezetők"
+    },
+    "desc": {
+      "kor": "사회 혁신가 켄 뱅크스가 리더십에서 '듣기'가 왜 중요한지 자신의 경험을 바탕으로 설명합니다.",
+      "eng": "Social innovator Ken Banks explains why listening is a crucial leadership skill based on his experiences.",
+      "hu": "Ken Banks társadalmi innovátor elmagyarázza tapasztalatai alapján, hogy miért kulcsfontosságú a hallgatás a vezetésben."
+    },
+    "article": {
+      "kor": "리더십은 보통 자신감과 빠른 결정, 그리고 좋은 아이디어를 가지는 것과 관련이 있습니다. 하지만 사회 혁신가 켄 뱅크스는 리더십에서 '듣는 것'이 얼마나 중요한지 강조합니다. 그는 30년 동안 보전, 국제 개발, 기술 분야에서 일하면서 자신이 가진 생각이나 가정에 도전하는 사람들과의 대화가 리더십에 대한 생각을 바꾸었다고 말합니다.\n\n그의 초기 아프리카 지역 활동 경험에 따르면, 기술이 모든 문제의 해결책으로 여겨지곤 했습니다. 그러나 현지 주민들은 이미 제한된 자원으로 문제를 해결할 창의적인 방법을 찾고 있었습니다. 뱅크스는 새로운 해결책을 무조건 제시하는 것보다 이미 무엇이 작동하고 있는지 듣는 것이 중요하다고 깨달았습니다. 이러한 경험은 수많은 사람을 도운 메시징 플랫폼 '프런트라인SMS'를 만드는 데 바탕이 되었습니다.\n\n오늘날 인공지능과 빠른 소통이 강조되는 사회에서는 속도가 중요하게 여겨집니다. 그렇지만 기후 변화 같은 복잡한 문제는 한 가지 관점만으로는 해결하기 어렵습니다. 진정한 변화는 사람들의 목소리를 듣고 그들의 강점을 바탕으로 만들어질 때 가능합니다.",
+      "eng": "Leadership is usually associated with confidence, decisiveness, and having good ideas. However, social innovator Ken Banks emphasizes how important listening is in leadership. Working for 30 years in conservation, international development, and technology, he says that conversations with people who challenged his assumptions changed his views on leadership.\n\nBased on his early work in Africa, technology was often seen as the answer to all problems. Yet, local communities were already finding creative ways to solve issues with limited resources. Banks realized that listening to what was already working was more important than simply introducing new solutions. This experience helped shape the messaging platform 'FrontlineSMS,' which assisted many people.\n\nIn today's society, where AI and instant communication are emphasized, speed is valued. However, complex problems like climate change are difficult to solve with a single perspective. Lasting change is possible when we listen to people's voices and build on their strengths.",
+      "hu": "A vezetést általában a magabiztossággal, a határozottsággal és a jó ötletekkel társítják. Ken Banks társadalmi innovátor azonban hangsúlyozza, milyen fontos a hallgatás a vezetésben. A természetvédelem, a nemzetközi fejlesztés és a technológia területén eltöltött 30 év alatt tapasztaltak alapján elmondja, hogy a feltételezéseit megkérdőjelező emberekkel folytatott beszélgetések megváltoztatták a vezetési szemléletét.\n\nAz afrikai munkája során a technológiát gyakran tekintették minden probléma megoldásának. A helyi közösségek azonban már találtak kreatív módszereket a korlátozott erőforrások elleni küzdelemre. Banks rájött, hogy fontosabb meghallgatni, mi működik már, mint újszerű megoldásokat bevezetni. Ez az tapasztalat segített létrehozni a 'FrontlineSMS' üzenetküldő platformot is.\n\nA mai társadalomban, ahol az MI és a gyors kommunikáció kap hangsúlyt, a sebesség értékes. Azonban az olyan komplex problémákat, mint az éghajlatváltozás, nehéz egyetlen szempontból megérteni. Tartós változás akkor érhető el, ha meghhallgatjuk az emberek hangját és erősségeire építünk."
+    },
+    "vocab": [
+      {
+        "word": "리더십",
+        "meaning_en": "leadership",
+        "meaning_hu": "vezetés"
+      },
+      {
+        "word": "사회 혁신가",
+        "meaning_en": "social innovator",
+        "meaning_hu": "társadalmi innovátor"
+      },
+      {
+        "word": "가정",
+        "meaning_en": "assumption",
+        "meaning_hu": "feltételezés"
+      },
+      {
+        "word": "해결책",
+        "meaning_en": "solution",
+        "meaning_hu": "megoldás"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "리더에게 가장 중요한 능력은 무엇이라고 생각합니까?",
+        "eng": "What do you think is the most important skill for a leader?",
+        "hu": "Ön szerint mi a legfontosabb készség egy vezető számára?"
+      },
+      {
+        "kor": "다른 사람의 의견을 끝까지 듣는 것이 왜 어려울까요?",
+        "eng": "Why is it difficult to listen to other people's opinions until the end?",
+        "hu": "Miért nehéz végighhallgatni mások véleményét?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-4",
+    "category": "Global & Society",
+    "date": "2026.10.03",
+    "level": "Advanced",
+    "levelNum": 7,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/01/us-datacenter-new-jersey-pollution"
+    },
+    "title": {
+      "kor": "미국 뉴저지의 마이크로소프트 연계 데이터센터, 허가 없이 대기 오염 물질 배출",
+      "eng": "US datacenter discharged large amounts of pollution for almost a year with no permits",
+      "hu": "Engedély nélkül bocsátott ki nagy mennyiségű szennyezést egy amerikai adatközpont csaknem egy évig"
+    },
+    "desc": {
+      "kor": "미국 뉴저지의 한 데이터센터가 환경부의 허가 없이 약 1년 동안 대량의 오염 물질을 배출하여 벌금을 부과받았습니다.",
+      "eng": "A datacenter in New Jersey, US, has been fined for emitting large amounts of pollutants for nearly a year without environmental permits.",
+      "hu": "Megbírságoltak egy New Jersey-i adatközpontot, amely környezetvédelmi engedélyek nélkül bocsátott ki jelentős mennyiségű szennyező anyagot csaknem egy éven át."
+    },
+    "article": {
+      "kor": "미국 뉴저지주에 있는 마이크로소프트 연계 데이터센터 '데이터원(DataOne)'이 환경부의 적법한 허가 절차를 거치지 않은 채 거의 1년 동안 대량의 대기 오염 물질을 배출한 사실이 공공 기록을 통해 드러났습니다. 이 시설은 비상 발전기로 사용되는 62개의 가스 연소 발전기를 가동해 왔으며, 이로 인해 인근 주민들은 심각한 환경 오염과 소음 피해를 겪었습니다.\n\n럿거스대학교의 연구진과 전직 미국 환경청(EPA) 고위 관계자의 분석에 따르면, 해당 데이터센터의 발전기들은 약 140톤의 질소산화물(NOx)을 배출했을 것으로 추정됩니다. 질소산화물은 스모그를 유발하고 천식, 심장마비 등을 일으킬 수 있는 위험한 가스 물질로, 전문가들은 이 시설이 전면 가동될 경우 주의 주요 대형 오염원보다 더 많은 오염 물질을 뿜어낼 수 있다고 경고했습니다.\n\n뉴저지주 환경보호국은 최근 무허가 발전기를 가동한 이 기업에 백만 달러의 벌금을 부과했습니다. 그러나 데이터원 측은 발전기에 허가가 필요하지 않다는 기존 입장을 철회하고 뒤늦게 허가 신청을 준비하고 있으며, 환경 친화적인 연료 전지로의 전환을 추진하겠다고 밝혔습니다.\n\n이번 사건은 급증하는 AI와 클라우드 데이터 처리 수요를 충족하기 위해 대규모 전력을 필요로 하는 데이터센터 운영 과정에서 환경 규제가 얼마나 엄격하게 적용되어야 하는지에 대한 사회적 논의를 불러일으키고 있습니다. 전문가들은 기업들이 기술 발전의 속도에만 치중하여 지역 사회의 환경권과 공공의 안전을 소홀히 해서는 안 된다고 강조합니다.",
+      "eng": "Public records revealed that DataOne, a Microsoft-linked datacenter in New Jersey, discharged large amounts of air pollutants for nearly a year without proper environmental permits. The facility operated 62 gas-fired backup generators, causing severe environmental pollution and noise disturbances for nearby residents.\n\nAccording to analysis by Rutgers University researchers and a former US Environmental Protection Agency (EPA) official, the datacenter's generators are estimated to have emitted about 140 tons of nitrogen oxides (NOx). NOx is a hazardous gas group that produces smog and is linked to asthma and heart attacks, with experts warning that full operation could surpass the emissions of major state power sources.\n\nThe New Jersey Department of Environmental Protection recently fined the company $1m for running unpermitted generators. However, DataOne plans to apply for permits now and stated it is transitioning to eco-friendly fuel cells, moving away from its previous argument that permits were unnecessary.\n\nThis incident sparks broader discussions on how strictly environmental regulations must be enforced in datacenter operations that require massive electricity to meet growing AI and cloud computing demands. Experts emphasize that companies must not neglect community environmental rights and public safety in pursuit of technological advancement.",
+      "hu": "Nyilvános adatokból kiderült, hogy a New Jersey-ben található, a Microsofttal kapcsolatban álló DataOne adatközpont megfelelő környezetvédelmi engedélyek nélkül bocsátott ki nagy mennyiségű légszennyező anyagot csaknem egy éven keresztül. Az létesítmény 62 gázüzemű tartalék generátort működtetett, ami súlyos környezetszennyezést és zajártalmat okozott a közelben élők számára.\n\nRutgers egyetemi kutatók és az amerikai Környezetvédelmi Ügynökség (EPA) egy volt tisztviselőjének elemzése szerint az adatközpont generátorai becslések szerint mintegy 140 tonna nitrogén-oxidot (NOx) bocsátottak ki. A NOx olyan veszélyes gázcsoport, amely szmogot okoz, és összefüggésbe hozható az asztmával és a szívrohamokkal, a szakértők pedig arra figyelmeztettek, hogy a teljes kapacitású működés meghaladhatja a főbb állami erőművek kibocsátását.\n\nNew Jersey állam környezetvédelmi minisztériuma nemrégiben 1 millió dollár bírságot szabott ki a cégre az engedély nélküli generátorok működtetése miatt. A DataOne azonban most tervezi az engedélyek beszerzését, és közölte, hogy környezetbarát üzemanyagcellákra tér át.\n\nEz az eset széles körű vitákat vált ki arról, hogy milyen szigorúan kell betartatni a környezetvédelmi előírásokat az adatközpontok működtetése során. A szakértők hangsúlyozzák, hogy a vállalatok nem hanyagolhatják el a helyi közösségek környezeti jogait a technológiai fejlődés oltárán."
+    },
+    "vocab": [
+      {
+        "word": "질소산화물",
+        "meaning_en": "Nitrogen oxides (NOx)",
+        "meaning_hu": "Nitrogén-oxidok"
+      },
+      {
+        "word": "배출하다",
+        "meaning_en": "To discharge, to emit",
+        "meaning_hu": "Kibocsátani"
+      },
+      {
+        "word": "환경 규제",
+        "meaning_en": "Environmental regulation",
+        "meaning_hu": "Környezetvédelmi szabályozás"
+      },
+      {
+        "word": "무허가",
+        "meaning_en": "Unpermitted, without permission",
+        "meaning_hu": "Engedély nélküli"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "데이터센터와 같은 대규모 시설이 환경 규제를 위반했을 때 어떤 조치가 필요하다고 생각하십니까?",
+        "eng": "What measures do you think are necessary when large-scale facilities like datacenters violate environmental regulations?",
+        "hu": "Milyen intézkedéseket tart szükségesnek, ha olyan nagy létesítmények, mint az adatközpontok, megsértik a környezetvédelmi előírásokat?"
+      },
+      {
+        "kor": "급증하는 디지털 수요와 환경 보호 사이의 균형을 어떻게 맞출 수 있을까요?",
+        "eng": "How can we balance rapidly increasing digital demands with environmental protection?",
+        "hu": "Hogyan lehet egyensúlyt teremteni a gyorsan növekvő digitális igények és a környezetvédelem között?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-5",
+    "category": "Global & Society",
+    "date": "2026.10.03",
+    "level": "Advanced",
+    "levelNum": 8,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/sep/30/mothers-trauma-women-children-nepal-flash-floods"
+    },
+    "title": {
+      "kor": "네팔 홍수 참사 속에서 살아남은 젊은 어머니들의 증언",
+      "eng": "Young mothers recall the living hell of Nepal's flash floods",
+      "hu": "Fiatal anyák emlékeznek vissza a nepáli villámárvizek poklára"
+    },
+    "desc": {
+      "kor": "네팔 히말라야 지역에서 발생한 대규모 돌발 홍수로 삶의 터전을 잃은 임산부와 어린 어머니들의 고통스러운 생존기와 임시 거주지에서의 삶을 조명합니다.",
+      "eng": "An account of young mothers and pregnant women struggling to survive and living in temporary shelters following catastrophic flash floods in Nepal.",
+      "hu": "Fiatal anyák és várandós nők beszámolói a nepáli pusztító villámárvizek utáni túlélésről és az ideiglenes menedékekről."
+    },
+    "article": {
+      "kor": "지난 8월, 네팔과 티베트 국경 인근의 히말라야 지역에서는 대규모 빙하 붕괴로 인한 치명적인 돌발 홍수가 발생하여 수많은 마을과 도로, 교량이 완전히 쓸려 나갔습니다. 이번 참사로 인해 1,400명 이상이 목숨을 잃었고, 5,700명 이상이 실종되었으며, 8만 명이 넘는 이들이 여전히 인도주의적 지원을 절실히 필요로 하고 있습니다. 특히 유엔아동기금(UNICEF) 등의 평가에 따르면, 이번 재난은 취약계층인 산모와 영유아들에게 더욱 치명적인 타격을 입혔으며 수많은 이재민이 임시 대피소로 몰려들었습니다.\n\n21세의 푸자 파리얄은 참사 당시 생후 3개월 된 딸과 함께 정기 검진을 받기 위해 병원을 찾았다가 봉변을 당했습니다. 그녀는 트리슐리 병원 옥상에서 사흘 동안 음식도 물도 없이 구조를 기다리며 지옥 같은 시간을 보냈다고 회상했습니다. 그녀의 집을 비롯한 주변 일대는 거대한 진흙 바다로 변해 완전히 파괴되었고, 월세로 살던 집이었기에 정부의 보상도 받을 수 없는 처지입니다. 구조 직후 폐렴 진단을 받은 아기와 함께 파리얄은 현재 임시 거주 센터의 좁은 텐트에서 다른 이재민들과 함께 생활하고 있습니다.\n\n또 다른 생존자인 23세의 임신부 칼파나 네팔리는 남편의 긴급 연락을 받고 야경 차림으로 겨우 고지대로 피신했습니다. 그녀는 탈진하여 정신을 잃었다가 헬기 안에서 깨어났으며, 정기적으로 식사를 챙겨야 하는 임신부로서 극심한 스트레스와 불안 속에 지내고 있습니다. 현재 라수와 지역의 수력 발전 터널 근처에서 근무하던 남편과 재회하여 임시 대피소 홀에서 80여 명의 이재민과 함께 머물고 있습니다. 성별 구분이 없는 화장실과 긴 대기 줄 등 열악한 환경 속에서도, 대피소에 머무는 임신부들은 출산 예정일에 따라 인근 보건소와 연계되어 안전한 출산을 위한 지원을 받고 있습니다.",
+      "eng": "In August, a catastrophic flash flood triggered by a glacier collapse in the Himalayan border region of Nepal and Tibet swept away numerous villages, roads, and bridges. According to assessments, more than 1,400 people died, over 5,700 went missing, and more than 80,000 remain in need of humanitarian assistance. The disaster has severely impacted vulnerable populations, particularly pregnant women and infants, forcing thousands into temporary shelters.\n\nTwenty-one-year-old Pooja Pariyal was visiting a hospital with her three-month-old daughter for a routine appointment when the disaster struck. She recalled spending three agonizing days stranded on the roof of Trishuli hospital without food or proper facilities while her neighborhood was turned into a sea of mud. Because her destroyed home was rented, she is not entitled to government compensation. Following their rescue and the baby's subsequent pneumonia diagnosis, they now live in a cramped tent at a temporary holding center.\n\nAnother survivor, 23-year-old pregnant Kalpana Nepali, fled to higher ground in her nightdress after receiving an urgent call from her husband. She lost consciousness during the ordeal and later woke up inside a rescue helicopter, overwhelmed with stress and anxiety about her unborn child. Now reunited with her husband, who survived near a hydropower tunnel, they live in a shared hall with dozens of other displaced people. Despite the poor sanitary conditions in the shelters, pregnant women are being assigned to functioning health centers based on their delivery dates to ensure safe medical care.",
+      "hu": "Augusztusban a nepáli és tibeti határvidéken bekövetkezett glezseromlás nyomán pusztító villámárvíz söpört végig, falvakat és utakat sodorva el. A jelentések szerint több mint 1400 ember életét vesztette, több mint 5700-an eltűntek, és több mint 80 ezren szorulnak humanitárius segítségre. A katasztrófa különösen súlyosan érintette a kiszolgáltatott csoportokat, például a várandós nőket és a csecsemőket.\n\nA 21 éves Pooja Pariyal a kórházban tartózkodott három hónapos kislányával, amikor a katasztrófa bekövetkezett. Három napig rekedt a kórház tetején élelem és víz nélkül, miközben otthona megsemmisült. Mivel a háza bérelt volt, nem jogosult állami kártérítésre, és jelenleg egy ideiglenes sátorban él a megmentett, de tüdőgyulladással diagnosztizált gyermekével.\n\nEgy másik túlélő, a 23 éves, hét hónapos terhes Kalpana Nepali éjszakai hálóingében menekült magasabb térségbe. Miután helikopterrel kimentették, egy közös csarnokban él más hajléktalanokkal együtt. Bár a körülmények nehezek a menedéken, a terhes nők egészségügyi ellátását a szülés várható időpontja alapján biztosítják."
+    },
+    "vocab": [
+      {
+        "word": "돌발 홍수",
+        "meaning_en": "flash flood",
+        "meaning_hu": "villámárvíz"
+      },
+      {
+        "word": "인도주의적",
+        "meaning_en": "humanitarian",
+        "meaning_hu": "humanitárius"
+      },
+      {
+        "word": "임시 거주지",
+        "meaning_en": "temporary shelter",
+        "meaning_hu": "ideiglenes menedékhely"
+      },
+      {
+        "word": "이재민",
+        "meaning_en": "displaced people / flood victims",
+        "meaning_hu": "kitelepítettek / katasztrófa károsultjai"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "자연재해 이후 임산부와 영유아 같은 취약계층을 돕기 위해 사회는 어떤 지원을 우선적으로 제공해야 할까요?",
+        "eng": "What kind of support should society prioritize to help vulnerable groups such as pregnant women and infants after a natural disaster?",
+        "hu": "Milyen támogatást kellene a társadalomnak előtérbe helyeznie a kiszolgáltatott csoportok, például a terhes nők és csecsemők segítésére egy természeti katasztrófa után?"
+      },
+      {
+        "kor": "대규모 재난으로 모든 것을 잃은 이재민들이 일상을 회복하기 위해 가장 필요한 것은 무엇이라고 생각하십니까?",
+        "eng": "What do you think is most needed for disaster victims who have lost everything to recover their daily lives?",
+        "hu": "Ön szerint mire van a legnagyobb szükségük azoknak a katasztrófa áldozatainak, akik mindent elveszítettek, hogy visszanyerjék mindennapi életüket?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-6",
+    "category": "Global & Society",
+    "date": "2026.10.03",
+    "level": "Proficient",
+    "levelNum": 9,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r68mpm6p3o?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "학교의 인공지능 도입 혼란: 정부의 명확한 지침과 국가적 대응 촉구",
+      "eng": "Schools not ready for AI and 'crying out' for government guidance, report warns",
+      "hu": "Az iskolák nincsenek felkészülve a mesterséges intelligenciára, és kormányzati iránymutatást követelnek"
+    },
+    "desc": {
+      "kor": "최근 발표된 보고서에 따르면 영국의 학교들은 인공지능의 급격한 도입 속도를 따라가지 못하고 있으며, 정부 차원의 체계적인 지침과 국가적 대책 마련을 강력히 요구하고 있습니다.",
+      "eng": "A new report warns that schools are struggling to keep pace with AI adoption and demands urgent government guidance and a national framework.",
+      "hu": "Egy új jelentés arra figyelmeztet, hogy az iskolák küzdenek a mesterséges intelligencia integrálásával, és sürgős kormányzati iránymutatást követelnek."
+    },
+    "article": {
+      "kor": "최근 발표된 한 보고서에 따르면, 영국의 학교들은 학생들이 인공지능(AI)을 안전하고 효과적으로 활용할 수 있도록 돕는 정부 차원의 명확한 지침을 절실히 요구하고 있는 것으로 나타났습니다. 교육 분야의 전문가이자 전직 교장인 앤서니 셀던 경은 현장의 AI 도입 과정이 매우 무질서하고 혼란스럽게 진행되고 있다고 지적하며, 정부가 나서서 전국적인 틀을 마련해야 한다고 주장했습니다.\n\n셀던 경이 벤처 투자자 팀 번팅과 공동으로 작성한 이번 보고서는 학교들이 AI 시대의 도래에 제대로 대비하지 못했다고 진단했습니다. 특히 이 보고서는 AI 교육의 중요성을 강조하며, 정부가 코로나19 백신 보급 당시와 같은 수준의 국가적 비상 대책반을 구성하여 시급히 대응해야 한다고 제안했습니다. 또한, 총리가 직접 나서서 교육 방향을 현실 세계의 AI 활용 방식과 일치시켜야 한다는 점을 역설했습니다.\n\n보고서가 제시한 10가지 권고안에는 학교와 대학이 자체적인 AI 전략을 수립하고, 교육기준청(Ofsted)의 정기 감사를 통해 이를 평가받는 방안이 포함되어 있습니다. 아울러 AI를 활용하여 학생들의 학업 진도를 추적하고, 기존의 시험 제도 외에도 AI를 통한 지속적인 이해도 평가를 도입하는 '투 트랙' 시스템으로의 전환을 제안했습니다.\n\n한편, 설문조사에 응한 많은 젊은이들은 AI의 발전으로 인해 교육의 전통적인 가치가 하락하고 있다고 인식하고 있으며, 일부는 AI가 교사와 대학을 대체할 수 있다고 우려를 표명했습니다. 보고서는 교육 제도가 학생들이 이미 일상적으로 AI를 사용하는 속도를 따라잡지 못해 교육 기관 자체의 효용성에 대한 회의감이 대두되고 있다고 경고했습니다.\n\n이에 대해 영국 교육부 대변인은 정부가 AI가 가져오는 중대한 기회와 과제를 매우 진지하게 받아들이고 있다고 밝혔습니다. 교육부는 커리큘럼 개정을 통해 학생들에게 디지털 역량을 함양하고 허위 정보를 식별하는 능력을 길러주는 한편, 새로운 AI 학습 도구를 개발하여 성공적인 진로를 지원하고 있다고 덧붙였습니다.",
+      "eng": "A new report has warned that schools are urgently demanding government guidance on how pupils and teachers can use artificial intelligence safely and effectively. Sir Anthony Seldon, a former head teacher and education author, stated that the introduction of the technology has been chaotic and anarchic, urging the government to establish a national framework.\n\nCo-authored with venture capitalist Tim Bunting, the report argues that schools have been inadequately prepared for the arrival of AI. It contends that managing AI requires a level of national urgency comparable to wars or epidemics, suggesting a taskforce modeled on the rollout of the Covid-19 vaccine. The report also recommends a landmark speech by the prime minister to align education with real-world AI applications.\n\nThe 10-point plan outlined in the report includes schools and colleges developing independent AI strategies, with implementation assessed by Ofsted during inspections. Furthermore, it proposes transforming data collection to track student progress and reforming assessments into a dual system combining traditional exams with continuous AI-based evaluations.\n\nAdditionally, polling data cited in the report indicates that many young respondents feel AI is diminishing the perceived value of education, with some suggesting it could eventually replace teachers and make universities obsolete. The report stresses that education has failed to keep pace with students' actual AI usage, resulting in a loss of institutional value.\n\nIn response, a Department for Education spokesperson stated that ministers take the significant opportunities and challenges of AI extremely seriously. The government highlighted its ongoing efforts to refresh the curriculum, build new AI tutoring tools, and introduce vocational pathways to ensure successful student careers.",
+      "hu": "Egy friss jelentés arra figyelmeztet, hogy az iskolák sürgősen kormányzati iránymutatást követelnek arról, hogyan használhatják a diákok és a tanárok biztonságosan és hatékonyan a mesterséges intelligenciát. Sir Anthony Seldon volt iskolaigazgató és oktatási szakértő szerint a technológia bevezetése kaotikus és anarchikus volt, ezért sürgette, hogy a kormány dolgozzon ki egy nemzeti keretrendszert.\n\nA Tim Bunting kockázati tőkéstárssal közösen készített jelentés azzal érvel, hogy az iskolák nem készültek fel megfelelően a mesterséges intelligencia érkezésére. A dokumentum szerint a MI kezelése olyan szintű nemzeti sürgősséget igényel, mint a háborúk vagy a járványok, és a Covid-vakcinák bevezetéséhez hasonló munkacsoport felállítását javasolja. A jelentés azt is szorgalmazza, hogy a miniszterelnök tartson mérföldkőnek számító beszédet az oktatás és a valós világ MI-alkalmazásainak összehangolásáról.\n\nA jelentésben szereplő tízpontos terv magában foglalja, hogy az iskolák és főiskolák saját MI-stratégiákat dolgozzanak ki, amelyek megvalósítását az Ofsted (Oktatási Normák Hivatala) ellenőrzései során értékeli. Javasolja továbbá az adatszolgáltatás átalakítását a diákok előrehaladásának nyomon követésére, valamint az értékelési rendszer reformját egy olyan kettős rendszerbe, amely a hagyományos vizsgákat és a folyamatos, MI-alapú megértés-értékelést ötvözi.\n\nA jelentésben idézett felmérések szerint ráadásul sok fiatal úgy véli, hogy a mesterséges intelligencia csökkenti az oktatás jelentőségét, és egyesek attól tartanak, hogy a technológia végül felválthatja a tanárokat. A dokumentum arra figyelmeztet, hogy az oktatási rendszer nem tart lépést a diákok valós MI-használatával, ami az intézményi értékbe vetett hit csökkenéséhez vezet.\n\nErre reagálva az oktatási minisztérium szóvivője kijelentette, hogy a miniszterek rendkívül komolyan veszik a mesterséges intelligencia jelentette jelentős lehetőségeket és kihívásokat. A kormány kiemelte folyamatos erőfeszítéseit a tanterv megújítására, új MI-alapú korrepetáló eszközök fejlesztésére és a sikeres karrierutak biztosítására."
+    },
+    "vocab": [
+      {
+        "word": "인공지능",
+        "meaning_en": "Artificial Intelligence (AI)",
+        "meaning_hu": "Mesterséges intelligencia (MI)"
+      },
+      {
+        "word": "국가적",
+        "meaning_en": "National",
+        "meaning_hu": "Nemzeti"
+      },
+      {
+        "word": "도입",
+        "meaning_en": "Introduction / Adoption",
+        "meaning_hu": "Bevezetés / Alkalmazás"
+      },
+      {
+        "word": "권고안",
+        "meaning_en": "Recommendation proposal",
+        "meaning_hu": "Ajánlás / Javaslat"
+      },
+      {
+        "word": "효용성",
+        "meaning_en": "Utility / Effectiveness",
+        "meaning_hu": "Hasznosság / Hatékonyság"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "학교 교육에서 인공지능의 도입이 왜 체계적인 국가적 지침을 필요로 한다고 생각하시나요?",
+        "eng": "Why do you think the adoption of AI in school education requires systematic national guidance?",
+        "hu": "Ön szerint miért igényel szisztematikus nemzeti iránymutatást a mesterséges intelligencia bevezetése az iskolai oktatásban?"
+      },
+      {
+        "kor": "보고서에서 제기된 우려처럼 인공지능이 미래에 교사와 대학의 역할을 대체할 수 있다고 보십니까?",
+        "eng": "Do you believe that AI could eventually replace the roles of teachers and universities in the future, as the report's concerns suggest?",
+        "hu": "Ön szerint a mesterséges intelligencia a jövőben valóban felválthatja a tanárok és az egyetemek szerepét, ahogyan azt a jelentés aggodalmai sugallják?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-7",
+    "category": "Tech & Future",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 4,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC Weather",
+      "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "올해 대서양에 허리케인이 발생하지 않을 수도 있습니다",
+      "eng": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "hu": "Vajon az El Niño miatt idén egyáltalán nem lesznek hurrikánok az Atlanti-óceánon?"
+    },
+    "desc": {
+      "kor": "강한 엘니뇨 현상 때문에 올해 대서양에서 허리케인이 하나도 발생하지 않을 가능성이 커지고 있습니다.",
+      "eng": "Due to a strong El Niño, there is an increasing possibility that no hurricanes will develop in the Atlantic this year.",
+      "hu": "Egy erős El Niño miatt egyre nagyobb a valószínűsége annak, hogy idén egyetlen hurrikán sem alakul ki az Atlanti-óceánon."
+    },
+    "article": {
+      "kor": "올해 9월은 대서양에서 30년 넘게 처음으로 허리케인이 전혀 만들어지지 않은 달이 되었습니다. 9월은 보통 허리케인 활동이 가장 활발한 시기이기 때문에 이번 결과는 아주 특별합니다.\n\n이러한 현상의 가장 큰 원인은 '엘니뇨'입니다. 엘니뇨는 태평양의 바닷물이 따뜻해지면서 전 세계의 날씨 흐름을 바꾸는 자연 현상입니다.\n\n엘니뇨가 발생하면 대서양 상공의 바람이 빠르게 변하면서 뇌우를 찢어놓습니다. 그래서 폭풍이 허리케인으로 자라지 못하고 사라지게 됩니다.\n\n전문가들은 올해 남은 기간에도 허리케인이 발생할 가능성이 낮다고 말합니다. 만약 올해 허리케인이 하나도 없다면, 이는 위성 관측을 시작한 이후 처음 있는 일이 됩니다.",
+      "eng": "For the first time in more than 30 years, a hurricane has not formed in the Atlantic throughout September. September is normally the most active month for hurricane activity, making this year unusual.\n\nThe biggest reason for this is El Niño, a natural phenomenon where the tropical Pacific warms up and disrupts global weather patterns.\n\nWhen El Niño occurs, upper winds over the Atlantic change rapidly and rip apart thunderstorms. This prevents storms from growing into hurricanes.\n\nExperts say the possibility of hurricanes forming for the rest of the year is low. If there are no hurricanes at all this year, it will be the first time since satellite monitoring began.",
+      "hu": "Több mint 30 éve először fordult elő, hogy szeptemberben egyetlen hurrikán sem képződött az Atlanti-óceánon. Szeptember általában a legaktívabb hónap a hurrikánok szempontjából, ezért ez a helyzet szokatlan.\n\nEnnek a legnagyobb oka az El Niño, egy olyan természeti jelenség, amely során a trópusi Csendes-óceán felmelegszik, és megváltoztatja a globális időjárási mintákat.\n\nAmikor El Niño lép fel, az Atlanti-óceán fölötti felső szelek gyorsan változnak, és szétszaggatják a zivatarokat. Ez megakadályozza, hogy a viharok hurrikánokká fejlődjenek.\nKifejtik a szakértők, hogy az év hátralevő részében is kicsi a esélye a hurrikánok kialakulásának. Ha idén egyáltalán nem lesz hurrikán, az a műholdas megfigyelések kezdete óta az első ilyen eset lesz."
+    },
+    "vocab": [
+      {
+        "word": "허리케인",
+        "meaning_en": "hurricane",
+        "meaning_hu": "hurrikán"
+      },
+      {
+        "word": "현상",
+        "meaning_en": "phenomenon",
+        "meaning_hu": "jelenség"
+      },
+      {
+        "word": "폭풍",
+        "meaning_en": "storm",
+        "meaning_hu": "vihar"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "올해 대서양에 허리케인이 발생하지 않는 가장 큰 이유는 무엇인가요?",
+        "eng": "What is the biggest reason why hurricanes are not forming in the Atlantic this year?",
+        "hu": "Mi a legfőbb oka annak, hogy idén nem képződnek hurrikánok az Atlanti-óceánon?"
+      },
+      {
+        "kor": "여러분이 사는 지역에는 어떤 자연 현상이 자주 일어나나요?",
+        "eng": "What natural phenomena frequently occur in the area where you live?",
+        "hu": "Milyen természeti jelenségek fordulnak elő gyakran azon a vidéken, ahol él?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-8",
+    "category": "Tech & Future",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 5,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "하와이의 유명한 550년 된 자연 바위 다리가 바다로 무너졌다",
+      "hu": "Összeomlott Hawaii híres, 550 éves természetes kőíve",
+      "eng": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses"
+    },
+    "desc": {
+      "kor": "하와이 화산 국립공원에 있던 27미터 높이의 바위 다리가 바다로 무너져 내렸다.",
+      "hu": "Összeomlott a Hawaii Vulkánok Nemzeti Parkban található, 27 méter magas kőív.",
+      "eng": "A 27-meter-tall rock formation in Hawaii Volcanoes National Park has collapsed into the ocean."
+    },
+    "article": {
+      "kor": "미국 하와이의 유명한 자연 바위 다리인 '홀레이 시 아치'가 태평양으로 무너져 내렸다. 이 바위는 약 550년 전에 만들어졌으며 높이가 27미터에 달하는 관광 명소였다.\n\n국립공원 측은 지난 23일까지 남아 있던 바위가 27일에 사라졌다고 밝혔다. 정확한 무너진 시간은 알려지지 않았지만, 전문가들은 최근 발생한 열대 폭풍과 과거의 지진이 영향을 주었을 것이라고 설명했다.\n\n이 바위 주변의 해안선은 수년 동안 불안정한 모습을 보여왔다. 공원 관리소는 자연의 아름다움은 영원하지 않으며, 시간이 지나면서 해안 절벽과 지형은 계속해서 변한다고 전했다.",
+      "hu": "Összeomlott a Csendes-óceánba a Hawaiiban található híres természetes kőív, a Hōlei Sea Arch. Ez a sziklaképződmény körülbelül 550 évvel ezelőtt alakult ki, és egy 27 méter magas turisztikai látványosság volt.\n\nA Nemzeti Park Szolgálat közölte, hogy a szeptember 23-án még látható kőív szeptember 27-ére eltűnt. Az összeomlás pontos ideje nem ismert, de a szakértők szerint a közelmúltbeli trópusi vihar és a korábbi földrengések is szerepet játszhattak benne.\n\nA szikla körüli tengerpart már évek óta a bizonytalanság jeleit mutatta. A park igazgatósága kijelentette, hogy a természet szépsége nem örök, és a tengerparti sziklák az idő múlásával folyamatosan változnak.",
+      "eng": "Hawaii's famous natural rock formation, the Hōlei Sea Arch, has collapsed into the Pacific Ocean. The rock was formed about 550 years ago and stood 27 meters tall as a popular tourist destination.\n\nThe National Park Service stated that the arch, which was still visible on September 23, was gone by September 27. Although the exact time of the collapse is not known, experts explain that a recent tropical storm and past earthquakes likely affected it.\n\nThe coastline around this rock formation has shown signs of instability for years. Park officials stated that natural beauty is not permanent, and coastal cliffs and landscapes continue to change over time."
+    },
+    "vocab": [
+      {
+        "word": "무너지다",
+        "meaning_en": "to collapse",
+        "meaning_hu": "összeomlik"
+      },
+      {
+        "word": "명소",
+        "meaning_en": "famous spot / attraction",
+        "meaning_hu": "nevezetesség"
+      },
+      {
+        "word": "불안정하다",
+        "meaning_en": "to be unstable",
+        "meaning_hu": "bizonytalan / instabil"
+      },
+      {
+        "word": "영원하다",
+        "meaning_en": "to be eternal",
+        "meaning_hu": "örök"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "자연 구조물이 시간이 지나면서 사라지는 것에 대해 어떻게 생각하시나요?",
+        "eng": "What do you think about natural structures disappearing over time?",
+        "hu": "Mit gondol arról, hogy a természeti képződmények idővel eltűnnek?"
+      },
+      {
+        "kor": "여러분이 사는 지역에도 유명한 자연 관광지가 있나요?",
+        "eng": "Are there any famous natural tourist spots in your local area?",
+        "hu": "Találhatók híres természeti turisztikai látványosságok az Ön lakóhelyén?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-9",
+    "category": "Tech & Future",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 6,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "트럼프의 인공지능 명칭 변경 제안으로 슬로베니아 웹사이트 주소 등록이 급증했습니다",
+      "eng": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "hu": "Trump mesterséges intelligenciával kapcsolatos névváltoztatási javaslata példátlan keresletet hozott a szlovén webhelynevek iránt"
+    },
+    "desc": {
+      "kor": "미국 대통령의 인공지능 새 이름 제안 때문에 슬로베니아의 인터넷 주소 등록이 크게 늘었습니다.",
+      "eng": "US president's push to rename AI has led to a massive surge in Slovenian domain registrations.",
+      "hu": "Az amerikai elnök MI-re vonatkozó névváltoztatási törekvése hatalmas növekedést eredményezett a szlovén domainregisztrációkban."
+    },
+    "article": {
+      "kor": "도널드 트럼프 미국 대통령이 인공지능(AI)의 이름을 '슈퍼 인텔리전스(SI)'로 바꾸자고 제안한 이후, 슬로베니아의 국가 인터넷 주소 등록이 폭발적으로 증가했습니다. 슬로베니아 공식 등록소에 따르면, 9 한 달 동안 '.si' 확장자를 가진 웹 주소가 4만 4천 개나 등록되었습니다. 이는 한 달 전에 비해 2천 퍼센트 이상 늘어난 수치로, 지난 1년 동안 볼 수 없었던 전례 없는 기록입니다.\n\n트럼프 대통령은 9월 뉴욕에서 열린 유엔 총회 연설에서 '인공(artificial)'이라는 단어가 기술을 가짜처럼 들리게 만든다고 주장했습니다. 대신 그는 이 기술을 '슈퍼 인텔리전스'라고 불러야 한다고 강조하며 새 시대의 도래를 선언했습니다. 실제로 그는 미국 정부 기관들이 공식 문서나 웹사이트에서 'AI' 대신 'SI'라는 용어를 사용하도록 지시하는 행정명령에 서명했습니다.\n\n이처럼 슬로베니아의 웹 주소 등록이 급증한 배경에는 여러 가지 해석이 존재합니다. 전문가들은 미래에 가치가 오를 것을 기대하고 특정 도메인을 미리 구입하는 투자 목적의 구매일 가능성을 제기하고 있습니다. 다만, 이러한 급증 현상이 온전히 트럼프 대통령의 발언 때문인지는 확실하지 않지만, 전 세계적인 기술 용어 변화가 인터넷 도메인 시장에 흥미로운 영향을 미치고 있습니다.",
+      "eng": "Following US President Donald Trump's suggestion to rename artificial intelligence (AI) to 'super intelligence' (SI), registrations for national internet addresses in Slovenia have increased explosively. According to the official Slovenian registry, 44,000 web addresses with the .si suffix were registered in September alone. This represents an increase of more than 2,000% compared to the previous month, an unprecedented record over the past year.\n\nDuring his speech at the UN General Assembly in New York in September, President Trump argued that the word 'artificial' makes the technology sound fake. Instead, he emphasized that it should be called 'super intelligence' and welcomed the new era. In fact, he signed an executive order instructing US government agencies to use the terms 'SI' and 'Super Intelligence' instead of 'AI' in official documents and websites.\n\nThere are various interpretations behind the sudden surge in Slovenian web address registrations. Experts suggest that it could be a speculative purchase for investment purposes, anticipating that specific domains will increase in value in the future. However, while it is not entirely certain whether this surge is solely due to Trump's remarks, global changes in technology terminology are having an interesting impact on the internet domain market.",
+      "hu": "Miután Donald Trump amerikai elnök azt javasolta, hogy a mesterséges intelligenciát (AI) nevezzék át 'szuper intelligenciának' (SI), a szlovén nemzeti internetes címek regisztrációja robbanásszerűen megnőtt. A hivatalos szlovén nyilvántartás szerint szeptemberben 44 000 darab .si végződésű webcímet regisztráltak. Ez több mint 2000%-os növekedést jelent az előző hónaphoz képest, ami példátlan rekord az elmúlt egy évben.\n\nSzeptemberben, a New York-i ENSZ-közgyűlésen tartott beszédében Trump elnök azzal érvelt, hogy a 'mesterséges' szó miatt a technológia hamisnak hangzik. Ehelyett hangsúlyozta, hogy 'szuper intelligenciának' kell nevezni, és köszöntötte az új korszakot. Valójában aláírt egy rendeletet, amely arra utasítja az amerikai kormánya ügynökségeit, hogy a hivatalos dokumentumokban és webhelyeken az 'AI' helyett az 'SI' kifejezést használják.\n\nA szlovén webcím-regisztrációk hirtelen megugrása mögött különféle értelmezések állnak. A szakértők szerint spekulatív befektetési célú vásárlásról lehet szó, abban a reményben, hogy a specifikus domainek értéke a jövőben növekedni fog. Bár nem teljesen biztos, hogy a növekedés kizárólag Trump megjegyzéseinek köszönhető, a technológiai terminológia globális változásai érdekes hatást gyakorolnak az internetes domain piacra."
+    },
+    "vocab": [
+      {
+        "word": "등록소",
+        "meaning_en": "registry office",
+        "meaning_hu": "nyilvántartó iroda"
+      },
+      {
+        "word": "행정명령",
+        "meaning_en": "executive order",
+        "meaning_hu": "elnöki rendelet"
+      },
+      {
+        "word": "투기적",
+        "meaning_en": "speculative",
+        "meaning_hu": "spekulatív"
+      },
+      {
+        "word": "용어",
+        "meaning_en": "terminology, term",
+        "meaning_hu": "szakkifejezés, terminológia"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "정부나 지도자가 사용하는 기술 용어를 바꾸는 것이 대중에게 어떤 영향을 미칠까요?",
+        "eng": "How do you think changing technical terms used by governments or leaders affects the public?",
+        "hu": "Ön szerint milyen hatással van a nyilvánosságra a kormányok vagy vezetők által használt technikai kifejezések megváltoztatása?"
+      },
+      {
+        "kor": "특정 도메인 이름을 미리 대량으로 구매하는 현상에 대해 어떻게 생각하시나요?",
+        "eng": "What do you think about the practice of speculatively buying specific domain names in large quantities?",
+        "hu": "Mit gondol arról a gyakorlatról, amikor specifikus domain neveket előre, nagy mennyiségben vásárolnak meg spekulációs céllal?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-10",
+    "category": "Tech & Future",
+    "date": "2026.10.03",
+    "level": "Advanced",
+    "levelNum": 7,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "런던 큐 왕립식물원, 팜 하우스 대규모 보수 공사 앞서 식물 이전 작업 진행",
+      "eng": "Kew's Palm House Prepares for Mega Makeover by Relocating 1,300 Plants",
+      "hu": "A kewi pálmaház hatalmas felújításra készül 1300 növény áthelyezésével"
+    },
+    "desc": {
+      "kor": "런던의 유명한 큐 왕립식물원 팜 하우스가 6,600만 파운드 규모의 대수선을 위해 1,300그루의 열대 식물을 옮기는 작업을 앞두고 있습니다.",
+      "eng": "London's famous Palm House at Kew Gardens is preparing to relocate 1,300 tropical plants ahead of a £66m mega makeover.",
+      "hu": "London híres pálmaháza a Kew kertekben 1300 trópusi növény áthelyezésére készül egy 66 millió fontos hatalmas felújítás előtt."
+    },
+    "article": {
+      "kor": "영국 런던에 위치한 세계적인 명소 큐 왕립식물원의 팜 하우스가 대규모 보수 공사를 앞두고 있습니다. 이번 프로젝트는 빅토리아 시대에 지어진 유리온실 내부의 고온다습한 환경으로 인해 철제 구조물과 유리창이 심각하게 손상되면서 추진되었습니다.\n\n총 6,600만 파운드가 투입되는 이번 대수선 공사는 2027년 가을에 본격적으로 시작될 예정입니다. 이 공사 기간 동안 팜 하우스는 최대 4년 동안 대중의 출입이 통제되고 문을 닫게 됩니다.\n\n그러나 본격적인 공사에 착수하기에 앞서 온실 내부에 자라고 있는 1,300여 그루의 열대 식물과 나무들을 모두 다른 곳으로 옮겨야 하는 복잡한 선행 과제가 남아 있습니다. 대규모 식물 이전을 성공적으로 마치는 것이 이번 프로젝트의 성공을 좌우할 핵심 요소로 평가받고 있습니다.",
+      "eng": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover. The £66m restoration is taking place because the hot and humid conditions inside the Victorian glasshouse have taken their toll on the ironwork and glass.\n\nThe work will begin in autumn 2027, and the Palm House will be closed to the public for up to four years during the construction period.\n\nHowever, before the actual renovation can start, the glasshouse must be completely emptied of the 1,300 tropical plants and trees it currently houses, presenting a complex logistical challenge.",
+      "hu": "A világhírű pálmaház a londoni Kew Királyi Botanikus Kertben hatalmas átalakítás előtt áll. A 66 millió fontos felújításra azért kerül sor, mert a viktoriánus üvegház belsejében uralkodó meleg és párás viszonyok kárt tettek a vázszerkezetben és az üvegben.\n\nA munkálatok 2027 őszén kezdődnek, és a pálmaház legfeljebb négy évre zárva tart a nagyközönség előtt.\n\nAzonban mielőtt a munka elkezdődhetne, az üvegházat teljesen ki kell üríteni a benne található 1300 trópusi növénytől és fától."
+    },
+    "vocab": [
+      {
+        "word": "보수 공사",
+        "meaning_en": "restoration / maintenance work",
+        "meaning_hu": "felújítás / helyreállítási munkálatok"
+      },
+      {
+        "word": "고온다습",
+        "meaning_en": "hot and humid",
+        "meaning_hu": "meleg és párás"
+      },
+      {
+        "word": "구조물",
+        "meaning_en": "structure",
+        "meaning_hu": "szerkezet / építmény"
+      },
+      {
+        "word": "이전",
+        "meaning_en": "relocation / transfer",
+        "meaning_hu": "áthelyezés / költöztetés"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "당신이 살고 있는 지역에서 오래된 역사적 건물을 보존하는 것은 왜 중요하다고 생각하십니까?",
+        "eng": "Why do you think it is important to preserve old historical buildings in your area?",
+        "hu": "Miért tartja fontosnak a régi történelmi épületek megőrzését az Ön lakóhelyén?"
+      },
+      {
+        "kor": "1,300그루가 넘는 살아있는 열대 식물을 안전하게 옮기려면 어떤 준비가 필요할까요?",
+        "eng": "What preparations do you think are necessary to safely relocate over 1,300 living tropical plants?",
+        "hu": "Milyen előkészületekre lehet szükség több mint 1300 élő trópusi növény biztonságos áthelyezéséhez?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-11",
+    "category": "Tech & Future",
+    "date": "2026.10.03",
+    "level": "Advanced",
+    "levelNum": 8,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "영국 중앙은행 총재, AI 붐으로 인한 금융 시장 충격 가능성 경고",
+      "eng": "AI boom could trigger market shocks, Bank of England boss warns",
+      "hu": "Az Angol Bank elnöke szerint az AI-boom piaci sokkot okozhat"
+    },
+    "desc": {
+      "kor": "영국 중앙은행 총재가 인공지능(AI) 산업에 대한 과도한 투자와 자산 가격 거품이 금융 시장에 충격을 줄 수 있다고 경고했습니다.",
+      "eng": "The governor of the Bank of England warns that heavy investments in AI and asset price bubbles could trigger financial market shocks.",
+      "hu": "Az Angol Bank elnöke arra figyelmeztet, hogy a mesterséges intelligenciába áramló hatalmas befektetések piaci sokkot válthatnak ki."
+    },
+    "article": {
+      "kor": "앤드루 베일리 영국 중앙은행 총재는 최근 인공지능(AI) 산업에 막대한 자본이 집중되면서 금융 시장에 잠재적인 충격이 발생할 수 있다고 경고했습니다. 그는 중앙은행이 AI 분야에 유입되는 거대한 자금 흐름을 면밀히 모니터링하고 있으며, 시장의 높은 기대감 속에서 모든 투자자가 성공을 거두는 것은 아니라고 지적했습니다.\n\n지난 몇 년 동안 대규모 수익을 기대하며 AI 기업들에 투입되거나 대출된 자금으로 인해, 일부 기업들은 수조 달러에 달하는 가치로 평가받고 있습니다. 베일리 총재는 이러한 현상이 자산 가격의 조정이나 일종의 버블 붕괴로 이어질 수 있는 가능성을 배제하지 않았습니다. 그는 역사적으로 신기술 도입 초기 시기에는 모든 기업이 승자가 되지 못했으며, 과거 인터넷 검색 시장의 선두 주자였던 넷스케이프의 사례처럼 현재의 고평가된 기업 중 일부는 미래에 살아남지 못할 수도 있다고 설명했습니다.\n\n그럼에도 불구하고 베일리 총재는 AI 기술이 경제 성장을 강화할 수 있는 엄청난 잠재력을 가지고 있다는 점을 인정했습니다. 엔비디아를 비롯한 세계적인 기술 기업들과 대형 IT 기업들은 AI 인프라 구축에 수천억 달러를 지출하고 있으며, 주요 AI 스타트업들 역시 주식 시장 상장을 준비하고 있습니다.\n\n금융 당국은 이러한 거대한 투자 붐이 가져올 긍정적 효과와 함께 잠재적 리스크를 동시에 관리해야 하는 과제를 안고 있습니다. 베일리 총재는 시장에 충격이 발생하더라도 금융 시스템 전체가 견고하게 대응할 수 있도록 철저한 대비 태세를 갖추어야 한다고 강조했습니다. 아울러 AI 기술이 사이버 공격 등 다른 부문에서 악용될 수 있는 위험성에 대해서도 우려를 표명했습니다.",
+      "eng": "Andrew Bailey, the governor of the Bank of England, has warned that the massive concentration of capital in the artificial intelligence industry could trigger potential shocks to financial markets. He noted that the central bank is closely monitoring the huge influx of funds into the AI sector and cautioned that amidst high market expectations, not every investor achieves success.\n\nOver the past few years, the capital invested in and loaned to AI firms in anticipation of massive returns has led to some companies being valued in the multi-trillion-dollar range. Bailey did not rule out the possibility that this phenomenon could lead to asset price corrections or the bursting of a bubble. He explained that historically, not all companies emerge as winners during the early stages of new technology adoption, citing the example of Netscape, an early internet search pioneer that no longer exists, to illustrate that today's highly valued firms might not all survive in the future.\n\nNevertheless, Bailey acknowledged that AI technology holds immense potential to bolster economic growth. Global technology firms, led by companies like Nvidia, along with major tech giants, are spending hundreds of billions of dollars on AI infrastructure, while prominent AI startups are also preparing for public stock market listings.\n\nFinancial authorities face the challenge of simultaneously managing the potential risks alongside the positive effects brought by this massive investment boom. Bailey emphasized that the financial system must maintain robust preparedness to ensure resilience should market shocks occur. Additionally, he expressed concern regarding the risks of AI technology being exploited in other areas, such as cyberattacks.",
+      "hu": "Andrew Bailey, az Angol Bank elnöke arra figyelmeztetett, hogy a mesterséges intelligencia iparágába áramló hatalmas tőkekoncentráció potenciális sokkot okozhat a pénzügyi piacokon. Megjegyezte, hogy a központi bank szorosan figyelemmel kíséri az AI-szektorba áramló hatalmas tőkeáramlást, és figyelmeztetett, hogy a magas piaci várakozások közepette nem minden befektető jár sikerrel.\n\nAz elmúlt néhány évben a hatalmas hozam reményében az AI-vállalatokba fektetett és nekik nyújtott tőke nyomán egyes cégeket több billió dollárra értékelnek. Bailey nem zárta ki annak a lehetőségét, hogy ez a jelenség az eszközárak korrekciójához vagy egy buborék kipukkanásához vezethet. Elmagyarázta, hogy a történelem során az új technológiák elterjedésének kezdeti szakaszában nem minden vállalat vált győztessé, példaként említve a Netscape-et, az internetes keresés egykori úttörőjét, amely ma már nem létezik, szemléltetve, hogy a mai túlértékelt cégek közül sem él túl mindenki a jövőben.\n\nEnnek ellenére Bailey elismerte, hogy az AI-technológia hatalmas potenciállal rejt magában a gazdasági növekedés ösztönzésére. A globális technológiai vállalatok, az Nvidiahoz hasonló cégek vezetésével, valamint a nagy techóriások százmilliárd dollárt költöznek AI-infrastruktúrára, miközben jelentős AI-startupok is tőzsdei bevezetésre készülnek.\n\nA pénzügyi hatóságoknak azzal a kihívással kell szembenézniük, hogy egyszerre kezeljék a hatalmas befektetési boom által hozott pozitív hatásokat és a lehetséges kockázatokat. Bailey hangsúlyozza, hogy a pénzügyi rendszernek robusztus felkészültséget kell fenntartania a rugalmasság biztosítása érdekében, ha piaci sokkok következnek be. Emellett aggodalmának adott hangot azzal kapcsolatban is, hogy az AI-technológiát más területeken, például a kibertámadásokban is kihasználhatják."
+    },
+    "vocab": [
+      {
+        "word": "중앙은행",
+        "meaning_en": "central bank",
+        "meaning_hu": "központi bank"
+      },
+      {
+        "word": "자산 가격",
+        "meaning_en": "asset price",
+        "meaning_hu": "eszközár"
+      },
+      {
+        "word": "거품",
+        "meaning_en": "bubble (economic bubble)",
+        "meaning_hu": "gazdasági buborék"
+      },
+      {
+        "word": "모니터링",
+        "meaning_en": "monitoring",
+        "meaning_hu": "monitorozás, megfigyelés"
+      },
+      {
+        "word": "복원력",
+        "meaning_en": "resilience",
+        "meaning_hu": "ellenálló képesség, reziliencia"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "인공지능(AI) 산업에 대한 과도한 투자가 실제 경제나 금융 시장에 어떤 부정적인 영향을 미칠 수 있다고 생각하십니까?",
+        "eng": "What negative impacts do you think excessive investments in the AI industry could have on the actual economy or financial markets?",
+        "hu": "Milyen negatív hatásai lehetnek a valós gazdaságra vagy a pénzügyi piacokra az AI-iparágba áramló túlzott befektetéseknek az Ön véleménye szerint?"
+      },
+      {
+        "kor": "기술 발전의 초기 단계에서 거품이 발생하는 현상은 역사적으로 반복되어 왔습니다. 이를 방지하기 위해 투자자와 정부는 어떤 노력을 해야 할까요?",
+        "eng": "The phenomenon of bubbles forming in the early stages of technological advancement has historically repeated itself. What efforts should investors and governments make to prevent this?",
+        "hu": "A technológiai fejlődés kezdeti szakaszában kialakuló buborékok jelensége történelmileg megismétlődött. Milyen erőfeszítéseket kell tenniük a befektetőknek és a kormányoknak ennek megakadályozására?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-12",
+    "category": "Tech & Future",
+    "date": "2026.10.03",
+    "level": "Proficient",
+    "levelNum": 9,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC Weather",
+      "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "이번 주말 밤하늘을 수놓을 오리온자리 유성우 관측 가이드",
+      "eng": "How to see the Orionid meteor shower this weekend",
+      "hu": "Hogyan látható az Orionidák meteorraj ezen a hétvégén"
+    },
+    "desc": {
+      "kor": "핼리 혜성의 잔해로 매년 가을마다 찾아오는 오리온자리 유성우의 특징과 최적의 관측 조건에 관한 상세한 설명입니다.",
+      "eng": "A detailed guide on the characteristics and optimal viewing conditions of the Orionid meteor shower, brought annually by the debris of Halley's Comet.",
+      "hu": "Részletes útmutató az Orionidák meteorraj jellemzőiről és az optimális megfigyelési feltételekről, amelyet évente a Halley-üstökös törmeléke okoz."
+    },
+    "article": {
+      "kor": "가장 잘 알려진 천문 현상 중 하나인 오리온자리 유성우가 11월 7일까지 활성화되며 밤하늘을 수놓고 있습니다. 본 유성우는 특히 빠른 속도로 대기권에 진입하며, 유성이 사라진 후에도 몇 초 동안 하늘에 밝은 흔적을 남기는 특징을 지니고 있습니다. 이러한 현상은 지구가 핼리 혜성이 남기고 간 방대한 양의 먼지와 파편 궤도를 통과할 때 매년 반복적으로 발생합니다.\n\n오리온자리 유성우는 초속 약 41마일이라는 엄청난 속도로 지구 대기로 진입하는 미세한 입자들로 구성되어 있습니다. 이 입자들이 대기와 마찰하여 가열되면서 밤하늘을 가르는 빛의 궤적, 즉 우리가 유성으로 관측하는 현상을 만들어 냅니다. 태양계에서 가장 유명한 천체 중 하나인 핼리 혜성은 태양을 한 바퀴 공전하는 데 약 76년이 소요되며, 1986년에 지구에서 마지막으로 관측된 이후 2061년이 되어서야 다시 시야에 들어올 것으로 예상됩니다.\n\n비록 핼리 혜성 자체는 수십 년 동안 직접 볼 수 없지만, 혜성이 남긴 파편들은 매년 어김없이 지구와 교차하며 유성우를 선사합니다. 실제로 지구는 혜성의 잔해와 연중 두 차례 조우하는데, 이는 5월의 에타 아쿠아리드 유성우와 10월의 오리온자리 유성우로 각각 발현됩니다. 유성들의 복사점이 오리온자리이기 때문에 이러한 명칭이 붙여졌으나, 실제 관측 시에는 밤하늘 전체 어느 곳에서나 유성이 출현할 수 있습니다.\n\n이상적인 관측 조건이 충족될 경우, 유성우의 절정기에는 시간당 약 10개에서 20개에 달하는 유성을 맨눈으로 확인할 수 있습니다. 오리온자리는 별들이 이루는 독특한 모래시계 형태로 밤하늘에서 가장 식별하기 수월한 별자리 중 하나입니다. 성공적인 관측을 위해서는 가로등의 불빛에서 벗어나 어둡고 시야가 탁 트인 장소를 물색해야 합니다.\n\n눈이 어둠에 완전히 적응하는 데는 약 15분에서 20분 가량이 소요되므로 충분한 시간을 가져야 합니다. 쌍둥이 망원경이나 천체 망원경 같은 장비는 불필요하며, 맨눈으로 넓은 시야를 확보하는 것이 가장 바람직합니다. 한편 이번 금요일 저녁의 관측 전망은 지역별로 다소 혼재된 양상을 보일 것으로 전망되며, 잉글랜드 남부와 동부 지역이 구름 사이로 오랜 기간 맑은 하늘을 드러내어 상대적으로 유리한 조건을 제공할 것으로 기대됩니다.",
+      "eng": "One of the best-known meteor showers, the Orionids, is currently active until 7 November, adorning the night sky. These meteors are characterized by their high velocity and the lingering trails they leave for a few seconds after the meteor has vanished. This celestial display occurs annually as the Earth traverses the trail of dust and debris left in the wake of Halley's Comet.\n\nThe Orionids consist of tiny particles entering the Earth's atmosphere at a remarkable speed of approximately 41 miles per second. As these particles heat up upon atmospheric entry, they produce streaks of light across the nocturnal sky that we perceive as meteors. Halley's Comet, one of the most renowned celestial bodies in our solar system, requires roughly 76 years to complete one heliocentric orbit and was last sighted from Earth in 1986, with its next visible return anticipated in 2061.\n\nAlthough the comet itself will remain out of sight for decades, its residual debris continues to generate annual meteor showers. In fact, the Earth encounters this material twice a year, resulting in the Eta Aquariid meteor shower in May and the Orionids in October. While the meteors appear to radiate from the constellation of Orion—hence their nomenclature—they can manifest anywhere across the night sky.\n\nUnder optimal conditions, observers can witness approximately 10 to 20 meteors per hour during the peak of the shower. The constellation of Orion remains one of the most recognizable formations in the night sky, easily identifiable by the distinct hourglass shape formed by its stellar components. For the most favorable viewing experience, individuals should seek out dark locations devoid of artificial street lighting and offering an expansive view of the celestial sphere.\n\nAllowing approximately 15 to 20 minutes for ocular dark adaptation is essential, and specialized equipment such as binoculars or telescopes is unnecessary, as the shower is ideally appreciated with the naked eye. Meanwhile, viewing prospects for Friday evening are expected to be rather mixed, with southern and eastern parts of England likely enjoying the most favorable conditions characterized by prolonged clear spells interspersed with occasional drifting clouds.",
+      "hu": "Az egyik legismertebb meteorraj, az Orionidák jelenleg is aktív november 7-ig, megékesítve az éjszakai eget. Ezeket a meteorokat nagy sebességük, valamint az a tulajdonságuk jellemzi, hogy a meteor eltűnése után még néhány másodpercig világító csíkokat hagynak maguk után. Ez a mennyei jelenség évente ismétlődik, ahogy a Föld áthalad a Halley-üstökös által hátrahagyott por- és törmeléksávon.\n\nAz Orionidák apró részecskékből állnak, amelyek másodpercenként körülbelül 41 mérföldes sebességgel lépnek be a Föld légkörébe. Ahogy ezek a részecskék a légkörbe érve felmelegszenek, fénycsíkokat hoznak létre az éjszakai égen, amelyeket meteorként érzékelünk. A Halley-üstökös, naprendszerünk egyik leghíresebb égiteste, nagyjából 76 év alatt kerüli meg a Napot, és utoljára 1986-ban volt látható a Földről, a következő felbukkanását pedig 2061-re várják.\n\nBár magát az üstököst évtizedekig nem lehet majd látni, a visszamaradt törmeléke továbbra is évenkénti meteorrajokat eredményez. Valójában a Föld évente kétszer is találkozik ezzel az anyaggal, ami májusban az Eta Aquaridák, októberben pedig az Orionidák meteorraját eredményezi. Bár a meteorok az Orion csillagképből látszanak kiindulni – innen kapták a nevüket is –, az éjszakai égbolt bármely pontján feltűnhetnek.\n\nOptimális feltételek mellett a raj tetőzésekor óránként körülbelül 10-20 meteor látható. Az Orion csillagkép az éjszakai égbolt egyik legkönnyebben felismerhető alakzata, amelyet csillagainak jellegzetes homokóra alakja tesz azonosíthatóvá. A legkedvezőbb megfigyelési élmény érdekében érdemes olyan sötét helyet keresni, amely távol esik a közvilágítás fényeitől, és minél tágasabb kilátást nyújt az égboltra.\n\nKörülbelül 15-20 percet kell hagyni a szemnek a sötéthez való alkalmazkodásra, és sem távcsőre, sem teleszkópra nincs szükség, mivel a meteorraj a szabad szemmel a legélvezetesebb. Miközben péntek este a kilátások meglehetősen vegyesnek ígérkeznek, Anglia déli és keleti részei valószínűleg a legkedvezőbb feltételeket élvezhetik a tartósan tiszta, időnként átvonuló felhőkkel tarkított időszakoknak köszönhetően."
+    },
+    "vocab": [
+      {
+        "word": "유성우",
+        "meaning_en": "meteor shower",
+        "meaning_hu": "meteorraj"
+      },
+      {
+        "word": "대기권",
+        "meaning_en": "atmosphere",
+        "meaning_hu": "légkör"
+      },
+      {
+        "word": "공전",
+        "meaning_en": "revolution / orbit",
+        "meaning_hu": "keringés"
+      },
+      {
+        "word": "적응",
+        "meaning_en": "adaptation",
+        "meaning_hu": "alkalmazkodás"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "오리온자리 유성우가 매년 가을마다 발생하게 되는 과학적 원인은 무엇인가요?",
+        "eng": "What is the scientific cause behind the annual occurrence of the Orionid meteor shower every autumn?",
+        "hu": "Mi a tudományos oka az Orionidák meteorraj minden őszi megjelenésének?"
+      },
+      {
+        "kor": "유성우를 가장 잘 관측하기 위해 필요한 환경적 조건과 유의사항은 무엇이 있나요?",
+        "eng": "What are the environmental conditions and considerations necessary to observe a meteor shower in the best possible way?",
+        "hu": "Milyen környezeti feltételek és szempontok szükségesek a meteorraj legoptimálisabb megfigyeléséhez?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-13",
+    "category": "Health & Mind",
+    "date": "2026.10.03",
+    "level": "Beginner",
+    "levelNum": 1,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "젊은 사람들이 헬스장에서 무거운 것을 드는 운동을 좋아합니다",
+      "eng": "Young people love lifting weights at the gym",
+      "hu": "A fiatalok szeretnek súlyzókkal edzeni az edzőteremben"
+    },
+    "desc": {
+      "kor": "젊은 세대가 오래 달리는 운동보다 힘을 기르는 운동을 더 많이 하고 있습니다.",
+      "eng": "The younger generation is doing more strength training instead of cardio.",
+      "hu": "A fiatalabb generáció kardió helyett inkább az erősítő edzést választja."
+    },
+    "article": {
+      "kor": "요즘 젊은 사람들은 헬스장에서 달리기보다 무거운 기구를 드는 운동을 더 좋아합니다.\n\n힘을 기르는 운동은 우리 몸을 튼튼하게 만들어 줍니다.\n\n많은 전문가들은 이런 운동이 건강에 아주 좋다고 말합니다.",
+      "eng": "Nowadays, young people at the gym prefer lifting heavy equipment over running.\n\nStrength training makes our bodies strong.\n\nMany experts say that this type of exercise is very good for health.",
+      "hu": "Napjainkban az edzőteremben a fiatalok a futás helyett inkább a nehéz eszközök emelését kedvelik.\n\nAz erősítő edzés erőssé teszi a testünket.\n\nSok szakértő szerint ez a fajta mozgás nagyon jót tesz az egészségnek."
+    },
+    "vocab": [
+      {
+        "word": "운동",
+        "meaning_en": "exercise",
+        "meaning_hu": "edzés"
+      },
+      {
+        "word": "건강",
+        "meaning_en": "health",
+        "meaning_hu": "egészség"
+      },
+      {
+        "word": "사람",
+        "meaning_en": "person",
+        "meaning_hu": "ember"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "당신은 어떤 운동을 좋아합니까?",
+        "eng": "What kind of exercise do you like?",
+        "hu": "Milyen edzést szeretsz?"
+      },
+      {
+        "kor": "헬스장에 자주 갑니까?",
+        "eng": "Do you go to the gym often?",
+        "hu": "Gyakran jársz edzőterembe?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-14",
+    "category": "Health & Mind",
+    "date": "2026.10.03",
+    "level": "Beginner",
+    "levelNum": 2,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "영국 병원, 몇 시간 만에 뇌종양을 진단하는 새로운 검사 시작",
+      "eng": "New rapid test transforms brain tumour diagnosis in the UK",
+      "hu": "Új, gyors teszt forradalmasítja az agydaganatok diagnosztizálását az Egyesült Királyságban"
+    },
+    "desc": {
+      "kor": "영국 NHS가 뇌종양 진단 시간을 몇 주에서 두 시간으로 줄여주는 새로운 검사법을 도입했습니다.",
+      "eng": "NHS England has started using a rapid new test that reduces brain tumour diagnosis time from weeks to hours.",
+      "hu": "Az angol NHS olyan új, gyors tesztet kezdett el használni, amely hetekről órákra csökkenti az agydaganat diagnosztizálásának idejét."
+    },
+    "article": {
+      "kor": "영국 병원에서 뇌종양을 아주 빠르게 진단할 수 있는 새로운 검사를 시작했습니다.\n\n이전에는 결과를 알기까지 최대 여덟 주가 걸렸지만, 이제는 두 시간 만에 알 수 있습니다.\n\n환자들은 오랜 시간 동안 걱정하지 않고 더 빨리 치료를 받을 수 있습니다.\n\n의사들도 수술 중에 결과를 알 수 있어서 치료에 큰 도움이 됩니다.",
+      "eng": "Hospitals in the UK have started a new test to diagnose brain tumours very quickly.\n\nPreviously it took up to eight weeks to know the results, but now it takes just two hours.\n\nPatients can receive treatment faster without worrying for a long time.\n\nDoctors can also know the results during surgery, which helps with treatment.",
+      "hu": "Az egyesült királyságbeli kórházak új tesztet kezdtek el használni az agydaganatok nagyon gyors diagnosztizálására.\n\nKorábban akár nyolc hétig is eltartott az eredmények megszerzése, de most ez mindössze két órát vesz igénybe.\n\nA betegek hosszabb ideig tartó aggódás nélkül, gyorsabban kaphatnak kezelést.\n\nAz orvosok a műtét során is megismerhetik az eredményeket, ami nagy segítséget jelent a kezelésben."
+    },
+    "vocab": [
+      {
+        "word": "병원",
+        "meaning_en": "hospital",
+        "meaning_hu": "kórház"
+      },
+      {
+        "word": "진단",
+        "meaning_en": "diagnosis",
+        "meaning_hu": "diagnózis"
+      },
+      {
+        "word": "환자",
+        "meaning_en": "patient",
+        "meaning_hu": "páciens"
+      },
+      {
+        "word": "치료",
+        "meaning_en": "treatment",
+        "meaning_hu": "kezelés"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "새로운 검사 전에는 결과를 아는 데 얼마나 걸렸나요?",
+        "eng": "How long did it take to get the results before the new test?",
+        "hu": "Mennyi ideig tartott az eredmények megszerzése az új teszt előtt?"
+      },
+      {
+        "kor": "결과를 빨리 알면 환자에게 어떤 좋은 점이 있나요?",
+        "eng": "What are the benefits for patients when they get results quickly?",
+        "hu": "Milyen előnyei vannak a betegek számára, ha gyorsan megkapják az eredményeket?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-15",
+    "category": "Health & Mind",
+    "date": "2026.10.03",
+    "level": "Elementary",
+    "levelNum": 3,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "싸고 쉬워 보이는 눈꺼풀 수술, 위험성에 대한 경고",
+      "eng": "Warnings over cheap eyelid surgery complications",
+      "hu": "Figyelmeztetések az olcsó szemhéjműtét kockázataira"
+    },
+    "desc": {
+      "kor": "소셜미디어를 보고 저렴한 해외 눈꺼풀 수술을 받은 사람들이 부작용으로 고통받고 있습니다.",
+      "eng": "People suffering complications after getting cheap eyelid surgery abroad seen on social media.",
+      "hu": "Emberek szenvednek szövődményektől a közösségi médiában látható olcsó, külföldi szemhéjműtétek után."
+    },
+    "article": {
+      "kor": "최근 소셜미디어를 통해 눈꺼풀을 정리하는 성형수술이 인기를 끌고 있습니다. 많은 사람이 저렴한 가격 때문에 외국에서 수술을 받고 있지만, 심각한 부작용을 겪는 환자들도 늘고 있습니다.\n\n일부 환자들은 수술 후 눈이 잘 감기지 않거나 염증이 생기는 고통을 겪었습니다. 전문 의사들은 충분한 정보 없이 싸고 빠른 수술을 선택하는 것에 대해 주의를 당부하고 있습니다.",
+      "eng": "Recently, eyelid surgery has gained popularity through social media. Many people get surgery abroad because of cheap prices, but patients experiencing serious complications are increasing.\n\nSome patients suffered from pain such as not being able to close their eyes or getting infections after surgery. Specialist doctors are warning against choosing cheap and quick surgeries without enough information.",
+      "hu": "A közelmúltban a szemhéjműtét népszerűvé vált a közösségi médiában. Sokan az olcsó árak miatt külföldön végeztetnek műtétet, de egyre több a súlyos szövődményeket tapasztaló beteg.\n\nNéhány beteg olyan fájdalmaktól szenvedett, mint hogy nem tudja bezárni a szemét vagy fertőzést kapott a műtét után. A szakorvosok arra figyelmeztetnek, hogy ne válasszunk olcsó és gyors műtéteket elegendő információ nélkül."
+    },
+    "vocab": [
+      {
+        "word": "성형수술",
+        "meaning_en": "plastic surgery",
+        "meaning_hu": "plasztikai sebészet"
+      },
+      {
+        "word": "부작용",
+        "meaning_en": "side effect / complication",
+        "meaning_hu": "mellékhatás / szövődmény"
+      },
+      {
+        "word": "염증",
+        "meaning_en": "inflammation",
+        "meaning_hu": "gyulladás"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "당신은 소셜미디어 광고를 보고 수술을 결정한 적이 있습니까?",
+        "eng": "Have you ever decided to get surgery after seeing social media ads?",
+        "hu": "Döntött már úgy, hogy műtétet végeztet a közösségi médiás hirdetések láttán?"
+      },
+      {
+        "kor": "저렴한 가격과 안전한 수술 중에서 어떤 것이 더 중요하다고 생각합니까?",
+        "eng": "Which do you think is more important between a cheap price and a safe surgery?",
+        "hu": "Mit gondol, melyik a fontosabb: az olcsó ár vagy a biztonságos műtét?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-16",
+    "category": "Culture & Arts",
+    "date": "2026.10.03",
+    "level": "Beginner",
+    "levelNum": 1,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "유명인들이 출연하는 TV 프로그램에서 첫 번째 탈락자가 나왔습니다",
+      "eng": "The first victim of the celebrity TV show",
+      "hu": "A hírességeket felvonultató műsor első kiesője"
+    },
+    "desc": {
+      "kor": "유명인들이 게임을 하는 TV 프로그램에서 첫 번째 탈락자가 발생했습니다.",
+      "eng": "The first player is eliminated in a celebrity game TV show.",
+      "hu": "Kiesett az első játékos egy hírességek szereplésével készült tévéműsorban."
+    },
+    "article": {
+      "kor": "유명인들이 나오는 TV 프로그램에서 첫 번째 탈락자가 나왔습니다. 방송에서 게임이 시작되고 한 사람이 게임에서 졌습니다. 탈락한 사람은 게임을 일찍 끝내서 아쉽다고 말했습니다. 다른 사람들은 게임을 계속 이어 나갑니다.",
+      "eng": "The first victim was decided in a celebrity TV show. One player had to leave the game early. He said it was disappointing to be out first. The other players continue the game.",
+      "hu": "Megvan az első kieső egy hírességek szereplésével készült tévéműsorban. Az egyik játékosnak korán el kellett hagynia a játékot. Kifejezte sajnálatát, amiért elsőként esett ki. A többi játékos folytatja a versenyt."
+    },
+    "vocab": [
+      {
+        "word": "프로그램",
+        "meaning_en": "Program / Show",
+        "meaning_hu": "Műsor / Program"
+      },
+      {
+        "word": "게임",
+        "meaning_en": "Game",
+        "meaning_hu": "Játék"
+      },
+      {
+        "word": "사람",
+        "meaning_en": "Person",
+        "meaning_hu": "Ember / Személy"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분은 TV 게임 프로그램을 좋아합니까?",
+        "eng": "Do you like TV game shows?",
+        "hu": "Szereted a tévés vetélkedőket?"
+      },
+      {
+        "kor": "게임에서 지면 기분이 어떻습니까?",
+        "eng": "How do you feel when you lose a game?",
+        "hu": "Mit érzel, amikor elveszítesz egy játékot?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-17",
+    "category": "Culture & Arts",
+    "date": "2026.10.03",
+    "level": "Beginner",
+    "levelNum": 2,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvrl6l0klw1go?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "배우 빌 나이가 영국 팟캐스트 어워드에서 상을 받았습니다",
+      "eng": "Actor Bill Nighy wins best host at British Podcast Awards",
+      "hu": "Bill Nighy színész nyerte a legjobb műsorvezető díját a British Podcast Awards-on"
+    },
+    "desc": {
+      "kor": "유명 배우 빌 나이가 팟캐스트 프로그램으로 최고의 진행자 상을 받았습니다.",
+      "eng": "Famous actor Bill Nighy won the best host award for his podcast.",
+      "hu": "Bill Nighy híres színész nyerte a legjobb műsorvezető díjat a podcastjáért."
+    },
+    "article": {
+      "kor": "영국의 유명한 배우 빌 나이가 '영국 팟캐스트 어워드'에서 최고의 진행자 상을 받았습니다. 빌 나이는 자신의 팟캐스트 프로그램에서 사람들에게 재미있는 조언을 해 주고 여러 가지 이야기를 들려줍니다.\n\n이번 시상식에서는 빌 나이 외에도 여러 유명한 사람들이 상을 받았습니다. 다양한 주제의 팟캐스트들이 상을 받으며 많은 사람들의 관심을 끌었습니다.",
+      "eng": "Famous British actor Bill Nighy won the best host award at the British Podcast Awards. In his podcast, Bill Nighy gives funny advice and talks about various stories with people.\n\nBesides Bill Nighy, many other famous people won awards at this event. Podcasts about various topics received awards and caught the attention of many people.",
+      "hu": "Bill Nighy híres brit színész elnyerte a legjobb műsorvezető díját a British Podcast Awards-on. A podcastjában Bill Nighy vicces tanácsokat ad és különböző történetekről beszél az embereknek.\n\nBill Nighyon kívül sok más híres ember is díjat kapott ezen az eseményen. Különböző témájú podcastok kaptak díjakat, és sok ember figyelmét felkeltették."
+    },
+    "vocab": [
+      {
+        "word": "배우",
+        "meaning_en": "actor",
+        "meaning_hu": "színész"
+      },
+      {
+        "word": "상",
+        "meaning_en": "prize, award",
+        "meaning_hu": "díj"
+      },
+      {
+        "word": "조언",
+        "meaning_en": "advice",
+        "meaning_hu": "tanács"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "당신은 어떤 팟캐스트를 자주 듣나요?",
+        "eng": "What kind of podcasts do you often listen to?",
+        "hu": "Milyen podcastokat szokott gyakran hallgatni?"
+      },
+      {
+        "kor": "좋아하는 배우가 있나요?",
+        "eng": "Do you have a favorite actor?",
+        "hu": "Van kedvenc színésze?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-18",
+    "category": "Culture & Arts",
+    "date": "2026.10.03",
+    "level": "Elementary",
+    "levelNum": 3,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "유명한 가수 돌리 파튼이 부른 웨일스어 노래 '조린'이 나옵니다",
+      "eng": "Dolly Parton sings Jolene in Welsh in recording released after her death",
+      "hu": "Dolly Parton walesi nyelven énekli a Jolene-t egy halála után megjelent felvételen"
+    },
+    "desc": {
+      "kor": "세계적인 가수 돌리 파튼이 웨일스어로 부른 노래 '조린'의 새로운 음원과 이야기가 공개됩니다.",
+      "eng": "A new version of Dolly Parton's song Jolene sung in Welsh is scheduled to be released.",
+      "hu": "Megjelenik Dolly Parton Jolene című dalának új verziója, amelyet walesi nyelven énekelt."
+    },
+    "article": {
+      "kor": "미국의 유명한 가수 돌리 파튼이 웨일스어로 부른 노래 '조린'의 새로운 음원이 나옵니다. 이 노래는 웨일스 출신의 가수 브론웬 루이스와 파튼의 조카인 제이다 스타가 함께 불렀습니다.\n\n루이스가 먼저 노래 '조린'을 웨일스어로 번역해서 인터넷에 올렸습니다. 이 영상을 본 제이다 스타가 연락하면서 두 사람의 특별한 인연이 시작되었습니다. 제이다 스타는 자신의 고모인 돌리 파튼에게 함께 노래를 부르자고 부탁했습니다. 돌리 파튼도 흔쾌히 참여해서 세 사람이 함께 멋진 노래를 녹음했습니다.",
+      "eng": "A new version of Dolly Parton's song Jolene, with parts sung in Welsh, is set to be released. The song was recorded as a collaboration with Welsh singer Bronwen Lewis and Parton's niece, Jada Star.\n\nLewis first translated the song Jolene into Welsh and posted a video online. After seeing this video, Jada Star got in touch with Lewis, and they became friends. Jada Star then asked her aunt, Dolly Parton, to join them in recording the Welsh version of the song.",
+      "hu": "Megjelenik Dolly Parton Jolene című dalának új verziója, amelynek egyes részeit walesi nyelven énekli. A dalt Bronwen Lewis walesi énekesnővel és Parton unokahúgával, Jada Starral közösen rögzítették.\n\nLewis lefordította a Jolene-t walesi nyelvre, és feltöltött egy videót az internetre. Miután ezt látta, Jada Star kapcsolatba lépett Lewisszal, és barátok lettek. Jada Star ezután megkérte nagynénéjét, Dolly Partont, hogy csatlakozzon hozzájuk a walesi dal felvételéhez."
+    },
+    "vocab": [
+      {
+        "word": "가수",
+        "meaning_en": "singer",
+        "meaning_hu": "énekes"
+      },
+      {
+        "word": "노래",
+        "meaning_en": "song",
+        "meaning_hu": "dal"
+      },
+      {
+        "word": "번역",
+        "meaning_en": "translation",
+        "meaning_hu": "fordítás"
+      },
+      {
+        "word": "녹음",
+        "meaning_en": "recording",
+        "meaning_hu": "felvétel"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "좋아하는 노래를 다른 언어로 들어본 적이 있나요?",
+        "eng": "Have you ever listened to your favorite song in another language?",
+        "hu": "Hallgatta már valaha a kedvenc dalát másik nyelven?"
+      },
+      {
+        "kor": "외국어로 노래를 부르는 것에 대해 어떻게 생각하나요?",
+        "eng": "What do you think about singing songs in a foreign language?",
+        "hu": "Mit gondol arról, hogy idegen nyelven énekeljen dalokat?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-19",
+    "category": "Culture & Arts",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 5,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5ynnvpj2go?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "블랙 메탈의 개척자, 밴드 베놈의 보컬 크로노스 별세",
+      "eng": "Black metal pioneers mourn Venom frontman Cronos",
+      "hu": "Gyászol a black metal világ: elhunyt a Venom frontembere, Cronos"
+    },
+    "desc": {
+      "kor": "메탈 음악계에 큰 영향을 준 밴드 베놈의 공동 창립자이자 보컬인 콘래드 '크로노스' 런트가 63세를 일기로 세상을 떠났다.",
+      "eng": "Conrad 'Cronos' Lant, co-founder and frontman of pioneering heavy metal band Venom, has died at the age of 63.",
+      "hu": "63 éves korában elhunyt Conrad 'Cronos' Lant, a Venom úttörő heavy metal zenekar társalapítója és frontembere."
+    },
+    "article": {
+      "kor": "헤비메탈 밴드 베놈의 공동 창립자이자 보컬인 콘래드 '크로노스' 런트가 63세의 나이로 사망했다. 그는 약 50년 동안 뉴캐슬 출신의 밴드 베놈을 이끌며 새로운 음악 장르인 블랙 메탈을 만들었다는 평가를 받는다.\n\n1978년에 결성된 베놈은 1982년에 발표한 두 번째 앨범 '블랙 메탈'로 록 음악계에서 확고한 자리를 잡았다. 이 앨범은 메탈리카, 슬레이어, 앤스랙스 같은 유명 밴드들에게 큰 영향을 주었다.\n\n그의 아들 네이산은 오랜 시간 동안 아버지를 지지해 준 팬들에게 감사를 전했다. 밴드의 동료들과 음악계 인사들도 그의 죽음을 애도하며 음악사와 문화에 남긴 업적을 기렸다.",
+      "eng": "Conrad 'Cronos' Lant, co-founder, frontman, and bass player of the pioneering heavy metal band Venom, has died at the age of 63. For nearly 50 years, Lant led the band credited with inventing the black metal genre and influencing major thrash metal acts.\n\nFormed in 1978, Venom cemented its status with its second album, 'Black Metal,' released in 1982. The fast style and dark imagery deeply influenced bands like Metallica, Slayer, and Anthrax on both sides of the Atlantic.\n\nHis son Nathan thanked fans for their long-standing support, while bandmates and music journalists paid tribute to his lasting legacy in the history of heavy metal music.",
+      "hu": "Elhunyt 63 éves korában Conrad 'Cronos' Lant, a Venom úttörő heavy metal zenekar társalapítója, frontembere és basszusgitárosa. Közel 50 éven át vezette a bandát, amelynek a black metal műfaj megteremtését tulajdonítják.\n\nAz 1978-ban alakult Venom az 1982-ben megjelent 'Black Metal' című második albumával szerezte meg hírnevét. Ez a stílus és a sötét látványvilág nagy hatással volt olyan zenekarokra, mint a Metallica, a Slayer és az Anthrax.\n\nFia, Nathan köszönetet mondott a rajongóknak a támogatásért, míg zenésztársai és a zenei újságírók tisztelegtek emléke előtt, méltatva a heavy metal történetébe ágyazott örökségét."
+    },
+    "vocab": [
+      {
+        "word": "개척자",
+        "meaning_en": "pioneer",
+        "meaning_hu": "úttörő"
+      },
+      {
+        "word": "창립자",
+        "meaning_en": "co-founder",
+        "meaning_hu": "társalapító"
+      },
+      {
+        "word": "장르",
+        "meaning_en": "genre",
+        "meaning_hu": "műfaj"
+      },
+      {
+        "word": "애도하다",
+        "meaning_en": "to mourn / pay tribute",
+        "meaning_hu": "gyászolni"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "당신은 평소에 어떤 음악 장르를 좋아하나요?",
+        "eng": "What music genre do you usually like?",
+        "hu": "Milyen zenei műfajokat szeretsz általában?"
+      },
+      {
+        "kor": "새로운 문화나 예술 분야를 만든 사람의 중요성에 대해 어떻게 생각하나요?",
+        "eng": "What do you think about the importance of pioneers in culture or art?",
+        "hu": "Mit gondolsz az úttörők jelentőségéről a kultúrában vagy a művészetben?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-20",
+    "category": "Culture & Arts",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 6,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq146z8jlgkdo?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "록밴드 모터헤드의 기타리스트 필 캠벨, 다장기 부전으로 사망",
+      "eng": "Motörhead guitarist Phil Campbell died from multi-organ failure",
+      "hu": "Meghalt Phil Campbell, a Motörhead gitárosa"
+    },
+    "desc": {
+      "kor": "유명 록밴드 모터헤드의 기타리스트 필 캠벨이 수술 후 합병증으로 세상을 떠났습니다.",
+      "eng": "Phil Campbell, the guitarist of the famous rock band Motörhead, passed away due to complications after surgery.",
+      "hu": "Elhunyt Phil Campbell, a híres rockbanda, a Motörhead gitárosa műtét utáni szövődmények miatt."
+    },
+    "article": {
+      "kor": "영국의 유명 록밴드 '모터헤드'의 기타리스트로 활동했던 필 캠벨이 수술 후 발생한 합병증으로 사망했습니다. 향년 64세입니다. 런던의 한 법원에서 열린 검시 재판에 따르면, 그는 올해 초 병원에서 간 이식 수술과 장 수술을 받았다고 합니다.\n\n캠벨은 과거에 술을 많이 마셨지만 사망하기 전까지 7년 동안 금주를 유지했습니다. 또한 과거에 C형 간염을 앓았지만 치료를 마친 상태였습니다. 두 번째 간 이식 수술은 성공적이었지만, 이후 장 수술 과정에서 심각한 합병증이 발생했습니다.\n\n그는 중환자실로 옮겨졌으나 상태가 빠르게 악화되어 결국 지난 3월 13일에 숨졌습니다. 담당 검시관은 그의 죽음이 필수적인 수술 과정에서 발생한 피할 수 없는 합병증 때문이라고 밝혔습니다.\n\n캠벨은 1984년부터 2015년 밴드가 해체될 때까지 모터헤드에서 활동하며 큰 사랑을 받았습니다. 밴드 해체 이후에도 그는 자신의 아들들과 함께 음악 활동과 공연을 이어가며 팬들과 소통했습니다.",
+      "eng": "Phil Campbell, who worked as the guitarist for the famous British rock band Motörhead, has died from complications following surgery at the age of 64. According to an inquest held in a London court, he underwent liver and bowel surgeries at a hospital earlier this year.\n\nCampbell had previously consumed excessive alcohol but had been sober for seven years before his death. He had also suffered from Hepatitis C, but it had been treated. Although the second liver transplant was successful, further complications arose during subsequent bowel surgery.\n\nHe was moved to intensive care, but his condition deteriorated rapidly, leading to his death on March 13. The coroner stated that his death resulted from recognized complications during necessary surgical procedures.\n\nCampbell was deeply loved while playing for Motörhead from 1984 until the band disbanded in 2015. Even after the band's disbandment, he continued his musical career and toured with his sons, staying connected with fans.",
+      "hu": "Phil Campbell, a híres brit rockbanda, a Motörhead gitárosa 64 éves korában elhunyt műtét utáni szövődmények következtében. Egy londoni bíróságon tartott vizsgálat szerint az év elején máj- és bélemelési műtéteken esett át egy kórházban.\n\nCampbell korábban túlzott mértékben fogyasztott alkoholt, de a halála előtt már hét éve józan életet élt. C-hepatitisszel is küzdött, de azt sikerült kezelni. Bár a második májátültetés sikeres volt, a későbbi bélműtét során komoly szövődmények léptek fel.\n\nÁtszállították az intenzív osztályra, de állapota gyorsan romlott, és március 13-án elhunyt. A halottkém kijelentette, hogy a halál a szükséges sebészeti beavatkozások elkerülhetetlen szövődményei miatt következett be.\n\nCampbellt mélyen szerették, amíg 1984-től a banda 2015-ös feloszlásáig a Motörheadben játszott. A zenekar feloszlása után is folytatta zenei karrierjét és turnézott a fiaival."
+    },
+    "vocab": [
+      {
+        "word": "합병증",
+        "meaning_en": "complication",
+        "meaning_hu": ""
+      },
+      {
+        "word": "간 이식",
+        "meaning_en": "liver transplant",
+        "meaning_hu": "májátültetés"
+      },
+      {
+        "word": "금주",
+        "meaning_en": "abstinence from alcohol, sobriety",
+        "meaning_hu": "alkoholtilalom, józanság"
+      },
+      {
+        "word": "중환자실",
+        "meaning_en": "intensive care unit",
+        "meaning_hu": "intenzív osztály"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "필 캠벨은 어떤 밴드에서 활동했나요?",
+        "eng": "What band did Phil Campbell play in?",
+        "hu": "Melyik zenekarban játszott Phil Campbell?"
+      },
+      {
+        "kor": "당신은 건강 관리를 위해 평소에 어떤 노력을 하나요?",
+        "eng": "What do you usually do to take care of your health?",
+        "hu": "Mit szokott tenni az egészsége megőrzése érdekében?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-21",
+    "category": "Culture & Arts",
+    "date": "2026.10.03",
+    "level": "Advanced",
+    "levelNum": 7,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq4grggz2en4o?at_medium=RSS&at_campaign=rss"
+    },
+    "title": {
+      "kor": "오아시스 어쿠스틱 기타, 경매에서 최고가 기록 경신",
+      "eng": "Oasis acoustic guitar sells for record price",
+      "hu": "Rekordáron kelt el az Oasis akusztikus gitárja"
+    },
+    "desc": {
+      "kor": "노엘 갤러리의 기타와 퀸의 유품들이 대규모 경매에서 높은 가격에 낙찰되었습니다.",
+      "eng": "Noel Gallagher's guitar and items belonging to Queen sold for high prices at a major auction.",
+      "hu": "Noel Gallagher gitárja és a Queen relikviái magas áron keltek el egy nagyszabású árverésen."
+    },
+    "article": {
+      "kor": "영국 록밴드 오아시스의 멤버 노엘 갤러리가 1996년 MTV 어플러그드 공연에서 연주하고 서명한 어쿠스틱 기타가 경매에서 22만 6,800파운드에 낙찰되며 세계 기록을 세웠습니다. 경매 회사인 롭스토어는 이번 낙찰가가 오아시스 어쿠스틱 기타 경매 사상 최고가라고 밝혔습니다.\n\n또한 이번 경매에서는 퀸의 프런트맨 프레디 머큐리가 곡을 쓸 때 사용했던 야마하 그랜드 피아노와 그의 자필 가사가 담긴 공책이 출품되었습니다. 프레디 머큐리의 자필 공책은 27만 7,200파운드에 팔리며 첫날 가장 높은 판매액을 기록한 물품이 되었습니다. 반면 그가 사용했던 피아노는 예상가에 못 미치는 8만 1,900파운드에 낙찰되었습니다.\n\n이번 음악 경매 행사에서는 희귀 악기와 자필 가사뿐만 아니라 마이클 잭슨의 무대 의상 등 다양한 기념품들이 함께 거래되었습니다. 마이클 잭슨이 착용했던 금색과 검은색의 군복 스타일 재킷도 기타와 같은 금액인 22만 6,800파운드에 판매되었습니다.\n\n경매 관계자는 이번 결과가 팬들과 수집가들이 아티스트 및 그들의 음악과 맺고 있는 지속적인 유대감을 보여주는 증거라고 평가했습니다. 하루 동안 진행된 이번 경매의 총 낙찰액은 약 250만 파운드에 달했습니다.",
+      "eng": "An acoustic guitar played and signed by Noel Gallagher during Oasis's 1996 MTV Unplugged performance sold at auction for £226,800, setting a world record. Propstore stated that this was the highest price ever achieved at auction for an Oasis acoustic guitar. \n\nAdditionally, the auction featured a Yamaha grand piano used by Queen frontman Freddie Mercury for composition and a notebook containing his handwritten lyrics. Mercury's notebook sold for £277,200, becoming the highest-selling lot of the first day, while his piano sold for £81,900, falling short of expectations. \n\nThroughout the music live auction, various memorabilia including rare instruments, handwritten lyrics, and stage outfits from Michael Jackson were traded. A black and gold military-style jacket worn by Jackson also fetched £226,800, matching the guitar's price. \n\nAuction representatives evaluated that these results demonstrate the lasting connection fans and collectors maintain with the artists and their music. The total sales for all items over the single day reached approximately £2.5 million.",
+      "hu": "Rekordot döntött az az akusztikus gitár, amelyen Noel Gallagher játszott az Oasis 1996-os MTV Unplugged fellépésén, és amelyet alá is írt: 226 800 fontért kelt el egy árverésen. A Propstore aukciós ház tájékoztatása szerint ez a legmagasabb ár, amelyet valaha Oasis akusztikus gitárért fizettek árverésen.\n\nEmellett árverésre bocsátották Freddie Mercury, a Queen frontemberének Yamaha zongoráját, valamint a kézírásos dalszövegeit tartalmazó füzetét is. Mercury füzete 277 200 fontos áron kelt el, így az első nap legdrágább tétele lett, míg a zongora 81 900 fontért talált gazdára, elmaradva a várakozásoktól.\n\nA zenei árverésen ritka hangszerek, kézírásos dalszövegek és színpadi relikviák, köztük Michael Jackson emléktárgyai is gazdát cseréltek. Jackson fekete-arany katonai stílusú dzsekije szintén 226 800 fontért kelt el.\n\nAz aukciós szakemberek szerint az eredmények azt bizonyítják, hogy a rajongók és gyűjtők milyen méltányolással tekintenek az előadókhoz kapcsolódó tárgyakra. Az egynapos árverésen eladott tételek összértéke elérte a 2,5 millió fontot."
+    },
+    "vocab": [
+      {
+        "word": "어쿠스틱 기타",
+        "meaning_en": "acoustic guitar",
+        "meaning_hu": "akusztikus gitár"
+      },
+      {
+        "word": "낙찰되다",
+        "meaning_en": "to be successfully bid on / sold at auction",
+        "meaning_hu": "elkél / elkel árverésen"
+      },
+      {
+        "word": "기념품",
+        "meaning_en": "souvenir / memorabilia",
+        "meaning_hu": "emléktárgy / relikvia"
+      },
+      {
+        "word": "유대감",
+        "meaning_en": "bond / connection",
+        "meaning_hu": "kötődés / kapcsolat"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "유명 아티스트의 개인 소장품이나 악기가 높은 가격에 팔리는 이유가 무엇이라고 생각하시나요?",
+        "eng": "What do you think is the reason why personal belongings and instruments of famous artists sell for such high prices?",
+        "hu": "Ön szerint mi az oka annak, hogy a híres művészek személyes tárgyai és hangszerei ilyen magas áron kelnek el?"
+      },
+      {
+        "kor": "당신이 만약 좋아하는 음악가의 유품을 살 수 있다면 어떤 물건을 갖고 싶나요?",
+        "eng": "If you could buy a piece of memorabilia from your favorite musician, what kind of item would you want?",
+        "hu": "Ha vásárolhatna egy relikviát a kedvenc zenészétől, milyen tárgyat szeretne?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-22",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.03",
+    "level": "Beginner",
+    "levelNum": 1,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/food/2026/oct/02/have-your-cake-and-drink-it-cocktail-recipe-pale-hall-bala"
+    },
+    "title": {
+      "kor": "가을에 잘 어울리는 칵테일 레시피",
+      "eng": "A Cocktail Recipe Well Suited for Autumn",
+      "hu": "Egy őszre illő koktélrecept"
+    },
+    "desc": {
+      "kor": "가을에 마시기 좋은 맛있는 칵테일 만드는 법을 소개합니다.",
+      "eng": "Introducing how to make a delicious cocktail good to drink in autumn.",
+      "hu": "Bemutatjuk, hogyan készíthetünk finom koktélt az őszre."
+    },
+    "article": {
+      "kor": "가을이 오면 따뜻하고 편안한 음료가 생각납니다.\n\n이 칵테일은 보드카와 레몬, 당근 주스로 만듭니다.\n\n시원하게 흔들어서 당근 케이크와 함께 마시면 좋습니다.",
+      "eng": "When autumn comes, we think of warm and comforting drinks.\n\nThis cocktail is made with vodka, lemon, and carrot juice.\n\nIt is good to shake it well and drink it with carrot cake.",
+      "hu": "Amikor eljön az ősz, a meleg és kényeztető italok jutnak eszünkbe.\n\nEz a koktél vodkával, citrommal és sárgarépalével készül.\n\nJó jól összerázni és sárgarépatortával együtt fogyasztani."
+    },
+    "vocab": [
+      {
+        "word": "가을",
+        "meaning_en": "autumn, fall",
+        "meaning_hu": "ősz"
+      },
+      {
+        "word": "음료",
+        "meaning_en": "drink, beverage",
+        "meaning_hu": "ital"
+      },
+      {
+        "word": "케이크",
+        "meaning_en": "cake",
+        "meaning_hu": "torta"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "가을에 어떤 음료를 마시고 싶나요?",
+        "eng": "What kind of drink do you want to drink in autumn?",
+        "hu": "Milyen italt szeretne inni ősszel?"
+      },
+      {
+        "kor": "당근 케이크를 좋아합니까?",
+        "eng": "Do you like carrot cake?",
+        "hu": "Szereti a sárgarépatortát?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-23",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.03",
+    "level": "Beginner",
+    "levelNum": 2,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/food/2026/oct/02/flourless-walnut-date-espresso-cake-helen-goh-recipe"
+    },
+    "title": {
+      "kor": "밀가루가 없는 호두 대추 에스프레소 케이크",
+      "eng": "Flourless Walnut, Date and Espresso Cake",
+      "hu": "Lisztmentes dió, datnya és eszpresszó torta"
+    },
+    "desc": {
+      "kor": "밀가루를 넣지 않고 호두, 대추, 에스프레소로 만드는 맛있는 케이크 레시피를 소개합니다.",
+      "eng": "A delicious recipe for a flourless cake made with walnuts, dates, and espresso.",
+      "hu": "Egy finom recept dióból, datolyából és eszpresszóból készült lisztmentes tortához."
+    },
+    "article": {
+      "kor": "이 케이크는 밀가루를 넣지 않고 만듭니다. 하지만 호두와 초콜릿이 들어가서 맛이 아주 진하고 좋습니다.\n\n대추는 달콤한 맛을 내고, 에스프레소는 너무 달지 않게 도와줍니다. 케이크를 만들 때 신선한 호두를 사용하는 것이 중요합니다.\n\n버터와 초콜릿을 녹인 후 달걀과 설탕을 섞습니다. 마지막으로 반죽을 오븐에 넣고 한 시간 정도 굽습니다.",
+      "eng": "This cake is made without flour. However, it contains walnuts and chocolate, so the taste is very rich and good.\n\nDates add a sweet flavor, and espresso helps prevent it from being too sweet. It is important to use fresh walnuts when making the cake.\n\nAfter melting butter and chocolate, mix them with eggs and sugar. Finally, put the batter in the oven and bake for about an hour.",
+      "hu": "Ez a torta liszt nélkül készül. Azonban diót és csokoládét tartalmaz, így az íze nagyon gazdag és jó.\n\nA datolyák édes ízt adnak, az eszpresszó pedig segít, hogy ne legyen túl édes. Fontos, hogy friss diót használjunk a torta készítésekor.\n\nA vaj és a csokoládé megolvasztása után keverjük össze tojással és cukorral. Végül tegyük a tésztát a sütőbe, és süssük körülbelül egy órán át."
+    },
+    "vocab": [
+      {
+        "word": "밀가루",
+        "meaning_en": "flour",
+        "meaning_hu": "liszt"
+      },
+      {
+        "word": "호두",
+        "meaning_en": "walnut",
+        "meaning_hu": "dió"
+      },
+      {
+        "word": "대추",
+        "meaning_en": "date",
+        "meaning_hu": "datolya"
+      },
+      {
+        "word": "초콜릿",
+        "meaning_en": "chocolate",
+        "meaning_hu": "csokoládé"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "이 케이크에는 어떤 재료가 들어가나요?",
+        "eng": "What ingredients go into this cake?",
+        "hu": "Milyen hozzávalók kerülnek ebbe a tortába?"
+      },
+      {
+        "kor": "집에서 직접 케이크를 만들어 본 적이 있나요?",
+        "eng": "Have you ever made a cake at home by yourself?",
+        "hu": "Sütöttél már valaha otthon tortát egyedül?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-24",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.03",
+    "level": "Elementary",
+    "levelNum": 3,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/food/2026/oct/02/autumn-cocktails-recipes-vodka-martini-garibaldi-shrub-campari"
+    },
+    "title": {
+      "kor": "가을에 잘 어울리는 맛있는 칵테일 레시피",
+      "eng": "Delicious Autumn Cocktail Recipes",
+      "hu": "Finom őszi koktélrecept"
+    },
+    "desc": {
+      "kor": "가을 계절에 어울리는 집에서 만들기 쉬운 특별한 칵테일 음료를 소개합니다.",
+      "eng": "Introducing special and easy-to-make cocktails for the autumn season.",
+      "hu": "Bemutatjuk a különleges és könnyen elkészíthető őszi koktélokat."
+    },
+    "article": {
+      "kor": "날씨가 쌀쌀해지는 가을에는 집에서 따뜻하고 맛있는 음료를 마시는 재미가 있습니다. 신선한 과일과 향신료를 사용하면 집에서도 카페처럼 멋진 칵테일을 만들 수 있습니다.\n\n블랙베리와 생강을 넣은 시럽으로 만드는 무알콜 음료는 상쾌한 맛을 줍니다. 또한 차가운 보드카와 스파클링 와인을 섞은 음료는 저녁 시간에 마시기 아주 좋습니다. 이번 주말에는 집에서 직접 시원하고 달콤한 가을 칵테일을 만들어 보세요.",
+      "eng": "As the weather gets chilly in autumn, it is fun to drink warm and delicious beverages at home. By using fresh fruits and spices, you can make wonderful cocktails at home just like a cafe. The non-alcoholic drink made with blackberry and ginger syrup gives a refreshing taste. Also, the drink mixed with cold vodka and sparkling wine is great to drink in the evening. This weekend, try making a cool and sweet autumn cocktail at home.",
+      "hu": "Ahogy ősszel hűvösre fordul az idő, jó élmény otthon meleg és finom italokat fogyasztani. Friss gyümölcsök és fűszerek használatával otthon is csodás koktélokat készíthet, akár egy kávézóban. A szeder- és gyömbérszirupból készült alkoholmentes ital frissítő ízű. Emellett a hideg vodkával és habzóborral kevert ital kiválóan alkalmas az esti órákra. Ezen a héten próbáljon meg otthon egy hűvös és édes őszi koktélt készíteni."
+    },
+    "vocab": [
+      {
+        "word": "가을",
+        "meaning_en": "autumn",
+        "meaning_hu": "ősz"
+      },
+      {
+        "word": "음료",
+        "meaning_en": "beverage / drink",
+        "meaning_hu": "ital"
+      },
+      {
+        "word": "과일",
+        "meaning_en": "fruit",
+        "meaning_hu": "gyümölcs"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분은 어떤 계절 음료를 가장 좋아합니까?",
+        "eng": "What kind of seasonal drink do you like the most?",
+        "hu": "Milyen szezonális italt kedvel a legjobban?"
+      },
+      {
+        "kor": "집에서 직접 음료나 칵테일을 만들어 본 적이 있습니까?",
+        "eng": "Have you ever made a drink or cocktail at home yourself?",
+        "hu": "Készített már magának italt vagy koktélt otthon?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-25",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 4,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/food/2026/sep/29/angel-delight-croissants-the-autumn-food-trends-hotlist"
+    },
+    "title": {
+      "kor": "올가을 영국의 새로운 음식 유행",
+      "eng": "The autumn food trends hotlist in the UK",
+      "hu": "Az őszi élelmiszer-trendek listája az Egyesült Királystágban"
+    },
+    "desc": {
+      "kor": "올가을 영국에서 주목받고 있는 다양한 음식과 식재료 유행을 소개합니다.",
+      "eng": "Introducing the various food and ingredient trends drawing attention in the UK this autumn.",
+      "hu": "Bemutatjuk azokat a különböző étel- és alapanyag-trendeket, amelyek idén ősszen felkeltették a figyelmet az Egyesült Királyságban."
+    },
+    "article": {
+      "kor": "올가을 영국의 음식 문화에서 여러 가지 새로운 유행이 나타나고 있습니다. 먼저 달콤한 디저트 종류에서는 딸기 크루아상 같은 독특한 메뉴가 인기를 끌고 있습니다. 또한, 요리에 쓴맛을 더해주는 재료나 독특한 향신료를 사용하는 사람들이 많아졌습니다.\n\n식당들은 손으로 만든 예쁜 그릇에 음식을 담아주는 형태로 변화하고 있습니다. 그리고 요리에 특별한 소스나 식초를 곁들여 색다른 맛을 내는 것도 주목을 받고 있습니다. 반면에 너무 납작하게 누른 음식들은 이제 인기가 줄어들고 있습니다.",
+      "eng": "Various new trends are appearing in the UK's food culture this autumn. First, unique menu items like strawberry croissants are gaining popularity in sweet desserts. Also, many people are using ingredients that add bitterness or unique spices to their cooking.\n\nRestaurants are changing to serve food in pretty, handmade dishes. Additionally, adding special sauces or vinegars to dishes for unique flavors is also gaining attention. On the other hand, food that is pressed too flat is losing popularity now.",
+      "hu": "Az Egyesült Királyság élelmiszer-kultúrájában számos új trend jelenik meg idén ősszen. Először is, az édes desszertek kategóriájában az olyan egyedi menük, mint az eper croissant, népszerűségnek örvendenek. Ezenkívül sokan használnak olyan alapanyagokat, amelyek keserűséget vagy egyedi fűszereket adnak az ételekhez.\n\nAz éttermek átállnak arra, hogy az ételeket szép, kézzel készített edényekben tálalják. Emellett a különleges szószok vagy ecetek hozzáadása az ételekhez egyedi ízek elérése érdekében szintén figyelmet kap. Másrészt az a étel, amelyet túl laposra nyomnak, mostanra veszíti a népszerűségét."
+    },
+    "vocab": [
+      {
+        "word": "유행",
+        "meaning_en": "trend, fashion",
+        "meaning_hu": "trend, divat"
+      },
+      {
+        "word": "인기",
+        "meaning_en": "popularity",
+        "meaning_hu": "népszerűség"
+      },
+      {
+        "word": "재료",
+        "meaning_en": "ingredient",
+        "meaning_hu": "alapanyag, hozzávaló"
+      },
+      {
+        "word": "독특하다",
+        "meaning_en": "to be unique",
+        "meaning_hu": "egyedi"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분은 어떤 새로운 음식 유행을 가장 좋아합니까?",
+        "eng": "Which new food trend do you like the most?",
+        "hu": "Melyik új ételtrendet szereti a legjobban?"
+      },
+      {
+        "kor": "최근에 본 흥미로운 음식 유행이 있습니까?",
+        "eng": "Is there any interesting food trend you have seen recently?",
+        "hu": "Van-e olyan érdekes élelmiszer-trend, amelyet a közelmúltban látott?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-26",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 5,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/travel/2024/feb/29/family-road-trip-jamaica-blue-mountains-kingston"
+    },
+    "title": {
+      "kor": "아버지와 함께한 자메이카 여행, 그리고 아이들과의 추억",
+      "eng": "A Jamaica Road Trip With My Father and My Kids",
+      "hu": "Jamaikai utazás az édesapámmal és a gyerekeimmel"
+    },
+    "desc": {
+      "kor": "어릴 적 아버지를 따라 자메이카를 여행했던 글쓴이가, 세상을 떠난 아버지를 기리며 자신의 아이들과 함께 다시 자메이카를 여행한다.",
+      "eng": "A writer takes a road trip in Jamaica with her children to remember her late father, retracing the journeys they once shared.",
+      "hu": "Egy író gyermekeivel egy jamaikai autóútra indul, hogy emlékezzen elhunyt édesapjára."
+    },
+    "article": {
+      "kor": "글쓴이는 1980년대 후반에 아버지가 운전하는 차를 타고 자메이카의 아름다운 풍경 속을 달렸다. 당시에는 아버지와 오랜만에 만났지만, 어린 시절 자신을 떠났던 아버지에게 화가 나서 주변 경치를 제대로 즐기지 못했다. 하지만 그 여행을 시작으로 아버지와 깊은 추억을 쌓았고, 아버지가 자연을 아끼며 살았던 블루마운틴의 기억을 간직하게 되었다.\n\n세상을 떠난 아버지와의 마지막 여행 이후 20년이 지난 지금, 글쓴이는 남편과 아이들과 함께 다시 자메이카를 찾았다. 가족들은 아버지가 산소와 유해를 뿌린 바다에서 출발해 블루마운틴까지 자동차 여행을 이어갔다. 아이들에게는 할아버지와의 유일한 연결고리인 자메이카에서 가족의 뿌리를 찾고 친척들과 만나는 소중한 시간을 보냈다.\n\n이들은 킹스턴을 거쳐 아버지가 살았던 산골 마을인 메이비스뱅크에 도착했다. 아버지가 직접 지었던 집과 자연 친화적인 정원을 방문하며 돌아간 아버지를 추억했다. 이번 여행을 통해 아이들은 엄마의 고향이자 할아버지의 삶이 담긴 자메이카의 진짜 모습을 자연스럽게 배우게 되었다.",
+      "eng": "In the late 1980s, the author traveled through Jamaica in a car driven by her father. At the time, she was upset with him for being absent during her childhood, so she could not fully enjoy the scenery. However, those trips helped her bond with him and appreciate the Blue Mountains where he lived.\n\nTwenty years after her father's passing, the author returned to Jamaica with her husband and children. They took a road trip from the sea where his ashes were scattered up to the Blue Mountains. This journey gave her children a tangible connection to their grandfather and their Jamaican heritage.\n\nPassing through Kingston, they arrived at Mavis Bank, the mountain village where her father once lived. They visited the house he built and his garden, remembering his eco-friendly life. Through this trip, her children learned to appreciate the real Jamaica that their grandfather loved.",
+      "hu": "Az 1980-as évek végén a szerző édesapja autójában utazott Jamaikában. Akkoriban haragudott az apjára a gyermekkori hiányzásai miatt, így nem tudta élvezni a tájat. Ezek az utazások azonban segítettek nekik közelebb kerülni egymáshoz.\n\nHúsz évvel az édesapa halála után a szerző a férjével és gyermekeivel visszatért Jamaikába. Autós utat tettek a tengertől, ahol a hamvait szórták szét, egészen a Kék-hegységig. Ez az utút kézzelfogható kapcsolatot teremtett a gyermekek és a jamaikai gyökereik között.\n\nKingstonon áthaladva megérkeztek Mavis Bankba, a hegyi faluhoz, ahol az édesapja élt. Meglátogatták az általa épített házat és a kertjét, emlékezve rá. Ezen az utazáson keresztül a gyermekek megtanulták megismerni a valódi Jamaikát."
+    },
+    "vocab": [
+      {
+        "word": "추억",
+        "meaning_en": "memory",
+        "meaning_hu": "emlék"
+      },
+      {
+        "word": "풍경",
+        "meaning_en": "scenery, landscape",
+        "meaning_hu": "táj, látkép"
+      },
+      {
+        "word": "뿌리",
+        "meaning_en": "root",
+        "meaning_hu": "gyökér"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "당신은 부모님이나 가족과 함께 특별한 여행을 떠난 기억이 있습니까?",
+        "eng": "Do you have any memories of taking a special trip with your parents or family?",
+        "hu": "Van-e olyan emléke, amikor egy különleges utazást tett a szüleivel vagy a családjával?"
+      },
+      {
+        "kor": "부모님이나 조부모님이 살았던 고향을 방문해 본 적이 있습니까?",
+        "eng": "Have you ever visited the hometown where your parents or grandparents lived?",
+        "hu": "Járt-e már abban a szülőfaluban vagy városban, ahol a szülei vagy nagyszülei éltek?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-27",
+    "category": "Travel & Lifestyle",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 6,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "the Guardian",
+      "url": "https://www.theguardian.com/food/2026/sep/06/kintsu-colchester-essex-restaurant-review-grace-dent"
+    },
+    "title": {
+      "kor": "영국 콜체스터의 특별한 레스토랑, 킨츠(Kintsu)",
+      "eng": "Kintsu, Colchester, Essex: A Restaurant Review",
+      "hu": "Kintsu, Colchester, Essex: Egy étterem értékelése"
+    },
+    "desc": {
+      "kor": "재정적 어려움을 극복하고 다시 문을 연 영국의 독창적인 레스토랑 킨츠의 코스 요리 후기입니다.",
+      "eng": "A review of Kintsu, a remarkable restaurant in Colchester that reopened after facing financial challenges.",
+      "hu": "Egy beszámoló a Kintsuról, a colchesteri étteremről, amely pénzügyi nehézségek után újra kinyitott."
+    },
+    "article": {
+      "kor": "영국에서 가장 오래된 도시인 콜체스터에 위치한 레스토랑 '킨츠(Kintsu)'는 멋진 요리를 선보이는 곳입니다. 이 레스토랑의 이름은 깨진 도자기의 틈을 금으로 메우는 일본의 전통예술 '킨츠기'에서 영감을 받았습니다. 실패와 어려움을 극복하고 더 아름다운 것을 만든다는 의미처럼, 킨츠는 재정적인 문제로 문을 닫았다가 네 달 만에 다시 문을 열었습니다.\n\n현재 이 레스토랑은 역사적인 건물에서 독창적인 코스 요리를 제공하고 있습니다. 손님들은 따뜻한 치즈 타르트와 신선한 빵, 그리고 정성스럽게 만든 다양한 전채 요리를 맛볼 수 있습니다. 특히 실크처럼 부드러운 치즈 위에 올린 토마토 요리와 바삭한 껍질의 생선 요리는 훌륭한 맛을 자랑합니다.\n\n메인 요리인 양고기와 돼지고기 역시 훌륭한 조화와 깊은 맛을 보여줍니다. 식사의 마지막에는 상큼한 디저트와 직접 만든 무화과 잎 퍼지가 제공됩니다. 음식점의 위치나 주변 환경이 완벽하지는 않지만, 요리에 대한 셰프의 열정과 뛰어난 맛은 손님들에게 큰 감동을 줍니다.",
+      "eng": "Kintsu, located in Britain's oldest recorded city of Colchester, is a restaurant known for its thoughtful and clever cooking. The name Kintsu plays on 'kintsugi', the Japanese art of repairing pottery with gold, embracing imperfection to create something better out of bad luck. After briefly shutting down due to financial pressures, the chef managed to reopen just four months later.\n\nThe restaurant now offers an impressive tasting menu in a historic building. Customers can enjoy a variety of dishes, from warm cheese tarts to freshly baked sourdough bread and meticulously prepared starters. Highlights include perfectly cooked fish with crisp skin and tomatoes served on whipped cheese.\n\nThe main courses, featuring lamb and pork, offer rich flavors and careful preparation. The meal concludes with a refreshing pre-pudding, inventive cherry desserts, and homemade fig-leaf fudge. While the surrounding location is modest, the chef's dedication and the exceptional quality of the food make it a dining experience worth supporting.",
+      "hu": "A brit történelem legrégebbi városában, Colchesterben található Kintsu egy figyelemre méltó étterem. A név a 'kintsugi' japán művészetére utal, amely a cserép arannyal való javítását és a tökéletlenségek elfogadását jelenti. Pénzügyi nehézségek miatti rövid bezárás után a séfnek sikerült mindössze négy hónap múlva újra megnyitnia az éttermet.\n\nAz étterem ma lenyűgöző kóstolómenüt kínál egy történelmi épületben. A vendégek számos ételt élvezhetnek, a meleg sajtos tartlettől kezdve a friss kovászos kenyéren át az aprólékosan elkészített előételekig. Különösen kiemelkedő a ropogós bőrű hal és a sajttal tálalt paradicsom.\n\nA főételek, mint a bárány és a sertés, gazdag ízeket és gondos elkészítést mutatnak be. Az étkezést frissítő desszertek és házi készítésű fügeleveles fudge zárja. Bár a környezet egyszerű, a séf elhivatottsága és az ételek kiváló minősége miatt mindenképpen érdemes ellátogatni ide."
+    },
+    "vocab": [
+      {
+        "word": "도전하다",
+        "meaning_en": "to challenge",
+        "meaning_hu": "kihívni / megpróbálni"
+      },
+      {
+        "word": "극복하다",
+        "meaning_en": "to overcome",
+        "meaning_hu": "leküzdeni"
+      },
+      {
+        "word": "독창적이다",
+        "meaning_en": "to be original, creative",
+        "meaning_hu": "eredeti / kreatív"
+      },
+      {
+        "word": "정성스럽다",
+        "meaning_en": "to be sincere, devoted",
+        "meaning_hu": "gondos / odafigyelő"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "당신은 어려움을 극복하고 다시 도전한 경험이 있습니까?",
+        "eng": "Have you ever experienced overcoming a difficulty and trying again?",
+        "hu": "Volt már olyan tapasztalata, hogy leküzdött egy nehézséget és újra próbálta?"
+      },
+      {
+        "kor": "레스토랑을 고를 때 가장 중요하게 생각하는 것은 무엇입니까?",
+        "eng": "What do you consider most important when choosing a restaurant?",
+        "hu": "Mit tart a legfontosabbnak, amikor éttermet választ?"
+      }
+    ]
   }
 ]
