@@ -4490,5 +4490,129 @@
         "hu": "Mit tart a legfontosabbnak, amikor éttermet választ?"
       }
     ]
+  },
+  {
+    "id": "news-20261003-28",
+    "category": "Travel & Experiences",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 5,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "전자신문",
+      "url": "https://www.etnews.com/20261002000192"
+    },
+    "title": {
+      "kor": "클룩과 한국관광공사, 외국인 지역 여행 돕는 통합 패스 출시",
+      "eng": "Klook and Korea Tourism Organization Launch Integrated Pass for Foreign Travelers",
+      "hu": "A Klook és a Koreai Turisztikai Hivatal integrált bérletet vezet be a külföldi utazók számára"
+    },
+    "desc": {
+      "kor": "외국인 관광객이 서울을 넘어 지방으로 쉽게 여행할 수 있도록 교통과 관광 혜택을 묶은 K-투어 패스가 나왔다.",
+      "eng": "A new K-tour pass combines transportation and tourism benefits to help foreign visitors travel easily beyond Seoul.",
+      "hu": "Egy új K-tour bérlet egyesíti a közlekedési és turisztikai kedvezményeket, hogy segítse a külföldi látogatókat Szöulon túl is utazni."
+    },
+    "article": {
+      "kor": "최근 방한 외국인 관광객들의 여행지가 서울을 넘어 부산, 경주, 강릉 등 지역으로 넓어지고 있다. 하지만 외국인 관광객이 서울에서 지방으로 이동할 때는 교통편과 관광 상품을 따로 예약해야 하는 불편함이 있었다. 이러한 문제를 해결하기 위해 한국관광공사와 글로벌 여행 플랫폼 클룩이 손을 잡고 외국인 전용 'K-투어 패스'를 선보였다.\n\nK-투어 패스는 공항철도, 철도, 고속버스 등 교통수단과 현지 관광 혜택을 하나로 연결한 상품이다. 이용자는 이 패스를 통해 부산 등 지역의 유료 관광지를 방문하거나 다양한 제휴처에서 할인 혜택을 받을 수 있다. 또한 실물 카드를 선택하면 지하철과 시내버스 같은 대중교통도 편리하게 이용할 수 있다.\n\n실제로 최근 클룩의 통계를 보면 서울 외 지역을 찾는 외국인 관광객의 관심이 크게 증가했다. 한국관광공사와 클룩은 이번 부산 지역 시범 운영을 시작으로 향후 적용 지역과 서비스를 더 확대할 계획이다. 이를 통해 외국인 관광객들이 한국의 다양한 지역을 더욱 쉽고 편하게 방문할 수 있을 것으로 기대된다.",
+      "eng": "Recently, foreign tourists visiting Korea are expanding their travel destinations beyond Seoul to regions like Busan, Gyeongju, and Gangneung. However, foreign visitors had the inconvenience of having to book transportation and tourism products separately when moving from Seoul to local areas. To solve this problem, the Korea Tourism Organization and the global travel platform Klook have teamed up to introduce a dedicated 'K-Tour Pass' for foreigners.\n\nK-Tour Pass is a product that connects transportation means such as airport railroads, trains, and express buses with local tourism benefits. Users can visit paid tourist attractions in regions like Busan or receive discount benefits at various affiliated locations through this pass. In addition, if they choose a physical card, they can also conveniently use public transportation such as subways and city buses.\n\nIn fact, looking at recent statistics from Klook, the interest of foreign tourists visiting areas outside Seoul has significantly increased. Starting with this pilot operation in the Busan area, the Korea Tourism Organization and Klook plan to further expand the applicable regions and services in the future. Through this, it is expected that foreign tourists will be able to visit various regions of Korea more easily and comfortably.",
+      "hu": "A legújabb koreai látogató külföldi turisták úti céljai Szöulon túl olyan régiókra is kiterjednek, mint Puszan, Gjongdzsu és Kangnung. A külföldi látogatóknak azonban eddig kényelmetlenséget okozott, hogy külön kellett lefoglalniuk a közlekedést és a turisztikai termékeket Szöulból vidékre menet. Ennek a problémának a megoldására a Koreai Turisztikai Hivatal és a Klook globális utazási platform összefogott, hogy bemutassa a kifejezetten külföldieknek szóló 'K-Tour Pass' bérletet.\n\nA K-Tour Pass olyan termék, amely összeköti az olyan közlekedési eszközöket, mint a reptéri vasút, a vonatok és a távolsági buszok a helyi turisztikai előnyökkel. A felhasználók ezen a bérleten keresztül látogathatnak fizetős turisztikai látványosságokat olyan régiókban, mint Puszan, vagy kedvezményeket kaphatnak különböző partnerhelyeken. Emellett, ha a fizikai kártyát választják, kényelmesen használhatják a tömegközlekedést is, például a metrót és a városi buszokat.\n\nValójában a Klook legfrissebb statisztikáit nézve jelentősen nőtt a Szöulon kívüli területeket kereső külföldi turisták érdeklődése. A puszani kísérleti üzemeltetéssel kezdve a Koreai Turisztikai Hivatal és a Klook a jövőben tovább kívánja bővíteni az érintett régiókat és szolgáltatásokat. Ezáltal a külföldi turisták várhatóan még könnyebben és kényelmesebben látogathatják majd Korea különböző régióit."
+    },
+    "vocab": [
+      {
+        "word": "동선",
+        "meaning_en": "movement line / travel route",
+        "meaning_hu": "mozgási útvonal / utazási útvonal"
+      },
+      {
+        "word": "통합 패스",
+        "meaning_en": "integrated pass",
+        "meaning_hu": "integrált bérlet"
+      },
+      {
+        "word": "편의",
+        "meaning_en": "convenience",
+        "meaning_hu": "kényelem"
+      },
+      {
+        "word": "제휴처",
+        "meaning_en": "affiliated partner location",
+        "meaning_hu": "partnerhely / kapcsolódó helyszín"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "외국인 관광객들이 서울 외의 지역으로 여행할 때 어떤 불편함이 있었나요?",
+        "eng": "What inconveniences did foreign tourists face when traveling to areas outside Seoul?",
+        "hu": "Milyen kényelmetlenségekkel szembesültek a külföldi turisták, amikor a Szöulon kívüli területekre utaztak?"
+      },
+      {
+        "kor": "K-투어 패스가 외국인 관광객의 여행에 어떤 도움을 줄 수 있나요?",
+        "eng": "How can the K-Tour Pass help foreign tourists with their travel?",
+        "hu": "Hogyan segíthet a K-Tour Pass a külföldi turistáknak az utazásuk során?"
+      }
+    ]
+  },
+  {
+    "id": "news-20261003-29",
+    "category": "Travel & Experiences",
+    "date": "2026.10.03",
+    "level": "Intermediate",
+    "levelNum": 6,
+    "isNew": false,
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "source": {
+      "name": "v.daum.net",
+      "url": "https://v.daum.net/v/YK1aCT4qHo"
+    },
+    "title": {
+      "kor": "국민 투표로 뽑은 한국의 여행 명소 1위는?",
+      "eng": "What is the #1 travel spot in Korea chosen by citizens?",
+      "hu": "Mi az 1. számú utazási célpont Koreában, amit a polgárok választottak?"
+    },
+    "desc": {
+      "kor": "문화체육관광부와 한국관광공사가 국민 투표를 통해 6천여 곳의 여행 명소를 선정했습니다.",
+      "eng": "The Ministry of Culture, Sports and Tourism and the Korea Tourism Organization selected over 6,000 travel spots through a public vote.",
+      "hu": "A Kulturális, Sport- és Turisztikai Minisztérium, valamint a Koreai Turisztikai Szervezet nyilvános szavazással több mint 6000 utazási célpontot választott ki."
+    },
+    "article": {
+      "kor": "문화체육관광부와 한국관광공사는 최근 국민 투표를 통해 '대한민국 명소 발굴 100X100 프로젝트'의 결과로 총 6,336곳의 여행 명소를 선정했다고 밝혔다. 지난 6월 말부터 약 3주 동안 진행된 이번 투표에는 4만 명이 넘는 국민이 참여해 큰 관심을 보였다.\n\n이번 투표에서 가장 인기가 높았던 분야는 미식, 즉 음식과 관련된 여행 주제였다. 특히 대전의 유명 빵집이 단일 주제에서 가장 많은 표를 받으며 지역의 맛있는 음식을 즐기는 것이 중요한 여행 목적으로 자리 잡았음을 보여주었다. 그 뒤를 이어 국립중앙박물관과 경복궁 같은 역사와 문화 공간들도 상위권에 올랐다.\n\n여러 주제를 종합한 결과에서는 제주 성산일출봉이 1위를 차지했다. 성산일출봉은 일출과 일몰 명소 등 여러 부문에서 골고루 높은 점수를 받았다. 이 외에도 국립중앙박물관, 경복궁, 전주 한옥마을 등이 종합 상위 명소에 포함되었다.\n\n이번에 선정된 명소들은 '대한민국 구석구석' 누리집에서 확인할 수 있으며, 지도와 함께 주변 관광지 정보도 제공된다. 정부는 앞으로도 여행지의 조회 수를 반영해 순위를 주기적으로 갱신하고 시기별 맞춤형 여행지를 소개할 계획이다.",
+      "eng": "The Ministry of Culture, Sports and Tourism and the Korea Tourism Organization announced the selection of 6,336 travel spots through a public vote for the 'Korea Attractions Discovery Project'. Over 40,000 citizens participated in the voting held from late June for about three weeks, showing great interest.\n\nFood-related themes were the most popular in this vote. Notably, a famous bakery in Daejeon received the most votes in a single category, showing that enjoying local food has become an important purpose of travel. Historical and cultural spaces such as the National Museum of Korea and Gyeongbokgung Palace also ranked high.\n\nIn terms of comprehensive results combining multiple themes, Seongsan Ilchulbong in Jeju took first place. Seongsan Ilchulbong received consistently high scores in various categories such as sunrise and sunset spots. In addition, the National Museum of Korea, Gyeongbokgung Palace, and Jeonju Hanok Village were included in the top comprehensive attractions.\n\nThe selected attractions can be viewed on the 'Korea Every Corner' website, which provides maps and surrounding tourist information. The government plans to periodically update the rankings based on view counts and introduce seasonal customized travel destinations.",
+      "hu": "A Kulturális, Sport- és Turisztikai Minisztérium, valamint a Koreai Turisztikai Szervezet nyilvános szavazással 6336 utazási célpontot választott ki. A június végétől mintegy három hétig tartó szavazáson több mint 40 000 polgár vett részt.\n\nEzen a szavazáson az ételekkel kapcsolatos témák voltak a legnépszerűbbek. Különösen egy híres daejeoni pékség kapta a legtöbb szavazatot egyetlen kategóriában, ami azt mutatja, hogy a helyi ételek élvezete az utazás fontos céljává vált. A történelmi és kulturális helyszínek szintén előkelő helyen végeztek.\n\nAz összesített eredmények alapján a cshzsui Seongsan Ilchulbong foglalta el az első helyet. Emellett a Koreai Nemzeti Múzeum, a Gyeongbokgung palota és a Jeonju Hanok falu is szerepel a legjobb összesített látnivalók között.\n\nA kiválasztott látnivalók megtekinthetők a hivatalos weboldalon, amely térképeket és a közeli turisztikai információkat is biztosít. A kormány a jövőben is rendszeresen frissíti a rangsorokat."
+    },
+    "vocab": [
+      {
+        "word": "선정하다",
+        "meaning_en": "to select, to choose",
+        "meaning_hu": "kiválasztani"
+      },
+      {
+        "word": "미식",
+        "meaning_en": "gastronomy, gourmet food",
+        "meaning_hu": "gasztronómia"
+      },
+      {
+        "word": "종합",
+        "meaning_en": "synthesis, comprehensive",
+        "meaning_hu": "összesítés, átfogó"
+      },
+      {
+        "word": "갱신하다",
+        "meaning_en": "to renew, to update",
+        "meaning_hu": "megújítani, frissíteni"
+      }
+    ],
+    "questions": [
+      {
+        "kor": "여러분이 한국을 여행한다면 어떤 주제의 장소를 가고 싶나요?",
+        "eng": "If you travel to Korea, what kind of themed places would you like to visit?",
+        "hu": "Ha Koreába utazna, milyen témájú helyeket látogatna szívesen?"
+      },
+      {
+        "kor": "여행지 선택할 때 가장 중요하게 생각하는 것은 무엇인가요?",
+        "eng": "What do you consider most important when choosing a travel destination?",
+        "hu": "Mit tart a legfontosabbnak egy utazási célpont kiválasztásakor?"
+      }
+    ]
   }
 ]
